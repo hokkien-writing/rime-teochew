@@ -51,6 +51,6 @@ patch:
     - schema: teochew_puj # 添加潮語白話字
 ```
 
-##改進
+## 改進
 
 Nāⁿ-sĩ lṳ́ 有 Github 帳號，來做夥改進，讓伊用緊更加順手。
