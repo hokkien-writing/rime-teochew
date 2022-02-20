@@ -4,12 +4,12 @@
 
 schema:
   schema_id: teochew_puj
-  name: 潮語白話字
+  name: 潮州白話字
   version: "0.1"
   author:
     - Lim <lshare@outlook.com>
   description: |
-    潮語白話字輸入方案。
+    潮州白話字輸入方案。
 
 switches:
   - name: ascii_mode

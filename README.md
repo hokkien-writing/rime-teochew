@@ -36,7 +36,7 @@ git clone https://github.com/tsunhua/rime-teochew-poj.git
 schema_list:
   - schema: luna_pinyin
   # 省略其他常用 āi 輸入方案
-  - schema: teochew-poj # 添加潮語白話字
+  - schema: teochew-poj # 添加潮州白話字
 ```
 
 Nāⁿ-sĩ 無 `default.custom.yaml`  chí-kâi 文件，可照下底創建一個：
@@ -48,7 +48,7 @@ patch:
   schema_list:
     - schema: luna_pinyin
     # 省略其他常用 āi 輸入方案
-    - schema: teochew_puj # 添加潮語白話字
+    - schema: teochew_puj # 添加潮州白話字
 ```
 
 ## 改進
