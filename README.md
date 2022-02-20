@@ -21,22 +21,22 @@ Rime / Teochew PUJ 潮州白話字拍字
 電腦端可使用 [東風破](https://github.com/rime/plum) 安裝：
 
 ``` shell
-bash rime-install tsunhua/rime-teochew-poj
+bash rime-install tsunhua/rime-teochew-puj
 ```
 
 更通用 āi 方法是直接克隆倉庫，複製文件  `teochew_puj.dict.yaml` kah `teochew_puj.schema.yaml` 到用戶資料目錄下底。克隆倉庫命令：
 
 ```bash
-git clone https://github.com/tsunhua/rime-teochew-poj.git
+git clone https://github.com/tsunhua/rime-teochew-puj.git
 ```
 
-下載直了後，lṳ́ 再掠 `teochew-poj` 加入文件 `default.custom.yaml` 中 āi  `schema_list` 哩算安裝好了。照下底：
+下載直了後，lṳ́ 再掠 `teochew-puj` 加入文件 `default.custom.yaml` 中 āi  `schema_list` 哩算安裝好了。照下底：
 
 ``` yaml
 schema_list:
   - schema: luna_pinyin
   # 省略其他常用 āi 輸入方案
-  - schema: teochew-poj # 添加潮州白話字
+  - schema: teochew-puj # 添加潮州白話字
 ```
 
 Nāⁿ-sĩ 無 `default.custom.yaml`  chí-kâi 文件，可照下底創建一個：
