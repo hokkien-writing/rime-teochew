@@ -1,0 +1,59 @@
+# teochew_puj.schema.yaml
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: teochew_puj
+  name: 潮語白話字
+  version: "0.1"
+  author:
+    - Lim <lshare@outlook.com>
+  description: |
+    潮語白話字輸入方案。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ ASCII-OFF, ASCII-ON ]
+
+engine:
+  processors:
+    - speller
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - table_translator
+    # - r10n_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: aeimnourAEIMNOUghtpk12345678
+  initials: aeimnourAEIMNOUg
+  delimiter: " '"
+  auto_select: true
+  algebra:
+    - "derive/au/ao"
+    - "derive/ua/oa"
+    - "derive/ue/oe"
+    - "derive/iou/iau"
+    - "derive/iou/iau"
+    - "derive/ua(n|t)/ue$1"
+    - "derive/ie(n|t)/ia$1"
+    - "derive/ia(ng|k)/ie$1"
+    - "derive/ie(nn|h)/io$1"
+    - "derive/ie/io"
+
+translator:
+  dictionary: teochew_puj
+  # enable_sentence: true
+  # enable_encoder: true
+
+menu:
+  page_size: 8
+  alternative_select_keys: ABCDEFGH

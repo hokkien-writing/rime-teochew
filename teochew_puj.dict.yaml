@@ -1,0 +1,1261 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Teochew 潮州話
+#
+---
+name: teochew_puj
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+###	 ------- 單元音 -------
+
+##	a/ah
+a	a
+á	a2
+à	a3
+ah	ah
+ah	a4
+â	a5
+ã	a6
+ā	a7
+a̍h	ah8
+a̍h	a8
+
+A	A
+Á	A2
+À	A3
+Ah	Ah
+Ah	A4
+Â	A5
+Ã	A6
+Ā	A7
+A̍h	Ah8
+A̍h	A8
+
+##	aⁿ/ahⁿ
+aⁿ	ann
+áⁿ	ann2
+àⁿ	ann3
+# ahⁿ	ahnn
+# ahⁿ	ann4
+âⁿ	ann5
+ãⁿ	ann6
+āⁿ	ann7
+# a̍hⁿ	ahnn8
+# a̍hⁿ	ann8
+
+Aⁿ	Ann
+Áⁿ	Ann2
+Àⁿ	Ann3
+# Ahⁿ	Ahnn
+# Ahⁿ	Ann4
+Âⁿ	Ann5
+Ãⁿ	Ann6
+Āⁿ	Ann7
+# A̍hⁿ	Ahnn8
+# A̍hⁿ	Ann8
+
+##	am/ap
+am	am
+ám	am2
+àm	am3
+ap	ap
+ap	am4
+âm	am5
+ãm	am6
+ām	am7
+a̍p	ap8
+a̍p	am8
+
+Am	Am
+Ám	Am2
+Àm	Am3
+Ap	Ap
+Ap	Am4
+Âm	Am5
+Ãm	Am6
+Ām	Am7
+A̍p	Ap8
+A̍p	Am8
+
+##	an/at
+an	an
+án	an2
+àn	an3
+at	at
+at	an4
+ân	an5
+ãn	an6
+ān	an7
+a̍t	at8
+a̍t	an8
+
+An	An
+Án	An2
+Àn	An3
+At	At
+At	An4
+Ân	An5
+Ãn	An6
+Ān	An7
+A̍t	At8
+A̍t	An8
+
+##	ang/ak
+ang	ang
+áng	ang2
+àng	ang3
+ak	ak
+ak	ang4
+âng	ang5
+ãng	ang6
+āng	ang7
+a̍k	ak8
+a̍k	ang8
+
+Ang	Ang
+Áng	Ang2
+Àng	Ang3
+Ak	Ak
+Ak	Ang4
+Âng	Ang5
+Ãng	Ang6
+Āng	Ang7
+A̍k	Ak8
+A̍k	Ang8
+
+##	e/eh
+e	e
+é	e2
+è	e3
+eh	eh
+eh	e4
+ê	e5
+ẽ	e6
+ē	e7
+e̍h	eh8
+e̍h	e8
+
+E	E
+É	E2
+È	E3
+Eh	Eh
+Eh	E4
+Ê	E5
+Ẽ	E6
+Ē	E7
+E̍H	Eh8
+E̍h	E8
+
+##	eⁿ/ehⁿ
+eⁿ	enn
+éⁿ	enn2
+èⁿ	enn3
+# ehⁿ	ehnn
+# ehⁿ	enn4
+êⁿ	enn5
+ẽⁿ	enn6
+ēⁿ	enn7
+# e̍hⁿ	ehnn8
+# e̍hⁿ	enn8
+
+Eⁿ	Enn
+Éⁿ	Enn2
+Èⁿ	Enn3
+# Ehⁿ	Ehnn
+# Ehⁿ	Enn4
+Êⁿ	Enn5
+Ẽⁿ	Enn6
+Ēⁿ	Enn7
+# E̍hⁿ	Ehnn8
+# E̍hⁿ	Enn8
+
+##	eng/ek
+eng	eng
+éng	eng2
+èng	eng3
+ek	ek
+ek	eng4
+êng	eng5
+ẽng	eng6
+ēng	eng7
+e̍k	ek8
+e̍k	eng8
+
+Eng	Eng
+Éng	Eng2
+Èng	Eng3
+Ek	Ek
+Ek	Eng4
+Êng	Eng5
+Ẽng	Eng6
+Ēng	Eng7
+E̍k	Ek8
+E̍k	Eng8
+
+##	i/ih
+i	i
+í	i2
+ì	i3
+ih	ih
+ih	i4
+î	i5
+ĩ	i6
+ī	i7
+i̍h	ih8
+i̍h	i8
+
+I	I
+Í	I2
+Ì	I3
+Ih	Iu
+Ih	I4
+Î	I5
+Ĩ	I6
+Ī	I7
+I̍h	Ih8
+I̍h	I8
+
+##	iⁿ/ihⁿ
+iⁿ	inn
+íⁿ	inn2
+ìⁿ	inn3
+# ihⁿ	ihnn
+# ihⁿ	inn4
+îⁿ	inn5
+ĩⁿ	inn6
+īⁿ	inn7
+# i̍hⁿ	ihnn8
+# i̍hⁿ	inn8
+
+Iⁿ	Inn
+Íⁿ	Inn2
+Ìⁿ	Inn3
+# Ihⁿ	Ihnn
+# Ihⁿ	Inn4
+Îⁿ	Inn5
+Ĩⁿ	Inn6
+Īⁿ	Inn7
+# I̍hⁿ	Ihnn8
+# I̍hⁿ	Inn8
+
+##	im/ip
+im	im
+ím	im2
+ìm	im3
+ip	ip
+ip	im4
+îm	im5
+ĩm	im6
+īm	im7
+i̍p	ip8
+i̍p	im8
+
+Im	Im
+Ím	Im2
+Ìm	Im3
+Ip	Ip
+Ip	Im4
+Îm	Im5
+Ĩm	Im6
+Īm	Im7
+I̍p	Ip8
+I̍p	Im8
+
+##	in/it
+in	in
+ín	in2
+ìn	in3
+it	it
+it	in4
+în	in5
+ĩn	in6
+īn	in7
+i̍t	it8
+i̍t	in8
+
+In	In
+Ín	In2
+Ìn	In3
+It	It
+It	In4
+În	In5
+Ĩn	In6
+Īn	In7
+I̍t	It8
+I̍t	In8
+
+##	o/oh
+o	o1
+ó	o2
+ò	o3
+oh	oh
+oh	o4
+ô	o5
+õ	o6
+ō	o7
+o̍h	oh8
+o̍h	o8
+
+O	O1
+Ó	O2
+Ò	O3
+Oh	Oh
+Oh	O4
+Ô	O5
+Õ	O6
+Ō	O7
+O̍h	Oh8
+O̍h	O8
+
+##	oⁿ/ohⁿ
+oⁿ	onn1
+óⁿ	onn2
+òⁿ	onn3
+# ohⁿ	ohnn
+# ohⁿ	onn4
+ôⁿ	onn5
+õⁿ	onn6
+ōⁿ	onn7
+# o̍hⁿ	ohnn8
+# o̍hⁿ	onn8
+
+Oⁿ	Onn1
+Óⁿ	Onn2
+Òⁿ	Onn3
+# Ohⁿ	Ohnn
+# Ohⁿ	Onn4
+Ôⁿ	Onn5
+Õⁿ	Onn6
+Ōⁿ	Onn7
+# O̍hⁿ	Ohnn8
+# O̍hⁿ	Onn8
+
+##	ong/ok
+ong	ong1
+óng	ong2
+òng	ong3
+ok	ok
+ok	ong4
+ông	ong5
+õng	ong6
+ōng	ong7
+o̍k	ok8
+o̍k	ong8
+
+Ong	Ong1
+Óng	Ong2
+Òng	Ong3
+Ok	Ok
+Ok	Ong4
+Ông	Ong5
+Õng	Ong6
+Ōng	Ong7
+O̍k	Ok8
+O̍k	Ong8
+
+##	u/uh
+u	u
+ú	u2
+ù	u3
+uh	uh
+uh	u4
+û	u5
+ũ	u6
+ū	u7
+u̍h	uh8
+u̍h	u8
+
+U	U
+Ú	U2
+Ù	U3
+Uh	Uh
+Uh	U4
+Û	U5
+Ũ	U6
+Ū	U7
+U̍h	Uh8
+U̍h	U8
+
+##	un/ut
+un	un
+ún	un2
+ùn	un3
+ut	ut
+ut	un4
+ûn	un5
+ũn	un6
+ūn	un7
+u̍h	ut8
+u̍h	un8
+
+Un	Un
+Ún	Un2
+Ùn	Un3
+Ut	Ut
+Ut	Un4
+Ûn	Un5
+Ũn	Un6
+Ūn	Un7
+U̍h	Ut8
+U̍h	Un8
+
+##	ṳ/ṳh
+ṳ	ur
+ṳ́	ur2
+ṳ́	ur3
+ṳh	urh
+ṳh	ur4
+ṳ̂	ur5
+ṳ̃	ur6
+ṳ̄	ur7
+ṳ̍h	urh8
+ṳ̍h	ur8
+
+Ṳ	Ur
+Ṳ́	Ur2
+Ṳ́	Ur3
+Ṳh	Urh
+Ṳh	Ur4
+Ṳ̂	Ur5
+Ṳ̃	Ur6
+Ṳ̄	Ur7
+Ṳ̍h	Urh8
+ṳ̍h	Ur8
+
+##	ṳn/ṳt
+ṳn	urn
+ṳ́n	urn2
+ṳ́n	urn3
+ṳt	urt
+ṳt	urn4
+ṳ̂n	urn5
+ṳ̃n	urn6
+ṳ̄n	urn7
+ṳ̍t	urt8
+ṳ̍t	urn8
+
+Ṳn	Urn
+Ṳ́n	Urn2
+Ṳ́n	Urn3
+Ṳt	urt
+Ṳt	Urn4
+Ṳ̂n	Urn5
+Ṳ̃n	Urn6
+Ṳ̄n	Urn7
+Ṳ̍t	Urt8
+Ṳ̍t	Urn8
+
+
+###	 ------- 雙元音 -------
+
+##	ai/aih
+ai	ai
+ái	ai2
+ài	ai3
+aih	aih
+aih	ai4
+âi	ai5
+ãi	ai6
+āi	ai7
+a̍ih	aih8
+a̍ih	ai8
+
+Ai	Ai
+Ái	Ai2
+Ài	Ai3
+Aih	Aih
+Aih	Ai4
+Âi	Ai5
+Ãi	Ai6
+Āi	Ai7
+A̍iH	Aih8
+A̍ih	Ai8
+
+##	aiⁿ/aihⁿ
+aiⁿ	ainn
+áiⁿ	ainn2
+àiⁿ	ainn3
+# aihⁿ	aihnn
+# aihⁿ	ainn4
+âiⁿ	ainn5
+ãiⁿ	ainn6
+āiⁿ	ainn7
+# a̍ihⁿ	aihnn8
+# a̍ihⁿ	ainn8
+
+Aiⁿ	Ainn
+Áiⁿ	Ainn2
+Àiⁿ	Ainn3
+# Aihⁿ	Aihnn
+# Aihⁿ	Ainn4
+Âiⁿ	Ainn5
+Ãiⁿ	Ainn6
+Āiⁿ	Ainn7
+# A̍ihⁿ	Aihnn8
+# A̍ihⁿ	Ainn8
+
+##	au/auh
+au	au
+áu	au2
+ài	au3
+auh	auh
+auh	au4
+âu	au5
+ãu	au6
+āu	au7
+a̍uh	auh8
+a̍uh	au8
+
+Au	Au
+Áu	Au2
+Ài	Au3
+Auh	Auh
+Auh	Au4
+Âu	Au5
+Ãu	Au6
+Āu	Au7
+A̍uh	Auh8
+A̍uh	Au8
+
+##	auⁿ/auhⁿ
+auⁿ	aunn1
+áuⁿ	aunn2
+àiⁿ	aunn3
+# auhⁿ	auhnn
+# auhⁿ	aunn4
+âuⁿ	aunn5
+ãuⁿ	aunn6
+āuⁿ	aunn7
+# a̍uhⁿ	auhnn8
+# a̍uhⁿ	aunn8
+
+Auⁿ	Aunn1
+Áuⁿ	Aunn2
+Àiⁿ	Aunn3
+# Auhⁿ	Auhnn
+# Auhⁿ	Aunn4
+Âuⁿ	Aunn5
+Ãuⁿ	Aunn6
+Āuⁿ	Aunn7
+# A̍uhⁿ	Auhnn8
+# A̍uhⁿ	Aunn8
+
+##	ia/iah
+ia	ia
+iá	ia2
+ià	ia3
+iah	iah
+iah	ia4
+iâ	ia5
+iã	ia6
+iā	ia7
+ia̍h	iah8
+ia̍h	ia8
+
+Ia	Ia
+Iá	Ia2
+Ià	Ia3
+Iah	Iah
+Iah	Ia4
+Iâ	Ia5
+Iã	Ia6
+Iā	Ia7
+Ia̍h	Iah8
+Ia̍h	Ia8
+
+##	iaⁿ
+iaⁿ	iann
+iáⁿ	iann2
+iàⁿ	iann3
+iâⁿ	iann5
+iãⁿ	iann6
+iāⁿ	iann7
+
+Iaⁿ	Iann
+Iáⁿ	Iann2
+Iàⁿ	Iann3
+Iâⁿ	Iann5
+Iãⁿ	Iann6
+Iāⁿ	Iann7
+
+##	iam/iap
+iam	iam
+iám	iam2
+iam3	iam3
+iap	iap
+iap	iam4
+iâm	iam5
+iãm	iam6
+iām	iam7
+ia̍p	iap8
+ia̍p	iam8
+
+Iam	Iam
+Iám	Iam2
+Iam3	Iam3
+Iap	Iap
+Iap	Iam4
+Iâm	Iam5
+Iãm	Iam6
+Iām	Iam7
+Ia̍p	Iap8
+Ia̍p	Iam8
+
+##	ian/iat
+
+##	iang/iak
+iang	iang
+iáng	iang2
+iàng	iang3
+iak	iak
+iak	iang4
+iâng	iang5
+iãng	iang6
+iāng	iang7
+ia̍k	iak8
+ia̍k	iang8
+
+Iang	Iang
+Iáng	Iang2
+Iàng	Iang3
+Iak	Iak
+Iak	Iang4
+Iâng	Iang5
+Iãng	Iang6
+Iāng	Iang7
+Ia̍k	Iak8
+Ia̍k	Iang8
+
+##	ie/ieh
+ie	ie
+ié	ie2
+iè	ie3
+ieh	ieh
+ieh	ie4
+iê	ie5
+iẽ	ie6
+iē	ie7
+ie̍h	ieh8
+ie̍h	ie8
+
+Ie	Ie
+Ié	Ie2
+Iè	Ie3
+Ieh	Ieh
+Ieh	Ie4
+Iê	Ie5
+Iẽ	Ie6
+Iē	Ie7
+Ie̍h	Ieh8
+Ie̍h	Ie8
+
+##	ieⁿ
+ieⁿ	ienn
+iéⁿ	ienn2
+ièⁿ	ienn3
+# iehⁿ	iehnn
+# iehⁿ	ienn4
+iêⁿ	ienn5
+iẽⁿ	ienn6
+iēⁿ	ienn7
+# ie̍hⁿ	iehnn8
+# ie̍hⁿ	ienn8
+
+Ieⁿ	Ienn
+Iéⁿ	Ienn2
+Ièⁿ	Ienn3
+# Iehⁿ	Iehnn
+# Iehⁿ	Ienn4
+Iêⁿ	Ienn5
+Iẽⁿ	Ienn6
+Iēⁿ	Ienn7
+# Ie̍hⁿ	Iehnn8
+# Ie̍hⁿ	Ienn8
+
+##	ien/iet
+ien	ien
+ién	ien2
+ièn	ien3
+iet	iet
+iet	ien4
+iên	ien5
+iẽn	ien6
+iēn	ien7
+ie̍t	iet8
+ie̍t	ien8
+
+Ien	Ien
+Ién	Ien2
+Ièn	Ien3
+Iet	Iet
+Iet	Ien4
+Iên	Ien5
+Iẽn	Ien6
+Iēn	Ien7
+Ie̍t	Iet8
+Ie̍t	Ien8
+
+##	io/ioh
+# io	io
+# ió	io2
+# iò	io3
+# ioh	io4
+# iô	io5
+# iõ	io6
+# iō	io7
+# io̍h	io8
+
+# Io	Io
+# Ió	Io2
+# Iò	Io3
+# Ioh	Io4
+# Iô	Io5
+# Iõ	Io6
+# Iō	Io7
+# Io̍h	Io8
+
+##	ioⁿ
+# ioⁿ	ionn
+# ióⁿ	ionn2
+# iòⁿ	ionn3
+# iohⁿ	ioh4
+# iohⁿ	ionn4
+# iôⁿ	ionn5
+# iõⁿ	ionn6
+# iōⁿ	ionn7
+# io̍hⁿ	ioh8
+# io̍hⁿ	ionn8
+
+# Ioⁿ	Ionn
+# Ióⁿ	Ionn2
+# Iòⁿ	Ionn3
+# Iohⁿ	Ioh4
+# Iohⁿ	Ionn4
+# Iôⁿ	Ionn5
+# Iõⁿ	Ionn6
+# Iōⁿ	Ionn7
+# Io̍hⁿ	Ioh8
+# Io̍hⁿ	Ionn8
+
+##	iong/iok
+iong	iong
+ióng	iong2
+iòng	iong3
+iok	iok4
+iok	iong4
+iông	iong5
+iõng	iong6
+iōng	iong7
+io̍k	iok8
+io̍k	iong8
+
+Iong	Iong
+Ióng	Iong2
+Iòng	Iong3
+Iok	Iok4
+Iok	Iong4
+Iông	Iong5
+Iõng	Iong6
+Iōng	Iong7
+Io̍k	Iok8
+Io̍k	Iong8
+
+##	iu
+iu	iu
+iú	iu2
+iù	iu3
+iuh	iuh
+iuh	iu4
+iû	iu5
+iũ	iu6
+iū	iu7
+iu̍h	iuh8
+iu̍h	iu8
+
+Iu	Iu
+Iú	Iu2
+Iù	Iu3
+Iuh	Iuh
+Iuh	Iu4
+Iû	Iu5
+Iũ	Iu6
+Iū	Iu7
+Iu̍h	Iuh8
+Iu̍h	Iu8
+
+##	iuⁿ
+iuⁿ	iunn
+iúⁿ	iunn2
+iùⁿ	iunn3
+# iuhⁿ	iuhnn
+# iuhⁿ	iunn4
+iûⁿ	iunn5
+iũⁿ	iunn6
+iūⁿ	iunn7
+# iu̍hⁿ	iuhnn8
+# iu̍hⁿ	iunn8
+
+Iuⁿ	Iunn
+Iúⁿ	Iunn2
+Iùⁿ	Iunn3
+# Iuhⁿ	Iuhnn
+# Iuhⁿ	Iunn4
+Iûⁿ	Iunn5
+Iũⁿ	Iunn6
+Iūⁿ	Iunn7
+# Iu̍hⁿ	Iuhnn8
+# Iu̍hⁿ	Iunn8
+
+##	oi/oih
+oi	oi
+ói	oi2
+òi	oi3
+oih	oih
+oih	oi4
+ôi	oi5
+õi	oi6
+ōi	oi7
+o̍ih	oih8
+o̍ih	oi8
+
+Oi	Oi
+Ói	Oi2
+Òi	Oi3
+Oih	Oih
+Oih	Oi4
+Ôi	Oi5
+Õi	Oi6
+Ōi	Oi7
+O̍ih	Oih8
+O̍ih	Oi8
+
+##	oiⁿ
+oiⁿ	oinn
+óiⁿ	oinn2
+òiⁿ	oinn3
+oihⁿ	oihnn
+oihⁿ	oinn4
+ôiⁿ	oinn5
+õiⁿ	oinn6
+ōiⁿ	oinn7
+o̍ihⁿ	oihnn8
+o̍ihⁿ	oinn8
+
+Oiⁿ	Oinn
+Óiⁿ	Oinn2
+Òiⁿ	Oinn3
+Oihⁿ	Oihnn
+Oihⁿ	Oinn4
+Ôiⁿ	Oinn5
+Õiⁿ	Oinn6
+Ōiⁿ	Oinn7
+O̍ihⁿ	Oihnn8
+O̍ihⁿ	Oinn8
+
+##	ou
+ou	ou
+óu	ou2
+òu	ou3
+ôu	ou5
+õu	ou6
+ōu	ou7
+
+Ou	Ou
+Óu	Ou2
+Òu	Ou3
+Ôu	Ou5
+Õu	Ou6
+Ōu	Ou7
+
+##	ouⁿ
+ouⁿ	ounn
+óuⁿ	ounn2
+òuⁿ	ounn3
+ôuⁿ	ounn5
+õuⁿ	ounn6
+ōuⁿ	ounn7
+
+Ouⁿ	Ounn
+Óuⁿ	Ounn2
+Òuⁿ	Ounn3
+Ôuⁿ	Ounn5
+Õuⁿ	Ounn6
+Ōuⁿ	Ounn7
+
+##	ua/uah
+ua	ua
+uá	ua2
+uà	ua3
+uah	uah
+uah	ua4
+uâ	ua5
+uã	ua6
+uā	ua7
+ua̍h	uah8
+ua̍h	ua8
+
+Ua	Ua
+Uá	Ua2
+Uà	Ua3
+Uah	Uah
+Uah	Ua4
+Uâ	Ua5
+Uã	Ua6
+Uā	Ua7
+Ua̍h	Uah8
+Ua̍h	Ua8
+
+##	uaⁿ
+uaⁿ	uann
+uáⁿ	uann2
+uàⁿ	uann3
+uâⁿ	uann5
+uãⁿ	uann6
+uāⁿ	uann7
+
+Uaⁿ	Uann
+Uáⁿ	Uann2
+Uàⁿ	Uann3
+Uâⁿ	Uann5
+Uãⁿ	Uann6
+Uāⁿ	Uann7
+
+##	uam/uap
+uam	uam
+uám	uam2
+uàm	uam3
+uap	uap
+uap	uam4
+uâm	uam5
+uãm	uam6
+uām	uam7
+ua̍p	uap8
+ua̍p	uam8
+
+Uam	Uam
+Uám	Uam2
+Uàm	Uam3
+Uap	Uap
+Uap	Uam4
+Uâm	Uam5
+Uãm	Uam6
+Uām	Uam7
+Ua̍p	Uap8
+Ua̍p	Uam8
+
+##	uan/uat
+uan	uan
+uán	uan2
+uàn	uan3
+uat	uat
+uat	uan4
+uân	uan5
+uãn	uan6
+uān	uan7
+ua̍t	uat8
+ua̍t	uan8
+
+Uan	Uan
+Uán	Uan2
+Uàn	Uan3
+Uat	Uat
+Uat	Uan4
+Uân	Uan5
+Uãn	Uan6
+Uān	Uan7
+Ua̍t	Uat8
+Ua̍t	Uan8
+
+##	uang/uak
+uang	uang
+uáng	uang2
+uàng	uang3
+uak	uang4
+uâng	uang5
+uãng	uang6
+uāng	uang7
+ua̍k	uang8
+
+Uang	Uang
+Uáng	Uang2
+Uàng	Uang3
+Uak	Uang4
+Uâng	Uang5
+Uãng	Uang6
+Uāng	Uang7
+Ua̍k	Uang8
+
+##	ue/ueh
+ue	ue
+úe	ue2
+ùe	ue3
+ueh	ueh
+ueh	ue4
+ûe	ue5
+ũe	ue6
+ūe	ue7
+u̍eh	ueh8
+u̍eh	ue8
+
+Ue	Ue
+Úe	Ue2
+Ùe	Ue3
+Ueh	Ueh
+Ueh	Ue4
+Ûe	Ue5
+Ũe	Ue6
+Ūe	Ue7
+U̍eh	Ueh8
+U̍eh	Ue8
+
+##	ueⁿ/uehⁿ
+ueⁿ	uenn
+úeⁿ	uenn2
+ùeⁿ	uenn3
+# uehⁿ	uehnn
+# uehⁿ	uenn4
+ûeⁿ	uenn5
+ũeⁿ	uenn6
+ūeⁿ	uenn7
+# u̍ehⁿ	uehnn8
+# u̍ehⁿ	uenn8
+
+Ueⁿ	Uenn
+Úeⁿ	Uenn2
+Ùeⁿ	Uenn3
+# Uehⁿ	Uehnn
+# Uehⁿ	Uenn4
+Ûeⁿ	Uenn5
+Ũeⁿ	Uenn6
+Ūeⁿ	Uenn7
+# U̍ehⁿ	Uehnn8
+# U̍ehⁿ	Uenn8
+
+##	uen/uet
+##	ueng/uek
+
+##	ui
+ui	ui
+úi	ui2
+ùi	ui3
+uih	uih
+uih	ui4
+ûi	ui5
+ũi	ui6
+ūi	ui7
+u̍ih	uih8
+u̍ih	ui8
+
+Ui	Ui
+Úi	Ui2
+Ùi	Ui3
+Uih	Uih
+Uih	Ui4
+Ûi	Ui5
+Ũi	Ui6
+Ūi	Ui7
+U̍ih	Uih8
+U̍ih	Ui8
+
+##	uiⁿ
+uiⁿ	ui
+úiⁿ	ui2
+ùiⁿ	ui3
+# uihⁿ	uih
+# uihⁿ	ui4
+ûiⁿ	ui5
+ũiⁿ	ui6
+ūiⁿ	ui7
+# u̍ihⁿ	uih8
+# u̍ihⁿ	ui8
+
+Uiⁿ	Ui
+Úiⁿ	Ui2
+Ùiⁿ	Ui3
+# Uihⁿ	Uih
+# Uihⁿ	Ui4
+Ûiⁿ	Ui5
+Ũiⁿ	Ui6
+Ūiⁿ	Ui7
+# U̍ihⁿ	Uih8
+# U̍ihⁿ	Ui8
+
+
+###	 ------- 三元音 -------
+
+##	iau/iauh
+##	iauⁿ/iauhⁿ
+
+##	iou/iouh
+iou	iou
+ióu	iou2
+iòu	iou3
+iouh	iouh
+iouh	iou4
+iôu	iou5
+iõu	iou6
+iōu	iou7
+io̍uh	iouh8
+io̍uh	iou8
+
+Iou	Iou
+Ióu	Iou2
+Iòu	Iou3
+Iouh	Iouh
+Iouh	Iou4
+Iôu	Iou5
+Iõu	Iou6
+Iōu	Iou7
+Io̍uh	Iouh8
+Io̍uh	Iou8
+
+##	iouⁿ/iouhⁿ
+iouⁿ	iounn
+ióuⁿ	iounn2
+iòuⁿ	iounn3
+# iouhⁿ	iouhnn
+# iouhⁿ	iounn4
+iôuⁿ	iounn5
+iõuⁿ	iounn6
+iōuⁿ	iounn7
+# io̍uhⁿ	iouhnn8
+# io̍uhⁿ	iounn8
+
+Iouⁿ	Iounn
+Ióuⁿ	Iounn2
+Iòuⁿ	Iounn3
+# Iouhⁿ	Iouhnn
+# Iouhⁿ	Iounn4
+Iôuⁿ	Iounn5
+Iõuⁿ	Iounn6
+Iōuⁿ	Iounn7
+# Io̍uhⁿ	Iouhnn8
+# Io̍uhⁿ	Iounn8
+
+##	uai
+uai	uai
+uái	uai2
+uài	uai3
+uaih	uaih
+uaih	uai4
+uâi	uai5
+uãi	uai6
+uāi	uai7
+ua̍ih	uaih8
+ua̍ih	uai8
+
+Uai	Uai
+Uái	Uai2
+Uài	Uai3
+Uaih	Uaih
+Uaih	Uai4
+Uâi	Uai5
+Uãi	Uai6
+Uāi	Uai7
+Ua̍ih	Uaih8
+Ua̍ih	Uai8
+
+##	uaiⁿ/uaihⁿ
+uaiⁿ	uainn
+uáiⁿ	uainn2
+uàiⁿ	uainn3
+# uaihⁿ	uaihnn
+# uaihⁿ	uainn4
+uâiⁿ	uainn5
+uãiⁿ	uainn6
+uāiⁿ	uainn7
+# ua̍ihⁿ	uaihnn8
+# ua̍ihⁿ	uainn8
+
+Uaiⁿ	Uainn
+Uáiⁿ	Uainn2
+Uàiⁿ	Uainn3
+# Uaihⁿ	Uaihnn
+# Uaihⁿ	Uainn4
+Uâiⁿ	Uainn5
+Uãiⁿ	Uainn6
+Uāiⁿ	Uainn7
+# Ua̍ihⁿ	Uaihnn8
+# Ua̍ihⁿ	Uainn8
+
+
+###	 ------- 其他 -------
+
+##	m
+m	m
+ḿ	m2
+m̀	m3
+m̂	m5
+m̃	m6
+m̄	m7
+
+M	m
+Ḿ	m2
+M̀	m3
+M̂	m5
+M̃	m6
+M̄	m7
+
+##	ng
+ng	ng
+ńg	ng2
+ǹg	ng3
+n̂g	ng5
+ñg	ng6
+n̄g	ng7
+
+Ng	Ng
+Ńg	Ng2
+Ǹg	Ng3
+N̂g	Ng5
+Ñg	Ng6
+N̄g	Ng7
+
+##	ngh
+ngh	ngh
+n̍gh	ngh8
+
+Ngh	Ngh
+N̍gh	Ngh8
+
+##	ngiou
+ngiou	ngiou
+ngióu	ngiou2
+ngiòu	ngiou3
+ngiouh	ngiouh
+ngiouh	ngiou4
+ngiôu	ngiou5
+ngiõu	ngiou6
+ngiōu	ngiou7
+ngio̍uh	ngiouh8
+ngio̍uh	ngiou8
+
+Ngiou	Ngiou
+Ngióu	Ngiou2
+Ngiòu	Ngiou3
+Ngiouh	Ngiouh
+Ngiouh	Ngiou4
+Ngiôu	Ngiou5
+Ngiõu	Ngiou6
+Ngiōu	Ngiou7
+Ngio̍uh	Ngiouh8
+Ngio̍uh	Ngiou8
+
+## n
+n	n
+ń	n2
+ǹ	n3
+n̂	n5
+ñ	n6
+n̄	n7
+
+N	N
+Ń	N2
+Ǹ	N3
+N̂	N5
+Ñ	N6
+N̄	N7
