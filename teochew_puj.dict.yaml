@@ -406,7 +406,7 @@ U̍h	Un8
 ##	ṳ/ṳh
 ṳ	ur
 ṳ́	ur2
-ṳ́	ur3
+ṳ̀	ur3
 ṳh	urh
 ṳh	ur4
 ṳ̂	ur5
@@ -417,7 +417,7 @@ U̍h	Un8
 
 Ṳ	Ur
 Ṳ́	Ur2
-Ṳ́	Ur3
+Ṳ̀	Ur3
 Ṳh	Urh
 Ṳh	Ur4
 Ṳ̂	Ur5
@@ -429,7 +429,7 @@ U̍h	Un8
 ##	ṳn/ṳt
 ṳn	urn
 ṳ́n	urn2
-ṳ́n	urn3
+ṳ̀n	urn3
 ṳt	urt
 ṳt	urn4
 ṳ̂n	urn5
@@ -440,7 +440,7 @@ U̍h	Un8
 
 Ṳn	Urn
 Ṳ́n	Urn2
-Ṳ́n	Urn3
+Ṳ̀n	Urn3
 Ṳt	urt
 Ṳt	Urn4
 Ṳ̂n	Urn5
@@ -501,7 +501,7 @@ Aiⁿ	Ainn
 ##	au/auh
 au	au
 áu	au2
-ài	au3
+àu	au3
 auh	auh
 auh	au4
 âu	au5
@@ -512,7 +512,7 @@ a̍uh	au8
 
 Au	Au
 Áu	Au2
-Ài	Au3
+Àu	Au3
 Auh	Auh
 Auh	Au4
 Âu	Au5
@@ -524,7 +524,7 @@ A̍uh	Au8
 ##	auⁿ/auhⁿ
 auⁿ	aunn1
 áuⁿ	aunn2
-àiⁿ	aunn3
+àuⁿ	aunn3
 # auhⁿ	auhnn
 # auhⁿ	aunn4
 âuⁿ	aunn5
@@ -535,7 +535,7 @@ auⁿ	aunn1
 
 Auⁿ	Aunn1
 Áuⁿ	Aunn2
-Àiⁿ	Aunn3
+Àuⁿ	Aunn3
 # Auhⁿ	Auhnn
 # Auhⁿ	Aunn4
 Âuⁿ	Aunn5
