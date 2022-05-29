@@ -33,7 +33,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU235678
+  alphabet: pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU235678
   initials: pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU
   delimiter: "'"
   use_space: true
