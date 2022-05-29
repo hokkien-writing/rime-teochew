@@ -33,10 +33,11 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: aeimnourAEIMNOUghtpk12345678
-  initials: aeimnourAEIMNOUg
-  delimiter: " '"
-  auto_select: true
+  alphabet: pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU235678
+  initials: pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU
+  delimiter: "'"
+  use_space: true
+  # auto_select: true
   algebra:
     - "derive/au/ao"
     - "derive/ua/oa"
