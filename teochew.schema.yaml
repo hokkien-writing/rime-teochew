@@ -1,0 +1,86 @@
+# teochew.schema.yaml
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: teochew
+  name: 潮州話
+  version: "0.1"
+  author:
+    - Lim <lshare@outlook.com>
+  description: |
+    潮州話輸入方案。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半形, 全形 ]
+
+engine:
+  processors:
+    - key_binder
+    - speller
+    - selector
+    - punctuator
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+    - table_translator@puj
+  punctuator:
+    import_preset: default
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU235678"
+  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
+  # finals: " 235678"
+  # delimiter: " "
+  # use_space: true
+  # auto_select: true
+  algebra:
+    - "derive/au/ao"
+    - "derive/ua/oa"
+    - "derive/ue/oe"
+    - "derive/iou/iau"
+    - "derive/iou/iau"
+    - "derive/ua(n|t)/ue$1"
+    - "derive/ie(n|t)/ia$1"
+    - "derive/ia(ng|k)/ie$1"
+    - "derive/ie(nn|h)/io$1"
+    - "derive/ie/io"
+
+translator:
+  dictionary: teochew.han
+  initial_quality: 1
+  spelling_hints: 6
+  enable_encoder: true
+
+puj:
+  dictionary: teochew
+  db_class: tabledb
+  # enable_completion: false
+  # enable_sentence: false
+  initial_quality: 0.6
+
+key_binder:
+  bindings:
+    - when:   paging    # 僅當已發生向後換頁時，
+      accept: minus
+      send:   Page_Up
+
+    - when:   has_menu  # 只要有候選字即滿足條件
+      accept: equal
+      send:   Page_Down
+
+menu:
+  page_size: 6
+  alternative_select_keys: " ;'[/]"

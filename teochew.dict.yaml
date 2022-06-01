@@ -1,13 +1,13 @@
-# Rime dictionary
-# encoding: utf-8
+#	Rime	dictionary
+#	encoding:	utf-8
 #
-# Teochew PUJ 潮州白話字拍字
+#	Teochew	PUJ	潮州白話字拍字
 #
 ---
-name: teochew_puj
-version: "0.1"
-sort: by_weight
-use_preset_vocabulary: false
+name:	teochew
+version:	"0.1"
+sort:	by_weight
+use_preset_vocabulary:	false
 ...
 a	a
 A	A
