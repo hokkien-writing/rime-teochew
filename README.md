@@ -62,3 +62,8 @@ patch:
 ## 改進
 
 若是汝有 Github 帳號，來做夥改進，讓伊用緊更加順手。
+
+## 致謝
+
+1. [中州韻輸入法引擎](https://rime.im/)
+2. [潮语拼音输入法](https://github.com/kahaani/dieghv)
