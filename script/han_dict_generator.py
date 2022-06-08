@@ -6,6 +6,7 @@ def transfer():
     source = open('../source/dieziu.dict.yaml', 'r')
     dest = open('../teochew.han.dict.yaml', 'w')
     cor = open('../source/correction.txt', 'r')
+    comp = open('../source/complement.txt', 'r')
     dest.writelines('''# Rime dictionary
 # encoding:	utf-8
 #
@@ -24,6 +25,7 @@ use_preset_vocabulary:	false
         if len(ws) <= 1:
             continue
         corretion[ws[0].strip()] = ws[1].strip()
+    cor.close()
 
     while line := source.readline():
         ws = line.split('\t')
@@ -35,9 +37,16 @@ use_preset_vocabulary:	false
         else:
             yin = to_bl(ws[1].strip())
         dest.write('%s\t%s\n' % (ws[0].strip(), yin))
-    dest.close()
     source.close()
-    cor.close()
+
+    while line := comp.readline():
+        ws = line.split('\t')
+        if len(ws) <= 1:
+            continue
+        dest.write('%s\t%s\n' % (ws[0].strip(), ws[1].strip()))
+
+    comp.close()
+    dest.close()
     pass
 
 def to_bl(yin):
@@ -45,8 +54,8 @@ def to_bl(yin):
     if yin[len(yin) - 2] == 'n':
         yin = yin[0:len(yin) - 2] + 'nn' + yin[len(yin) - 1]
     # remove 1,4
-    if yin.endswith('1') or yin.endswith('4'):
-        yin = yin[0:len(yin) - 1]
+    yin = yin.replace('1', '')
+    yin = yin.replace('4', '')
     # v=>ur
     yin = yin.replace('v', 'ur')
     # ieng => ien

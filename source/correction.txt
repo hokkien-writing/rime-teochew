@@ -139,3 +139,274 @@
 鑊	uek8
 矱	uek8
 石叻	sit8 lat8
+
+安	an
+氨	an
+胺	an
+桉	an
+銨	an
+鵪	an
+宴	an3
+按	an3
+晏	an3
+班	pan
+斑	pan
+瘢	pan
+癍	pan
+頒	pan
+板	pan2
+扳	pan2
+版	pan2
+蝂	pan2
+闆	pan2
+坂	pan2
+阪	pan2
+扮	pan3
+瓶	pan5
+攀	phan
+盼	phan3
+襻	phan3
+帆	phan5
+挽	man2
+輓	man2
+蠻	man5
+閩	man5
+慢	man7
+緩	man7
+丹	tan
+坍	tan
+殫	tan
+癉	tan
+簞	tan
+鄲	tan
+癉	tan2
+亶	tan2
+蛋	tan3
+蜑	tan3
+旦	tan3
+誕	tan3
+陳	tan5
+但	tan6
+憚	tan6
+坍	than
+坦	than2
+妲	than2
+忐	than2
+怛	than2
+毯	than2
+疸	than2
+鉭	than2
+袒	than2
+靼	than2
+賺	than3
+嘆	than3
+歎	than3
+彈	than5
+檀	than5
+俺	nan2
+懶	lan2
+赧	lan2
+欄	lan5
+讕	lan5
+攔	lan5
+蘭	lan5
+闌	lan5
+鑭	lan5
+難	lan5
+難	nan5
+斕	lan5
+鱗	lan5
+瀾	lan5
+爛	lan5
+爛	lan6
+難	nan7
+難	lan7
+干	kan
+乾	kan
+酐	kan
+姦	kan
+奸	kan
+蕑	kan
+蕳	kan
+杆	kan
+竿	kan
+艱	kan
+菅	kan
+犴	kan
+間	kan
+囝	kan2
+囝	kiann2
+擀	kan2
+澗	kan2
+柬	kan2
+簡	kan2
+梘	kan2
+鐧	kan2
+筧	kan2
+幹	kan3
+旰	kan3
+榦	kan3
+瞯	kan3
+瞷	kan3
+諫	kan3
+縴	khan
+牽	khan
+侃	khan3
+刊	khan5
+眼	ngan2
+言	ngan5
+顏	ngan5
+唁	ngan6
+彥	ngan6
+諺	ngan6
+雁	ngan6
+贋	ngan6
+贗	ngan6
+熯	han
+頇	han
+悍	han2
+捍	han2
+汗	han2
+稈	han2
+罕	han2
+瀚	han2
+翰	han2
+旰	han2
+鼾	han2
+焊	han2
+漢	han3
+寒	han5
+汗	han5
+瀚	han5
+翰	han5
+邗	han5
+韓	han5
+限	han6
+糌	tsan
+昝	tsan3
+攢	tsan3
+讚	tsan3
+贊	tsan3
+躦	tsan3
+趲	tsan3
+鑽	tsan3
+臢	tsan3
+棧	tsan3
+孱	tshan
+潺	tshan
+餐	tshan
+剷	tshan2
+鏟	tshan2
+蕆	tshan2
+璨	tshan3
+燦	tshan3
+粲	tshan3
+殘	tshan5
+田	tshan5
+刪	san
+姍	san
+澘	san
+潸	san
+珊	san
+舢	san
+芟	san
+跚	san
+滻	san2
+疝	san3
+氙	san3
+訕	san3
+霰	san3
+瓣	pan7
+
+鴨母𥺴	ah bo2 liem3
+翁姐	ang chia2
+牡丹	bou2 tuann
+尾翼	bue2 iah8
+薄荷	po7 ho3
+草猴	tshau2 kau5
+草蜢	tshau2 me2
+手䘼	chhiu2 un2
+漱齒	chhiu3 khi2
+髧眉	tam3 bai7
+豆仁	tau7 jin5
+地豆	ti7 tau7
+潮語	tie5 gur2
+得罪	tit tso6
+盪嘴	tng6 tshui3
+鉸刀	ka to
+家己	ka ki7
+家己人	ka ki7 nang5
+鉸毛	ka mo5
+橄欖	kan na2
+工夫茶	kang hu te5
+交代	kau tai3
+傢俬	ke si
+驚蟄	keng tek8
+弓蕉	keng chie
+蜈蚣	ge5 kang
+蜈蚣	gou5 kong
+雞翁	koi ang
+穀雨	kok u2
+杠杆	kong3 han2
+歌冊	kua chheh
+歇假	hiah kia2
+歇乏	hiah hek8
+歇夜	hiah me5
+香口膠	hiang khau2 ka
+現在	hin7 tsai6
+雨遮	hou6 chia
+雨水	hou6 tsui2
+風禽	huang khim5
+風爐	huang lou5
+風颱	huang thai
+番梨	huen lai5
+煩惱	huen5 lo2
+煩惱	huen5 nau2
+番葛	hun kuah
+粉纖	hun2 chhiem
+開元	khai ngen5
+工課	khang khue3
+齒漱	khi2 chhiu3
+欖仁	lam2 jin5
+流鼻	lau5 phinn7
+鬧熱	lau7 jiet8
+蓮霧	liem bu7
+𨻧隍	liu5 ng5
+目仁	mak8 jin5
+目屎	mak8 sai2
+曼谷	mang6 kok8
+明年	me5 ni5
+麻秧	mua5 ng2
+荔菓	noi7 kuainn2
+荔菓	noi7 kuenn2
+卵仁	nng6 jin5
+烏欖	ou lam2
+沙茶	sa te5
+師父	sai pe6
+私家	sai khia
+剎車	sap8 chhia
+閘車	sap8 chhia
+生菇	sen kou
+聖杯	seng3 pue
+豉油	si7 iu5
+相共	sie kang7
+相輔	sie hu6
+相罵	sie me7
+相輸	sie su
+相借問	sie chieh mun7
+石榴	sieh8 liu5
+纖須	siem su
+石叻	sit8 lat8
+新婦	sim bu6
+什麽	sim6 moh
+什麼	sim6 moh
+先生	sin senn
+沙𧌊	sua me
+私家	sur ke
+頭毛	thau5 mo5
+雨水	u2 tsui2
+積惡	chek ak
+粘米	chiem bi2
+狀元	tso6 nguen5
+節氣	tsoih khi3
+節令	tsoih leng6
