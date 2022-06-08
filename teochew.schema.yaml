@@ -31,7 +31,7 @@ engine:
     - echo_translator
     - punct_translator
     - table_translator@puj
-    - script_translator
+    - table_translator
   filters:
     - simplifier
     - uniquifier
@@ -58,6 +58,8 @@ speller:
 
 translator:
   dictionary: teochew.han
+  enable_user_dict: true
+  enable_encoder: true
   initial_quality: 1
   spelling_hints: 6
 
