@@ -30,8 +30,8 @@ engine:
   translators:
     - echo_translator
     - punct_translator
+    - table_translator@puj
     - script_translator
-    - script_translator@puj
   filters:
     - simplifier
     - uniquifier
@@ -47,7 +47,8 @@ speller:
     - "derive/au/ao"
     - "derive/ua/oa"
     - "derive/ue/oe"
-    - "derive/iou/iau"
+    - "derive/iem/iam"
+    - "derive/iep/iap"
     - "derive/iou/iau"
     - "derive/ua(n|t)/ue$1"
     - "derive/ie(n|t)/ia$1"
@@ -59,14 +60,11 @@ translator:
   dictionary: teochew.han
   initial_quality: 1
   spelling_hints: 6
-  enable_encoder: true
 
 puj:
   dictionary: teochew
-  db_class: tabledb
-  # enable_completion: false
-  # enable_sentence: false
-  initial_quality: 0.6
+  enable_completion: true
+  initial_quality: 0.8
 
 key_binder:
   bindings:
