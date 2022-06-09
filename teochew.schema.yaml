@@ -53,9 +53,8 @@ speller:
     - "derive/iem/iam"
     - "derive/iep/iap"
     - "derive/iou/iau"
-    - "derive/ua(n|t)/ue$1"
+    - "derive/ue(n|t)/ua$1"
     - "derive/ie(n|t)/ia$1"
-    - "derive/ia(ng|k)/ie$1"
     - "derive/ie(nn|h)/io$1"
     - "derive/ie/io"
 
