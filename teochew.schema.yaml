@@ -10,6 +10,7 @@ schema:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
+    項目: https://github.com/tsunhua/rime-teochew
 
 switches:
   - name: simplification
@@ -30,8 +31,8 @@ engine:
   translators:
     - echo_translator
     - punct_translator
-    - table_translator@puj
     - script_translator # 只能此個配置，否則無法拍出詞組
+    - table_translator@puj
   filters:
     - simplifier
     - uniquifier
@@ -40,7 +41,7 @@ speller:
   alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU235678"
   initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
   # finals: " 235678"
-  delimiter: " '"
+  delimiter: "-"
   # use_space: true
   # auto_select: true
   algebra:
@@ -63,21 +64,21 @@ translator:
   enable_user_dict: true
   enable_encoder: true
   initial_quality: 1
-  spelling_hints: 6
+  # spelling_hints: 6
 
 puj:
   dictionary: teochew
   enable_completion: true
-  initial_quality: 0.8
+  initial_quality: 0.6
 
 key_binder:
   bindings:
     - when:   paging    # 僅當已發生向後換頁時，
-      accept: minus
+      accept: bracketleft
       send:   Page_Up
 
     - when:   has_menu  # 只要有候選字即滿足條件
-      accept: equal
+      accept: bracketright
       send:   Page_Down
 punctuator:
   half_shape:
@@ -117,4 +118,4 @@ punctuator:
 
 menu:
   page_size: 6
-  alternative_select_keys: ",;'[/]"
+  alternative_select_keys: " ;,.'/\\"
