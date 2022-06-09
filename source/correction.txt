@@ -76,8 +76,6 @@
 廣	kng2
 捲	kng2
 指	tsng
-盪嘴	tng6 cui3
-卵仁	nng6 ring5
 
 揠	at
 抑	at
@@ -138,7 +136,6 @@
 蠖	uek8
 鑊	uek8
 矱	uek8
-石叻	sit8 lat8
 
 安	an
 氨	an
@@ -318,95 +315,6 @@
 霰	san3
 瓣	pan7
 
-鴨母𥺴	ah bo2 liem3
-翁姐	ang chia2
-牡丹	bou2 tuann
-尾翼	bue2 iah8
-薄荷	po7 ho3
-草猴	tshau2 kau5
-草蜢	tshau2 me2
-手䘼	chhiu2 un2
-漱齒	chhiu3 khi2
-髧眉	tam3 bai7
-豆仁	tau7 jin5
-地豆	ti7 tau7
-潮語	tie5 gur2
-得罪	tit tso6
-盪嘴	tng6 tshui3
-鉸刀	ka to
-家己	ka ki7
-家己人	ka ki7 nang5
-鉸毛	ka mo5
-橄欖	kan na2
-工夫茶	kang hu te5
-交代	kau tai3
-傢俬	ke si
-驚蟄	keng tek8
-弓蕉	keng chie
-蜈蚣	ge5 kang
-蜈蚣	gou5 kong
-雞翁	koi ang
-穀雨	kok u2
 杠杆	kong3 han2
-歌冊	kua chheh
-歇假	hiah kia2
-歇乏	hiah hek8
-歇夜	hiah me5
-香口膠	hiang khau2 ka
-現在	hin7 tsai6
-雨遮	hou6 chia
-雨水	hou6 tsui2
-風禽	huang khim5
-風爐	huang lou5
-風颱	huang thai
-番梨	huen lai5
-煩惱	huen5 lo2
-煩惱	huen5 nau2
-番葛	hun kuah
-粉纖	hun2 chhiem
-開元	khai ngen5
-工課	khang khue3
-齒漱	khi2 chhiu3
-欖仁	lam2 jin5
-流鼻	lau5 phinn7
-鬧熱	lau7 jiet8
-蓮霧	liem bu7
-𨻧隍	liu5 ng5
-目仁	mak8 jin5
-目屎	mak8 sai2
-曼谷	mang6 kok8
-明年	me5 ni5
-麻秧	mua5 ng2
-荔菓	noi7 kuainn2
-荔菓	noi7 kuenn2
-卵仁	nng6 jin5
-烏欖	ou lam2
-沙茶	sa te5
-師父	sai pe6
-私家	sai khia
-剎車	sap8 chhia
-閘車	sap8 chhia
-生菇	sen kou
-聖杯	seng3 pue
-豉油	si7 iu5
-相共	sie kang7
-相輔	sie hu6
-相罵	sie me7
-相輸	sie su
-相借問	sie chieh mun7
-石榴	sieh8 liu5
-纖須	siem su
+曼谷	man6 kok8
 石叻	sit8 lat8
-新婦	sim bu6
-什麽	sim6 moh
-什麼	sim6 moh
-先生	sin senn
-沙𧌊	sua me
-私家	sur ke
-頭毛	thau5 mo5
-雨水	u2 tsui2
-積惡	chek ak
-粘米	chiem bi2
-狀元	tso6 nguen5
-節氣	tsoih khi3
-節令	tsoih leng6

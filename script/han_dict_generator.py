@@ -35,7 +35,13 @@ use_preset_vocabulary:	false
         if ws[0].strip() in corretion:
             yin = corretion[ws[0].strip()]
         else:
-            yin = to_bl(ws[1].strip())
+            items = ws[1].strip().split(' ')
+            if len(items)==0:
+                yin = to_bl(ws[1].strip())
+            else: # 當詞組時，處理多個拼音
+                for i in range(len(items)):
+                    items[i] = to_bl(items[i])
+                yin = ' '.join(items)
         dest.write('%s\t%s\n' % (ws[0].strip(), yin))
     source.close()
 

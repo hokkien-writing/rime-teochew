@@ -31,7 +31,7 @@ engine:
     - echo_translator
     - punct_translator
     - table_translator@puj
-    - table_translator
+    - script_translator # 只能此個配置，否則無法拍出詞組
   filters:
     - simplifier
     - uniquifier
@@ -40,10 +40,12 @@ speller:
   alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU235678"
   initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
   # finals: " 235678"
-  # delimiter: " "
+  delimiter: " '"
   # use_space: true
   # auto_select: true
   algebra:
+    # 去掉聲調
+    - "xform/[1-8]//"
     - "derive/au/ao"
     - "derive/ua/oa"
     - "derive/ue/oe"
@@ -115,4 +117,4 @@ punctuator:
 
 menu:
   page_size: 6
-  alternative_select_keys: " ;'[/]"
+  alternative_select_keys: ",;'[/]"
