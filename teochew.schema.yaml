@@ -10,7 +10,6 @@ schema:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
-    項目: https://github.com/tsunhua/rime-teochew
 
 switches:
   - name: simplification
@@ -31,6 +30,7 @@ engine:
   translators:
     - echo_translator
     - punct_translator
+    - script_translator@fixed # 爲了避免系統亂造詞影響已有的詞組
     - script_translator # 只能此個配置，否則無法拍出詞組
     - table_translator@puj
   filters:
@@ -61,14 +61,22 @@ speller:
 translator:
   dictionary: teochew.han
   enable_user_dict: true
-  enable_encoder: true
+  enable_sentence: true
   initial_quality: 1
-  # spelling_hints: 6
+  spelling_hints: 6
+
+fixed:
+  dictionary: teochew.han
+  enable_user_dict: false
+  enable_completion: false
+  initial_quality: 64
 
 puj:
   dictionary: teochew
+  enable_encoder: true
+  enable_sentence: true
   enable_completion: true
-  initial_quality: 0.6
+  initial_quality: 0.75
 
 key_binder:
   bindings:

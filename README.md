@@ -1,6 +1,12 @@
-# rime-teochew
+# rime-teochew（潮州話拍字方案）
 
-Rime / Teochew 潮州話拍字
+```
+【漢字】：各美其美，美美與共
+【PUJ】：Kak múi khî múi, múi múi ṳ́-kāng
+        Kak mí khî mí, mí mí ṳ́-kāng
+```
+
+
 
 本潮州話拍字方案包含漢字佮白話字，建基於 Rime 輸入法引擎，可在全平台（包括 Windows, Mac, Linux, iPhone 佮 Android）上拍字。
 
@@ -24,13 +30,13 @@ Rime / Teochew 潮州話拍字
 
 頭前呾其「自己」，若是汝會曉漢字，應寫作「家己」，若是毋曉，寫作「ka-kī」或者「ka-tī」也可；「不要」應寫作「勿」（訓用）或「mài」；「你」應寫作「汝」或「lṳ́」。書寫規則非常簡單，有便寫漢字哩寫漢字，無便哩訓用或者寫白話字。
 
-```
-【漢字】：各美其美，美美與共
-【PUJ】：Kak múi khî múi, múi múi ṳ́-kāng
-        Kak mí khî mí, mí mí ṳ́-kāng
-```
+另外，爲了方便拍字，參照 [MTR](http://tappcdn.resources.teochew.pw/files/20170114001.pdf) 進行了以下調整：
 
-## 前提
+1. 聲調採用數字輸入，但是1、4 調免拍，例如：拍「si3」會出現候選字「世 sì」；
+2. 拍 ur 出 ṳ，例如：拍「lur2」出「汝 lṳ́」；
+3. 拍 nn 出 ⁿ，例如：拍「ainn3」出「愛 àiⁿ」。
+
+## 準備
 
 安裝輸入法程序，全平台攏有，請訪問 [RIME | 中州韻輸入法引擎](https://rime.im/download/) 獲取對應平台程序並安裝先。
 

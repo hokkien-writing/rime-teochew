@@ -2,11 +2,15 @@
 # -*- coding: UTF-8 -*-
 #
 
+from numpy import character
+
+
 def transfer():
     source = open('../source/dieziu.dict.yaml', 'r')
     dest = open('../teochew.han.dict.yaml', 'w')
-    cor = open('../source/correction.txt', 'r')
-    comp = open('../source/complement.txt', 'r')
+    correction_file = open('../source/correction.txt', 'r')
+    complement_file = open('../source/complement.txt', 'r')
+    common_file = open('../source/common.txt', 'r')
     dest.writelines('''# Rime dictionary
 # encoding:	utf-8
 #
@@ -19,21 +23,29 @@ sort:	by_weight
 use_preset_vocabulary:	false
 ...
 ''')
-    corretion = {}
-    while line := cor.readline():
+    correction = {}
+    while line := correction_file.readline():
         ws = line.split('\t')
         if len(ws) <= 1:
             continue
-        corretion[ws[0].strip()] = ws[1].strip()
-    cor.close()
+        correction[ws[0].strip()] = ws[1].strip()
+    correction_file.close()
+
+    common = {}
+    while line := common_file.readline():
+        if len(line.strip()) < 1:
+            continue
+        common[line.strip()] = ''
+    common_file.close()
 
     while line := source.readline():
         ws = line.split('\t')
         if len(ws) <= 1:
             continue
         yin = ''
-        if ws[0].strip() in corretion:
-            yin = corretion[ws[0].strip()]
+        character = ws[0].strip()
+        if character in correction:
+            yin = correction[character]
         else:
             items = ws[1].strip().split(' ')
             if len(items)==0:
@@ -42,16 +54,19 @@ use_preset_vocabulary:	false
                 for i in range(len(items)):
                     items[i] = to_bl(items[i])
                 yin = ' '.join(items)
-        dest.write('%s\t%s\n' % (ws[0].strip(), yin))
+        if character in common:
+            dest.write('%s\t%s\t%d\n' % (character, yin, 1024))
+        else:
+            dest.write('%s\t%s\n' % (character, yin))
     source.close()
 
-    while line := comp.readline():
+    while line := complement_file.readline():
         ws = line.split('\t')
         if len(ws) <= 1:
             continue
         dest.write('%s\t%s\n' % (ws[0].strip(), ws[1].strip()))
 
-    comp.close()
+    complement_file.close()
     dest.close()
     pass
 
