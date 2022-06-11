@@ -6,8 +6,6 @@
         Kak mí khî mí, mí mí ṳ́-kāng
 ```
 
-
-
 本潮州話拍字方案包含漢字佮白話字，建基於 Rime 輸入法引擎，可在全平台（包括 Windows, Mac, Linux, iPhone 佮 Android）上拍字。
 
 怎爾（tsò-nî）需要此款方案呢？聽我款爾（khuaⁿ-nî）道來。
@@ -36,25 +34,33 @@
 2. 拍 ur 出 ṳ，例如：拍「lur2」出「汝 lṳ́」；
 3. 拍 nn 出 ⁿ，例如：拍「ainn3」出「愛 àiⁿ」。
 
+![有閒來食茶](img/u-oinn-lai-chiah-te.GIF)
+
 ## 準備
 
 安裝輸入法程序，全平台攏有，請訪問 [RIME | 中州韻輸入法引擎](https://rime.im/download/) 獲取對應平台程序並安裝先。
 
 ## 安裝
 
-電腦端可使用 [東風破](https://github.com/rime/plum) 安裝：
+電腦端可使用 [東風破](https://github.com/rime/plum) 安裝，命令如下：
 
 ``` shell
 bash rime-install tsunhua/rime-teochew
 ```
 
-更通用亓方法是直接克隆倉庫，複製文件  `teochew_puj.dict.yaml` kah `teochew_puj.schema.yaml` 到用戶資料目錄下底。克隆倉庫命令：
+更通用亓方法是直接克隆倉庫：
 
 ```bash
 git clone https://github.com/tsunhua/rime-teochew.git
 ```
 
-下載直了後，汝再照下底掠 `teochew` 加入文件 `default.custom.yaml` 中亓 `schema_list` 哩算安裝好了。
+然後複製下底三個文件到用戶資料目錄：
+
+1. `teochew.dict.yaml`
+2. `teochew.han.dict.yaml`
+3. `teochew.schema.yaml` 
+
+再來，照下底掠 `teochew` 加入文件 `default.custom.yaml` 中亓 `schema_list`：
 
 ``` yaml
 schema_list:
@@ -74,6 +80,8 @@ patch:
     # 省略其他常用亓輸入方案
     - schema: teochew # 添加潮州話
 ```
+
+至此，安裝直。
 
 ## 改進
 
