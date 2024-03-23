@@ -10,6 +10,7 @@ schema:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
+    白話字及漢字
 
 switches:
   - name: simplification
@@ -24,26 +25,26 @@ engine:
     - navigator
     - express_editor
   segmentors:
+    - ascii_segmentor
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - echo_translator
     - punct_translator
-    - script_translator@fixed # 爲了避免系統亂造詞影響已有的詞組
-    - script_translator # 只能此個配置，否則無法拍出詞組
-    - table_translator@puj
+    - table_translator
+    - script_translator@han
   filters:
     - simplifier
     - uniquifier
 
 speller:
-  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU235678"
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU"
   initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
-  # finals: " 235678"
+#  finals: "235678"
   delimiter: "-"
-  # use_space: true
-  # auto_select: true
+  use_space: false
+  auto_select: false
   algebra:
     # 去掉聲調
     - "xform/[1-8]//"
@@ -59,70 +60,67 @@ speller:
     - "derive/ie/io"
 
 translator:
-  dictionary: teochew.han
+  dictionary: teochew.puj
   enable_user_dict: true
-  enable_sentence: true
-  initial_quality: 1
-  spelling_hints: 6
-
-fixed:
-  dictionary: teochew.han
-  enable_user_dict: false
-  enable_completion: false
-  initial_quality: 64
-
-puj:
-  dictionary: teochew
   enable_encoder: true
   enable_sentence: true
   enable_completion: true
+  initial_quality: 1
+
+han:
+  dictionary: teochew.han
+  enable_user_dict: true
+  enable_sentence: true
   initial_quality: 0.75
 
 key_binder:
   bindings:
-    - when:   paging    # 僅當已發生向後換頁時，
+    - when: paging    # 僅當已發生向後換頁時，
       accept: bracketleft
-      send:   Page_Up
+      send: Page_Up
 
-    - when:   has_menu  # 只要有候選字即滿足條件
+    - when: has_menu  # 只要有候選字即滿足條件
       accept: bracketright
-      send:   Page_Down
+      send: Page_Down
 punctuator:
   half_shape:
-    " " : { commit: " " }
-    "," : { commit: ， }
-    "." : { commit: 。 }
-    "<" : [ 《, 〈, "<", «, ‹ ]
-    ">" : [ 》, 〉, ">", », › ]
-    "/" : [ 、, "/", ／, ÷ ]
-    "?" : { commit: ？ }
-    ";" : { commit: ； }
-    ":" : ：
-    "'" : { pair: [ "‘", "’" ] }
-    "\"" : { pair: [ "“", "”" ] }
-    "\\" : [ 、, "\\", ＼, ]
-    "|" : [ "|", ｜,  "§", "¦" ]
-    "`" : [ ·, "`" ]
-    "~" : [ 〜, "~", ～, 〰 ]
-    "!" : { commit: ！ }
-    "@" : { commit: "@" }
-    "#" : { commit: "#" }
-    "%" : { commit: "%" }
-    "$" : [ "$", ￥, "€", "£", "¥", "¢", "¤" ]
-    "^" : { commit: …… }
-    "&" : { commit: "&" }
-    "*" : [ "*", ＊, ×, ※, ❂ ]
-    "(" : （
-    ")" : ）
-    "-" : { commit: "-" }
-    "_" : [ —— , "_" ]
-    "+" : { commit: "+" }
-    "=" : { commit: "=" }
-    "[" : [ 「, 【, 〔, ［, "[" ]
-    "]" : [ 」, 】, 〕, ］, "]" ]
-    "{" : [ 『, 〖, ｛, "{" ]
-    "}" : [ 』, 〗, ｝, "}" ]
+    " ": { commit: " " }
+    ",": { commit: ， }
+    ".": { commit: 。 }
+    "<": [ 《, 〈, "<", «, ‹ ]
+    ">": [ 》, 〉, ">", », › ]
+    "/": [ 、, "/", ／, ÷ ]
+    "?": { commit: ？ }
+    ";": { commit: ； }
+    ":": ：
+    "'": { pair: [ "‘", "’" ] }
+    "\"": { pair: [ "“", "”" ] }
+    "\\": [ 、, "\\", ＼, ]
+    "|": [ "|", ｜,  "§", "¦" ]
+    "`": [ ·, "`" ]
+    "~": [ 〜, "~", ～, 〰 ]
+    "!": { commit: ！ }
+    "@": { commit: "@" }
+    "#": { commit: "#" }
+    "%": { commit: "%" }
+    "$": [ "$", ￥, "€", "£", "¥", "¢", "¤" ]
+    "^": { commit: …… }
+    "&": { commit: "&" }
+    "*": [ "*", ＊, ×, ※, ❂ ]
+    "(": （
+    ")": ）
+    "-": { commit: "-" }
+    "_": [ —— , "_" ]
+    "+": { commit: "+" }
+    "=": { commit: "=" }
+    "[": [ 「, 【, 〔, ［, "[" ]
+    "]": [ 」, 】, 〕, ］, "]" ]
+    "{": [ 『, 〖, ｛, "{" ]
+    "}": [ 』, 〗, ｝, "}" ]
 
 menu:
-  page_size: 6
-  alternative_select_keys: " ;,.'/\\"
+  page_size: 8
+  alternative_select_keys: "12345678"
+
+style:
+  horizontal: true
