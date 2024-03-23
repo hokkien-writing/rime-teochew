@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"0.3"
+version:	"2024.03.23"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
