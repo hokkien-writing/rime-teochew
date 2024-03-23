@@ -5,7 +5,7 @@
 # 維護於 https://github.com/tsunhua/teochew-character/teochew.puj.dict.yaml
 #
 ---
-name:	teochew
+name:	teochew.puj
 version:	"2024.03.23"
 sort:	by_weight
 use_preset_vocabulary:	false
