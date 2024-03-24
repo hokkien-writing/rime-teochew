@@ -62,6 +62,7 @@ speller:
     - "derive/ia(n|t)/ie$1"
     - "derive/ie(nn|h)/io$1"
     - "derive/ie/io"
+    - "derive/oi(nn)/ai$1"
 
 translator:
   dictionary: teochew.puj

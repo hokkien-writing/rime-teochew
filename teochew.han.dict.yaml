@@ -2958,6 +2958,8 @@ use_preset_vocabulary:	false
 餚	ngau5
 傲	ngau6
 逆	ngek8
+凝	ngeng5
+迎	ngeng5
 硬	ngenn6
 擬	ngi2
 議	ngi2
@@ -2978,9 +2980,7 @@ use_preset_vocabulary:	false
 驗	ngiam7
 研	ngian2
 願	ngian3
-凝	ngian5
 研	ngian5
-迎	ngian5
 妍	ngian5
 仰	ngiang2
 孽	ngiap8
@@ -3008,7 +3008,7 @@ use_preset_vocabulary:	false
 寓	ngo6
 寤	ngo6
 齧	ngoih
-研	ngoin2
+研	ngoinn2
 藕	ngou2
 偶	ngou2
 五	ngou2
@@ -3133,7 +3133,7 @@ use_preset_vocabulary:	false
 鞋	oi5
 會	oi6
 狹	oih8
-閒	oin5
+閒	oinn5
 握	ok
 沃	ok
 屋	ok
