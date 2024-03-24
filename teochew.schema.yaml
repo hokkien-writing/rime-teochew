@@ -43,7 +43,7 @@ speller:
   alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU"
   initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
 #  finals: "235678"
-  delimiter: " '"
+  delimiter: " -"
   use_space: false
   auto_select: false
   algebra:
