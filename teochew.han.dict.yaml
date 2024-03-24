@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.han
-version:	"2024.03.23"
+version:	"2024.03.24"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -44,6 +44,7 @@ use_preset_vocabulary:	false
 胺	an
 按	an3
 案	an3
+宴	an3
 晏	an3
 鼴	an3
 骯	ang
@@ -157,6 +158,7 @@ use_preset_vocabulary:	false
 吻	but
 勿	but
 齋	che
+姐	che2
 這	che2
 債	che3
 寨	che7
@@ -361,7 +363,7 @@ use_preset_vocabulary:	false
 樹	chhiu7
 膣	chi
 此	chi2
-姐	chi2
+姊	chi2
 詣	chi2
 脂	chi2
 址	chi2
@@ -396,6 +398,7 @@ use_preset_vocabulary:	false
 巳	chi6
 舐	chi6
 遮	chia
+姐	chia2
 者	chia2
 鍺	chia2
 蔗	chia3
@@ -484,9 +487,11 @@ use_preset_vocabulary:	false
 招	chie
 少	chie2
 照	chie3
+借	chieh
 質	chieh
 石	chieh8
 漿	chienn
+樟	chienn
 章	chienn
 蔣	chienn2
 槳	chienn2
@@ -4674,7 +4679,6 @@ use_preset_vocabulary:	false
 掉	tiau7
 調	tiau7
 潮	tie5
-着	tieh
 着	tieh8
 張	tienn
 長	tienn2
@@ -4960,6 +4964,7 @@ use_preset_vocabulary:	false
 巢	tshau5
 艙	tshng
 倉	tshng
+川	tshng
 穿	tshng
 瘡	tshng
 村	tshng
@@ -5236,6 +5241,7 @@ use_preset_vocabulary:	false
 堵	tu2
 睹	tu2
 賭	tu2
+著	tu3
 櫥	tu5
 帶	tua3
 舵	tua6
