@@ -5,7 +5,7 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "0.3"
+  version: "2024.03.24"
   author:
     - Lim <lshare@outlook.com>
   description: |
@@ -34,6 +34,7 @@ engine:
     - punct_translator
     - table_translator
     - script_translator@han
+    - reverse_lookup_translator
   filters:
     - simplifier
     - uniquifier
@@ -42,27 +43,28 @@ speller:
   alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU"
   initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
 #  finals: "235678"
-  delimiter: "-"
+  delimiter: " '"
   use_space: false
   auto_select: false
   algebra:
     # 去掉聲調
     - "xform/[1-8]//"
+    - "xform/^ch(i|e)/ts$1/"
+    - "xform/^chh(i|e)/tsh$1/"
+    - "xform/^j(i|e)/z$1/"
     - "derive/au/ao"
     - "derive/ua/oa"
     - "derive/ue/oe"
-    - "derive/iem/iam"
-    - "derive/iep/iap"
-    - "derive/iou/iau"
-    - "derive/ue(n|t)/ua$1"
-    - "derive/ie(n|t)/ia$1"
+    - "derive/iam/iem"
+    - "derive/iap/iep"
+    - "derive/iau/iou"
+    - "derive/ua(n|t)/ue$1"
+    - "derive/ia(n|t)/ie$1"
     - "derive/ie(nn|h)/io$1"
     - "derive/ie/io"
 
 translator:
   dictionary: teochew.puj
-  enable_user_dict: true
-  enable_encoder: true
   enable_sentence: true
   enable_completion: true
   initial_quality: 1
