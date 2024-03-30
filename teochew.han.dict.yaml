@@ -8,7 +8,7 @@
 name:	teochew.han
 version:	"2024.03.30"
 sort:	by_weight
-use_preset_vocabulary:	false
+use_preset_vocabulary:	true
 ...
 阿	a
 鴉	a
