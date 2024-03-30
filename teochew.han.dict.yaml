@@ -976,7 +976,7 @@ use_preset_vocabulary:	false
 腐	hu7
 花	hua
 華	hua
-譁	hua{嘩}
+譁	hua
 禾	hua5
 和	hua5
 華	hua5
@@ -1350,7 +1350,7 @@ use_preset_vocabulary:	false
 詠	iong3
 泳	iong3
 恿	iong3
-湧	iong3{涌}
+湧	iong3
 蓉	iong5
 榮	iong5
 融	iong5
@@ -2358,7 +2358,6 @@ use_preset_vocabulary:	false
 狸	lai5
 裏	lai6
 內	lai6
-裏	lai6{裡}
 來	lai7
 碌	lak
 落	lak
@@ -3299,9 +3298,9 @@ use_preset_vocabulary:	false
 秉	peng2
 炳	peng2
 迸	peng5
+幷	peng6
 併	peng6
 並	peng6
-幷	peng6{并}
 把	penn3
 柄	penn3
 棚	penn5
@@ -3805,8 +3804,8 @@ use_preset_vocabulary:	false
 猩	seng
 惺	seng
 旌	seng
+升	seng
 昇	seng
-升	seng{陞}
 省	seng2
 勝	seng3
 聖	seng3
@@ -4747,7 +4746,7 @@ use_preset_vocabulary:	false
 凋	tiau
 刁	tiau
 貂	tiau
-雕	tiau{鵰}
+雕	tiau
 吊	tiau3
 弔	tiau3
 條	tiau5
@@ -4850,7 +4849,7 @@ use_preset_vocabulary:	false
 殿	toinn7
 督	tok
 築	tok
-斫	tok{斲}
+斫	tok
 毒	tok8
 犢	tok8
 獨	tok8
@@ -5550,7 +5549,7 @@ use_preset_vocabulary:	false
 俞	zu5
 愉	zu5
 渝	zu5
-逾	zu5{踰}
+逾	zu5
 喻	zu6
 裕	zu6
 籲	zu6
