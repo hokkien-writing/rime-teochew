@@ -5,14 +5,20 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "2024.03.24"
+  version: "2024.05.22"
   author:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
     白話字及漢字
+    https://github.com/hokkien-writing/rime-teochew
 
 switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 
@@ -49,20 +55,20 @@ speller:
   algebra:
     # 去掉聲調
     - "xform/[1-8]//"
-    - "xform/^ch(i|e)/ts$1/"
-    - "xform/^chh(i|e)/tsh$1/"
-    - "xform/^j(i|e)/z$1/"
+    - "derive/^ch(i|e)/ts$1/"
+    - "derive/^chh(i|e)/tsh$1/"
+    - "derive/^j(i|e)/z$1/"
     - "derive/au/ao"
     - "derive/ua/oa"
     - "derive/ue/oe"
-    - "derive/iam/iem"
-    - "derive/iap/iep"
-    - "derive/iau/iou"
-    - "derive/ua(n|t)/ue$1"
-    - "derive/ia(n|t)/ie$1"
-    - "derive/ie(nn|h)/io$1"
-    - "derive/ie/io"
-    - "derive/oi(nn)/ai$1"
+    - "derive/iam$/iem"
+    - "derive/iap$/iep"
+    - "derive/iau$/iou"
+    - "derive/ua(n|t)$/ue$1"
+    - "derive/ie(nn|h)$/io$1"
+    - "derive/ie(n|t)$/ia$1"
+    - "derive/ie$/io"
+    - "derive/oi(nn)$/ai$1"
 
 translator:
   dictionary: teochew.puj
@@ -85,41 +91,6 @@ key_binder:
     - when: has_menu  # 只要有候選字即滿足條件
       accept: bracketright
       send: Page_Down
-punctuator:
-  half_shape:
-    " ": { commit: " " }
-    ",": { commit: ， }
-    ".": { commit: 。 }
-    "<": [ 《, 〈, "<", «, ‹ ]
-    ">": [ 》, 〉, ">", », › ]
-    "/": [ 、, "/", ／, ÷ ]
-    "?": { commit: ？ }
-    ";": { commit: ； }
-    ":": ：
-    "'": { pair: [ "‘", "’" ] }
-    "\"": { pair: [ "“", "”" ] }
-    "\\": [ 、, "\\", ＼, ]
-    "|": [ "|", ｜,  "§", "¦" ]
-    "`": [ ·, "`" ]
-    "~": [ 〜, "~", ～, 〰 ]
-    "!": { commit: ！ }
-    "@": { commit: "@" }
-    "#": { commit: "#" }
-    "%": { commit: "%" }
-    "$": [ "$", ￥, "€", "£", "¥", "¢", "¤" ]
-    "^": { commit: …… }
-    "&": { commit: "&" }
-    "*": [ "*", ＊, ×, ※, ❂ ]
-    "(": （
-    ")": ）
-    "-": { commit: "-" }
-    "_": [ —— , "_" ]
-    "+": { commit: "+" }
-    "=": { commit: "=" }
-    "[": [ 「, 【, 〔, ［, "[" ]
-    "]": [ 」, 】, 〕, ］, "]" ]
-    "{": [ 『, 〖, ｛, "{" ]
-    "}": [ 』, 〗, ｝, "}" ]
 
 menu:
   page_size: 8
