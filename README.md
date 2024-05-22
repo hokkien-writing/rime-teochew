@@ -22,7 +22,7 @@ Hiá 就是[潮州白話字](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7
 
 潮州白話字（Tiê-chiu Pe̍h-ūe-jī）是潮州話其羅馬字書寫系統，最早是 1875 年英國傳教士汲约翰佮卓威廉制定其「汕頭教會羅馬字」。之後出版了酷㩼（hoh-tsōi）《聖經》譯本。彼（Hṳ́）時陣，白話字在民間生了根，儂用伊來寫信傳書。
 
-現在稀罕了，也無儂教，推薦大家儂通過[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)佮《[Handbook of the Swatow Vernacular(汕頭話讀本)](https://hokkien-writing.github.io/swatowbook/main/)》家己學習。
+現在稀罕了，也無儂教，推薦大家儂透過[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)佮《[簡明潮州白話字](https://hokkien-writing.github.io/simple_puj/)》家己學習。
 
 漢字適合表意，一字之間包含豐富其意思，有長久其傳承；白話字適合表音，也有上百年其歷史。對於無便寫其字，既可訓用漢字，也可直接用白話字，至切莫用漢字音（無論是用普通話音還是潮州話音）來表記。此樣生正能各取其長，自由暢快正確其表達。
 
@@ -93,5 +93,5 @@ patch:
 
 ## 參考
 
-1. [潮州白話字-維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
-2. [Handbook of the Swatow Vernacular(汕頭話讀本)](https://hokkien-writing.github.io/swatowbook/main/)
+1. [簡明潮州白話字](https://hokkien-writing.github.io/simple_puj/)
+2. [潮州白話字-維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
