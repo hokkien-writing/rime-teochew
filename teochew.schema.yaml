@@ -5,7 +5,7 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "2024.05.22"
+  version: "2024.05.25"
   author:
     - Lim <lshare@outlook.com>
   description: |
@@ -92,6 +92,42 @@ key_binder:
     - when: has_menu  # 只要有候選字即滿足條件
       accept: bracketright
       send: Page_Down
+
+punctuator:
+  half_shape:
+    " ": { commit: " " }
+    ",": { commit: ， }
+    ".": { commit: 。 }
+    "<": [ 《, 〈, "<", «, ‹ ]
+    ">": [ 》, 〉, ">", », › ]
+    "/": [ 、, "/", ／, ÷ ]
+    "?": { commit: ？ }
+    ";": { commit: ； }
+    ":": ：
+    "'": { pair: [ "‘", "’" ] }
+    "\"": { pair: [ "“", "”" ] }
+    "\\": [ 、, "\\", ＼, ]
+    "|": [ "|", ｜,  "§", "¦" ]
+    "`": [ ·, "`" ]
+    "~": [ 〜, "~", ～, 〰 ]
+    "!": { commit: ！ }
+    "@": { commit: "@" }
+    "#": { commit: "#" }
+    "%": { commit: "%" }
+    "$": [ "$", ￥, "€", "£", "¥", "¢", "¤" ]
+    "^": [ "^", …… ]
+    "&": { commit: "&" }
+    "*": [ "*", ＊, ×, ※, ❂ ]
+    "(": （
+    ")": ）
+    "-": { commit: "-" }
+    "_": [ —— , "_" ]
+    "+": { commit: "+" }
+    "=": { commit: "=" }
+    "[": { commit: 「 }
+    "]": { commit: 」}
+    "{": { commit: 『 }
+    "}": { commit: 』}
 
 menu:
   page_size: 8
