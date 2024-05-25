@@ -1,6 +1,6 @@
 # rime-teochew（潮州話拍字方案）
 
-![有閒來食茶](img/u-oinn-lai-chiah-te.gif)
+![有閒來食茶](img/u-oinn-lai-chiah-te.GIF)
 
 ```
 【漢字】有閒來食茶
