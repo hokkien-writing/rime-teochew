@@ -17,17 +17,18 @@ switches:
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 中文句讀, 西文標點 ]
   - name: simplification
     states: [ 漢字, 汉字 ]
 
 engine:
   processors:
+    - ascii_composer
     - key_binder
     - speller
-    - selector
     - punctuator
+    - selector
     - navigator
     - express_editor
   segmentors:
@@ -38,7 +39,7 @@ engine:
   translators:
     - echo_translator
     - punct_translator
-    - table_translator
+    - script_translator
     - script_translator@han
     - reverse_lookup_translator
   filters:
@@ -72,15 +73,15 @@ speller:
 
 translator:
   dictionary: teochew.puj
+  enable_user_dict: true
   enable_sentence: true
-  enable_completion: true
   initial_quality: 1
 
 han:
   dictionary: teochew.han
   enable_user_dict: true
   enable_sentence: true
-  initial_quality: 0.75
+  initial_quality: 1
 
 key_binder:
   bindings:

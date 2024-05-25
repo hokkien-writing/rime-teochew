@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.han
-version:	"2024.05.22"
+version:	"2024.05.25"
 sort:	by_weight
 use_preset_vocabulary:	true
 ...
@@ -94,7 +94,6 @@ use_preset_vocabulary:	true
 蜜	bit8
 拇	bo2
 母	bo2
-沒	bo5
 亡	bo5
 無	bo5
 毋	bo5
