@@ -1,8 +1,8 @@
 # Rime dictionary
-# encoding:	utf-8
+# encoding: utf-8
 #
 # Teochew Han 潮州話漢字
-# 維護於 https://github.com/tsunhua/teochew-character/teochew.han.dict.yaml
+# 維護於 https://github.com/hokkien-writing/teochew-character/teochew.han.dict.yaml
 #
 ---
 name:	teochew.han
@@ -1494,7 +1494,7 @@ use_preset_vocabulary:	true
 尬	kai3
 蚧	kai3
 個	kai5
-個	kai7
+其	kai7
 鉻	kak
 各	kak
 角	kak
@@ -5068,6 +5068,7 @@ use_preset_vocabulary:	true
 矗	tshok
 觸	tshok
 戳	tshok
+簇	tshok
 促	tshok
 捉	tshok
 亍	tshok
