@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.puj
-version:	"2024.05.25"
+version:	"2024.05.26"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
