@@ -82,7 +82,7 @@ patch:
 
 ## 使用
 
-1. 本方案用字遵從 [hokkien-writing/teochew-character](https://github.com/hokkien-writing/teochew-character) 項目。
+1. 本方案用字遵從 [hokkien-writing/teochew-lexicon](https://github.com/hokkien-writing/teochew-lexicon) 項目。
 2. 聲調免拍。如愛拍出「來」，應拍 `lai` 而毋是 `lai5`。
 2. 連字符免拍。如愛拍出「食茶」，應拍 `chiahte` 而毋是 `chiah-te`。
 3. 拍 `ur` 出「ṳ」。如愛拍出「汝」或「lṳ́」，應拍 `lur`。
@@ -97,7 +97,7 @@ patch:
 若是汝有 Github 帳號，來做夥改進，讓伊用緊更加順手。
 
 1. 對於輸入法方面，請直接修改 `*.schema.yaml` 文件並提交 PR。
-2. 對於用字方面，請轉 [hokkien-writing/teochew-character](https://github.com/hokkien-writing/teochew-character) 項目進行修改後再提交 PR 修改 `*.dict.yaml` 文件。
+2. 對於用字方面，請轉 [hokkien-writing/teochew-lexicon](https://github.com/hokkien-writing/teochew-lexicon) 項目進行修改。
 
 ## 參考
 
@@ -106,4 +106,4 @@ patch:
 3. [潮州白話字-維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
 4. [MTR](http://tappcdn.resources.teochew.pw/files/20170114001.pdf)
 5. [潮语拼音输入法](https://github.com/kahaani/dieghv)
-6. [hokkien-writing/teochew-character](https://github.com/hokkien-writing/teochew-character)
+6. [hokkien-writing/teochew-lexicon](https://github.com/hokkien-writing/teochew-lexicon)
