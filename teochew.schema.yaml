@@ -5,7 +5,7 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "2024.05.25"
+  version: "2024.05.27"
   author:
     - Lim <lshare@outlook.com>
   description: |
@@ -13,6 +13,7 @@ schema:
     白話字及漢字
     https://github.com/hokkien-writing/rime-teochew
   dependencies:
+    - teochew_mandarin
     - luna_pinyin
 
 switches:
@@ -37,21 +38,23 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@mandarin_reverse_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
+    - reverse_lookup_translator@mandarin_reverse_lookup
     - reverse_lookup_translator
   filters:
     - simplifier
     - uniquifier
 
 speller:
-  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU"
-  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIU"
-#  finals: "235678"
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUf"
+  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIUf"
+  #  finals: "235678"
   delimiter: " -"
   use_space: false
   auto_select: false
@@ -74,7 +77,7 @@ speller:
     - "derive/oi(nn)$/ai$1"
 
 translator:
-  dictionary: teochew.han
+  dictionary: teochew
   prism: teochew_han
   enable_sentence: true
   enable_completion: false
@@ -86,9 +89,23 @@ recognizer:
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
     reverse_lookup: "`[a-z]*'?$"
+    mandarin_lookup: "v[a-z]*'?$"
+
+mandarin_reverse_lookup:
+  tag: mandarin_lookup
+  dictionary: teochew_mandarin
+  prefix: "v"
+  suffix: "'"
+  tips: "〔普通話反查〕"
+  enable_completion: false
+  enable_sentence: false
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
 
 reverse_lookup:
+  tags: [ mandarin_lookup ]
   enable_completion: false
+  enable_sentence: false
   dictionary: luna_pinyin
   prefix: "`"
   suffix: " '"
@@ -138,9 +155,9 @@ punctuator:
     "+": { commit: "+" }
     "=": { commit: "=" }
     "[": { commit: 「 }
-    "]": { commit: 」}
+    "]": { commit: 」 }
     "{": { commit: 『 }
-    "}": { commit: 』}
+    "}": { commit: 』 }
 
 menu:
   page_size: 8

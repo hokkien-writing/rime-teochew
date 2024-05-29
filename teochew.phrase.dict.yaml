@@ -1,0 +1,1171 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Teochew Phrase 潮州話-詞語
+# 維護於 https://github.com/hokkien-writing/rime-teochew/teochew.han.dict.yaml
+#
+---
+name:	teochew.phrase
+version:	"2024.05.29"
+sort:	by_weight
+use_preset_vocabulary:	true
+...
+阮	un2
+咱	nan2
+俺	nan2
+汝	lur2
+爾	lur2
+恁	nin2
+伊	i
+伊	i
+伊	i
+無	bo5
+未	bue7
+勿	mainn3
+不	m6
+此	chi2
+彼	hur2
+在	to6
+照	chie3
+轉	tng2
+共	kang7
+共	kah
+亦	ia7
+從	tshong5
+在	to6
+豈	khah
+若是	nann7 si6
+亞是	a si6
+有亞無	u6 a bo5
+袂	boi6
+底個	ti5 kai5
+請待	chhiann2 tann2
+感謝	kam2 sia7
+寬寬	khuann khuann
+定着	tiann7 tieh2
+罕得	han2 tit
+免	min2
+此樣生	chienn3 senn
+零些	lan5 lo2
+底當時	tiang si5
+底塊	ti5 ko3
+底塊夥	ti5 ko3 hue2
+底儂	ti5 nang5
+若㩼	jieh2 tsoi7
+約量	iak liang6
+依原	i nguan5
+起頭	khi2 thau5
+知觀	tsai kuan
+賜福	sur3 hok
+相借問	sie chieh mng7
+親像	chhin chhienn6
+緣故	uan5 ku3
+樣	ienn7
+目實	mak2 sit2
+分	pun
+乞	khurh|khoih
+在	tsai6
+愈	zu2
+愈好	zu2 ho2
+上好	siang6 ho2
+歇	hiah
+賰	tshun5
+落色	loh2 sek
+歇	hiah
+睡	ut8
+使費	so2 hui3
+使	sai2
+起	khi2
+換	uann7
+延遲	eng5 ti
+堪該	kham kai
+相接	sie chiap
+恬恬	tiam7 tiam7
+清潔	chheng khih
+攏總	long2 tsong2
+毋好	monn2
+烏	ou
+光	kng
+闊	khuah
+狹	oih2
+㩼	tsoi7
+多	tsoi7
+加	ke
+減	kiam2
+少	chie2
+𠕆	toinn7
+冇	phann3
+危	kuinn5
+下	ke6
+着	tieh2
+平樣	penn5 ie7
+親像	chhin chhienn6
+細	soi3
+滑	kut8
+細字	soi3 ji7
+隨便	chhin3 tshai2
+便	phinn
+翕	hip
+凊	chhin3
+凝	ngan5
+茹	zur5
+荒險	hong hiam2
+貴	kui3
+難	oh
+易	koi7
+垃圾	nah sap
+污糟	o tso
+灱	ta
+㴷	tam5
+漉	lok
+夠	kau3
+撈	la6
+猛	menn2
+雄	hiong5
+生疑	chhi gi5
+粗	tshou
+幼	iunn3
+漲	tinn6
+磽	khiau
+利	lai7
+敗	phai2
+無定着	bo5 tiann7 tieh2
+烏暗	ou am3
+萬世	buan7 si3
+財氣	tshai5 khi3
+切要	chhiet iou3
+妥當	tho2 tang3
+穩當	un2 tng3
+條直	tiau5 tit8
+光通	kng thang3
+施爲	si ui5
+能爲	leng5 ui5
+世間	si3 kan
+海墘	hai2 kinn5
+塗	thou5
+石部	chieh2 pou6
+風颱	huang thai
+海湧	hai2 eng2
+虹	kheng6
+流漲	lau5 tinn6
+流洘	lau5 kho2
+濛烟	mong5 in
+雹	phak2
+落雹	loh2 phak2
+落	loh2
+菰	kou
+日蝕	jit2 sih2
+月蝕	gueh2 sih2
+掃菷星	sau3 soi chhenn
+結凍	kit tang3
+伍星	ngou2 chhenn
+深坑	chhim khenn
+天時	thinn si5
+風雨針	huang hou7 tsam
+寒暑針	han5 su2 tsam
+眠起	meng5 khi2
+日晝	jit2 tau3
+暝昏	menn5 hng
+暝昏囝	menn5 hng kiann2
+半暝	puann3 menn5
+今暝	ke menn5
+上旰	chienn7 kua3
+上旰	e6 kua3
+日旰	jit2 kua3
+夜旰	menn5 kua3
+三更半暝	sann kenn puann3 menn5
+晏	uann2
+今	tann
+此陣	chi2 tsun5
+眼在	ngan2 tsai6
+現在	hin7 tsai6
+今旦日	kiann2 jit2
+明旦起	mann3 khi2
+後日	au6 jit2
+大後日	tua7 au6 jit2
+昨日	tsa jit2
+昨暝	tsa menn5
+日日	jit2 jit2
+排日	pai5 jit2
+排年	pai5 ninn
+明年	menn5 ninn5
+終久	tsong ku2
+逝逝	tsua7 tsua7
+下逝	e6 tsua7
+通日	thang3 jit2
+通暝	thang3 menn5
+下日	e6 jit2
+拜乙	pai3 it
+拜弍	pai3 ji7
+拜三	pai3 sann
+拜四	pai3 si3
+拜伍	pai3 ngou6
+拜陸	pai3 lak2
+禮拜	loi2 pai3
+歷日	lah2 jit2
+日子	jit2 chi2
+一尾魚	chek2 bue2 hur5
+五箍	ngou6 khou
+世情	si3 chheng5
+儂事	nang5 sur7
+人事	nang5 sur7
+儂情	nang5 chheng5
+人情	nang5 chheng5
+儂情	nang5 chhiann5
+人情	nang5 chhiann5
+頭毛	thau5 monn5
+面	min7
+面皮	min7 phue5
+目睭	mak2 chiu
+目仁	mak2 jin5
+目眉	mak2 bai5
+目眥毛	mak2 chhi3 monn5
+目睭皮	mak2 chiu phue5
+鼻空	phinn7 khang
+喙	tshui3
+喙唇皮	tshui3 lim5 phue5
+下頦	e6 hai5
+頰溝	kih kau
+頷	am6
+鬚	chhiu
+心肝頭	sim kuann thau5
+胳胴下	koh lang5 e6
+肩頭	koinn thau5
+指頭公	tsnng2 thau5 kong
+骹腿	kha thui2
+骹	kha
+骹頭趺	kha thau5 u
+骹目	kha mak2
+骹趾	kha tsoinn2
+前齒	tsoinn5 khi2
+牙頭齒	ge5 thau5 khi
+齒齦	khi2 ngurn5
+喉嚨	au5 leng3
+涎	nuann6
+肝	kuann
+腎子	sienn6 chi2
+脉	mehnn2
+筋	kurn
+血脉	hueh mehnn2
+朥	la5
+腰骨	ie kut
+尿脬	jie7 pha
+身尸	sin si
+𩩍籬骨	phiann li5 kut
+𩩍籬	phiann li5
+涎	nuann6
+目汁	mak2 tsap
+卵核	lan7 hut2
+卵脬	lan7 pha
+鬃	tsang
+額囟	hiah2 sin3
+額頭	hiah2 thau5
+尻脊	ka chiah
+脧	tsui6
+骹腸肚	kha tng5 tou2
+骹臁	kha niam5
+骹蹯	kha puann5
+骨殖	kuk sik8
+身屍	sin si
+腡	lo5
+𣴨(U+23D28)	phinn7
+氣	khui3
+丈夫	ta pou
+諸娘	tsur nienn5
+珠娘	tsur nienn5
+孥囝	nounn kiann2
+阿娘	a nienn5
+阿娘囝	a nienn5 kiann2
+唐人	tng5 nang5
+唐儂	tng5 nang5
+畨人	huan nang5
+畨儂	huan nang5
+烏面儂	ou min7 nang5
+浪蕩儂	lo2 tong7 nang5
+落神婆	loh2 sin5 phua5
+出外儂	tshut gua7 nang5
+生分儂	chhenn hun7 nang5
+生份儂	chhenn hun7 nang5
+阿公	a kong
+阿姨	a ai5
+阿𡟓(U+217D3)	a ai5
+阿嬭	a ni
+阿㜷	a ni
+嬭母	ni bo2
+阿嬭	a ni
+阿㜷	a ni
+囝	kiann2
+大官	ta kuann
+阿公	a kong
+大家	ta ke|tua7 ke
+阿媽	a ma2
+大家官	ta ke kuann|tua7 ke kuann
+新婦	sin pu6
+翁姐	ang chia2
+翁姐囝	ang chia2 kiann2
+母	bou2
+𡚸(U+216B8)	bou2
+𡜿(U+2173F)	bou2
+小郎	sie2 nng5
+外家	gua7 ke
+丈人	tienn6 nang5
+丈母	tienn6 m2
+丈母婆	tienn6 m2 phua5
+阿妗	a kim6
+同門	tang5 mng5
+親情	chhin chiann6
+人客	nang5 kheh
+儂客	nang5 kheh
+孤老	ku lau|kou2 lau2
+單丁	tuann teng
+丈夫囝	ta pou kiann2
+阿舍	a sia3
+阿舍	a sia3
+行止	heng6 chi2
+無行	bo5 heng6
+名頭	miann thau5
+名色	miann sek
+小禮	siou2 li2
+見笑	kien3 siou3
+𠢕(U+20895)	gau5
+賢	gau5
+勥	khiang3
+力	lat2
+勤	lat2
+惰	tuann6
+規矩	kui kur2
+無規矩	bo5 kui ku2
+雅	ngia2
+雅在	ngia2 tsai6
+壯	tsang3
+㾪	san2
+瘦	san2
+野樣	ia2 ienn7
+醜陋	ia2 ienn7
+惡	ak
+孥囝款	nounn kiann2 khuan2
+稱誦	o lo2
+靈精	leng5 cheng
+趣味	tshu3 bi7
+悽慘	chhi tsham2
+臭儂	tshau3 nang5
+柴頭	tsha5 thau5
+漏囝	lau2 kiann2
+破家囝	phua3 ke kiann2
+戇	kong5
+衰颯	sue sap
+衰疲	sue phi5
+獃	ngai5
+倒誻	to3 tah8
+譗𧫡(U+27AE1)	tah8 tih8
+𤞚(U+2479A)	siau2
+面䩍(U+4A4D)䩍青	min7 liau liau chenn
+䶕(U+4D95)牙	l0
+條條	tiau5 tiau5
+條直	tiau5 tit8
+垃圾相	nah sap sienn3
+邋遢	lap thap
+健	kiann7
+後生	hau6 senn
+花貓	hue niaunn
+花嘴	hue tshui3
+本等	pun2 teng2
+痞囝	phai2 kiann2
+刁厥	tiau khiak
+翹楚	khiou5 tsho2
+跳脫	thiau3 thut
+無中用	bo5 teng3 eng7
+闊達	khuah tak8
+狹#	oih8 sueh
+物	mueh2
+睇	thoinn2
+呾	tann3
+走	tsau2
+行	kiann5
+添	thinn
+應	in3
+駁	poh
+䛩	a3
+詏	a3
+奈	nainn6
+拍	phah
+食	chiah2
+負	pi3
+携	kuann6
+掠	liah2
+呌	kie3
+喊	ham3
+煮	tsur2
+拔	puah2
+跌落	ka lauh2
+驚	kiann
+畏	ui3
+相拍	sie phah
+覔	tshue7
+約	ieh
+持	khieh2
+掌	chien2
+觀顧	kuan ku3
+追	jiou7
+耍	sng2
+壓	jih2
+挽	tui2
+拖	thua
+相罵	sie menn7
+拭	chhit
+嘶	soi
+嚷	jiang2
+鼻	phinn7
+徛	khia6
+企	khia6
+縛	pak2
+㪗	thau2
+曳手	iah2 chhiu2
+唚	chim
+打拍	phah phok8
+盪喙	tng6 chhui3
+惜	sieh
+憶得	it tit
+行孝	kiann5 hau3
+掛慮	khua3 lur6
+告勞	koh lo5
+應承	in3 seng5
+引荐	in2 chin3
+閑遊	oinn5 iu5
+週流	chiu liu5
+講論	kang2 lun6
+相䛩	sie a3
+付托	hu3 thoh
+念路	liam7 lou7
+報知	po3 tsai
+探問	tham3 mng7
+冤家	uan ke
+寃家	uan ke
+排比	pai5 pi2
+交挿	kau tshap
+交插	kau tshap
+羼隊	tshan6 tui7
+挿羼	tshah tshan6
+插羼	tshah tshan6
+盯綴	teng tue3
+煩惱	huan5 lo2
+詖話	phueh2 ue7
+預	ur6
+惡	lou2
+曉	hiou2
+巡	sun5
+巡	sun5
+囥	khng3
+展	tian2
+生事	senn sur7
+做骹手	tso3 kha chhiu2
+做腳手	tso3 kha chhiu2
+誑	kuang
+行踏	kiann5 tah8
+打疊	ta2 tiap8
+打揲	ta2 tiap8
+刁蹬	tiau tun3
+過責	kue3 cheh
+責罪	cheh tsue7
+詈	li5
+咄	tuah
+諑	tok
+嚷	jiang2
+讓	jiang2
+心性	sim senn3
+歡喜	huann hi2
+快活	khuann3 uah2
+爽快	song2 khuai3
+奇異	khi5 i6
+驚愕	kiann ngoh8
+愊	pek
+偪側	pek chhek
+適意	sek i5
+心憧憧	sim tong5 tong5
+雜集	tsap8 chip8
+雜疾	tsap8 chip8
+衝性	cheng3 senn5
+衋心	kek sim
+先生	sin senn
+破病	phua3 penn7
+畧好	iou2 ho2
+斷氣	tng6 khui3
+傷風	sienn huang
+寒着	kuann5 tieh2
+發燒	huat sie
+畏凊	ui3 chhin3
+咬嗽	ka sau3
+頭眩	thau5 hin5
+眩船	hin5 tsun5
+肚痛	tou2 thiann3
+齒痛	khi2 thiann3
+抽痛	thiu thiann3
+肚漏	tou2 lau3
+漏屎	lau3 sai2
+空肚	khang tou2
+肚澁	tou2 siap
+着痧	tieh2 sua
+痢疾	li6 chit
+損病	sun3 penn7
+瘋痛	huang thiann3
+生瘋	senn huang
+甘虫	kam thang5
+甘癪	kam chek
+大舌	tua7 chih2
+鮡	thiou5
+瘡	tshng
+痔	thi6
+疥	koi3
+㿗	thue5
+不知人	m7 tsai nang5
+吐瀉	thou3 sia3
+出珠	tshut tsu
+賢亞娘	gau5 a nienn5
+食痘	chiah2 tau7
+出痘	tshut tau7
+種珠	cheng3 tsu
+大頷奎	tun7 am6 kui
+瘤	liu5
+軟疕	nng2 ninn5
+痒癲	kuan3 pien
+癲	siou2
+愩	kong3
+痱	bui3
+癬	sien2
+青盲	chhenn menn5
+啞	e2
+缺嘴	khih tshui3
+腰佝	ie ku
+腰痀	ie ku
+佝腰	ku ie
+痀腰	ku ie
+拐骹	kuai2 kha
+穢	ue3
+傷痕	sienn hun5
+瘟瘴	un chiang3
+紅藥	ang5 ieh2
+身分	sin hun7
+結疕	kit phi2
+氣力	khi3 lat2
+浮膿	pu6 lang5
+目澁	mak2 siap
+目澀	mak2 siap
+目𥍆(U+25346)	mak2 siap
+困	hek2
+㦙	nga3
+落產	loh2 suann2
+呵欠	huah hi3
+自盡	tsur6 chin6
+醫館	ui kuan2
+破相	pua3 sienn3
+拍呃	pah oh
+嘔噦	au2 ueh
+錯	tshoh
+黃𦅇(U+26147)瘦㾪	ng5 sng
+肨	phong3
+胕腫	pu6 cheng2
+近覷	kurn6 tshur3
+雀暝	chiau2 menn5
+食積	chiah8 chek
+脹肚	tienn3 tou2
+㽱痛	ka2 thiann3
+𤷗(U+24DD7)裂	pik lih8
+暍着暑	hiak tieh8 su2
+偏枯	phian kou
+㾫枯	phian kou
+禿掌	thok chiann2
+乏	hek8
+垢圿	kau2 koih
+衫褲	sann khou3
+裘	hiunn5
+棉裘	minn5 hiunn5
+袷囝	kah kiann2
+答背	tah pue3
+身底衫	sin toi2 sann
+䘼	ng2
+衫䘼	sann ng2
+衫袋	sann to7
+手布	chhiu2 pou3
+手綢	chhiu2 tiu5
+手套	chhiu2 lap
+鈕	liu2
+鈕縫	liu2 phang7
+棕蓑	tsang sui
+葵笠	koih2 loih2
+頷領	am6 niann2
+褲橛	khou3 kueh2
+褲帶	khou3 tua7
+鞋拖	oi5 thua
+金器	kim khui3
+時鏢	si5 pie
+手指	chhiu2 chi2
+耳鈎	hinn6 kau
+剃頭	thi3 thau5
+頭布	thau2 pou3
+排塲	phai5 chhiang5
+衫裾	sann kur
+襇	koinn2
+襊	tsue7
+褲腳	khou3 kha
+褲骹	khou3 kha
+骹𢅎(U+2214E)	l2
+動角	tong6 kak
+屐	kiah8
+頷幋	am6 phuan5
+頷幔	am6 muann
+褪	thng3
+掛	kua3
+縫	thinn7
+羔丕	ko pi5
+味素	bi7 sou7
+粿	kue2
+餜	kue2
+甜糕	tiam5 ko
+牛乳油	gu5 ninn6 iu5
+卵	nng6
+糜	muenn|mue5
+飲	am2
+咖喱	ka li5
+膠離	ka li5
+末	buah2
+芥辣	kai3 luah2
+燒水	sie tsui
+粟倉	chhek tshng
+灌腸	kuan3 tng5
+卵淸	nng6 chheng
+卵仁	nng6 jin5
+縻	minn5
+滂沛	phang5 phai3
+霶霈	phang5 phai3
+酥	sou
+截	tsoih2
+扭	liu2
+掘	kut2
+批	phoi
+割	kuah
+剁	tok
+刣	thai5
+剁脞	tok tsho7
+剁莝	tok tsho7
+浮	phu5
+翕	hip
+炊	tshue
+𤇢	pek
+焙	pue7
+試	chhi3
+煴	un3
+曝	phak2
+哺	pou7
+荒喪	tak nng7
+隔乳	keh ninn6
+腥	chhenn
+肚困	tou2 khun3
+枵	iau
+淖糜	chhieh mue5
+腈肉	chiann nek8
+赤肉	chhiah nek8
+白肉	peh8 nek8
+脢肉	bue5 nek8
+槽頭肉	tso5 thau5 nek8
+肉脞	nek8 tsho7
+滾水	kun2 tsui
+潘	phun
+䭕	chiann2
+薄	poh8
+芳	phang
+臊	tsho
+食臊	chiah2 tsho
+蔫	iang
+醪	lo5
+滒	ko
+買配	bue2 phue3
+欶	suh
+𩛌(U+296CC)	chi3
+䭄	chi3
+嗜	chi3
+啉	lim
+熇	hoh
+煠	sah8
+烙	luah
+熻	hip
+煆火	hiann5 hue2
+煏	pek
+撒	suah
+豉油	si7 iu5
+灶頭	tsau3 thau5
+暖爐	zuan2 lou5
+食槅	chiah8 keh
+手巾	chhiu2 kurn
+食床	chiah2 tshng5
+飯床	png7 tshng5
+湯匙	thng si5
+甌	au
+碗公	uann2 kong
+盤囝	puann5 kiann2
+茶盅	te6 cheng
+茶礶	te5 kuan3
+羔丕磨	ko pi5 bo7
+玻璃樽	po li5 tsun
+酒開	chiu2 khui
+風爐	huang lou5
+鼎	iann2
+鍋	ue
+砧	tiam
+箸	tur7
+甕	ang3
+鑤	pau3
+自來火	tsur6 lai5 hue2
+火牌	hue2 pai5
+火柴	hue2 tsha5
+炭	thuann3
+火灰	hue2 hu
+私家	sai khia
+洗浴	soi2 ek8
+早起	tsau2 khi2
+使錢	sai2 chinn5
+破錢	phua3 chinn5
+筅	tshoinn2
+刷	chhiu3
+物件	mueh2 kiann6
+家私	ke si
+棹	toh
+交椅	kau inn2
+骹踏椅	kha tah2 inn2
+儂公囝	nang5 kong kiann2
+花干	hue kan
+奇巧物	khi5 kha2 mueh2
+氈	chinn
+四方床	si3 pang tshng5
+圓床	inn5 tshng5
+床頂	tshng5 teng2
+床布	tshng5 pou3
+撞枳	thng7 chi2
+拭骹其蓑	chhit kha kai5 sui
+眠床	min5 tshng5
+褥	zok2
+炕床	khang3 tshng5
+匟床	khang3 tshng5
+枕頭囊	chim2 thau5 long5
+齒刷	khi2 chhiu3
+剃刀	thi3 to
+筅	tshoinn2
+衫吊	sann tiou3
+帽吊	bo7 tiou3
+槅	keh
+格	keh
+面盆	min7 phun5
+屎鉢	sai2 puah
+面布	min7 pou3
+浴布	ek2 pou3
+畨梘	huan kang2
+餅藥	piann2 ieh2
+海茸	hai2 zong5
+芳水	phang tsui2
+洗浴桶	soi2 ek2 thang2
+骹桶	kha thang2
+燈盞	teng chuann2
+掃箒	sau3 siu2
+糞斗	pun3 tau2
+糞箕	pun3 ki
+鎖匙	so2 si5
+鎖	so2
+柴槌	tsha5 thui5
+馬索	be2 soh
+骸	tau5
+風禽	huang khim5
+小影	siou2 iann2
+水抽	tsui2 thiu
+布碎	pou3 chhui3
+目鏡	mak2 kiann3
+馬踏䟓	be2 tah2 teng3
+匏桸	pu5 hia
+瓠𣟵(U+237F5)	pu5 hia
+口㼦	khou2 kong2
+私家錢	sai khia chinn5
+鋪陳	phou tin5
+索囝	soh kiann2
+鑿囝	tshak2 kiann2
+鑽囝	tshak2 kiann2
+斧頭	pou2 thau2
+釘咬	teng ka6
+蛺蝶	hiap2 tiap2
+烏油	ou iu5
+油刷	iu5 sueh
+銅指	tang5 tsoinn2
+鉸刀	ka to
+窗	theng
+窓	theng
+鱟伯策	hau7 peh chheh
+生鉎	senn san
+鷹架	in ke3
+厝	tshu3
+內	lai6
+厝頂	tshu3 teng2
+地骹	ti7 kha
+塗骹	thou5 kha
+寬埕	khuann tiann5
+睇書房	thoinn2 tsur pang5
+食房	chiah2 pang5
+伙食房	hue2 sit2 pang5
+臥房	ut2 pang5
+洗浴房	soi2 ek2 pang3
+貯貨房	tun hue3 pang5
+批館	phoi kuan2
+信關	sin3 kuan
+鄕里	hienn li2
+舖	phou3
+沿	in5
+市	chhi6
+草埔	tshau2 pou
+地界	ti7 kai3
+客店	kheh tiam3
+東司	tang si
+馬房	be2 pang5
+門扇後	mng5 sinn3 au6
+行差路	kiann5 tann7 lou7
+車租	chia tsou
+做節	tso3 tsoih
+做生日	tso3 senn jit8
+帖	thiap
+氽水	siu5 tsui
+輸贏	su iann5
+相輸	sie su
+打紙牌	phah tsua2 pai5
+賻錢	puah2 chinn5
+騷館	sau kuan2
+桩家	tsng ke
+食薰	chiah2 hun
+新人	sin nang5
+新人爹	sin nang5 tia
+送喪	sang3 sng
+戴孝	tua3 ha3
+脫孝	thut ha3
+做七	tso3 chhit
+禽獸	khim5 siu3
+眾生	cheng senn
+狗母	kau2 bo2
+豬哥	tur ko
+雞翁	koi ang
+𤞚(U+2479A)狗	siau2 kau2
+墨斗	bak2 tau2
+魴龜	hang ku
+魚春	hur5 tshun
+魚子	hur5 chi2
+魚腮	hur5 chhi
+粉鳥	hun2 chiou2
+貓頭鳥	ngiau thau5 chiou2
+燕鳥	inn3 chiou2
+冊魚	chheh hur5
+木虱	bak2 sat
+蜂岫	phang siu7
+蜈蜞	hou5 khi5
+欉	tsang5
+月記	gueh2 ki3
+⿱艹麾	monn
+成樹	seng5 chhiu7
+白發其	peh2 huat kai5
+畨葛	huan kuah
+畨薯	huan tsur5
+茶米	te5 bi2
+苡米	iunn3 bi2
+斜莪粉	sia5 go7 hun2
+荷蘭薯	ho5 lan tsur5
+菜頭	tshai3 thau5
+高麗菜	ko le6 tshai3
+簥	kie5
+吊瓜	tiou3 kue
+畨瓜	huan kue
+匏	pu5
+荷蘭荳	ho5 lan tau7
+菜荳	tshai3 tau7
+角瓜	kak kue
+莞荽	uan5 sui
+生菜	chhenn tshai3
+薟椒	hiam chie
+香菰	hienn kou
+菓子	kue2 chi2
+芎蕉	keng chie
+柑	kann
+桔	kit
+檨	suainn7
+石榴	sieh2 liu5
+杮	sai6
+綱膠	mang7 ka
+綱黑	mang7 hek
+林擒	lim5 khim5
+栳㭳	lau6 hau3
+畨梨	huan lai5
+旺梨	uang5 lai5
+薺蔥	chinn5 tshang
+龍眼	nek2 oinn2
+荔菓	noinn5 kue2
+蓮角	noinn5 kak
+厚栗	kau6 lak2
+地豆	ti7 tau7
+蠟蔗	lah2 chia3
+竹蔗	tek chia3
+蔗粕	chia3 phoh
+菜頭槁	tshai3 thau5 khau2
+寫字床	sia2 ji7 tshng5
+冊架	chheh ke3
+冊橱	chheh tu5
+冊皮	chheh phue5
+鐵筆	thih pit
+信皮	sin3 phue5
+批皮	pho phue5
+尪囝	ang kiann2
+儂囝	nang5 kiann2
+古事	kou2 sur7
+古傳	kou2 tng7
+考	khau2
+別	pat
+識	pat
+解說	koi2 sueh
+點卯	tiam2 bau2
+寸進	tshun3 chin3
+掌更儂	chienn2 kenn nang5
+司阜	sai pe6
+工錢	kang chinn
+割工錢	kuah kang chinn
+伙頭	hue2 thau5
+火頭	hue2 thau5
+職任	cheh jim6
+乞食	khurt chiah2
+訟師	song6 sur
+督工	tok kang
+作工	tsoh kang
+花娘	hue nienn5
+布疋	pou3 phit
+布路	pou3 lou7
+呢	ninn5
+𦮴(U+26BB4)	ninn5
+水呢	tsui2 ninn5
+水𦮴(U+26BB4)	tsui2 ninn5
+絨	zong5
+熱布	zuah2 pou3
+花布	hue pou3
+皺紗	jiou3 se
+鏇	suan7
+紅銅	ang5 tang5
+火石	hue2 chieh2
+鹽硝	iam2 siau
+硝	siau
+白𥐥	peh2 huan5
+白矾	peh2 huan5
+生𥐥	chhenn huan5
+生矾	chhenn huan5
+鐵碎	thih tshui3
+鐵棍	thih kun3
+銅薄	tang5 poh2
+錫薄	siah poh2
+紙花	tsua2 hue
+荖枳	lau2 chi2
+荖葉	lau2 hieh2
+甘蜜	kam bit2
+樟栳	chienn lo2
+樟柴	chienn tsha5
+桂皮	kui3 phue5
+物食	mueh2 chiah2
+仙瑚	sien hu5
+珊瑚	san hu5
+𦈢	hui5
+碰鰾	phong3 phie6
+色料	sek liou7
+雞毛筅	koi monn5 tshoinn2
+樹泥	chhiu7 ninn5
+蠔珠	o5 tsu
+蠔壳鏡	o5 khak kiann3
+枋	pang
+鎦金器	liu7 kim khi3
+火#	hue2 suh2
+香柴	hionn tsha5
+燕菜	ien3 tshai3
+魚翼	hur5 sit2
+紙煤	tsua2 bue5
+赤糖	chhiah thng5
+烏糖	ou thng5
+大柴	tua7 tsha5
+數簿	siou3 phou6
+總簿	tsong2 phou6
+來往	lai5 uang2
+歸原	kui nguan5
+日清	jit2 chheng
+算數	sng2 siou3
+收數	siu siou3
+來銀	lai2 ngurn5
+記數	ki3 siou3
+上數	chienn6 siou3
+盤數	puann5 siou3
+開單	khui tuann
+收單	siu tuann
+面會	min7 hue6
+計共	koi3 kang7
+算摩	sng3 bua5
+除	tur5
+乘	sen5
+分	pun
+掌櫃	chiang2 kuinn7
+財副	tshai5 hu3
+大財副	tua7 tshai2 hu3
+好趁	ho2 than3
+好贃	ho2 than3
+紙字	tsua2 ji7
+倒賬	to2 tienn3
+本錢	png2 chinn5
+現錢	hien7 chinn5
+找錢	tau2 chinn5
+抽分	thiu hun3
+賒	chhia
+債主	che3 tsu2
+抽減	thiu kiam2
+銀單	ngurn5 tuann
+對單	tui3 tuann
+催迫	tshui pek
+定銀	tiann7 ngurn5
+使(錢)	sai2
+所費	so2 hui3
+保家	po2 ke
+保家字	po2 ke ji7
+保家館	po2 ke kuan2
+利錢	lai7 chinn5
+落本	loh2 png2
+蝕本	sih2 png2
+找錢行	tau2 chinn hang5
+典	toinn2
+當	tng3
+典契	toinn2 khoi3
+典主	toinn2 tsu2
+當主	tng3 tsu2
+底子	toi2 tsur2
+價錢	ke3 chinn5
+落價	loh2 ke3
+起價	khi2 ke3
+趁	than3
+贃	than3
+稅	sue3
+厝稅	tshu sue3
+厝主	tshu3 tsu2
+保領	po2 niann2
+重利	tang6 lai7
+出字白	tshut ji7 peh2
+公親	kong chhin
+二手	ji7 chhiu2
+攬儎字	nam2 tsai7 ji7
+拍空	phah khang
+生理	seng li2
+生理儂	seng li2 nang5
+憑單	pheng5 tuann
+字號	ji7 ho7
+稅務司	sue3 bu6 si
+批信	phoi sin3
+家信	ke sin3
+買客	boi2 kheh
+過限	kue3 hang6
+拆夥記	thiah hue2 ki3
+餉關	hiang3 kuan
+餉	hiang3
+携餉	khieh hiang3
+納餉	lap2 hiang3
+走餉	tsau2 hiang3
+頭路	thau5 lou7
+貨	hue3
+出口貨	tshut khau2 hue3
+入口貨	jip2 khau2 hue3
+貨單	hue3 tuann
+家長	ke tienn2
+報餉單	po3 hiang3 tuann
+街市	koi chhi6
+客商	kheh siang
+新聞紙	sin bun6 tsua2
+簿囝	phou6 kiann2
+路票	lou7 phie3
+酒錢	chiu2 chinn5
+零些賣	lan5 san boi7
+鋪頭	phou3 thau5
+交掛	kau kua3
+買上盤	boi2 chienn7 puann5
+賣上盤	boi7 chienn7 puann5
+做上盤	tso3 chienn7 puann5
+頭家	thau5 ke
+火船	hue2 tsun5
+火船囝	hue2 tsun5 kiann2
+陽車火船	iang5 chhia hue2 tsun5
+紅頭船	ang5 thau5 tsun5
+渡船	tou7 tsun5
+船囝	tsun5 kiann2
+桅	ui5
+槳	chienn2
+索	soh
+椗	teng3
+拋椗	pha teng3
+烟筒	in tang5
+水烟	tsui2 in
+陂	pi
+藥鬼	ieh2 kui2
+輪	lin2
+紡	phang2
+舵	tua6
+掠舵	liah2 tua6
+羅經	lo5 kenn
+千里鏡	tshoinn li2 kiann3
+開帆	khui phang5
+收帆	siu phang5
+駛	sai2
+伙長	hue2 tienn2
+船主	tsun5 tsu2
+大伙	tua7 hue2
+二伙	ji7 hue2
+舵工	tai6 kong
+水手	tsui2 siu2
+帶水	tshua7 tsui2
+直透	tit2 thau3
+落船	loh2 tsun5
+船租	tsun5 tsou
+海嶼	hai2 sur6
+流水雄	lau5 tsui2 hiong5
+流水平	lau5 tsui2 penn5
+沙壩	sua pa3
+沙埧	sua pa3
+禁口	kim3 khau2
+禁港	kim2 kang2
+行船人	kiann5 tsun5 nang5
+杉排	sam pai5
+杉牌	sam pai5
+竹排	tek pai5
+竹牌	tek pai5
+勢頭	si3 thau5
+王帽	uang5 bo7
+龍位	leng5 ui7
+大頭腦	tua7 thau5 lo2
+案	uann3
+被告	pi6 ko3
+犯律	huam6 lut2
+擔承	tam seng5
+受賄	siu6 iu6
+食錢	chiah2 chinn5
+定罪	tiann6 tsue6
+賞格	sienn2 keh
+頭儂	thau5 nang5
+擔枷	tann ke5
+本分	png2 hun7
+冤屈	uang khuk
+天主教	thien tsu2 ka3
+新教	ia5 sou ka3
+禮拜堂	loi2 pai3 tng5
+拜老爺	pai3 lau6 ia5
+掛紙	kue3 tsua2
+讀經	thak2 keng
+相刣	sie thai5
+銃	chheng3
+銃子	chheng3 chi2
+銃空	chheng3 khang
+大銃	tua7 chheng3
+𨫋	kong3
+炮臺	phau5 thai5
+平和	pheng5 hua5
+職銜	cheh ham5
+刀壳	to khah
+籐牌	tin pai5
+營盤	iann5 puann5
+置營	ti3 iann5
+戰船	chien3 tsun5

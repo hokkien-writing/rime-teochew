@@ -1,0 +1,1171 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Teochew Mandarin 潮州話-普通話
+# 維護於 https://github.com/hokkien-writing/rime-teochew/teochew_mandarin.dict.yaml
+#
+---
+name:	teochew_mandarin
+version:	"2024.05.29"
+sort:	by_weight
+use_preset_vocabulary:	true
+...
+阮	wo men
+咱	wo men
+俺	wo men
+汝	ni
+爾	ni
+恁	ni men
+伊	ta
+伊	ta
+伊	ta
+無	mei you
+未	mei
+勿	bu yao
+不	bu
+此	zhe
+彼	na
+在	zai
+照	an
+轉	hui
+共	he
+共	he
+亦	ye
+從	cong
+在	cong
+豈	tai
+若是	ru guo
+亞是	huo zhe shi
+有亞無	you mei you
+袂	bu hui
+底個	na ge
+請待	shao deng
+感謝	gan xie
+寬寬	jian jian
+定着	yi ding
+罕得	hen shao
+免	bu yong
+此樣生	ru ci
+零些	yi xie
+底當時	shen me shi hou
+底塊	na li
+底塊夥	na li ren
+底儂	na ge ren
+若㩼	duo shao
+約量	da yue
+依原	yi jiu
+起頭	kai shi
+知觀	dang xin
+賜福	zhu fu
+相借問	da zhao hu
+親像	hao xiang
+緣故	yuan yin
+樣	wai guan
+目實	kan tou
+分	gei
+乞	gei
+在	hen
+愈	yue
+愈好	geng hao
+上好	zui hao
+歇	ting
+賰	sheng xia
+落色	tui shai
+歇	xiu xi
+睡	shui
+使費	hua fei
+使	hua fei
+起	kai shi
+換	gai bian
+延遲	tui chi
+堪該	ying shou
+相接	lian jie
+恬恬	jing jing
+清潔	qian jing
+攏總	zong gong
+毋好	bu hao
+烏	hei
+光	liang
+闊	kuan
+狹	zhai
+㩼	duo
+多	duo
+加	duo
+減	shao
+少	shao
+𠕆	ying
+冇	ruan
+危	gao
+下	di
+着	dui
+平樣	yi yang
+親像	xiang si
+細	xiao
+滑	guang hua de
+細字	zai xi
+隨便	sui bian
+便	pian yi
+翕	men
+凊	leng
+凝	leng
+茹	luan
+荒險	wei xian
+貴	qin ai de
+難	kun nan
+易	rong yi
+垃圾	la ji
+污糟	la ji
+灱	gan
+㴷	shi
+漉	shi tou
+夠	zu gou
+撈	zu gou
+猛	kuai
+雄	kuai
+生疑	ang zang
+粗	cu cao
+幼	jing zhi
+漲	man
+磽	qiong
+利	feng li
+敗	huai
+無定着	bu que ding
+烏暗	hei an
+萬世	yong heng
+財氣	xing yun
+切要	zhong yao
+妥當	wen tuo
+穩當	wen tuo
+條直	wen tuo
+光通	tou ming
+施爲	ban fa
+能爲	neng li
+世間	shi jie
+海墘	hai bian
+塗	tu
+石部	shi tou
+風颱	tai feng
+海湧	hai lang
+虹	cai hong
+流漲	zhang chao
+流洘	tui chao
+濛烟	mi wu
+雹	bing bao
+落雹	xia bing bao
+落	jiang
+菰	mei
+日蝕	ri shi
+月蝕	yue shi
+掃菷星	hui xing
+結凍	dong jie
+伍星	xing xing
+深坑	shan gu
+天時	tian qi
+風雨針	qing yu biao
+寒暑針	wen du ji
+眠起	zao shang
+日晝	zhong wu
+暝昏	wan shang
+暝昏囝	bang wan
+半暝	ban ye
+今暝	jin ye
+上旰	shang wu
+上旰	xia wu
+日旰	bai tian
+夜旰	ye jian
+三更半暝	san geng ban ye
+晏	wan
+今	xian zai
+此陣	xian zai
+眼在	xian zai
+現在	xian zai
+今旦日	jin tian
+明旦起	ming tian
+後日	hou tian
+大後日	da hou tian
+昨日	zuo tian
+昨暝	zuo ye
+日日	tian tian
+排日	tian tian
+排年	nian nian
+明年	ming nian
+終久	zong shi
+逝逝	mei ci
+下逝	xia ci
+通日	zheng tian
+通暝	zheng ye
+下日	ta ri
+拜乙	xing qi yi
+拜弍	xing qi er
+拜三	xing qi san
+拜四	xing qi si
+拜伍	xing qi wu
+拜陸	xing qi liu
+禮拜	xing qi ri
+歷日	ri li
+日子	ri qi
+一尾魚	yi tiao yu
+五箍	wu yuan
+世情	tong qing da li
+儂事	ren qing shi gu
+人事	ren qing shi gu
+儂情	mian zi
+人情	mian zi
+儂情	en qing
+人情	en qing
+頭毛	tou fa
+面	lian
+面皮	lian pi
+目睭	yan jing
+目仁	yan qiu
+目眉	mei mao
+目眥毛	yan jie mao
+目睭皮	yan pi
+鼻空	bi kong
+喙	zui
+喙唇皮	zui chun
+下頦	xia ba
+頰溝	lian jia
+頷	jing
+鬚	hu zi
+心肝頭	xiong tang
+胳胴下	ye wo
+肩頭	jian bang
+指頭公	mu zhi
+骹腿	tui
+骹	tui
+骹頭趺	xi gai
+骹目	jiao huai
+骹趾	jiao zhi
+前齒	men ya
+牙頭齒	hou cao ya
+齒齦	ya ken
+喉嚨	hou long
+涎	tuo ye
+肝	gan zang
+腎子	shen zang
+脉	mai bo
+筋	jing mai
+血脉	xue guan
+朥	zhi fang
+腰骨	ji gu
+尿脬	pang guang
+身尸	shi ti
+𩩍籬骨	xie gu
+𩩍籬	xie gu
+涎	kou shui
+目汁	yan lei
+卵核	yi wan
+卵脬	yin nang
+鬃	fa ji
+額囟	xin men
+額頭	qian e
+尻脊	ji bei
+脧	
+骹腸肚	xiao tui du
+骹臁	qian jing gu
+骹蹯	zu mian
+骨殖	shi gu
+身屍	shi ti
+腡	zhi wen
+𣴨(U+23D28)	bi ti
+氣	qi xi
+丈夫	nan ren
+諸娘	nv ren
+珠娘	nv ren
+孥囝	hai zi
+阿娘	fu ren
+阿娘囝	xiao jie
+唐人	zhong guo ren
+唐儂	zhong guo ren
+畨人	ye man ren
+畨儂	ye man ren
+烏面儂	hei ren
+浪蕩儂	liu lang zhe
+落神婆	nv wu
+出外儂	mo sheng ren
+生分儂	mo sheng ren
+生份儂	mo sheng ren
+阿公	ye ye
+阿姨	ma ma
+阿𡟓(U+217D3)	ma ma
+阿嬭	ma ma
+阿㜷	ma ma
+嬭母	nai ma
+阿嬭	nai ma
+阿㜷	nai ma
+囝	zi nv
+大官	gong gong
+阿公	gong gong
+大家	po po
+阿媽	po po
+大家官	gong po
+新婦	xi fu
+翁姐	fu qi
+翁姐囝	xiao liang kou
+母	lao po
+𡚸(U+216B8)	lao po
+𡜿(U+2173F)	lao po
+小郎	xiao shu zi
+外家	niang jia
+丈人	yue fu
+丈母	yue mu
+丈母婆	zhang mu niang
+阿妗	jiu mu
+同門	lian jin
+親情	qin qi
+人客	ke ren
+儂客	ke ren
+孤老	gu gua lao ren
+單丁	du sheng zi
+丈夫囝	nan hai
+阿舍	fu shao
+阿舍	guan shao
+行止	pin de
+無行	que de
+名頭	ming sheng
+名色	ming yu
+小禮	xiu chi
+見笑	xiu chi
+𠢕(U+20895)	neng gan
+賢	neng gan
+勥	li hai
+力	qin lao
+勤	qin lao
+惰	lan duo
+規矩	you li mao
+無規矩	mei you li mao
+雅	piao liang
+雅在	hen piao liang
+壯	qiang zhuang de
+㾪	shou
+瘦	shou
+野樣	chou lou
+醜陋	chou lou
+惡	xie e
+孥囝款	hai zi qi
+稱誦	cheng zan
+靈精	ji ling
+趣味	you qu
+悽慘	bei can
+臭儂	e gun
+柴頭	mu tou ren
+漏囝	pian zi
+破家囝	bai jia zi
+戇	yu chun
+衰颯	wei mi
+衰疲	wei mi
+獃	dai
+倒誻	luo suo
+譗𧫡(U+27AE1)	luo suo
+𤞚(U+2479A)	kuang
+面䩍(U+4A4D)䩍青	lian se cang bai
+䶕(U+4D95)牙	bao ya
+條條	jing ran
+條直	you tiao li
+垃圾相	bu qian bu jing
+邋遢	la ta
+健	jian zhuang
+後生	nian qing
+花貓	hua yan qiao yu
+花嘴	hua yan qiao yu
+本等	ben fen
+痞囝	pi zi
+刁厥	diao po
+翹楚	chu zhong
+跳脫	tuo su
+無中用	bu zhong yong
+闊達	
+狹#	
+物	zuo
+睇	kan
+呾	shuo
+走	pao
+行	zou
+添	jia
+應	hui da
+駁	zheng bian
+䛩	zheng bian
+詏	zheng bian
+奈	ren shou
+拍	da
+食	chi
+負	bei
+携	ti
+掠	zhua
+呌	jiao
+喊	jiao
+煮	zuo
+拔	die
+跌落	diao luo
+驚	pa
+畏	pa
+相拍	da jia
+覔	zhao
+約	cai
+持	dai
+掌	kan
+觀顧	zhao gu
+追	zhui gan
+耍	wan
+壓	an
+挽	la
+拖	la
+相罵	chao jia
+拭	ca
+嘶	jiao rang
+嚷	jiao rang
+鼻	wen
+徛	zhan
+企	zhan
+縛	bang
+㪗	jie
+曳手	zhao shou
+唚	wen
+打拍	gu zhang
+盪喙	shu kou
+惜	ai
+憶得	ji de
+行孝	xiao shun
+掛慮	you lv
+告勞	shuo fu
+應承	cheng nuo
+引荐	tui jian
+閑遊	xian guang
+週流	man you
+講論	tao lun
+相䛩	zheng lun
+付托	wei tuo
+念路	bao yuan
+報知	gao zhi
+探問	xun wen
+冤家	chao nao
+寃家	chao nao
+排比	an pai
+交挿	jiao wang
+交插	jiao wang
+羼隊	cha dui
+挿羼	zheng qian
+插羼	zheng qian
+盯綴	zhao liao
+煩惱	dan xin
+詖話	liao tian
+預	zhun bei
+惡	tao yan
+曉	ming bai
+巡	jian cha
+巡	kan wang
+囥	cang
+展	xuan yao
+生事	re shi
+做骹手	dong shou jiao
+做腳手	dong shou jiao
+誑	pian
+行踏	zou dong
+打疊	zhe mo
+打揲	zhe mo
+刁蹬	diao nan
+過責	ze bei
+責罪	ze bei
+詈	ze ma
+咄	chi ze
+諑	hui bang
+嚷	jiao han
+讓	jiao han
+心性	pi qi
+歡喜	gao xing
+快活	huan kuai
+爽快	huan kuai
+奇異	jing qi
+驚愕	jing dai
+愊	sheng qi
+偪側	yi nu
+適意	le yi
+心憧憧	xin shen bu ding
+雜集	bu shu tan
+雜疾	bu shu tan
+衝性	fa pi qi
+衋心	tong xin
+先生	yi sheng
+破病	sheng bing
+畧好	hao xie
+斷氣	duan qi
+傷風	gan mao
+寒着	shou han
+發燒	fa shao
+畏凊	wei han
+咬嗽	ke sou
+頭眩	tou tong
+眩船	yun chuan
+肚痛	du zi tong
+齒痛	ya tong
+抽痛	chou jin
+肚漏	fu xie
+漏屎	fu xie
+空肚	kong fu
+肚澁	bian mi
+着痧	fu jiao tong
+痢疾	li ji
+損病	fei lao
+瘋痛	feng shi
+生瘋	feng shi
+甘虫	tao chong
+甘癪	tao chong bing
+大舌	jie ba
+鮡	qing chun dou
+瘡	kui yang
+痔	zhi chuang
+疥	jie chuang
+㿗	chuang
+不知人	bu xing ren shi
+吐瀉	huo luan
+出珠	tian hua
+賢亞娘	tian hua
+食痘	shui dou
+出痘	shui dou
+種珠	da yi miao
+大頷奎	jia zhuang xian zhong
+瘤	zhong liu
+軟疕	zhong feng
+痒癲	zhong feng
+癲	feng dian
+愩	chun
+痱	fei zi
+癬	xuan
+青盲	xia
+啞	ya ba
+缺嘴	chun lie
+腰佝	tuo bei
+腰痀	tuo bei
+佝腰	gou lou
+痀腰	gou lou
+拐骹	bo zu
+穢	gan ran
+傷痕	shang ba
+瘟瘴	wen yi
+紅藥	zhi tong yao
+身分	ti ge
+結疕	jie jia
+氣力	li liang
+浮膿	hua nong
+目澁	kun juan
+目澀	kun juan
+目𥍆(U+25346)	kun juan
+困	lei
+㦙	chun
+落產	liu chan
+呵欠	ha qian
+自盡	zi sha
+醫館	yi yuan
+破相	hui rong
+拍呃	da ge
+嘔噦	ou tu
+錯	qiang
+黃𦅇(U+26147)瘦㾪	mian huang ji shou
+肨	zhang
+胕腫	fu zhong
+近覷	jin shi
+雀暝	ye mang
+食積	ji shi
+脹肚	fu zhang
+㽱痛	jiao tong
+𤷗(U+24DD7)裂	gui lie
+暍着暑	zhong shu
+偏枯	ban shen bu sui
+㾫枯	ban shen bu sui
+禿掌	tu ding
+乏	pi lao
+垢圿	wu gou
+衫褲	yi fu
+裘	ao
+棉裘	mian ao
+袷囝	ma jia
+答背	bei xin
+身底衫	chen shan
+䘼	xiu zi
+衫䘼	yi xiu
+衫袋	yi dai
+手布	shou pa
+手綢	shou pa
+手套	shou tao
+鈕	niu kou
+鈕縫	niu kou kong
+棕蓑	suo yi
+葵笠	dou li
+頷領	yi ling
+褲橛	duan ku
+褲帶	yao dai
+鞋拖	tuo xie
+金器	jin shi
+時鏢	shou biao
+手指	jie zhi
+耳鈎	er huan
+剃頭	li fa
+頭布	tou jin
+排塲	hua li
+衫裾	yi jin
+襇	qun zhe
+襊	zhe zhou
+褲腳	ku tui
+褲骹	ku tui
+骹𢅎(U+2214E)	bang tui
+動角	shou zhang
+屐	mu ji
+頷幋	wei jin
+頷幔	wei jin
+褪	tuo
+掛	dai
+縫	feng
+羔丕	ka fei
+味素	wei dao
+粿	dan gao
+餜	dan gao
+甜糕	guo jiang
+牛乳油	huang you
+卵	dan
+糜	zhou
+飲	mi tang
+咖喱	ga li
+膠離	ga li
+末	fen
+芥辣	jie mo
+燒水	wen kai shui
+粟倉	gu cang
+灌腸	xiang chang
+卵淸	dan bai
+卵仁	dan huang
+縻	fu lan
+滂沛	feng sheng
+霶霈	feng sheng
+酥	cui
+截	qie
+扭	wa
+掘	chan
+批	xue
+割	qie
+剁	zhan
+刣	sha
+剁脞	duo sui
+剁莝	duo sui
+浮	zha
+翕	zheng
+炊	zheng
+𤇢	kao
+焙	kao
+試	chang
+煴	zhan
+曝	shai
+哺	ju jue
+荒喪	lang fei
+隔乳	duan nai
+腥	sheng
+肚困	ji e
+枵	ji e
+淖糜	xi zhou
+腈肉	shou rou
+赤肉	shou rou
+白肉	fei rou
+脢肉	li ji rou
+槽頭肉	zhu tou rou
+肉脞	rou mo
+滾水	kai shui
+潘	gan shui
+䭕	
+薄	
+芳	xiang
+臊	xing
+食臊	chi hun
+蔫	
+醪	hun zhuo
+滒	nian chou
+買配	mai cai
+欶	shun xi
+𩛌(U+296CC)	
+䭄	
+嗜	
+啉	yin
+熇	zheng
+煠	shui zhu
+烙	lao
+熻	men
+煆火	shao huo
+煏	kao
+撒	sa
+豉油	jiang you
+灶頭	zao tai
+暖爐	huo guo
+食槅	fan he
+手巾	can jin
+食床	can zhuo
+飯床	fan zhuo
+湯匙	tang shao
+甌	tang wan
+碗公	da wan
+盤囝	die zi
+茶盅	cha bei
+茶礶	cha hu
+羔丕磨	ka fei ji
+玻璃樽	bo li ping
+酒開	kai ping qi
+風爐	huo lu
+鼎	chao guo
+鍋	shui hu
+砧	zhen ban
+箸	kuai zi
+甕	da guan zi
+鑤	xiao guan zi
+自來火	huo chai
+火牌	huo chai
+火柴	chai huo
+炭	mei
+火灰	hui jin
+私家	si ren
+洗浴	xi zao
+早起	qi chuang
+使錢	hua qian
+破錢	po fei
+筅	shua
+刷	shua
+物件	dong xi
+家私	jia ju
+棹	zhuo zi
+交椅	kao bei yi
+骹踏椅	jiao deng
+儂公囝	wan ou
+花干	hua ping
+奇巧物	qi zhen yi bao
+氈	di tan
+四方床	fang zhuo
+圓床	yuan zhuo
+床頂	zhuo shang
+床布	zhuo bu
+撞枳	zhuo qiu
+拭骹其蓑	men dian
+眠床	chuang
+褥	chuang dian
+炕床	kang
+匟床	kang
+枕頭囊	zhen tou tao
+齒刷	ya shua
+剃刀	ti xu dao
+筅	mao shua
+衫吊	liang yi jia
+帽吊	mao jia
+槅	chou ti
+格	chou ti
+面盆	lian pen
+屎鉢	shi pen
+面布	
+浴布	
+畨梘	
+餅藥	
+海茸	hai mian
+芳水	xiang shui
+洗浴桶	yu gang
+骹桶	yu gang
+燈盞	zhong shi tai deng
+掃箒	sao zhou
+糞斗	bo ji
+糞箕	bo ji
+鎖匙	yao shi
+鎖	suo tou
+柴槌	gun bang
+馬索	jiang sheng
+骸	tou zi
+風禽	feng zheng
+小影	zhao pian
+水抽	shui beng
+布碎	ma bu
+目鏡	yan jing
+馬踏䟓	ma deng
+匏桸	shui piao
+瓠𣟵(U+237F5)	shui piao
+口㼦	shu kou bei
+私家錢	si fang qian
+鋪陳	pu gai
+索囝	sheng zi
+鑿囝	zao zi
+鑽囝	zhui zi
+斧頭	fu tou
+釘咬	qian zi
+蛺蝶	jiao lian
+烏油	bai you
+油刷	qi shua
+銅指	ding zhen
+鉸刀	jian dao
+窗	chuang
+窓	chuang
+鱟伯策	bai ye chuang
+生鉎	sheng xiu
+鷹架	jiao shou jia
+厝	jia
+內	jia
+厝頂	fang ding
+地骹	ji chu
+塗骹	di mian
+寬埕	guang chang
+睇書房	yue du shi
+食房	can ting
+伙食房	chu fang
+臥房	wo shi
+洗浴房	yu shi
+貯貨房	chu cang shi
+批館	you ju
+信關	you ju
+鄕里	xiang cun
+舖	dian
+沿	ceng
+市	shi chang
+草埔	cao ping
+地界	bian jie
+客店	jiu dian
+東司	ce suo
+馬房	ma jiu
+門扇後	men hou
+行差路	mi lu
+車租	che fei
+做節	guo jie
+做生日	guo sheng ri
+帖	yao qing han
+氽水	you yong
+輸贏	bi sai
+相輸	bi sai
+打紙牌	da pai
+賻錢	du qian
+騷館	ji yuan
+桩家	zhuang jia
+食薰	chou yan
+新人	xin niang
+新人爹	xin lang guan
+送喪	song bin
+戴孝	dai xiao
+脫孝	tuo xiao
+做七	shao qi
+禽獸	chu sheng
+眾生	jia chu
+狗母	mu gou
+豬哥	gong zhu
+雞翁	gong ji
+𤞚(U+2479A)狗	kuang quan
+墨斗	wu zei
+魴龜	hai gui
+魚春	yu zi
+魚子	yu zi
+魚腮	yu sai
+粉鳥	ge zi
+貓頭鳥	mao tou ying
+燕鳥	yan zi
+冊魚	shu chong
+木虱	chou chong
+蜂岫	feng chao
+蜈蜞	shui zhi
+欉	ke
+月記	yue ji
+⿱艹麾	jue lei zhi wu
+成樹	rong shu
+白發其	za cao
+畨葛	fan shu
+畨薯	fan shu
+茶米	cha ye
+苡米	yi mi
+斜莪粉	xi mi
+荷蘭薯	tu dou
+菜頭	bai luo bo
+高麗菜	juan xin cai
+簥	qie zi
+吊瓜	huang gua
+畨瓜	nan gua
+匏	bai nan gua
+荷蘭荳	wan dou
+菜荳	dou jiao
+角瓜	si gua
+莞荽	xiang cai
+生菜	sha la
+薟椒	la jiao
+香菰	mo gu
+菓子	shui guo
+芎蕉	xiang jiao
+柑	gan
+桔	ju zi
+檨	mang guo
+石榴	shi liu
+杮	fei zi
+綱膠	bo luo mi
+綱黑	shan zhu
+林擒	shi jia guo
+栳㭳	rou dou kou
+畨梨	feng li
+旺梨	feng li
+薺蔥	bi ji
+龍眼	long yan
+荔菓	li zhi
+蓮角	ling jiao
+厚栗	ban li
+地豆	hua sheng
+蠟蔗	hong gan zhe
+竹蔗	bai gan zhe
+蔗粕	gan zhe zha
+菜頭槁	
+寫字床	xie zi zhuo
+冊架	shu jia
+冊橱	shu chu
+冊皮	shu ji feng mian
+鐵筆	gang bi
+信皮	xin feng
+批皮	xin feng
+尪囝	tu hua
+儂囝	tu hua
+古事	li shi
+古傳	chuan shuo
+考	ce shi
+別	ren shi
+識	ren shi
+解說	jie shi
+點卯	dian ming
+寸進	jin bu
+掌更儂	shou ye ren
+司阜	shi fu
+工錢	gong zi
+割工錢	kou gong zi
+伙頭	chu shi
+火頭	chu shi
+職任	zhi wu
+乞食	qi gai
+訟師	lv shi
+督工	jian gong
+作工	gong zuo
+花娘	ji nv
+布疋	bu pi
+布路	bu pi
+呢	mao ni
+𦮴(U+26BB4)	mao ni
+水呢	cu hua ni
+水𦮴(U+26BB4)	cu hua ni
+絨	rong
+熱布	xia bu
+花布	yin hua mian bu
+皺紗	zhou bu
+鏇	zuan shi
+紅銅	huang tong
+火石	da huo shi
+鹽硝	xiao shi
+硝	xiao shi
+白𥐥	ming fan
+白矾	ming fan
+生𥐥	lv fan
+生矾	lv fan
+鐵碎	tie xie
+鐵棍	tie bang
+銅薄	tong ban
+錫薄	xi bo
+紙花	jia hua
+荖枳	bin lang
+荖葉	bin lang ye
+甘蜜	bin lang gao
+樟栳	zhang nao
+樟柴	zhang nao
+桂皮	rou gui
+物食	mi jian
+仙瑚	shan hu
+珊瑚	shan hu
+𦈢	ci
+碰鰾	bao zhu
+色料	ran liao
+雞毛筅	ji mao dan zi
+樹泥	xiang jiao
+蠔珠	zhen zhu
+蠔壳鏡	zhen zhu mu
+枋	mu ban
+鎦金器	xiang jin qi
+火#	huo jian
+香柴	tan xiang mu
+燕菜	hai zao
+魚翼	yu chi
+紙煤	zhi nian
+赤糖	hong tang
+烏糖	hei tang
+大柴	yuan mu
+數簿	zhang ben
+總簿	zong zhang
+來往	fen lei zhang
+歸原	ku cun fen lei zhang
+日清	ri ji ben
+算數	suan zhang
+收數	shou zhang
+來銀	shou kuan
+記數	ru zhang
+上數	ru zhang
+盤數	zhuan zhang
+開單	kai zhang
+收單	shou ju
+面會	hui mian
+計共	zong ji
+算摩	jia
+除	jian
+乘	cheng
+分	chu
+掌櫃	shou yin yuan
+財副	hui ji
+大財副	shou xi hui ji
+好趁	hao zhuan
+好贃	hao zhuan
+紙字	chao piao
+倒賬	dao bi
+本錢	ben jin
+現錢	xian jin
+找錢	zhao qian
+抽分	yong jin
+賒	dai
+債主	zhai quan ren
+抽減	zhe kou
+銀單	hui piao
+對單	hui piao
+催迫	cui tao
+定銀	ding jin
+使(錢)	hua
+所費	hua fei
+保家	bao xian
+保家字	bao xian dan
+保家館	bao xian gong si
+利錢	li yi
+落本	tou zi
+蝕本	kui ben
+找錢行	qian bi dui huan shang
+典	di ya
+當	cheng ya
+典契	di ya qi ju
+典主	di ya ren
+當主	cheng ya ren
+底子	yuan jian
+價錢	jia ge
+落價	jiang jia
+起價	zhang jia
+趁	li run
+贃	li run
+稅	zu jin
+厝稅	fang zu
+厝主	fang dong
+保領	bao zheng
+重利	gao li
+出字白	deng bu gao
+公親	gong duan ren
+二手	zhu li
+攬儎字	ti huo dan
+拍空	jing ji ren
+生理	sheng yi
+生理儂	sheng yi ren
+憑單	zheng shu
+字號	shang biao
+稅務司	shui wu ju
+批信	xin jian
+家信	jia shu
+買客	gu ke
+過限	yu qi
+拆夥記	san huo
+餉關	hai guan
+餉	guan shui
+携餉	shou shui
+納餉	na shui
+走餉	bi shui
+頭路	gong zuo
+貨	shang pin
+出口貨	chu kou shang pin
+入口貨	jin kou shang pin
+貨單	fa piao
+家長	jing li
+報餉單	zai huo qing dan
+街市	shi chang
+客商	shang ren
+新聞紙	bao zhi
+簿囝	ben zi
+路票	tong xing zheng
+酒錢	you fei
+零些賣	ling shou
+鋪頭	dian pu
+交掛	jiao yi
+買上盤	pi fa gou jin
+賣上盤	pi fa xiao shou
+做上盤	pi fa jiao yi
+頭家	lao ban
+火船	qi chuan
+火船囝	qi ting
+陽車火船	ming lun chuan
+紅頭船	fan chuan
+渡船	hang chuan
+船囝	shan ban
+桅	wei gan
+槳	chuan jiang
+索	sheng zi
+椗	mao
+拋椗	pao mao
+烟筒	yan cong
+水烟	zheng qi
+陂	shao zi
+藥鬼	yin qing
+輪	lun
+紡	qu dong
+舵	chuan duo
+掠舵	zhang duo
+羅經	luo pan
+千里鏡	wang yuan jing
+開帆	yang fan
+收帆	shou fan
+駛	jia
+伙長	chuan zhang
+船主	chuan zhang
+大伙	da fu
+二伙	er fu
+舵工	duo shou
+水手	shui shou
+帶水	ling gang yuan
+直透	zhi da
+落船	shang chuan
+船租	chuan fei
+海嶼	dao yu
+流水雄	gao chao
+流水平	di chao
+沙壩	sha di
+沙埧	sha di
+禁口	feng suo gang kou
+禁港	feng suo gang kou
+行船人	chuan fu
+杉排	mu fa
+杉牌	mu fa
+竹排	zhu fa
+竹牌	zhu fa
+勢頭	shi li
+王帽	wang guan
+龍位	wang wei
+大頭腦	da guan yuan
+案	an jian
+被告	bei gao
+犯律	fan fa
+擔承	bao shi
+受賄	shou hui
+食錢	shou hui
+定罪	pan xing
+賞格	tong ji ling
+頭儂	tou mu
+擔枷	dai shang jia suo
+本分	yi wu
+冤屈	yuan wang
+天主教	tian zhu jiao
+新教	ye su jiao
+禮拜堂	jiao tang
+拜老爺	bai shen
+掛紙	sao mu
+讀經	song jing
+相刣	da zhan
+銃	qiang
+銃子	zi dan
+銃空	qiang guan
+大銃	da pao
+𨫋	da pao
+炮臺	bao lei
+平和	he ping
+職銜	jun xian
+刀壳	dao qiao
+籐牌	dun pai
+營盤	ying di
+置營	za ying
+戰船	zhan jian
