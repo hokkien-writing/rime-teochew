@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.05.29"
+version:	"2024.05.30"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2062,6 +2062,7 @@ import_tables:
 緊	kin2	100
 見	kinn3	100
 舷	kinn5	100
+墘	kinn5	100
 鞠	kiok	100
 粥	kiok	100
 恭	kiong	100
@@ -2919,12 +2920,12 @@ import_tables:
 鰻	muann5	100
 末	muat8	100
 每	mue2	100
-糜	mue5	100
 昧	mue6	100
 寐	mue6	100
 妹	mue6	100
 魅	mue6	100
 物	mueh8	100
+糜	muenn5	100
 鎂	mui2	100
 美	mui2	100
 微	mui5	100
@@ -2987,6 +2988,7 @@ import_tables:
 鱷	ngak8	100
 岳	ngak8	100
 嶽	ngak8	100
+啱	ngam	100
 癌	ngam5	100
 巖	ngam5	100
 眼	ngan2	100
@@ -4298,6 +4300,7 @@ import_tables:
 鄲	tan	100
 坍	tan	100
 殫	tan	100
+疸	tan2	100
 旦	tan3	100
 誕	tan3	100
 蛋	tan3	100
@@ -4432,6 +4435,7 @@ import_tables:
 台	thai5	100
 颱	thai5	100
 檯	thai5	100
+刣	thai5	100
 待	thai6	100
 塞	thak	100
 撻	thak	100
@@ -4974,6 +4978,7 @@ import_tables:
 造	tsau6	100
 皁	tsau6	100
 罩	tsau6	100
+皂	tsau6	100
 岔	tsha	100
 差	tsha	100
 搓	tsha	100
@@ -5106,6 +5111,7 @@ import_tables:
 處	tshu3	100
 措	tshu3	100
 趣	tshu3	100
+厝	tshu3	100
 滁	tshu5	100
 歪	tshua2	100
 蔡	tshua3	100
@@ -5253,6 +5259,7 @@ import_tables:
 抓	tsua	100
 紙	tsua2	100
 蛇	tsua5	100
+絀	tsuah8	100
 蜀	tsuak8	100
 濁	tsuak8	100
 鐲	tsuak8	100
@@ -5555,6 +5562,7 @@ import_tables:
 愉	zu5	100
 渝	zu5	100
 逾	zu5	100
+覦	zu5	100
 喻	zu6	100
 裕	zu6	100
 籲	zu6	100
@@ -5563,6 +5571,7 @@ import_tables:
 纂	zuan2	100
 說	zuat8	100
 悅	zuat8	100
+挼	zue5	100
 銳	zue6	100
 睿	zue6	100
 唯	zui5	100

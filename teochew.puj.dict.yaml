@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.puj
-version:	"2024.05.29"
+version:	"2024.05.30"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -3786,6 +3786,18 @@ mueh	mueh
 Mueh	Mueh
 mu̍eh	mueh8
 Mu̍eh	Mueh8
+mueⁿ	muenn
+Mueⁿ	Muenn
+múeⁿ	muenn2
+Múeⁿ	Muenn2
+mùeⁿ	muenn3
+Mùeⁿ	Muenn3
+mûeⁿ	muenn5
+Mûeⁿ	Muenn5
+mũeⁿ	muenn6
+Mũeⁿ	Muenn6
+mūeⁿ	muenn7
+Mūeⁿ	Muenn7
 mui	mui
 Mui	Mui
 múi	mui2
@@ -7042,6 +7054,10 @@ tsuã	tsua6
 Tsuã	Tsua6
 tsuā	tsua7
 Tsuā	Tsua7
+tsuah	tsuah
+Tsuah	Tsuah
+tsua̍h	tsuah8
+Tsua̍h	Tsuah8
 tsuak	tsuak
 Tsuak	Tsuak
 tsua̍k	tsuak8
