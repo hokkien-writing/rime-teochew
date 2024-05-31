@@ -601,7 +601,8 @@ import_tables:
 膺	eng	1000
 鶯	eng	1000
 鸚	eng	1000
-湧|涌	eng2	1000
+湧	eng2	1000
+涌	eng2	500
 應	eng3	1000
 用	eng7	1000
 礙	gai7	1000
@@ -978,7 +979,8 @@ import_tables:
 腐	hu7	1000
 花	hua	1000
 華	hua	1000
-譁|嘩	hua	1000
+譁	hua	1000
+嘩	hua	500
 禾	hua5	1000
 和	hua5	1000
 華	hua5	1000
@@ -1001,7 +1003,8 @@ import_tables:
 梵	huam6	1000
 范	huam6	1000
 範	huam6	1000
-番|畨	huan	1000
+番	huan	1000
+畨	huan	500
 翻	huan	1000
 歡	huan	1000
 獾	huan	1000
@@ -1352,7 +1355,8 @@ import_tables:
 詠	iong3	1000
 泳	iong3	1000
 恿	iong3	1000
-湧|涌	iong3	1000
+湧	iong3	1000
+涌	iong3	500
 蓉	iong5	1000
 榮	iong5	1000
 融	iong5	1000
@@ -2360,7 +2364,8 @@ import_tables:
 狸	lai5	1000
 裏	lai6	1000
 內	lai6	1000
-裏|裡	lai6	1000
+裏	lai6	1000
+裡	lai6	500
 來	lai7	1000
 碌	lak	1000
 落	lak	1000
@@ -3186,7 +3191,8 @@ import_tables:
 鞋	oi5	1000
 會	oi6	1000
 狹	oih8	1000
-閒|閑	oinn5	1000
+閒	oinn5	1000
+閑	oinn5	500
 握	ok	1000
 沃	ok	1000
 屋	ok	1000
@@ -3302,7 +3308,8 @@ import_tables:
 秉	peng2	1000
 炳	peng2	1000
 迸	peng5	1000
-幷|并	peng6	1000
+幷	peng6	1000
+并	peng6	500
 併	peng6	1000
 並	peng6	1000
 把	penn3	1000
@@ -3492,7 +3499,8 @@ import_tables:
 般	phuan5	1000
 盤	phuan5	1000
 磐	phuan5	1000
-番|畨	phuann	1000
+番	phuann	1000
+畨	phuann	500
 潘	phuann	1000
 頗	phuann2	1000
 判	phuann3	1000
@@ -3808,7 +3816,8 @@ import_tables:
 猩	seng	1000
 惺	seng	1000
 旌	seng	1000
-升|陞	seng	1000
+升	seng	1000
+陞	seng	500
 昇	seng	1000
 省	seng2	1000
 勝	seng3	1000
@@ -4724,7 +4733,8 @@ import_tables:
 凋	tiau	1000
 刁	tiau	1000
 貂	tiau	1000
-雕|鵰	tiau	1000
+雕	tiau	1000
+鵰	tiau	500
 吊	tiau3	1000
 弔	tiau3	1000
 條	tiau5	1000
@@ -4855,7 +4865,8 @@ import_tables:
 殿	toinn7	1000
 督	tok	1000
 築	tok	1000
-斫|斲	tok	1000
+斫	tok	1000
+斲	tok	500
 毒	tok8	1000
 犢	tok8	1000
 獨	tok8	1000
@@ -5560,7 +5571,8 @@ import_tables:
 俞	zu5	1000
 愉	zu5	1000
 渝	zu5	1000
-逾|踰	zu5	1000
+逾	zu5	1000
+踰	zu5	500
 覦	zu5	1000
 喻	zu6	1000
 裕	zu6	1000
