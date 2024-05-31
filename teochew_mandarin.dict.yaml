@@ -8,9 +8,1115 @@
 name:	teochew_mandarin
 version:	"2024.05.31"
 sort:	by_weight
-use_preset_vocabulary:	true
+use_preset_vocabulary:	false
 ...
-⿱艹麾	jue	2000
+a-kong	gong gong	500
+a-kong	ye ye	500
+a-kĩm	jiu mu	500
+a-má	po po	500
+a-ni	ma ma	500
+a-ni	nai ma	500
+a-niêⁿ	fu ren	500
+a-niêⁿ-kiáⁿ	xiao jie	500
+a-sià	fu shao	500
+a-sià	guan shao	500
+a-sĩ	huo zhe shi	500
+a-âi	ma ma	500
+ak	xie e	500
+ang-chiá	fu qi	500
+ang-chiá-kiáⁿ	xiao liang kou	500
+ang-kiáⁿ	tu hua	500
+au	tang wan	500
+ba̍k-sat	chou chong	500
+ba̍k-táu	wu zei	500
+bua̍h	fen	500
+buān-sì	yong heng	500
+bé-pâng	ma jiu	500
+bé-soh	jiang sheng	500
+bé-ta̍h-tèng	ma deng	500
+bói-chiēⁿ-puâⁿ	pi fa gou jin	500
+bói-kheh	gu ke	500
+bóu	lao po	500
+bô	mei you	500
+bô tiāⁿ-tie̍h	bu que ding	500
+bô-hẽng	que de	500
+bô-kui-kú	mei you li mao	500
+bô-tèng-ēng	bu zhong yong	500
+bõi	bu hui	500
+bõi-mó	bu cuo	500
+bùi	fei zi	500
+búe-phùe	mai cai	500
+bûe-ne̍k	li ji rou	500
+bī-sōu	wei dao	500
+bō-tiàu	mao jia	500
+bōi-chiēⁿ-puâⁿ	pi fa xiao shou	500
+būe	mei	500
+cheh-hâm	jun xian	500
+cheh-jĩm	zhi wu	500
+cheh-tsūe	ze bei	500
+cheng-seⁿ	jia chu	500
+che̍k-búe hṳ̂	yi tiao yu	500
+chheh-hṳ̂	shu chong	500
+chheh-kè	shu jia	500
+chheh-phûe	shu ji feng mian	500
+chheh-tû	shu chu	500
+chhek-tshng	gu cang	500
+chheng-khih	qian jing	500
+chheⁿ	sheng	500
+chheⁿ-huân	lv fan	500
+chheⁿ-hūn-nâng	mo sheng ren	500
+chheⁿ-mêⁿ	xia	500
+chheⁿ-tshài	sha la	500
+chhi-gî	ang zang	500
+chhi-tshám	bei can	500
+chhia	dai	500
+chhiah-ne̍k	shou rou	500
+chhiah-thn̂g	hong tang	500
+chhieh-mûeⁿ	xi zhou	500
+chhiet-iàu	zhong yao	500
+chhim-kheⁿ	shan gu	500
+chhin-chhiẽⁿ	hao xiang	500
+chhin-chhiẽⁿ	xiang si	500
+chhin-chiãⁿ	qin qi	500
+chhit	ca	500
+chhit-kha kâi sui	men dian	500
+chhiu	hu zi	500
+chhiáⁿ-táⁿ	shao deng	500
+chhiù	shua	500
+chhiú-chí	jie zhi	500
+chhiú-kṳn	can jin	500
+chhiú-lap	shou tao	500
+chhiú-pòu	shou pa	500
+chhiú-tiû	shou pa	500
+chhiū-nîⁿ	xiang jiao	500
+chhèng	qiang	500
+chhèng-chí	zi dan	500
+chhèng-khang	qiang guan	500
+chhì	chang	500
+chhìn	leng	500
+chhìn-tshái	sui bian	500
+chhĩ	shi chang	500
+chia-tsou	che fei	500
+chia̍h	chi	500
+chia̍h-chek	ji shi	500
+chia̍h-chîⁿ	shou hui	500
+chia̍h-hun	chou yan	500
+chia̍h-keh	fan he	500
+chia̍h-pâng	can ting	500
+chia̍h-tshn̂g	can zhuo	500
+chia̍h-tsho	chi hun	500
+chia̍h-tāu	shui dou	500
+chiaⁿ-ne̍k	shou rou	500
+chie̍h-põu	shi tou	500
+chieⁿ-ló	zhang nao	500
+chieⁿ-tshâ	zhang nao	500
+chim	wen	500
+chiu-liû	man you	500
+chià-phoh	gan zhe zha	500
+chiáng-kūiⁿ	shou yin yuan	500
+chiáu-mêⁿ	ye mang	500
+chiáⁿ		500
+chiè	an	500
+chièn-tsûn	zhan jian	500
+chièⁿ-seⁿ	ru ci	500
+chié	shao	500
+chién	kan	500
+chiéⁿ	chuan jiang	500
+chiéⁿ-keⁿ-nâng	shou ye ren	500
+chiú-chîⁿ	you fei	500
+chiú-khui	kai ping qi	500
+chiēⁿ-kuà	shang wu	500
+chiẽⁿ-siàu	ru zhang	500
+chiⁿ	di tan	500
+chè-tsú	zhai quan ren	500
+chèng-sêⁿ	fa pi qi	500
+chèng-tsu	da yi miao	500
+chì		500
+chí	zhe	500
+chí-tsûn	xian zai	500
+chím-thâu-lông	zhen tou tao	500
+chîⁿ-tshang	bi ji	500
+e̍k-pòu		500
+guā-ke	niang jia	500
+gu̍eh si̍h	yue shi	500
+gu̍eh-kì	yue ji	500
+gâu	neng gan	500
+gâu-a-niêⁿ	tian hua	500
+gê-thâu-khi	hou cao ya	500
+gû-nĩⁿ-iû	huang you	500
+hang-ku	hai gui	500
+he̍k	lei	500
+he̍k	pi lao	500
+hiah	ting	500
+hiah	xiu xi	500
+hiak-tie̍h-sú	zhong shu	500
+hiam-chie	la jiao	500
+hia̍h-sìn	xin men	500
+hia̍h-thâu	qian e	500
+hia̍p-tia̍p	jiao lian	500
+hieⁿ-kou	mo gu	500
+hieⁿ-lí	xiang cun	500
+hioⁿ-tshâ	tan xiang mu	500
+hip	men	500
+hip	zheng	500
+hiàng	guan shui	500
+hiàng-kuan	hai guan	500
+hiáu	ming bai	500
+hiâⁿ-húe	shao huo	500
+hiông	kuai	500
+hiûⁿ	ao	500
+hiēn-chîⁿ	xian jin	500
+hoh	zheng	500
+hong-hiám	wei xian	500
+huah-hì	ha qian	500
+huan-kuah	fan shu	500
+huan-kue	nan gua	500
+huan-káng		500
+huan-lâi	feng li	500
+huan-nâng	ye man ren	500
+huan-tsṳ̂	fan shu	500
+huang-hōu-tsam	qing yu biao	500
+huang-khîm	feng zheng	500
+huang-lôu	huo lu	500
+huang-thai	tai feng	500
+huang-thiàⁿ	feng shi	500
+huat-sie	fa shao	500
+huaⁿ-hí	gao xing	500
+hue-kan	hua ping	500
+hue-niauⁿ	hua yan qiao yu	500
+hue-niêⁿ	ji nv	500
+hue-pòu	yin hua mian bu	500
+hue-tshùi	hua yan qiao yu	500
+hueh-méhⁿ	xue guan	500
+huân-ló	dan xin	500
+huãm-lu̍t	fan fa	500
+hàm	jiao	500
+hái-kîⁿ	hai bian	500
+hái-sṳ̃	dao yu	500
+hái-zông	hai mian	500
+hái-éng	hai lang	500
+hán-tit	hen shao	500
+hân-sú-tsam	wen du ji	500
+hãu-seⁿ	nian qing	500
+hîn-tsûn	yun chuan	500
+hó-thàn	hao zhuan	500
+hô-lan-tsṳ̂	tu dou	500
+hô-lan-tāu	wan dou	500
+hôu-khî	shui zhi	500
+hù-thoh	wei tuo	500
+hùe	shang pin	500
+hùe-tuaⁿ	fa piao	500
+húe-chie̍h	da huo shi	500
+húe-hu	hui jin	500
+húe-pâi	huo chai	500
+húe-si̍t-pâng	chu fang	500
+húe-su̍h	huo jian	500
+húe-thâu	chu shi	500
+húe-tiéⁿ	chuan zhang	500
+húe-tshâ	chai huo	500
+húe-tsûn	qi chuan	500
+húe-tsûn-kiáⁿ	qi ting	500
+hún-chiáu	ge zi	500
+hûi	ci	500
+hāu-peh-chheh	bai ye chuang	500
+hĩⁿ-kau	er huan	500
+hīn-tsãi	xian zai	500
+hṳ́	na	500
+hṳ̂-chhi	yu sai	500
+hṳ̂-chí	yu zi	500
+hṳ̂-si̍t	yu chi	500
+hṳ̂-tshun	yu zi	500
+hẽng-chí	pin de	500
+i	ta	500
+i-nguân	yi jiu	500
+iak-liãng	da yue	500
+iang		500
+iau	ji e	500
+ia̍h-chhiú	zhao shou	500
+ie-ku	tuo bei	500
+ie-kut	ji gu	500
+ieh	cai	500
+ie̍h-kúi	yin qing	500
+in-kè	jiao shou jia	500
+in-tâng	yan cong	500
+it-tit	ji de	500
+iá-iēⁿ	chou lou	500
+iám-siau	xiao shi	500
+iáu-hó	hao xie	500
+iáⁿ	chao guo	500
+iâ-sou-kà	ye su jiao	500
+iâng-chhia húe-tsûn	ming lun chuan	500
+iâⁿ-puâⁿ	ying di	500
+ièn-tshài	hai zao	500
+iùⁿ	jing zhi	500
+iùⁿ-bí	yi mi	500
+iû-sueh	qi shua	500
+iā	ye	500
+iēⁿ	wai guan	500
+jie̍h-tsōi	duo shao	500
+jiàu-se	zhou bu	500
+jiáng	jiao han	500
+jiáng	jiao rang	500
+jiāu	zhui gan	500
+jiē-pha	pang guang	500
+ji̍h	an	500
+ji̍p-kháu-hùe	jin kou shang pin	500
+ji̍t si̍h	ri shi	500
+ji̍t-chheng	ri ji ben	500
+ji̍t-chí	ri qi	500
+ji̍t-ji̍t	tian tian	500
+ji̍t-kuà	bai tian	500
+ji̍t-tàu	zhong wu	500
+jī-chhiú	zhu li	500
+jī-húe	er fu	500
+jī-hō	shang biao	500
+ka-chiah	ji bei	500
+ka-kī	zi ji	500
+ka-kī-nâng	zi ji ren	500
+ka-la̍uh	diao luo	500
+ka-lî	ga li	500
+ka-sàu	ke sou	500
+ka-to	jian dao	500
+kah	he	500
+kah-kiáⁿ	ma jia	500
+kak-kue	si gua	500
+kam-bi̍t	bin lang gao	500
+kam-chek	tao chong bing	500
+kam-thâng	tao chong	500
+kang-chiⁿ	gong zi	500
+kau-kuà	jiao yi	500
+kau-tshap	jiao wang	500
+kau-íⁿ	kao bei yi	500
+kaⁿ	gan	500
+ke	duo	500
+ke-mêⁿ	jin ye	500
+ke-si	jia ju	500
+ke-sìn	jia shu	500
+ke-tiéⁿ	jing li	500
+keh	chou ti	500
+keh-nĩⁿ	duan nai	500
+kek-sim	tong xin	500
+keng-chie	xiang jiao	500
+kha	tui	500
+kha-kiáu	L2	500
+kha-ma̍k	jiao huai	500
+kha-niâm	qian jing gu	500
+kha-puâⁿ	zu mian	500
+kha-ta̍h-íⁿ	jiao deng	500
+kha-tháng	yu gang	500
+kha-thâu-u	xi gai	500
+kha-thúi	tui	500
+kha-tn̂g-tóu	xiao tui du	500
+kha-tsóiⁿ	jiao zhi	500
+khah	tai	500
+kham-kai	ying shou	500
+khang-tóu	kong fu	500
+kheh-siang	shang ren	500
+kheh-tiàm	jiu dian	500
+khiau	qiong	500
+khieh-hiàng	shou shui	500
+khie̍h	dai	500
+khih-tshùi	chun lie	500
+khiàng	li hai	500
+khiâu-tshó	chu zhong	500
+khiã	zhan	500
+khuah	kuan	500
+khuah-ta̍k		500
+khuaⁿ-khuaⁿ	jian jian	500
+khuaⁿ-tiâⁿ	guang chang	500
+khui-phâng	yang fan	500
+khui-tuaⁿ	kai zhang	500
+khuà-lṳ̃	you lv	500
+khuàⁿ-ua̍h	huan kuai	500
+khàng-tshn̂g	kang	500
+kháu	ce shi	500
+khì-la̍t	li liang	500
+khí	kai shi	500
+khí-chhiù	ya shua	500
+khí-kè	zhang jia	500
+khí-ngṳ̂n	ya ken	500
+khí-thiàⁿ	ya tong	500
+khí-thâu	kai shi	500
+khî-khá-mu̍eh	qi zhen yi bao	500
+khî-ĩ	jing qi	500
+khîm-siù	chu sheng	500
+khòu-kha	ku tui	500
+khòu-ku̍eh	duan ku	500
+khòu-tuā	yao dai	500
+khóu-kóng	shu kou bei	500
+khùi	qi xi	500
+khǹg	cang	500
+khṳh	gei	500
+khṳt-chia̍h	qi gai	500
+khẽng	cai hong	500
+kia̍h	mu ji	500
+kiaⁿ	pa	500
+kiaⁿ-ngo̍h	jing dai	500
+kih-kau	lian jia	500
+kim-khùi	jin shi	500
+kit	ju zi	500
+kit-phí	jie jia	500
+kit-tàng	dong jie	500
+kiám	shao	500
+kiáⁿ	zi nv	500
+kiáⁿ-ji̍t	jin tian	500
+kiâⁿ	zou	500
+kiâⁿ-hàu	xiao shun	500
+kiâⁿ-ta̍h	zou dong	500
+kiâⁿ-tsûn-nâng	chuan fu	500
+kiâⁿ-tāⁿ-lōu	mi lu	500
+kiè	jiao	500
+kièn-siàu	xiu chi	500
+kiê	qie zi	500
+kiāⁿ	jian zhuang	500
+kng	liang	500
+kng-thàng	tou ming	500
+ko	nian chou	500
+ko-lẽ-tshài	juan xin cai	500
+ko-pî	ka fei	500
+ko-pî-bō	ka fei ji	500
+koh-lâng-ẽ	ye wo	500
+koh-lô	shuo fu	500
+koi-ang	gong ji	500
+koi-chhĩ	shi chang	500
+koi-mô-tshóiⁿ	ji mao dan zi	500
+koiⁿ-thâu	jian bang	500
+kong-chhin	gong duan ren	500
+kou	mei	500
+ko̍ih-lo̍ih	dou li	500
+ku-ie	gou lou	500
+ku-láu	gu gua lao ren	500
+kuah	qie	500
+kuah kang-chiⁿ	kou gong zi	500
+kuan-kù	zhao gu	500
+kuang	pian	500
+kuaⁿ	gan zang	500
+kui-kṳ́	you li mao	500
+kui-nguân	ku cun fen lei zhang	500
+kuk-si̍k	shi gu	500
+kuà	dai	500
+kuàn-pien	zhong feng	500
+kuàn-tn̂g	xiang chang	500
+kuái-kha	bo zu	500
+kuâⁿ-tie̍h	shou han	500
+kuãⁿ	ti	500
+ku̍t	chan	500
+ku̍t	guang hua de	500
+kài-lua̍h	jie mo	500
+kàu	zu gou	500
+ká-thiàⁿ	jiao tong	500
+kám-siā	gan xie	500
+káng-lũn	tao lun	500
+káu-bó	mu gou	500
+káu-koih	wu gou	500
+kãu-la̍k	ban li	500
+kè-chîⁿ	jia ge	500
+kì-siàu	ru zhang	500
+kìm-kháu	feng suo gang kou	500
+kím-káng	feng suo gang kou	500
+kòi	jie chuang	500
+kòi-kāng	zong ji	500
+kòng	chun	500
+kòng	da pao	500
+kói-sueh	jie shi	500
+kóiⁿ	qun zhe	500
+kóu-láu	gu gua lao ren	250
+kóu-sṳ̄	li shi	500
+kóu-tn̄g	chuan shuo	500
+kông	yu chun	500
+kùe-cheh	ze bei	500
+kùe-hãng	yu qi	500
+kùe-tsuá	sao mu	500
+kùi	qin ai de	500
+kùi-phûe	rou gui	500
+kúe	dan gao	500
+kúe-chí	shui guo	500
+kún-tsui	kai shui	500
+kûiⁿ	gao	500
+kāng	he	500
+kōi	rong yi	500
+kṳn	jing mai	500
+kṳ̃n-tshṳ̀	jin shi	500
+kẽ	di	500
+l01	bao ya	500
+lap-thap	la ta	500
+la̍h-chià	hong gan zhe	500
+la̍h-ji̍t	ri li	500
+la̍p-hiàng	na shui	500
+la̍t	qin lao	500
+lia̍h	zhua	500
+lia̍h-tuã	zhang duo	500
+lim	yin	500
+liú	niu kou	500
+liú	wa	500
+liú-phāng	niu kou kong	500
+liû	zhong liu	500
+liām-lōu	bao yuan	500
+liū-kim-khì	xiang jin qi	500
+lok	shi tou	500
+lo̍h	jiang	500
+lo̍h-kè	jiang jia	500
+lo̍h-pha̍k	xia bing bao	500
+lo̍h-pńg	tou zi	500
+lo̍h-sek	tui shai	500
+lo̍h-suáⁿ	liu chan	500
+lo̍h-sîn-phuâ	nv wu	500
+lo̍h-tsûn	shang chuan	500
+luah	lao	500
+làu-sái	fu xie	500
+lái-ngṳ̂n	shou kuan	500
+láu-chí	bin lang	500
+láu-hie̍h	bin lang ye	500
+láu-kiáⁿ	pian zi	500
+lâ	zhi fang	500
+lâi-uáng	fen lei zhang	500
+lân-ló	yi xie	500
+lân-san-bōi	ling shou	500
+lâu khó	tui chao	500
+lâu tĩⁿ	zhang chao	500
+lâu-tsúi hiông	gao chao	500
+lâu-tsúi pêⁿ	di chao	500
+lã	zu gou	500
+lãi	jia	500
+lãu-hàu	rou dou kou	500
+lêng-cheng	ji ling	500
+lêng-ûi	neng li	500
+lêng-ūi	wang wei	500
+lín	lun	500
+lî	ze ma	500
+lîm-khîm	shi jia guo	500
+ló-tōng-nâng	liu lang zhe	500
+lói-pài	xing qi ri	500
+lói-pài-tn̂g	jiao tang	500
+lóng-tsóng	zong gong	500
+lóu	tao yan	500
+lô	hun zhuo	500
+lô	zhi wen	500
+lô-keⁿ	luo pan	500
+lāi	feng li	500
+lāi-chîⁿ	li yi	500
+lān-hu̍t	yi wan	500
+lān-pha	yin nang	500
+lĩ-chit	li ji	500
+lōu-phiè	tong xing zheng	500
+lṳ́	ni	500
+ma̍k-bâi	mei mao	500
+ma̍k-chhì-mô	yan jie mao	500
+ma̍k-chiu	yan jing	500
+ma̍k-chiu-phûe	yan pi	500
+ma̍k-jîn	yan qiu	500
+ma̍k-kiàⁿ	yan jing	500
+ma̍k-siap	kun juan	500
+ma̍k-si̍t	kan tou	500
+ma̍k-tsap	yan lei	500
+miaⁿ-sek	ming yu	500
+miaⁿ-thâu	ming sheng	500
+mih-kâi	shen me	500
+mih-nâng	shen me ren	500
+mn̂g-sìⁿ-ãu	men hou	500
+mo	jue	500
+mu̍eh	zuo	500
+mu̍eh-chia̍h	mi jian	500
+mu̍eh-kiãⁿ	dong xi	500
+màiⁿ	bu yao	500
+màⁿ-khí	ming tian	500
+méhⁿ	mai bo	500
+méⁿ	kuai	500
+mêng-khí	zao shang	500
+mêⁿ-hng	wan shang	500
+mêⁿ-hng-kiáⁿ	bang wan	500
+mêⁿ-kuà	ye jian	500
+mêⁿ-nîⁿ	ming nian	500
+mín	bu yong	500
+mîn-tshn̂g	chuang	500
+mîⁿ	fu lan	500
+mîⁿ-hiûⁿ	mian ao	500
+mó	bu hao	500
+mông-in	mi wu	500
+mûeⁿ	zhou	500
+māng-hek	shan zhu	500
+māng-ka	bo luo mi	500
+mīn	lian	500
+mīn-hũe	hui mian	500
+mīn-liau-liau-cheⁿ	lian se cang bai	500
+mīn-phûe	lian pi	500
+mīn-phûn	lian pen	500
+mīn-pòu		500
+m̃	bu	500
+m̄-tsai-nâng	bu xing ren shi	500
+nah-sap	la ji	500
+nah-sap-sièⁿ	bu qian bu jing	500
+ne̍k-tshō	rou mo	500
+ne̍k-óiⁿ	long yan	500
+ngiau-thâu-chiáu	mao tou ying	500
+ngiá	piao liang	500
+ngiá-tsãi	hen piao liang	500
+ngà	chun	500
+ngán-tsãi	xian zai	500
+ngâi	dai	500
+ngân	leng	500
+ngóu-chheⁿ	xing xing	500
+ngõu-khou	wu yuan	500
+ngṳ̂n-tuaⁿ	hui piao	500
+ni-bó	nai ma	500
+nouⁿ-kiáⁿ	hai zi	500
+nouⁿ-kiáⁿ-khuán	hai zi qi	500
+nuãⁿ	kou shui	500
+nuãⁿ	tuo ye	500
+nám-tsāi-jī	ti huo dan	500
+nán	wo men	500
+nâng-chhiâⁿ	en qing	500
+nâng-chhêng	mian zi	500
+nâng-kheh	ke ren	500
+nâng-kiáⁿ	tu hua	500
+nâng-kong-kiáⁿ	wan ou	500
+nâng-sṳ̄	ren qing shi gu	500
+nãiⁿ	ren shou	500
+nín	ni men	500
+nîⁿ	mao ni	500
+nñg	dan	500
+nñg-chheng	dan bai	500
+nñg-jîn	dan huang	500
+nôiⁿ-kak	ling jiao	500
+nôiⁿ-kúe	li zhi	500
+nāⁿ-sĩ	ru guo	500
+nńg-nîⁿ	zhong feng	500
+n̂g-sng-sóu-sán	mian huang ji shou	500
+o-ló	cheng zan	500
+o-tso	la ji	500
+oh	kun nan	500
+ou	hei	500
+ou-iû	bai you	500
+ou-mīn-nâng	hei ren	500
+ou-thn̂g	hei tang	500
+ou-àm	hei an	500
+o̍ih	zhai	500
+o̍ih-sueh		500
+pah-oh	da ge	500
+pang	mu ban	500
+pat	ren shi	500
+pa̍k	bang	500
+pek	kao	500
+pek	sheng qi	500
+pek-chhek	yi nu	500
+pe̍h-huat-kâi	za cao	500
+pe̍h-huân	ming fan	500
+pe̍h-ne̍k	fei rou	500
+pha-tèng	pao mao	500
+phah	da	500
+phah-khang	jing ji ren	500
+phah-pho̍k	gu zhang	500
+phah-tsuá-pâi	da pai	500
+phang	xiang	500
+phang-siū	feng chao	500
+phang-tsúi	xiang shui	500
+pha̍k	bing bao	500
+pha̍k	shai	500
+phian-kou	ban shen bu sui	500
+phiaⁿ-lî	xie gu	500
+phiaⁿ-lî-kut	xie gu	500
+phiⁿ	pian yi	500
+pho-phûe	xin feng	500
+phoi	xue	500
+phoi-kuán	you ju	500
+phoi-sìn	xin jian	500
+phou-tîn	pu gai	500
+phun	gan shui	500
+phuà-chîⁿ	po fei	500
+phuà-ke-kiáⁿ	bai jia zi	500
+phuà-pēⁿ	sheng bing	500
+phu̍eh-ūe	liao tian	500
+phàⁿ	ruan	500
+phái	huai	500
+phái-kiáⁿ	pi zi	500
+pháng	qu dong	500
+phâi-chhiâng	hua li	500
+phâng-phài	feng sheng	500
+phâu-thâi	bao lei	500
+phêng-huâ	he ping	500
+phêng-tuaⁿ	zheng shu	500
+phòng	zhang	500
+phòng-phiẽ	bao zhu	500
+phòu	dian	500
+phòu-thâu	dian pu	500
+phõu-kiáⁿ	ben zi	500
+phû	zha	500
+phīⁿ	bi ti	500
+phīⁿ	wen	500
+phīⁿ-khang	bi kong	500
+pi	shao zi	500
+pik-li̍h	gui lie	500
+piáⁿ-ie̍h		500
+pn̄g-tshn̂g	fan zhuo	500
+po-lî-tsun	bo li ping	500
+poh	zheng bian	500
+po̍h		500
+pua̍h	die	500
+pua̍h-chîⁿ	du qian	500
+pun	chu	500
+pun	gei	500
+puà-sièⁿ	hui rong	500
+puàⁿ-mêⁿ	ban ye	500
+puâⁿ-kiáⁿ	die zi	500
+puâⁿ-siàu	zhuan zhang	500
+pài-it	xing qi yi	500
+pài-jī	xing qi er	500
+pài-la̍k	xing qi liu	500
+pài-lãu-iâ	bai shen	500
+pài-ngõu	xing qi wu	500
+pài-saⁿ	xing qi san	500
+pài-sì	xing qi si	500
+pàu	xiao guan zi	500
+pâi-ji̍t	tian tian	500
+pâi-niⁿ	nian nian	500
+pâi-pí	an pai	500
+pêⁿ-iē	yi yang	500
+pì	bei	500
+pò-hiàng-tuaⁿ	zai huo qing dan	500
+pò-tsai	gao zhi	500
+pòu-chhùi	ma bu	500
+pòu-lōu	bu pi	500
+pòu-phit	bu pi	500
+pó-ke	bao xian	500
+pó-ke-jī	bao xian dan	500
+pó-ke-kuán	bao xian gong si	500
+pó-niáⁿ	bao zheng	500
+póu-tháu	fu tou	500
+pùn-ki	bo ji	500
+pùn-táu	bo ji	500
+pún-téng	ben fen	500
+pû	bai nan gua	500
+pû-hia	shui piao	500
+pĩ-kò	bei gao	500
+pńg-chîⁿ	ben jin	500
+pńg-hūn	yi wu	500
+pōu	ju jue	500
+pũ-chéng	fu zhong	500
+pũ-lâng	hua nong	500
+pūe	kao	500
+sai-khia	si ren	500
+sai-khia-chîⁿ	si fang qian	500
+sai-pẽ	shi fu	500
+sam-pâi	mu fa	500
+san-hû	shan hu	500
+sau-kuán	ji yuan	500
+sa̍h	shui zhu	500
+saⁿ-keⁿ puàⁿ-mêⁿ	san geng ban ye	500
+saⁿ-khòu	yi fu	500
+saⁿ-kṳ	yi jin	500
+saⁿ-tiàu	liang yi jia	500
+saⁿ-tō	yi dai	500
+saⁿ-ńg	yi xiu	500
+sek-liāu	ran liao	500
+sek-î	le yi	500
+seng-lí	sheng yi	500
+seng-lí-nâng	sheng yi ren	500
+seⁿ-huang	feng shi	500
+seⁿ-san	sheng xiu	500
+seⁿ-sṳ̄	re shi	500
+si-ûi	ban fa	500
+siah-po̍h	xi bo	500
+siau	xiao shi	500
+sie-chiap	lian jie	500
+sie-chieh-mn̄g	da zhao hu	500
+sie-mēⁿ	chao jia	500
+sie-phah	da jia	500
+sie-su	bi sai	500
+sie-thâi	da zhan	500
+sie-tsui	wen kai shui	500
+sie-à	zheng lun	500
+sieh	ai	500
+sien-hû	shan hu	500
+sie̍h-liû	shi liu	500
+sieⁿ-huang	gan mao	500
+sieⁿ-hûn	shang ba	500
+sim-kuaⁿ-thâu	xiong tang	500
+sim-sèⁿ	pi qi	500
+sim-tông-tông	xin shen bu ding	500
+sin-bũn-tsuá	bao zhi	500
+sin-hūn	ti ge	500
+sin-nâng	xin niang	500
+sin-nâng-tia	xin lang guan	500
+sin-pũ	xi fu	500
+sin-seⁿ	yi sheng	500
+sin-si	shi ti	500
+sin-tói-saⁿ	chen shan	500
+siu-phâng	shou fan	500
+siu-siàu	shou zhang	500
+siu-tuaⁿ	shou ju	500
+siàu-phõu	zhang ben	500
+siá-jī-tshn̂g	xie zi zhuo	500
+siáu	feng dian	500
+siáu	kuang	500
+siáu-iáⁿ	zhao pian	500
+siáu-káu	kuang quan	500
+siáu-lí	xiu chi	500
+siâ-gō-hún	xi mi	500
+siãng-hó	zui hao	500
+sié-nn̂g	xiao shu zi	500
+sién	xuan	500
+siéⁿ-keh	tong ji ling	500
+siû-tsui	you yong	500
+siũ-iũ	shou hui	500
+si̍h-pńg	kui ben	500
+siẽⁿ-chí	shen zang	500
+soh	sheng zi	500
+soh-kiáⁿ	sheng zi	500
+soi	jiao rang	500
+sou	cui	500
+su-iâⁿ	bi sai	500
+sua-pà	sha di	500
+suah	sa	500
+sue-phî	wei mi	500
+sue-sap	wei mi	500
+suh	shun xi	500
+suāiⁿ	mang guo	500
+suān	zuan shi	500
+sàng-sng	song bin	500
+sàu-siú	sao zhou	500
+sàu-soi-chheⁿ	hui xing	500
+sái	hua	500
+sái	hua fei	500
+sái	jia	500
+sái-chîⁿ	hua qian	500
+sái-puah	shi pen	500
+sán	shou	500
+sán-kut-la̍k-ne̍k	shou gu lin xun	500
+sãi	fei zi	500
+sên	cheng	500
+sêng-chhiū	rong shu	500
+sì-chhêng	tong qing da li	500
+sì-kan	shi jie	500
+sì-pang tshn̂g	fang zhuo	500
+sì-thâu	shi li	500
+sìn-kuan	you ju	500
+sìn-phûe	xin feng	500
+sî-pie	shou biao	500
+sòi	xiao	500
+sòi-jī	zai xi	500
+só	suo tou	500
+só-hùi	hua fei	500
+só-sî	yao shi	500
+sói-e̍k	xi zao	500
+sói-e̍k-pàng	yu shi	500
+sói-e̍k-tháng	yu gang	500
+sóng-khuài	huan kuai	500
+sõng-sṳ	lv shi	500
+sùe	zu jin	500
+sùe-bũ-si	shui wu ju	500
+sùn-pēⁿ	fei lao	500
+sûn	jian cha	500
+sûn	kan wang	500
+sī-iû	jiang you	500
+sńg	wan	500
+sńg-siàu	suan zhang	500
+sǹg-buâ	jia	500
+sṳ̀-hok	zhu fu	500
+ta	gan	500
+ta-ke	po po	500
+ta-ke-kuaⁿ	gong po	500
+ta-kuaⁿ	gong gong	500
+ta-pou	nan ren	500
+ta-pou-kiáⁿ	nan hai	500
+tah-pùe	bei xin	500
+tak-nn̄g	lang fei	500
+tam-sêng	bao shi	500
+tang-si	ce suo	500
+ta̍h-ti̍h	luo suo	500
+taⁿ	xian zai	500
+taⁿ-kê	dai shang jia suo	500
+tek-chià	bai gan zhe	500
+tek-pâi	zhu fa	500
+teng-chuáⁿ	zhong shi tai deng	500
+teng-kã	qian zi	500
+teng-tùe	zhao liao	500
+tha̍k-keng	song jing	500
+theng	chuang	500
+thiah-húe-kì	san huo	500
+thiap	yao qing han	500
+thien-tsú-kà	tian zhu jiao	500
+thih-kùn	tie bang	500
+thih-pit	gang bi	500
+thih-tshùi	tie xie	500
+thiu-hùn	yong jin	500
+thiu-kiám	zhe kou	500
+thiu-thiàⁿ	chou jin	500
+thiàu-thut	tuo su	500
+thiâu	qing chun dou	500
+thiⁿ	jia	500
+thiⁿ-sî	tian qi	500
+thng-sî	tang shao	500
+thn̄g-chí	zhuo qiu	500
+thok-chiáⁿ	tu ding	500
+thua	la	500
+thut-hà	tuo xiao	500
+thuàⁿ	mei	500
+thàm-mn̄g	xun wen	500
+thàn	li run	500
+thàng-ji̍t	zheng tian	500
+thàng-mêⁿ	zheng ye	500
+tháu	jie	500
+tháu-pòu	tou jin	500
+thâi	sha	500
+thâu-hîn	tou tong	500
+thâu-ke	lao ban	500
+thâu-lōu	gong zuo	500
+thâu-mô	tou fa	500
+thâu-nâng	tou mu	500
+thì-thâu	li fa	500
+thì-to	ti xu dao	500
+thòu-sià	huo luan	500
+thó-tàng	wen tuo	500
+thóiⁿ	kan	500
+thóiⁿ-tsṳ-pâng	yue du shi	500
+thôu	tu	500
+thôu-kha	di mian	500
+thûe	chuang	500
+thĩ	zhi chuang	500
+thīⁿ	feng	500
+thǹg	tuo	500
+tiam	zhen ban	500
+tiang-sî	shen me shi hou	500
+tiau-khiak	diao po	500
+tiau-tùn	diao nan	500
+tie̍h	dui	500
+tie̍h-sua	fu jiao tong	500
+tih-kiáⁿ	yi dian	500
+tin-pâi	dun pai	500
+tiàu-kue	huang gua	500
+tiám-báu	dian ming	500
+tián	xuan yao	500
+tiâm-ko	guo jiang	500
+tiâu-tiâu	jing ran	500
+tiâu-ti̍t	wen tuo	500
+tiâu-ti̍t	you tiao li	500
+tiãⁿ-tsũe	pan xing	500
+tièⁿ-tóu	fu zhang	500
+tiām-tiām	jing jing	500
+tiāⁿ-ngṳ̂n	ding jin	500
+tiāⁿ-tie̍h	yi ding	500
+ti̍t-thàu	zhi da	500
+tiẽⁿ-nâng	yue fu	500
+tiẽⁿ-ḿ	yue mu	500
+tiẽⁿ-ḿ-phuâ	zhang mu niang	500
+tn̂g-nâng	zhong guo ren	500
+to-khah	dao qiao	500
+toh	zhuo zi	500
+tok	hui bang	500
+tok	zhan	500
+tok-kang	jian gong	500
+tok-tshō	duo sui	500
+tsa-ji̍t	zuo tian	500
+tsa-mêⁿ	zuo ye	500
+tsai-kuan	dang xin	500
+tsang	fa ji	500
+tsang-sui	suo yi	500
+tsa̍p-chi̍p	bu shu tan	500
+tshah-tshãn	zheng qian	500
+tsha̍k-kiáⁿ	zao zi	500
+tsha̍k-kiáⁿ	zhui zi	500
+tshng	kui yang	500
+tshn̂g-pòu	zhuo bu	500
+tshn̂g-téng	zhuo shang	500
+tsho	xing	500
+tshoh	qiang	500
+tshoiⁿ-lí-kiàⁿ	wang yuan jing	500
+tshou	cu cao	500
+tshu-sùe	fang zu	500
+tshue	zheng	500
+tshui-pek	cui tao	500
+tshut-guā-nâng	mo sheng ren	500
+tshut-jī-pe̍h	deng bu gao	500
+tshut-kháu-hùe	chu kou shang pin	500
+tshut-tsu	tian hua	500
+tshut-tāu	shui dou	500
+tshuā-tsúi	ling gang yuan	500
+tshài-thâu	bai luo bo	500
+tshài-thâu-kháu		500
+tshài-tāu	dou jiao	500
+tshàu-nâng	e gun	500
+tsháu-pou	cao ping	500
+tshâ-thâu	mu tou ren	500
+tshâ-thûi	gun bang	500
+tshâi-hù	hui ji	500
+tshâi-khì	xing yun	500
+tshãn-tūi	cha dui	500
+tshóiⁿ	mao shua	500
+tshóiⁿ	shua	500
+tshông	cong	500
+tshù	jia	500
+tshù-bī	you qu	500
+tshù-tsú	fang dong	500
+tshù-téng	fang ding	500
+tshùi	zui	500
+tshùi-lîm-phûe	zui chun	500
+tshùn-chìn	jin bu	500
+tshûn	sheng xia	500
+tshūe	zhao	500
+tsng-ke	zhuang jia	500
+tsnńg-thâu-kong	mu zhi	500
+tsoh-kang	gong zuo	500
+tsong-kú	zong shi	500
+tso̍ih	qie	500
+tsuá-bûe	zhi nian	500
+tsuá-hue	jia hua	500
+tsuá-jī	chao piao	500
+tsuā-tsuā	mei ci	500
+tsàng	qiang zhuang de	500
+tsàu-thâu	zao tai	500
+tsáu	pao	500
+tsáu-hiàng	bi shui	500
+tsáu-khí	qi chuang	500
+tsâng	ke	500
+tsãi	hen	500
+tsò-chhit	shao qi	500
+tsò-chiēⁿ-puâⁿ	pi fa jiao yi	500
+tsò-kha-chhiú	dong shou jiao	500
+tsò-seⁿ-ji̍t	guo sheng ri	500
+tsò-tsoih	guo jie	500
+tsóng-phõu	zong zhang	500
+tsô-thâu-ne̍k	zhu tou rou	500
+tsôiⁿ-khí	men ya	500
+tsúi-in	zheng qi	500
+tsúi-nîⁿ	cu hua ni	500
+tsúi-siú	shui shou	500
+tsúi-thiu	shui beng	500
+tsûn-kiáⁿ	shan ban	500
+tsûn-tsou	chuan fei	500
+tsûn-tsú	chuan zhang	500
+tsōi	duo	500
+tsũi		500
+tsūe	zhe zhou	500
+tsṳ-niêⁿ	nv ren	500
+tsṳ́	zuo	500
+tsṳ̃-chĩn	zi sha	500
+tsṳ̃-lâi-húe	huo chai	500
+tuah	chi ze	500
+tuaⁿ-teng	du sheng zi	500
+tun-hùe-pâng	chu cang shi	500
+tuà-hà	dai xiao	500
+tuã	chuan duo	500
+tuãⁿ	lan duo	500
+tuā-chhèng	da pao	500
+tuā-chi̍h	jie ba	500
+tuā-húe	da fu	500
+tuā-ke	po po	250
+tuā-ke-kuaⁿ	gong po	250
+tuā-thâu-ló	da guan yuan	500
+tuā-tshái-hù	shou xi hui ji	500
+tuā-tshâ	yuan mu	500
+tuā-ãu-ji̍t	da hou tian	500
+tàⁿ	shuo	500
+tá-tia̍p	zhe mo	500
+táu-chiⁿ-hâng	qian bi dui huan shang	500
+táu-chîⁿ	zhao qian	500
+tâm	shi	500
+tâng-mn̂g	lian jin	500
+tâng-po̍h	tong ban	500
+tâng-tsóiⁿ	ding zhen	500
+tâu	tou zi	500
+tãi-kong	duo shou	500
+tãng-lāi	gao li	500
+tèng	mao	500
+tê-bí	cha ye	500
+tê-kuàn	cha hu	500
+tì-iâⁿ	za ying	500
+tî-kâi	na ge	500
+tî-kò	na li	500
+tî-kò húe	na li ren	500
+tî-nâng	na ge ren	500
+tñg-chhùi	shu kou	500
+tñg-khùi	duan qi	500
+tò-ta̍h	luo suo	500
+tó-tièⁿ	dao bi	500
+tói-tsṳ́	yuan jian	500
+tóiⁿ	di ya	500
+tóiⁿ-khòi	di ya qi ju	500
+tóiⁿ-tsú	di ya ren	500
+tóu khùn	ji e	500
+tóu làu	fu xie	500
+tóu-siap	bian mi	500
+tóu-thiàⁿ	du zi tong	500
+tõ	cong	500
+tõ	zai	500
+tõng-kak	shou zhang	500
+tùi-tuaⁿ	hui piao	500
+túi	la	500
+tĩⁿ	man	500
+tī-kha	ji chu	500
+tī-kài	bian jie	500
+tī-tāu	hua sheng	500
+tńg	hui	500
+tōiⁿ	ying	500
+tōu-tsûn	hang chuan	500
+tūn-ãm-kui	jia zhuang xian zhong	500
+tǹg	cheng ya	500
+tǹg-tsú	cheng ya ren	500
+tṳ-ko	gong zhu	500
+tṳ̂	jian	500
+tṳ̄	kuai zi	500
+tẽ-cheng	cha bei	500
+uan-ke	chao nao	500
+uang-khuk	yuan wang	500
+ue	shui hu	500
+ui-kuán	yi yuan	500
+un-chiàng	wen yi	500
+uàⁿ	an jian	500
+uáⁿ	wan	500
+uáⁿ-kong	da wan	500
+uân-kù	yuan yin	500
+uân-sui	xiang cai	500
+uâng-bō	wang guan	500
+uâng-lâi	feng li	500
+uāⁿ	gai bian	500
+u̍t	shui	500
+u̍t-pâng	wo shi	500
+zo̍k	chuang dian	500
+zua̍h-pòu	xia bu	500
+zuán-lôu	huo guo	500
+zông	rong	500
+zú	yue	500
+zú-hó	geng hao	500
+zṳ̂	luan	500
+à	zheng bian	500
+àng	da guan zi	500
+ám	mi tang	500
+áu-ueh	ou tu	500
+âng-ie̍h	zhi tong yao	500
+âng-thâu-tsûn	fan chuan	500
+âng-tâng	huang tong	500
+âu-lèng	hou long	500
+ãm	jing	500
+ãm-muaⁿ	wei jin	500
+ãm-niáⁿ	yi ling	500
+ãm-phuân	wei jin	500
+ãu-ji̍t	hou tian	500
+é	ya ba	500
+êng-ti	tui chi	500
+ìn	hui da	500
+ìn-sêng	cheng nuo	500
+ìⁿ-chiáu	yan zi	500
+ín-chìn	tui jian	500
+în	ceng	500
+îⁿ-tshn̂g	yuan zhuo	500
+ô-khak-kiàⁿ	zhen zhu mu	500
+ô-tsu	zhen zhu	500
+ôi-thua	tuo xie	500
+ôiⁿ-iû	xian guang	500
+ùe	gan ran	500
+ùi	pa	500
+ùi-chhìn	wei han	500
+ùn	zhan	500
+ún	wo men	500
+ún-tǹg	wen tuo	500
+ûi	wei gan	500
+ńg	xiu zi	500
+ũ a-bô	you mei you	500
+ṳ̃	zhun bei	500
+ẽ-hâi	xia ba	500
+ẽ-ji̍t	ta ri	500
+ẽ-kuà	xia wu	500
+ẽ-tsuā	xia ci	500
 㦙	chun	2000
 㩼	duo	2000
 㪗	jie	2000
@@ -562,7 +1668,6 @@ use_preset_vocabulary:	true
 潘	gan shui	2000
 濛烟	mi wu	2000
 灌腸	xiang chang	2000
-火#	huo jian	2000
 火柴	chai huo	2000
 火灰	hui jin	2000
 火牌	huo chai	2000
@@ -614,7 +1719,6 @@ use_preset_vocabulary:	true
 犯律	fan fa	2000
 狗母	mu gou	2000
 狹	zhai	2000
-狹#		2000
 猛	kuai	2000
 獃	dai	2000
 王帽	wang guan	2000
