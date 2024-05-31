@@ -52,8 +52,8 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUf"
-  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIUf"
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUfwyFWY"
+  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIUfwyFWY"
   #  finals: "235678"
   delimiter: " -"
   use_space: false
