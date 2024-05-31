@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.puj
-version:	"2024.05.30"
+version:	"2024.05.31"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -2018,6 +2018,18 @@ kãⁿ	kann6
 Kãⁿ	Kann6
 kāⁿ	kann7
 Kāⁿ	Kann7
+kao	kao
+Kao	Kao
+káo	kao2
+Káo	Kao2
+kào	kao3
+Kào	Kao3
+kâo	kao5
+Kâo	Kao5
+kão	kao6
+Kão	Kao6
+kāo	kao7
+Kāo	Kao7
 kap	kap
 Kap	Kap
 ka̍p	kap8
@@ -3086,18 +3098,6 @@ kut	kut
 Kut	Kut
 ku̍t	kut8
 Ku̍t	Kut8
-l1	l
-L1	L
-l2	l2
-L2	L2
-l3	l3
-L3	L3
-l5	l5
-L5	L5
-l6	l6
-L6	L6
-l7	l7
-L7	L7
 la	la
 La	La
 lá	la2

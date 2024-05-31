@@ -6,1184 +6,1192 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.05.30"
+version:	"2024.05.31"
 sort:	by_weight
 use_preset_vocabulary:	true
 ...
-⿱艹麾	jue	200
-㦙	chun	200
-㩼	duo	200
-㪗	jie	200
-㴷	shi	200
-㽱痛	jiao tong	200
-㾪	shou	200
-㾫枯	ban shen bu sui	140
-㿗	chuang	200
-䘼	xiu zi	200
-䛩	zheng bian	200
-䭄		140
-䭕		200
-䶕牙	bao ya	200
-一尾魚	yi tiao yu	200
-丈人	yue fu	200
-丈夫	nan ren	200
-丈夫囝	nan hai	200
-丈母	yue mu	200
-丈母婆	zhang mu niang	200
-三更半暝	san geng ban ye	200
-上好	zui hao	200
-上數	ru zhang	200
-上旰	shang wu	200
-上旰	xia wu	200
-下	di	200
-下日	ta ri	200
-下逝	xia ci	200
-下頦	xia ba	200
-不	bu	200
-不知人	bu xing ren shi	200
-世情	tong qing da li	200
-世間	shi jie	200
-乏	pi lao	200
-乘	cheng	200
-乞	gei	200
-乞食	qi gai	200
-二伙	er fu	200
-二手	zhu li	200
-五箍	wu yuan	200
-亞是	huo zhe shi	200
-交挿	jiao wang	200
-交掛	jiao yi	200
-交插	jiao wang	140
-交椅	kao bei yi	200
-亦	ye	200
-人事	ren qing shi gu	140
-人客	ke ren	200
-人情	en qing	140
-人情	mian zi	140
-今	xian zai	200
-今旦日	jin tian	200
-今暝	jin ye	200
-付托	wei tuo	200
-仙瑚	shan hu	200
-企	zhan	140
-伊	ta	200
-伍星	xing xing	200
-伙長	chuan zhang	200
-伙頭	chu shi	200
-伙食房	chu fang	200
-作工	gong zuo	200
-佝腰	gou lou	200
-使	hua	200
-使	hua fei	200
-使費	hua fei	200
-使錢	hua qian	200
-來往	fen lei zhang	200
-來銀	shou kuan	200
-依原	yi jiu	200
-便	pian yi	200
-保家	bao xian	200
-保家字	bao xian dan	200
-保家館	bao xian gong si	200
-保領	bao zheng	200
-信皮	xin feng	200
-信關	you ju	200
-俺	wo men	140
-倒誻	luo suo	200
-倒賬	dao bi	200
-偏枯	ban shen bu sui	200
-做七	shao qi	200
-做上盤	pi fa jiao yi	200
-做生日	guo sheng ri	200
-做節	guo jie	200
-做腳手	dong shou jiao	140
-做骹手	dong shou jiao	200
-健	jian zhuang	200
-偪側	yi nu	200
-催迫	cui tao	200
-債主	zhai quan ren	200
-傷痕	shang ba	200
-傷風	gan mao	200
-價錢	jia ge	200
-儂事	ren qing shi gu	200
-儂公囝	wan ou	200
-儂囝	tu hua	200
-儂客	ke ren	140
-儂情	en qing	200
-儂情	mian zi	200
-先生	yi sheng	200
-光	liang	200
-光通	tou ming	200
-免	bu yong	200
-入口貨	jin kou shang pin	200
-內	jia	200
-公親	gong duan ren	200
-共	he	200
-典	di ya	200
-典主	di ya ren	200
-典契	di ya qi ju	200
-冇	ruan	200
-冊架	shu jia	200
-冊橱	shu chu	200
-冊皮	shu ji feng mian	200
-冊魚	shu chong	200
-冤家	chao nao	200
-冤屈	yuan wang	200
-凊	leng	200
-凝	leng	200
-出口貨	chu kou shang pin	200
-出外儂	mo sheng ren	200
-出字白	deng bu gao	200
-出珠	tian hua	200
-出痘	shui dou	200
-刀壳	dao qiao	200
-刁厥	diao po	200
-刁蹬	diao nan	200
-分	chu	200
-分	gei	200
-切要	zhong yao	200
-刣	sha	200
-別	ren shi	200
-利	feng li	200
-利錢	li yi	200
-刷	shua	200
-剁	zhan	200
-剁脞	duo sui	200
-剁莝	duo sui	140
-剃刀	ti xu dao	200
-剃頭	li fa	200
-前齒	men ya	200
-割	qie	200
-割工錢	kou gong zi	200
-力	qin lao	200
-加	duo	200
-動角	shou zhang	200
-勢頭	shi li	200
-勤	qin lao	140
-勥	li hai	200
-勿	bu yao	200
-匏	bai nan gua	200
-匏桸	shui piao	200
-匟床	kang	140
-千里鏡	wang yuan jing	200
-半暝	ban ye	200
-危	gao	200
-卵	dan	200
-卵仁	dan huang	200
-卵核	yi wan	200
-卵淸	dan bai	200
-卵脬	yin nang	200
-厚栗	ban li	200
-厝	jia	200
-厝主	fang dong	200
-厝稅	fang zu	200
-厝頂	fang ding	200
-受賄	shou hui	200
-口㼦	shu kou bei	200
-古事	li shi	200
-古傳	chuan shuo	200
-司阜	shi fu	200
-吊瓜	huang gua	200
-同門	lian jin	200
-名色	ming yu	200
-名頭	ming sheng	200
-吐瀉	huo luan	200
-告勞	shuo fu	200
-呌	jiao	200
-呢	mao ni	200
-味素	wei dao	200
-呵欠	ha qian	200
-呾	shuo	200
-咄	chi ze	200
-咖喱	ga li	200
-咬嗽	ke sou	200
-咱	wo men	200
-哺	ju jue	200
-唐人	zhong guo ren	200
-唚	wen	200
-啉	yin	200
-啞	ya ba	200
-喉嚨	hou long	200
-喊	jiao	200
-喙	zui	200
-喙唇皮	zui chun	200
-單丁	du sheng zi	200
-嗜		80
-嘔噦	ou tu	200
-嘶	jiao rang	200
-嚷	jiao han	200
-嚷	jiao rang	200
-四方床	fang zhuo	200
-囝	zi nv	200
-囥	cang	200
-困	lei	200
-圓床	yuan zhuo	200
-在	cong	200
-在	hen	200
-在	zai	200
-地界	bian jie	200
-地腳	ji chu	140
-地豆	hua sheng	200
-地骹	ji chu	200
-垃圾	la ji	200
-垃圾相	bu qian bu jing	200
-垢圿	wu gou	200
-堪該	ying shou	200
-報知	gao zhi	200
-報餉單	zai huo qing dan	200
-塗	tu	200
-塗腳	di mian	140
-塗骹	di mian	200
-墨斗	wu zei	200
-壓	an	200
-壯	qiang zhuang de	200
-外家	niang jia	200
-多	duo	140
-夜旰	ye jian	200
-夠	zu gou	200
-大伙	da fu	200
-大官	gong gong	200
-大家	po po	200
-大家官	gong po	200
-大後日	da hou tian	200
-大柴	yuan mu	200
-大舌	jie ba	200
-大財副	shou xi hui ji	200
-大銃	da pao	200
-大頭腦	da guan yuan	200
-大頷奎	jia zhuang xian zhong	200
-天主教	tian zhu jiao	200
-天時	tian qi	200
-奇巧物	qi zhen yi bao	200
-奇異	jing qi	200
-奈	ren shou	200
-好贃	hao zhuan	140
-好趁	hao zhuan	200
-妥當	wen tuo	200
-嬭母	nai ma	200
-字號	shang biao	200
-孤老	gu gua lao ren	200
-孥囝	hai zi	200
-孥囝款	hai zi qi	200
-定着	yi ding	200
-定罪	pan xing	200
-定銀	ding jin	200
-客商	shang ren	200
-客店	jiu dian	200
-家信	jia shu	200
-家私	jia ju	200
-家長	jing li	200
-寃家	chao nao	140
-寒暑針	wen du ji	200
-寒着	shou han	200
-寫字床	xie zi zhuo	200
-寬埕	guang chang	200
-寬寬	jian jian	200
-寸進	jin bu	200
-對單	hui piao	200
-小影	zhao pian	200
-小禮	xiu chi	200
-小郎	xiao shu zi	200
-少	shao	200
-尪囝	tu hua	200
-尻脊	ji bei	200
-尿脬	pang guang	200
-屎鉢	shi pen	200
-屐	mu ji	200
-展	xuan yao	200
-巡	jian cha	200
-巡	kan wang	200
-工錢	gong zi	200
-市	shi chang	200
-布疋	bu pi	200
-布碎	ma bu	200
-布路	bu pi	200
-帖	yao qing han	200
-帶水	ling gang yuan	200
-帽吊	mao jia	200
-平和	he ping	200
-平樣	yi yang	200
-幼	jing zhi	200
-床布	zhuo bu	200
-床頂	zhuo shang	200
-底個	na ge	200
-底儂	na ge ren	200
-底塊	na li	200
-底塊夥	na li ren	200
-底子	yuan jian	200
-底當時	shen me shi hou	200
-延遲	tui chi	200
-引荐	tui jian	200
-彼	na	200
-後日	hou tian	200
-後生	nian qing	200
-徛	zhan	200
-從	cong	200
-心性	pi qi	200
-心憧憧	xin shen bu ding	200
-心肝頭	xiong tang	200
-快活	huan kuai	200
-念路	bao yuan	200
-恁	ni men	200
-恬恬	jing jing	200
-悽慘	bei can	200
-惜	ai	200
-惡	tao yan	200
-惡	xie e	200
-惰	lan duo	200
-愈	yue	200
-愈好	geng hao	200
-愊	sheng qi	200
-感謝	gan xie	200
-愩	chun	200
-憑單	zheng shu	200
-憶得	ji de	200
-應	hui da	200
-應承	cheng nuo	200
-戇	yu chun	200
-成樹	rong shu	200
-截	qie	200
-戰船	zhan jian	200
-戴孝	dai xiao	200
-所費	hua fei	200
-手套	shou tao	200
-手巾	can jin	200
-手布	shou pa	200
-手指	jie zhi	200
-手綢	shou pa	200
-打拍	gu zhang	200
-打揲	zhe mo	140
-打疊	zhe mo	200
-打紙牌	da pai	200
-扭	wa	200
-批	xue	200
-批信	xin jian	200
-批皮	xin feng	200
-批館	you ju	200
-找錢	zhao qian	200
-找錢行	qian bi dui huan shang	200
-抽分	yong jin	200
-抽減	zhe kou	200
-抽痛	chou jin	200
-拆夥記	san huo	200
-拋椗	pao mao	200
-拍	da	200
-拍呃	da ge	200
-拍空	jing ji ren	200
-拐腳	bo zu	140
-拐骹	bo zu	200
-拔	die	200
-拖	la	200
-拜三	xing qi san	200
-拜乙	xing qi yi	200
-拜伍	xing qi wu	200
-拜四	xing qi si	200
-拜弍	xing qi er	200
-拜老爺	bai shen	200
-拜陸	xing qi liu	200
-拭	ca	200
-拭腳其蓑	men dian	140
-拭骹其蓑	men dian	200
-持	dai	200
-指頭公	mu zhi	200
-挽	la	200
-挿羼	zheng qian	200
-掃箒	sao zhou	200
-掃菷星	hui xing	200
-掌	kan	200
-掌更儂	shou ye ren	200
-掌櫃	shou yin yuan	200
-排塲	hua li	200
-排年	nian nian	200
-排日	tian tian	200
-排比	an pai	200
-掘	chan	200
-掛	dai	200
-掛慮	you lv	200
-掛紙	sao mu	200
-掠	zhua	200
-掠舵	zhang duo	200
-探問	xun wen	200
-插羼	zheng qian	140
-換	gai bian	200
-損病	fei lao	200
-携	ti	200
-携餉	shou shui	200
-撈	zu gou	200
-撒	sa	200
-撞枳	zhuo qiu	200
-擔承	bao shi	200
-擔枷	dai shang jia suo	200
-攏總	zong gong	200
-攬儎字	ti huo dan	200
-收單	shou ju	200
-收帆	shou fan	200
-收數	shou zhang	200
-敗	huai	200
-數簿	zhang ben	200
-斜莪粉	xi mi	200
-斧頭	fu tou	200
-新人	xin niang	200
-新人爹	xin lang guan	200
-新婦	xi fu	200
-新教	ye su jiao	200
-新聞紙	bao zhi	200
-斷氣	duan qi	200
-施爲	ban fa	200
-日子	ri qi	200
-日日	tian tian	200
-日旰	bai tian	200
-日晝	zhong wu	200
-日清	ri ji ben	200
-日蝕	ri shi	200
-早起	qi chuang	200
-旺梨	feng li	200
-明年	ming nian	200
-明旦起	ming tian	200
-易	rong yi	200
-昨日	zuo tian	200
-昨暝	zuo ye	200
-時鏢	shou biao	200
-晏	wan	200
-暍着暑	zhong shu	200
-暖爐	huo guo	200
-暝昏	wan shang	200
-暝昏囝	bang wan	200
-曉	ming bai	200
-曝	shai	200
-曳手	zhao shou	200
-月蝕	yue shi	200
-月記	yue ji	200
-有亞無	you mei you	200
-朥	zhi fang	200
-木虱	chou chong	200
-未	mei	200
-末	fen	200
-本分	yi wu	200
-本等	ben fen	200
-本錢	ben jin	200
-杉排	mu fa	200
-杉牌	mu fa	140
-杮	fei zi	200
-東司	ce suo	200
-枋	mu ban	200
-枕頭囊	zhen tou tao	200
-林擒	shi jia guo	200
-果子	shui guo	200
-枵	ji e	200
-柑	gan	200
-柴槌	gun bang	200
-柴頭	mu tou ren	200
-栳㭳	rou dou kou	200
-格	chou ti	140
-桂皮	rou gui	200
-桅	wei gan	200
-案	an jian	200
-桔	ju zi	200
-桩家	zhuang jia	200
-條條	jing ran	200
-條直	wen tuo	200
-條直	you tiao li	200
-棉裘	mian ao	200
-棕蓑	suo yi	200
-棹	zhuo zi	200
-椗	mao	200
-槅	chou ti	200
-槳	chuan jiang	200
-槽頭肉	zhu tou rou	200
-樟柴	zhang nao	200
-樟栳	zhang nao	200
-樣	wai guan	200
-樹泥	xiang jiao	200
-檨	mang guo	200
-欉	ke	200
-欶	shun xi	200
-歇	ting	200
-歇	xiu xi	200
-歡喜	gao xing	200
-此	zhe	200
-此樣生	ru ci	200
-此陣	xian zai	200
-歷日	ri li	200
-歸原	ku cun fen lei zhang	200
-毋好	bu hao	200
-母	lao po	200
-氈	di tan	200
-氣	qi xi	200
-氣力	li liang	200
-水呢	cu hua ni	200
-水手	shui shou	200
-水抽	shui beng	200
-水烟	zheng qi	200
-水𦮴	cu hua ni	140
-氽水	you yong	200
-汝	ni	200
-污糟	la ji	200
-沙埧	sha di	140
-沙壩	sha di	200
-油刷	qi shua	200
-沿	ceng	200
-洗浴	xi zao	200
-洗浴房	yu shi	200
-洗浴桶	yu gang	200
-流水平	di chao	200
-流水雄	gao chao	200
-流洘	tui chao	200
-流漲	zhang chao	200
-浪蕩儂	liu lang zhe	200
-浮	zha	200
-浮膿	hua nong	200
-浴布		200
-海墘	hai bian	200
-海嶼	dao yu	200
-海湧	hai lang	200
-海茸	hai mian	200
-涎	kou shui	200
-涎	tuo ye	200
-淖糜	xi zhou	200
-深坑	shan gu	200
-添	jia	200
-清潔	qian jing	200
-減	shao	200
-渡船	hang chuan	200
-湯匙	tang shao	200
-滂沛	feng sheng	200
-滑	guang hua de	200
-滒	nian chou	200
-滾水	kai shui	200
-漉	shi tou	200
-漏囝	pian zi	200
-漏屎	fu xie	200
-漲	man	200
-潘	gan shui	200
-濛烟	mi wu	200
-灌腸	xiang chang	200
-火#	huo jian	200
-火柴	chai huo	200
-火灰	hui jin	200
-火牌	huo chai	200
-火石	da huo shi	200
-火船	qi chuan	200
-火船囝	qi ting	200
-火頭	chu shi	140
-灱	gan	200
-灶頭	zao tai	200
-炊	zheng	200
-炕床	kang	200
-炭	mei	200
-炮臺	bao lei	200
-烏	hei	200
-烏暗	hei an	200
-烏油	bai you	200
-烏糖	hei tang	200
-烏面儂	hei ren	200
-烙	lao	200
-烟筒	yan cong	200
-焙	kao	200
-無	mei you	200
-無中用	bu zhong yong	200
-無定着	bu que ding	200
-無行	que de	200
-無規矩	mei you li mao	200
-煆火	shao huo	200
-煏	kao	200
-煠	shui zhu	200
-照	an	200
-煩惱	dan xin	200
-煮	zuo	200
-煴	zhan	200
-熇	zheng	200
-熱布	xia bu	200
-熻	men	200
-燈盞	zhong shi tai deng	200
-燒水	wen kai shui	200
-燕菜	hai zao	200
-燕鳥	yan zi	200
-營盤	ying di	200
-爽快	huan kuai	200
-爾	ni	140
-牙頭齒	hou cao ya	200
-牛乳油	huang you	200
-物	zuo	200
-物件	dong xi	200
-物食	mi jian	200
-犯律	fan fa	200
-狗母	mu gou	200
-狹	zhai	200
-狹#		200
-猛	kuai	200
-獃	dai	200
-王帽	wang guan	200
-玻璃樽	bo li ping	200
-珊瑚	shan hu	200
-珠娘	nv ren	140
-現在	xian zai	200
-現錢	xian jin	200
-瓠𣟵	shui piao	140
-甌	tang wan	200
-甕	da guan zi	200
-甘癪	tao chong bing	200
-甘虫	tao chong	200
-甘蜜	bin lang gao	200
-甜糕	guo jiang	200
-生事	re shi	200
-生份儂	mo sheng ren	140
-生分儂	mo sheng ren	200
-生理	sheng yi	200
-生理儂	sheng yi ren	200
-生疑	ang zang	200
-生瘋	feng shi	200
-生矾	lv fan	200
-生菜	sha la	200
-生鉎	sheng xiu	200
-生𥐥	lv fan	140
-畏	pa	200
-畏凊	wei han	200
-畧好	hao xie	200
-畨人	ye man ren	140
-畨梘		140
-畨梨	feng li	140
-畨瓜	nan gua	140
-畨葛	fan shu	140
-畨薯	fan shu	140
-番人	ye man ren	200
-番梘		200
-番梨	feng li	200
-番瓜	nan gua	200
-番葛	fan shu	200
-番薯	fan shu	200
-當	cheng ya	200
-當主	cheng ya ren	200
-疥	jie chuang	200
-痀腰	gou lou	140
-痒癲	zhong feng	200
-痔	zhi chuang	200
-痞囝	pi zi	200
-痢疾	li ji	200
-痱	fei zi	200
-瘋痛	feng shi	200
-瘟瘴	wen yi	200
-瘡	kui yang	200
-瘤	zhong liu	200
-瘦	shou	140
-癬	xuan	200
-癲	feng dian	200
-發燒	fa shao	200
-白發其	za cao	200
-白矾	ming fan	200
-白肉	fei rou	200
-白𥐥	ming fan	140
-皺紗	zhou bu	200
-盤囝	die zi	200
-盤數	zhuan zhang	200
-盪喙	shu kou	200
-目仁	yan qiu	200
-目實	kan tou	200
-目汁	yan lei	200
-目澀	kun juan	140
-目澁	kun juan	200
-目眉	mei mao	200
-目眥毛	yan jie mao	200
-目睭	yan jing	200
-目睭皮	yan pi	200
-目鏡	yan jing	200
-目𥍆	kun juan	80
-盯綴	zhao liao	200
-直透	zhi da	200
-相䛩	zheng lun	200
-相借問	da zhao hu	200
-相刣	da zhan	200
-相拍	da jia	200
-相接	lian jie	200
-相罵	chao jia	200
-相輸	bi sai	200
-眠床	chuang	200
-眠起	zao shang	200
-眩船	yun chuan	200
-眼在	xian zai	200
-眾生	jia chu	200
-着	dui	200
-着痧	fu jiao tong	200
-睇	kan	200
-睇書房	yue du shi	200
-睡	shui	200
-督工	jian gong	200
-知觀	dang xin	200
-石榴	shi liu	200
-石部	shi tou	200
-砧	zhen ban	200
-破家囝	bai jia zi	200
-破病	sheng bing	200
-破相	hui rong	200
-破錢	po fei	200
-硝	xiao shi	200
-碗公	da wan	200
-碰鰾	bao zhu	200
-磽	qiong	200
-禁口	feng suo gang kou	200
-禁港	feng suo gang kou	200
-禮拜	xing qi ri	200
-禮拜堂	jiao tang	200
-禽獸	chu sheng	200
-禿掌	tu ding	200
-私家	si ren	200
-私家錢	si fang qian	200
-稅	zu jin	200
-稅務司	shui wu ju	200
-種珠	da yi miao	200
-稱誦	cheng zan	200
-穢	gan ran	200
-穩當	wen tuo	200
-空肚	kong fu	200
-窓	chuang	140
-窗	chuang	200
-竹排	zhu fa	200
-竹牌	zhu fa	140
-竹蔗	bai gan zhe	200
-筅	mao shua	200
-筅	shua	200
-筋	jing mai	200
-答背	bei xin	200
-算摩	jia	200
-算數	suan zhang	200
-箸	kuai zi	200
-簥	qie zi	200
-簿囝	ben zi	200
-籐牌	dun pai	200
-粉鳥	ge zi	200
-粗	cu cao	200
-粟倉	gu cang	200
-粿	dan gao	200
-糜	zhou	200
-糞斗	bo ji	200
-糞箕	bo ji	200
-約	cai	200
-約量	da yue	200
-紅藥	zhi tong yao	200
-紅銅	huang tong	200
-紅頭船	fan chuan	200
-納餉	na shui	200
-紙字	chao piao	200
-紙煤	zhi nian	200
-紙花	jia hua	200
-紡	qu dong	200
-索	sheng zi	200
-索囝	sheng zi	200
-細	xiao	200
-細字	zai xi	200
-終久	zong shi	200
-結凍	dong jie	200
-結疕	jie jia	200
-絨	rong	200
-綱膠	bo luo mi	200
-綱黑	shan zhu	200
-緣故	yuan yin	200
-縛	bang	200
-縫	feng	200
-縻	fu lan	200
-總簿	zong zhang	200
-缺嘴	chun lie	200
-罕得	hen shao	200
-置營	za ying	200
-羅經	luo pan	200
-羔丕	ka fei	200
-羔丕磨	ka fei ji	200
-羼隊	cha dui	200
-翁姐	fu qi	200
-翁姐囝	xiao liang kou	200
-翕	men	200
-翕	zheng	200
-翹楚	chu zhong	200
-考	ce shi	200
-耍	wan	200
-耳鈎	er huan	200
-職任	zhi wu	200
-職銜	jun xian	200
-肉脞	rou mo	200
-肚困	ji e	200
-肚漏	fu xie	200
-肚澁	bian mi	200
-肚痛	du zi tong	200
-肝	gan zang	200
-肨	zhang	200
-肩頭	jian bang	200
-胕腫	fu zhong	200
-胳胴下	ye wo	200
-能爲	neng li	200
-脉	mai bo	200
-脢肉	li ji rou	200
-脧		200
-脫孝	tuo xiao	200
-脹肚	fu zhang	200
-腈肉	shou rou	200
-腎子	shen zang	200
-腡	zhi wen	200
-腥	sheng	200
-腰佝	tuo bei	200
-腰痀	tuo bei	140
-腰骨	ji gu	200
-腳	tui	140
-腳桶	yu gang	140
-腳目	jiao huai	140
-腳腸肚	xiao tui du	140
-腳腿	tui	140
-腳臁	qian jing gu	140
-腳趾	jiao zhi	140
-腳踏椅	jiao deng	140
-腳蹯	zu mian	140
-腳頭趺	xi gai	140
-腳𢅎	bang tui	140
-膠離	ga li	140
-臊	xing	200
-臥房	wo shi	200
-自來火	huo chai	200
-自盡	zi sha	200
-臭儂	e gun	200
-舖	dian	200
-舵	chuan duo	200
-舵工	duo shou	200
-船主	chuan zhang	200
-船囝	shan ban	200
-船租	chuan fei	200
-色料	ran liao	200
-芎蕉	xiang jiao	200
-芥辣	jie mo	200
-花嘴	hua yan qiao yu	200
-花娘	ji nv	200
-花布	yin hua mian bu	200
-花干	hua ping	200
-花貓	hua yan qiao yu	200
-芳	xiang	200
-芳水	xiang shui	200
-苡米	yi mi	200
-若㩼	duo shao	200
-若是	ru guo	200
-茶盅	cha bei	200
-茶礶	cha hu	200
-茶米	cha ye	200
-茹	luan	200
-草埔	cao ping	200
-荒喪	lang fei	200
-荒險	wei xian	200
-荔果	li zhi	200
-荔菓	li zhi	140
-荖枳	bin lang	200
-荖葉	bin lang ye	200
-荷蘭荳	wan dou	200
-荷蘭薯	tu dou	200
-莞荽	xiang cai	200
-菓子	shui guo	140
-菜荳	dou jiao	200
-菜頭	bai luo bo	200
-菜頭槁		200
-菰	mei	200
-萬世	yong heng	200
-落	jiang	200
-落價	jiang jia	200
-落本	tou zi	200
-落產	liu chan	200
-落神婆	nv wu	200
-落船	shang chuan	200
-落色	tui shai	200
-落雹	xia bing bao	200
-葵笠	dou li	200
-蓮角	ling jiao	200
-蔗粕	gan zhe zha	200
-蔫		200
-薄		200
-薟椒	la jiao	200
-薺蔥	bi ji	200
-藥鬼	yin qing	200
-虹	cai hong	200
-蛺蝶	jiao lian	200
-蜂岫	feng chao	200
-蜈蜞	shui zhi	200
-蝕本	kui ben	200
-蠔壳鏡	zhen zhu mu	200
-蠔珠	zhen zhu	200
-蠟蔗	hong gan zhe	200
-血脉	xue guan	200
-衋心	tong xin	200
-行	zou	200
-行孝	xiao shun	200
-行差路	mi lu	200
-行止	pin de	200
-行船人	chuan fu	200
-行踏	zou dong	200
-街市	shi chang	200
-衝性	fa pi qi	200
-衫䘼	yi xiu	200
-衫吊	liang yi jia	200
-衫袋	yi dai	200
-衫裾	yi jin	200
-衫褲	yi fu	200
-衰疲	wei mi	200
-衰颯	wei mi	200
-袂	bu hui	200
-被告	bei gao	200
-袷囝	ma jia	200
-裘	ao	200
-褥	chuang dian	200
-褪	tuo	200
-褲帶	yao dai	200
-褲橛	duan ku	200
-褲腳	ku tui	140
-褲骹	ku tui	200
-襇	qun zhe	200
-襊	zhe zhou	200
-見笑	xiu chi	200
-規矩	you li mao	200
-覔	zhao	200
-親像	hao xiang	200
-親像	xiang si	200
-親情	qin qi	200
-觀顧	zhao gu	200
-角瓜	si gua	200
-解說	jie shi	200
-計共	zong ji	200
-記數	ru zhang	200
-訟師	lv shi	200
-詈	ze ma	200
-詏	zheng bian	140
-詖話	liao tian	200
-試	chang	200
-誑	pian	200
-請待	shao deng	200
-諑	hui bang	200
-諸娘	nv ren	200
-講論	tao lun	200
-譗𧫡	luo suo	200
-識	ren shi	140
-讀經	song jing	200
-讓	jiao han	140
-豈	tai	200
-豉油	jiang you	200
-豬哥	gong zhu	200
-貓頭鳥	mao tou ying	200
-負	bei	200
-財副	hui ji	200
-財氣	xing yun	200
-貨	shang pin	200
-貨單	fa piao	200
-責罪	ze bei	200
-貯貨房	chu cang shi	200
-貴	qin ai de	200
-買上盤	pi fa gou jin	200
-買客	gu ke	200
-買配	mai cai	200
-賒	dai	200
-賜福	zhu fu	200
-賞格	tong ji ling	200
-賢	neng gan	140
-賢亞娘	tian hua	200
-賣上盤	pi fa xiao shou	200
-賰	sheng xia	200
-賻錢	du qian	200
-贃	li run	140
-赤糖	hong tang	200
-赤肉	shou rou	200
-走	pao	200
-走餉	bi shui	200
-起	kai shi	200
-起價	zhang jia	200
-起頭	kai shi	200
-趁	li run	200
-趣味	you qu	200
-跌落	diao luo	200
-路票	tong xing zheng	200
-跳脫	tuo su	200
-身分	ti ge	200
-身尸	shi ti	200
-身屍	shi ti	200
-身底衫	chen shan	200
-車租	che fei	200
-軟疕	zhong feng	200
-輪	lun	200
-輸贏	bi sai	200
-轉	hui	200
-近覷	jin shi	200
-追	zhui gan	200
-送喪	song bin	200
-通日	zheng tian	200
-通暝	zheng ye	200
-逝逝	mei ci	200
-週流	man you	200
-過責	ze bei	200
-過限	yu qi	200
-適意	le yi	200
-邋遢	la ta	200
-鄕里	xiang cun	200
-酒錢	you fei	200
-酒開	kai ping qi	200
-酥	cui	200
-醜陋	chou lou	140
-醪	hun zhuo	200
-醫館	yi yuan	200
-重利	gao li	200
-野樣	chou lou	200
-金器	jin shi	200
-釘咬	qian zi	200
-鈕	niu kou	200
-鈕縫	niu kou kong	200
-鉸刀	jian dao	200
-銀單	hui piao	200
-銃	qiang	200
-銃子	zi dan	200
-銃空	qiang guan	200
-銅指	ding zhen	200
-銅薄	tong ban	200
-鋪陳	pu gai	200
-鋪頭	dian pu	200
-錫薄	xi bo	200
-錯	qiang	200
-鍋	shui hu	200
-鎖	suo tou	200
-鎖匙	yao shi	200
-鎦金器	xiang jin qi	200
-鏇	zuan shi	200
-鐵棍	tie bang	200
-鐵碎	tie xie	200
-鐵筆	gang bi	200
-鑤	xiao guan zi	200
-鑽囝	zhui zi	200
-鑿囝	zao zi	200
-門扇後	men hou	200
-開單	kai zhang	200
-開帆	yang fan	200
-閑遊	xian guang	200
-闊	kuan	200
-闊達		200
-阮	wo men	200
-阿㜷	ma ma	140
-阿㜷	nai ma	140
-阿公	gong gong	200
-阿公	ye ye	200
-阿妗	jiu mu	200
-阿姨	ma ma	200
-阿娘	fu ren	200
-阿娘囝	xiao jie	200
-阿媽	po po	200
-阿嬭	ma ma	200
-阿嬭	nai ma	200
-阿舍	fu shao	200
-阿舍	guan shao	200
-阿𡟓	ma ma	140
-陂	shao zi	200
-除	jian	200
-陽車火船	ming lun chuan	200
-隔乳	duan nai	200
-隨便	sui bian	200
-雀暝	ye mang	200
-雄	kuai	200
-雅	piao liang	200
-雅在	hen piao liang	200
-雜疾	bu shu tan	140
-雜集	bu shu tan	200
-雞毛筅	ji mao dan zi	200
-雞翁	gong ji	200
-難	kun nan	200
-零些	yi xie	200
-零些賣	ling shou	200
-雹	bing bao	200
-霶霈	feng sheng	140
-靈精	ji ling	200
-青盲	xia	200
-面	lian	200
-面䩍䩍青	lian se cang bai	200
-面布		200
-面會	hui mian	200
-面皮	lian pi	200
-面盆	lian pen	200
-鞋拖	tuo xie	200
-預	zhun bei	200
-頭儂	tou mu	200
-頭家	lao ban	200
-頭布	tou jin	200
-頭毛	tou fa	200
-頭眩	tou tong	200
-頭路	gong zuo	200
-頰溝	lian jia	200
-頷	jing	200
-頷幋	wei jin	200
-頷幔	wei jin	200
-頷領	yi ling	200
-額囟	xin men	200
-額頭	qian e	200
-風爐	huo lu	200
-風禽	feng zheng	200
-風雨針	qing yu biao	200
-風颱	tai feng	200
-食	chi	200
-食床	can zhuo	200
-食房	can ting	200
-食槅	fan he	200
-食痘	shui dou	200
-食積	ji shi	200
-食臊	chi hun	200
-食薰	chou yan	200
-食錢	shou hui	200
-飯床	fan zhuo	200
-飲	mi tang	200
-餅藥		200
-餉	guan shui	200
-餉關	hai guan	200
-餜	dan gao	140
-香柴	tan xiang mu	200
-香菰	mo gu	200
-馬房	ma jiu	200
-馬索	jiang sheng	200
-馬踏䟓	ma deng	200
-駁	zheng bian	200
-駛	jia	200
-騷館	ji yuan	200
-驚	pa	200
-驚愕	jing dai	200
-骨殖	shi gu	200
-骸	tou zi	200
-骹	tui	200
-骹桶	yu gang	200
-骹目	jiao huai	200
-骹腸肚	xiao tui du	200
-骹腿	tui	200
-骹臁	qian jing gu	200
-骹趾	jiao zhi	200
-骹踏椅	jiao deng	200
-骹蹯	zu mian	200
-骹頭趺	xi gai	200
-骹𢅎	bang tui	200
-高麗菜	juan xin cai	200
-鬃	fa ji	200
-鬚	hu zi	200
-魚子	yu zi	200
-魚春	yu zi	200
-魚翼	yu chi	200
-魚腮	yu sai	200
-魴龜	hai gui	200
-鮡	qing chun dou	200
-鱟伯策	bai ye chuang	200
-鷹架	jiao shou jia	200
-鹽硝	xiao shi	200
-黃𦅇瘦㾪	mian huang ji shou	200
-點卯	dian ming	200
-鼎	chao guo	200
-鼻	wen	200
-鼻空	bi kong	200
-齒刷	ya shua	200
-齒痛	ya tong	200
-齒齦	ya ken	200
-龍位	wang wei	200
-龍眼	long yan	200
-𠕆	ying	200
-𠢕	neng gan	200
-𡚸	lao po	140
-𡜿	lao po	80
-𣴨	bi ti	200
-𤇢	kao	200
-𤞚	kuang	200
-𤞚狗	kuang quan	200
-𤷗裂	gui lie	200
-𦈢	ci	200
-𦮴	mao ni	140
-𨫋	da pao	200
-𩛌		200
-𩩍籬	xie gu	200
-𩩍籬骨	xie gu	200
+⿱艹麾	jue	2000
+㦙	chun	2000
+㩼	duo	2000
+㪗	jie	2000
+㴷	shi	2000
+㽱痛	jiao tong	2000
+㾪	shou	2000
+㾪骨落肉	shou gu lin xun	2000
+㾫枯	ban shen bu sui	1000
+㿗	chuang	2000
+䘼	xiu zi	2000
+䛩	zheng bian	2000
+䭄		1000
+䭕		2000
+䶕牙	bao ya	2000
+一尾魚	yi tiao yu	2000
+丈人	yue fu	2000
+丈夫	nan ren	2000
+丈夫囝	nan hai	2000
+丈母	yue mu	2000
+丈母婆	zhang mu niang	2000
+三更半暝	san geng ban ye	2000
+上好	zui hao	2000
+上數	ru zhang	2000
+上旰	shang wu	2000
+上旰	xia wu	2000
+下	di	2000
+下日	ta ri	2000
+下逝	xia ci	2000
+下頦	xia ba	2000
+不	bu	2000
+不知人	bu xing ren shi	2000
+世情	tong qing da li	2000
+世間	shi jie	2000
+乏	pi lao	2000
+乘	cheng	2000
+乜儂	shen me ren	2000
+乜其	shen me	2000
+乞	gei	2000
+乞食	qi gai	2000
+二伙	er fu	2000
+二手	zhu li	2000
+五箍	wu yuan	2000
+亞是	huo zhe shi	2000
+交挿	jiao wang	2000
+交掛	jiao yi	2000
+交插	jiao wang	1000
+交椅	kao bei yi	2000
+亦	ye	2000
+人事	ren qing shi gu	1000
+人客	ke ren	2000
+人情	en qing	1000
+人情	mian zi	1000
+今	xian zai	2000
+今旦日	jin tian	2000
+今暝	jin ye	2000
+付托	wei tuo	2000
+仙瑚	shan hu	2000
+企	zhan	1000
+伊	ta	2000
+伍星	xing xing	2000
+伙長	chuan zhang	2000
+伙頭	chu shi	2000
+伙食房	chu fang	2000
+作工	gong zuo	2000
+佝腰	gou lou	2000
+使	hua	2000
+使	hua fei	2000
+使費	hua fei	2000
+使錢	hua qian	2000
+來往	fen lei zhang	2000
+來銀	shou kuan	2000
+依原	yi jiu	2000
+便	pian yi	2000
+保家	bao xian	2000
+保家字	bao xian dan	2000
+保家館	bao xian gong si	2000
+保領	bao zheng	2000
+信皮	xin feng	2000
+信關	you ju	2000
+俺	wo men	1000
+倒誻	luo suo	2000
+倒賬	dao bi	2000
+偏枯	ban shen bu sui	2000
+做七	shao qi	2000
+做上盤	pi fa jiao yi	2000
+做生日	guo sheng ri	2000
+做節	guo jie	2000
+做腳手	dong shou jiao	1000
+做骹手	dong shou jiao	2000
+健	jian zhuang	2000
+偪側	yi nu	2000
+催迫	cui tao	2000
+債主	zhai quan ren	2000
+傷痕	shang ba	2000
+傷風	gan mao	2000
+價錢	jia ge	2000
+儂事	ren qing shi gu	2000
+儂公囝	wan ou	2000
+儂囝	tu hua	2000
+儂客	ke ren	1000
+儂情	en qing	2000
+儂情	mian zi	2000
+先生	yi sheng	2000
+光	liang	2000
+光通	tou ming	2000
+免	bu yong	2000
+入口貨	jin kou shang pin	2000
+內	jia	2000
+公親	gong duan ren	2000
+共	he	2000
+典	di ya	2000
+典主	di ya ren	2000
+典契	di ya qi ju	2000
+冇	ruan	2000
+冊架	shu jia	2000
+冊橱	shu chu	2000
+冊皮	shu ji feng mian	2000
+冊魚	shu chong	2000
+冤家	chao nao	2000
+冤屈	yuan wang	2000
+凊	leng	2000
+凝	leng	2000
+出口貨	chu kou shang pin	2000
+出外儂	mo sheng ren	2000
+出字白	deng bu gao	2000
+出珠	tian hua	2000
+出痘	shui dou	2000
+刀壳	dao qiao	2000
+刁厥	diao po	2000
+刁蹬	diao nan	2000
+分	chu	2000
+分	gei	2000
+切要	zhong yao	2000
+刣	sha	2000
+別	ren shi	2000
+利	feng li	2000
+利錢	li yi	2000
+刷	shua	2000
+剁	zhan	2000
+剁脞	duo sui	2000
+剁莝	duo sui	1000
+剃刀	ti xu dao	2000
+剃頭	li fa	2000
+前齒	men ya	2000
+割	qie	2000
+割工錢	kou gong zi	2000
+力	qin lao	2000
+加	duo	2000
+動角	shou zhang	2000
+勢頭	shi li	2000
+勤	qin lao	1000
+勥	li hai	2000
+勿	bu yao	2000
+匏	bai nan gua	2000
+匏桸	shui piao	2000
+匟床	kang	1000
+千里鏡	wang yuan jing	2000
+半暝	ban ye	2000
+危	gao	2000
+卵	dan	2000
+卵仁	dan huang	2000
+卵核	yi wan	2000
+卵淸	dan bai	2000
+卵脬	yin nang	2000
+厚栗	ban li	2000
+厝	jia	2000
+厝主	fang dong	2000
+厝稅	fang zu	2000
+厝頂	fang ding	2000
+受賄	shou hui	2000
+口㼦	shu kou bei	2000
+古事	li shi	2000
+古傳	chuan shuo	2000
+司阜	shi fu	2000
+吊瓜	huang gua	2000
+同門	lian jin	2000
+名色	ming yu	2000
+名頭	ming sheng	2000
+吐瀉	huo luan	2000
+告勞	shuo fu	2000
+呌	jiao	2000
+呢	mao ni	2000
+味素	wei dao	2000
+呵欠	ha qian	2000
+呾	shuo	2000
+咄	chi ze	2000
+咖喱	ga li	2000
+咬嗽	ke sou	2000
+咱	wo men	2000
+哺	ju jue	2000
+唐人	zhong guo ren	2000
+唚	wen	2000
+啉	yin	2000
+啞	ya ba	2000
+喉嚨	hou long	2000
+喊	jiao	2000
+喙	zui	2000
+喙唇皮	zui chun	2000
+單丁	du sheng zi	2000
+嗜		500
+嘔噦	ou tu	2000
+嘶	jiao rang	2000
+嚷	jiao han	2000
+嚷	jiao rang	2000
+四方床	fang zhuo	2000
+囝	zi nv	2000
+囥	cang	2000
+困	lei	2000
+圓床	yuan zhuo	2000
+在	cong	2000
+在	hen	2000
+在	zai	2000
+地界	bian jie	2000
+地腳	ji chu	1000
+地豆	hua sheng	2000
+地骹	ji chu	2000
+垃圾	la ji	2000
+垃圾相	bu qian bu jing	2000
+垢圿	wu gou	2000
+堪該	ying shou	2000
+報知	gao zhi	2000
+報餉單	zai huo qing dan	2000
+塗	tu	2000
+塗腳	di mian	1000
+塗骹	di mian	2000
+墨斗	wu zei	2000
+壓	an	2000
+壯	qiang zhuang de	2000
+外家	niang jia	2000
+夜旰	ye jian	2000
+夠	zu gou	2000
+大伙	da fu	2000
+大官	gong gong	2000
+大家	po po	2000
+大家官	gong po	2000
+大後日	da hou tian	2000
+大柴	yuan mu	2000
+大舌	jie ba	2000
+大財副	shou xi hui ji	2000
+大銃	da pao	2000
+大頭腦	da guan yuan	2000
+大頷奎	jia zhuang xian zhong	2000
+天主教	tian zhu jiao	2000
+天時	tian qi	2000
+奇巧物	qi zhen yi bao	2000
+奇異	jing qi	2000
+奈	ren shou	2000
+好贃	hao zhuan	1000
+好趁	hao zhuan	2000
+妥當	wen tuo	2000
+嬭母	nai ma	2000
+字號	shang biao	2000
+孤老	gu gua lao ren	2000
+孥囝	hai zi	2000
+孥囝款	hai zi qi	2000
+孬	bu hao	2000
+定着	yi ding	2000
+定罪	pan xing	2000
+定銀	ding jin	2000
+客商	shang ren	2000
+客店	jiu dian	2000
+家信	jia shu	2000
+家己	zi ji	2000
+家己儂	zi ji ren	2000
+家私	jia ju	2000
+家長	jing li	2000
+寃家	chao nao	1000
+寒暑針	wen du ji	2000
+寒着	shou han	2000
+寫字床	xie zi zhuo	2000
+寬埕	guang chang	2000
+寬寬	jian jian	2000
+寸進	jin bu	2000
+對單	hui piao	2000
+小影	zhao pian	2000
+小禮	xiu chi	2000
+小郎	xiao shu zi	2000
+少	shao	2000
+尪囝	tu hua	2000
+尻脊	ji bei	2000
+尿脬	pang guang	2000
+屎鉢	shi pen	2000
+屐	mu ji	2000
+展	xuan yao	2000
+巡	jian cha	2000
+巡	kan wang	2000
+工錢	gong zi	2000
+市	shi chang	2000
+布疋	bu pi	2000
+布碎	ma bu	2000
+布路	bu pi	2000
+帖	yao qing han	2000
+帶水	ling gang yuan	2000
+帽吊	mao jia	2000
+平和	he ping	2000
+平樣	yi yang	2000
+幼	jing zhi	2000
+床布	zhuo bu	2000
+床頂	zhuo shang	2000
+底個	na ge	2000
+底儂	na ge ren	2000
+底塊	na li	2000
+底塊夥	na li ren	2000
+底子	yuan jian	2000
+底當時	shen me shi hou	2000
+延遲	tui chi	2000
+引荐	tui jian	2000
+彼	na	2000
+後日	hou tian	2000
+後生	nian qing	2000
+徛	zhan	2000
+從	cong	2000
+心性	pi qi	2000
+心憧憧	xin shen bu ding	2000
+心肝頭	xiong tang	2000
+快活	huan kuai	2000
+念路	bao yuan	2000
+恁	ni men	2000
+恬恬	jing jing	2000
+悽慘	bei can	2000
+惜	ai	2000
+惡	tao yan	2000
+惡	xie e	2000
+惰	lan duo	2000
+愈	yue	2000
+愈好	geng hao	2000
+愊	sheng qi	2000
+感謝	gan xie	2000
+愩	chun	2000
+憑單	zheng shu	2000
+憶得	ji de	2000
+應	hui da	2000
+應承	cheng nuo	2000
+戇	yu chun	2000
+成樹	rong shu	2000
+截	qie	2000
+戰船	zhan jian	2000
+戴孝	dai xiao	2000
+所費	hua fei	2000
+手套	shou tao	2000
+手巾	can jin	2000
+手布	shou pa	2000
+手指	jie zhi	2000
+手綢	shou pa	2000
+打拍	gu zhang	2000
+打揲	zhe mo	1000
+打疊	zhe mo	2000
+打紙牌	da pai	2000
+扭	wa	2000
+批	xue	2000
+批信	xin jian	2000
+批皮	xin feng	2000
+批館	you ju	2000
+找錢	zhao qian	2000
+找錢行	qian bi dui huan shang	2000
+抽分	yong jin	2000
+抽減	zhe kou	2000
+抽痛	chou jin	2000
+拆夥記	san huo	2000
+拋椗	pao mao	2000
+拍	da	2000
+拍呃	da ge	2000
+拍空	jing ji ren	2000
+拐腳	bo zu	1000
+拐骹	bo zu	2000
+拔	die	2000
+拖	la	2000
+拜三	xing qi san	2000
+拜乙	xing qi yi	2000
+拜伍	xing qi wu	2000
+拜四	xing qi si	2000
+拜弍	xing qi er	2000
+拜老爺	bai shen	2000
+拜陸	xing qi liu	2000
+拭	ca	2000
+拭腳其蓑	men dian	1000
+拭骹其蓑	men dian	2000
+持	dai	2000
+指頭公	mu zhi	2000
+挽	la	2000
+挿羼	zheng qian	2000
+掃箒	sao zhou	2000
+掃菷星	hui xing	2000
+掌	kan	2000
+掌更儂	shou ye ren	2000
+掌櫃	shou yin yuan	2000
+排塲	hua li	2000
+排年	nian nian	2000
+排日	tian tian	2000
+排比	an pai	2000
+掘	chan	2000
+掛	dai	2000
+掛慮	you lv	2000
+掛紙	sao mu	2000
+掠	zhua	2000
+掠舵	zhang duo	2000
+探問	xun wen	2000
+插羼	zheng qian	1000
+換	gai bian	2000
+損病	fei lao	2000
+携	ti	2000
+携餉	shou shui	2000
+撈	zu gou	2000
+撒	sa	2000
+撞枳	zhuo qiu	2000
+擔承	bao shi	2000
+擔枷	dai shang jia suo	2000
+攏總	zong gong	2000
+攬儎字	ti huo dan	2000
+收單	shou ju	2000
+收帆	shou fan	2000
+收數	shou zhang	2000
+敗	huai	2000
+數簿	zhang ben	2000
+斜莪粉	xi mi	2000
+斧頭	fu tou	2000
+新人	xin niang	2000
+新人爹	xin lang guan	2000
+新婦	xi fu	2000
+新教	ye su jiao	2000
+新聞紙	bao zhi	2000
+斷氣	duan qi	2000
+施爲	ban fa	2000
+日子	ri qi	2000
+日日	tian tian	2000
+日旰	bai tian	2000
+日晝	zhong wu	2000
+日清	ri ji ben	2000
+日蝕	ri shi	2000
+早起	qi chuang	2000
+旺梨	feng li	2000
+明年	ming nian	2000
+明旦起	ming tian	2000
+易	rong yi	2000
+昨日	zuo tian	2000
+昨暝	zuo ye	2000
+時鏢	shou biao	2000
+晏	wan	2000
+暍着暑	zhong shu	2000
+暖爐	huo guo	2000
+暝昏	wan shang	2000
+暝昏囝	bang wan	2000
+曉	ming bai	2000
+曝	shai	2000
+曳手	zhao shou	2000
+月蝕	yue shi	2000
+月記	yue ji	2000
+有亞無	you mei you	2000
+朥	zhi fang	2000
+木虱	chou chong	2000
+未	mei	2000
+末	fen	2000
+本分	yi wu	2000
+本等	ben fen	2000
+本錢	ben jin	2000
+杉排	mu fa	2000
+杉牌	mu fa	1000
+杮	fei zi	2000
+東司	ce suo	2000
+枋	mu ban	2000
+枕頭囊	zhen tou tao	2000
+林擒	shi jia guo	2000
+果子	shui guo	2000
+枵	ji e	2000
+柑	gan	2000
+柴槌	gun bang	2000
+柴頭	mu tou ren	2000
+栳㭳	rou dou kou	2000
+格	chou ti	1000
+桂皮	rou gui	2000
+桅	wei gan	2000
+案	an jian	2000
+桔	ju zi	2000
+桩家	zhuang jia	2000
+條條	jing ran	2000
+條直	wen tuo	2000
+條直	you tiao li	2000
+棉裘	mian ao	2000
+棕蓑	suo yi	2000
+棹	zhuo zi	2000
+椗	mao	2000
+槅	chou ti	2000
+槳	chuan jiang	2000
+槽頭肉	zhu tou rou	2000
+樟柴	zhang nao	2000
+樟栳	zhang nao	2000
+樣	wai guan	2000
+樹泥	xiang jiao	2000
+檨	mang guo	2000
+欉	ke	2000
+欶	shun xi	2000
+歇	ting	2000
+歇	xiu xi	2000
+歡喜	gao xing	2000
+此	zhe	2000
+此樣生	ru ci	2000
+此陣	xian zai	2000
+歷日	ri li	2000
+歸原	ku cun fen lei zhang	2000
+母	lao po	2000
+氈	di tan	2000
+氣	qi xi	2000
+氣力	li liang	2000
+水呢	cu hua ni	2000
+水手	shui shou	2000
+水抽	shui beng	2000
+水烟	zheng qi	2000
+水𦮴	cu hua ni	1000
+氽水	you yong	2000
+汝	ni	2000
+污糟	la ji	2000
+沙埧	sha di	1000
+沙壩	sha di	2000
+油刷	qi shua	2000
+沿	ceng	2000
+洗浴	xi zao	2000
+洗浴房	yu shi	2000
+洗浴桶	yu gang	2000
+流水平	di chao	2000
+流水雄	gao chao	2000
+流洘	tui chao	2000
+流漲	zhang chao	2000
+浪蕩儂	liu lang zhe	2000
+浮	zha	2000
+浮膿	hua nong	2000
+浴布		2000
+海墘	hai bian	2000
+海嶼	dao yu	2000
+海湧	hai lang	2000
+海茸	hai mian	2000
+涎	kou shui	2000
+涎	tuo ye	2000
+淖糜	xi zhou	2000
+深坑	shan gu	2000
+添	jia	2000
+清潔	qian jing	2000
+減	shao	2000
+渡船	hang chuan	2000
+湯匙	tang shao	2000
+滂沛	feng sheng	2000
+滑	guang hua de	2000
+滒	nian chou	2000
+滴囝	yi dian	2000
+滾水	kai shui	2000
+漉	shi tou	2000
+漏囝	pian zi	2000
+漏屎	fu xie	2000
+漲	man	2000
+潘	gan shui	2000
+濛烟	mi wu	2000
+灌腸	xiang chang	2000
+火#	huo jian	2000
+火柴	chai huo	2000
+火灰	hui jin	2000
+火牌	huo chai	2000
+火石	da huo shi	2000
+火船	qi chuan	2000
+火船囝	qi ting	2000
+火頭	chu shi	1000
+灱	gan	2000
+灶頭	zao tai	2000
+炊	zheng	2000
+炕床	kang	2000
+炭	mei	2000
+炮臺	bao lei	2000
+烏	hei	2000
+烏暗	hei an	2000
+烏油	bai you	2000
+烏糖	hei tang	2000
+烏面儂	hei ren	2000
+烙	lao	2000
+烟筒	yan cong	2000
+焙	kao	2000
+無	mei you	2000
+無中用	bu zhong yong	2000
+無定着	bu que ding	2000
+無行	que de	2000
+無規矩	mei you li mao	2000
+煆火	shao huo	2000
+煏	kao	2000
+煠	shui zhu	2000
+照	an	2000
+煩惱	dan xin	2000
+煮	zuo	2000
+煴	zhan	2000
+熇	zheng	2000
+熱布	xia bu	2000
+熻	men	2000
+燈盞	zhong shi tai deng	2000
+燒水	wen kai shui	2000
+燕菜	hai zao	2000
+燕鳥	yan zi	2000
+營盤	ying di	2000
+爽快	huan kuai	2000
+爾	ni	1000
+牙頭齒	hou cao ya	2000
+牛乳油	huang you	2000
+物	zuo	2000
+物件	dong xi	2000
+物食	mi jian	2000
+犯律	fan fa	2000
+狗母	mu gou	2000
+狹	zhai	2000
+狹#		2000
+猛	kuai	2000
+獃	dai	2000
+王帽	wang guan	2000
+玻璃樽	bo li ping	2000
+珊瑚	shan hu	2000
+珠娘	nv ren	1000
+現在	xian zai	2000
+現錢	xian jin	2000
+瓠𣟵	shui piao	1000
+甌	tang wan	2000
+甕	da guan zi	2000
+甘癪	tao chong bing	2000
+甘虫	tao chong	2000
+甘蜜	bin lang gao	2000
+甜糕	guo jiang	2000
+生事	re shi	2000
+生份儂	mo sheng ren	1000
+生分儂	mo sheng ren	2000
+生理	sheng yi	2000
+生理儂	sheng yi ren	2000
+生疑	ang zang	2000
+生瘋	feng shi	2000
+生矾	lv fan	2000
+生菜	sha la	2000
+生鉎	sheng xiu	2000
+生𥐥	lv fan	1000
+畏	pa	2000
+畏凊	wei han	2000
+畧好	hao xie	2000
+畨人	ye man ren	1000
+畨梘		1000
+畨梨	feng li	1000
+畨瓜	nan gua	1000
+畨葛	fan shu	1000
+畨薯	fan shu	1000
+番人	ye man ren	2000
+番梘		2000
+番梨	feng li	2000
+番瓜	nan gua	2000
+番葛	fan shu	2000
+番薯	fan shu	2000
+當	cheng ya	2000
+當主	cheng ya ren	2000
+疥	jie chuang	2000
+痀腰	gou lou	1000
+痒癲	zhong feng	2000
+痔	zhi chuang	2000
+痞囝	pi zi	2000
+痢疾	li ji	2000
+痱	fei zi	2000
+瘋痛	feng shi	2000
+瘟瘴	wen yi	2000
+瘡	kui yang	2000
+瘤	zhong liu	2000
+癬	xuan	2000
+癲	feng dian	2000
+發燒	fa shao	2000
+白發其	za cao	2000
+白矾	ming fan	2000
+白肉	fei rou	2000
+白𥐥	ming fan	1000
+皺紗	zhou bu	2000
+盤囝	die zi	2000
+盤數	zhuan zhang	2000
+盪喙	shu kou	2000
+目仁	yan qiu	2000
+目實	kan tou	2000
+目汁	yan lei	2000
+目澀	kun juan	1000
+目澁	kun juan	2000
+目眉	mei mao	2000
+目眥毛	yan jie mao	2000
+目睭	yan jing	2000
+目睭皮	yan pi	2000
+目鏡	yan jing	2000
+目𥍆	kun juan	500
+盯綴	zhao liao	2000
+直透	zhi da	2000
+相䛩	zheng lun	2000
+相借問	da zhao hu	2000
+相刣	da zhan	2000
+相拍	da jia	2000
+相接	lian jie	2000
+相罵	chao jia	2000
+相輸	bi sai	2000
+眠床	chuang	2000
+眠起	zao shang	2000
+眩船	yun chuan	2000
+眼在	xian zai	2000
+眾生	jia chu	2000
+着	dui	2000
+着痧	fu jiao tong	2000
+睇	kan	2000
+睇書房	yue du shi	2000
+睡	shui	2000
+督工	jian gong	2000
+知觀	dang xin	2000
+石榴	shi liu	2000
+石部	shi tou	2000
+砧	zhen ban	2000
+破家囝	bai jia zi	2000
+破病	sheng bing	2000
+破相	hui rong	2000
+破錢	po fei	2000
+硝	xiao shi	2000
+碗公	da wan	2000
+碰鰾	bao zhu	2000
+磽	qiong	2000
+禁口	feng suo gang kou	2000
+禁港	feng suo gang kou	2000
+禮拜	xing qi ri	2000
+禮拜堂	jiao tang	2000
+禽獸	chu sheng	2000
+禿掌	tu ding	2000
+私家	si ren	2000
+私家錢	si fang qian	2000
+稅	zu jin	2000
+稅務司	shui wu ju	2000
+種珠	da yi miao	2000
+稱誦	cheng zan	2000
+穢	gan ran	2000
+穩當	wen tuo	2000
+空肚	kong fu	2000
+窓	chuang	1000
+窗	chuang	2000
+竹排	zhu fa	2000
+竹牌	zhu fa	1000
+竹蔗	bai gan zhe	2000
+筅	mao shua	2000
+筅	shua	2000
+筋	jing mai	2000
+答背	bei xin	2000
+算摩	jia	2000
+算數	suan zhang	2000
+箸	kuai zi	2000
+簥	qie zi	2000
+簿囝	ben zi	2000
+籐牌	dun pai	2000
+粉鳥	ge zi	2000
+粗	cu cao	2000
+粟倉	gu cang	2000
+粿	dan gao	2000
+糜	zhou	2000
+糞斗	bo ji	2000
+糞箕	bo ji	2000
+約	cai	2000
+約量	da yue	2000
+紅藥	zhi tong yao	2000
+紅銅	huang tong	2000
+紅頭船	fan chuan	2000
+納餉	na shui	2000
+紙字	chao piao	2000
+紙煤	zhi nian	2000
+紙花	jia hua	2000
+紡	qu dong	2000
+索	sheng zi	2000
+索囝	sheng zi	2000
+細	xiao	2000
+細字	zai xi	2000
+終久	zong shi	2000
+結凍	dong jie	2000
+結疕	jie jia	2000
+絨	rong	2000
+綱膠	bo luo mi	2000
+綱黑	shan zhu	2000
+緣故	yuan yin	2000
+縛	bang	2000
+縫	feng	2000
+縻	fu lan	2000
+總簿	zong zhang	2000
+缺嘴	chun lie	2000
+罕得	hen shao	2000
+置營	za ying	2000
+羅經	luo pan	2000
+羔丕	ka fei	2000
+羔丕磨	ka fei ji	2000
+羼隊	cha dui	2000
+翁姐	fu qi	2000
+翁姐囝	xiao liang kou	2000
+翕	men	2000
+翕	zheng	2000
+翹楚	chu zhong	2000
+考	ce shi	2000
+耍	wan	2000
+耳鈎	er huan	2000
+職任	zhi wu	2000
+職銜	jun xian	2000
+肉脞	rou mo	2000
+肚困	ji e	2000
+肚漏	fu xie	2000
+肚澁	bian mi	2000
+肚痛	du zi tong	2000
+肝	gan zang	2000
+肨	zhang	2000
+肩頭	jian bang	2000
+胕腫	fu zhong	2000
+胳胴下	ye wo	2000
+能爲	neng li	2000
+脉	mai bo	2000
+脢肉	li ji rou	2000
+脧		2000
+脫孝	tuo xiao	2000
+脹肚	fu zhang	2000
+腈肉	shou rou	2000
+腎子	shen zang	2000
+腡	zhi wen	2000
+腥	sheng	2000
+腰佝	tuo bei	2000
+腰痀	tuo bei	1000
+腰骨	ji gu	2000
+腳	tui	1000
+腳桶	yu gang	1000
+腳目	jiao huai	1000
+腳腸肚	xiao tui du	1000
+腳腿	tui	1000
+腳臁	qian jing gu	1000
+腳趾	jiao zhi	1000
+腳踏椅	jiao deng	1000
+腳蹯	zu mian	1000
+腳頭趺	xi gai	1000
+腳𢅎	L2	1000
+膠離	ga li	1000
+臊	xing	2000
+臥房	wo shi	2000
+自來火	huo chai	2000
+自盡	zi sha	2000
+臭儂	e gun	2000
+舖	dian	2000
+舵	chuan duo	2000
+舵工	duo shou	2000
+船主	chuan zhang	2000
+船囝	shan ban	2000
+船租	chuan fei	2000
+色料	ran liao	2000
+芎蕉	xiang jiao	2000
+芥辣	jie mo	2000
+花嘴	hua yan qiao yu	2000
+花娘	ji nv	2000
+花布	yin hua mian bu	2000
+花干	hua ping	2000
+花貓	hua yan qiao yu	2000
+芳	xiang	2000
+芳水	xiang shui	2000
+苡米	yi mi	2000
+若㩼	duo shao	2000
+若是	ru guo	2000
+茶盅	cha bei	2000
+茶礶	cha hu	2000
+茶米	cha ye	2000
+茹	luan	2000
+草埔	cao ping	2000
+荒喪	lang fei	2000
+荒險	wei xian	2000
+荔果	li zhi	2000
+荔菓	li zhi	1000
+荖枳	bin lang	2000
+荖葉	bin lang ye	2000
+荷蘭荳	wan dou	2000
+荷蘭薯	tu dou	2000
+莞荽	xiang cai	2000
+菓子	shui guo	1000
+菜荳	dou jiao	2000
+菜頭	bai luo bo	2000
+菜頭槁		2000
+菰	mei	2000
+萬世	yong heng	2000
+落	jiang	2000
+落價	jiang jia	2000
+落本	tou zi	2000
+落產	liu chan	2000
+落神婆	nv wu	2000
+落船	shang chuan	2000
+落色	tui shai	2000
+落雹	xia bing bao	2000
+葵笠	dou li	2000
+蓮角	ling jiao	2000
+蔗粕	gan zhe zha	2000
+蔫		2000
+薄		2000
+薟椒	la jiao	2000
+薺蔥	bi ji	2000
+藥鬼	yin qing	2000
+虹	cai hong	2000
+蛺蝶	jiao lian	2000
+蜂岫	feng chao	2000
+蜈蜞	shui zhi	2000
+蝕本	kui ben	2000
+蠔壳鏡	zhen zhu mu	2000
+蠔珠	zhen zhu	2000
+蠟蔗	hong gan zhe	2000
+血脉	xue guan	2000
+衋心	tong xin	2000
+行	zou	2000
+行孝	xiao shun	2000
+行差路	mi lu	2000
+行止	pin de	2000
+行船人	chuan fu	2000
+行踏	zou dong	2000
+街市	shi chang	2000
+衝性	fa pi qi	2000
+衫䘼	yi xiu	2000
+衫吊	liang yi jia	2000
+衫袋	yi dai	2000
+衫裾	yi jin	2000
+衫褲	yi fu	2000
+衰疲	wei mi	2000
+衰颯	wei mi	2000
+袂	bu hui	2000
+袂孬	bu cuo	1000
+被告	bei gao	2000
+袷囝	ma jia	2000
+裘	ao	2000
+褥	chuang dian	2000
+褪	tuo	2000
+褲帶	yao dai	2000
+褲橛	duan ku	2000
+褲腳	ku tui	1000
+褲骹	ku tui	2000
+襇	qun zhe	2000
+襊	zhe zhou	2000
+見笑	xiu chi	2000
+規矩	you li mao	2000
+覔	zhao	2000
+親像	hao xiang	2000
+親像	xiang si	2000
+親情	qin qi	2000
+觀顧	zhao gu	2000
+角瓜	si gua	2000
+解說	jie shi	2000
+計共	zong ji	2000
+記數	ru zhang	2000
+訟師	lv shi	2000
+詈	ze ma	2000
+詏	zheng bian	1000
+詖話	liao tian	2000
+試	chang	2000
+誑	pian	2000
+請待	shao deng	2000
+諑	hui bang	2000
+諸娘	nv ren	2000
+講論	tao lun	2000
+譗𧫡	luo suo	2000
+識	ren shi	1000
+讀經	song jing	2000
+讓	jiao han	1000
+豈	tai	2000
+豉油	jiang you	2000
+豬哥	gong zhu	2000
+貓頭鳥	mao tou ying	2000
+負	bei	2000
+財副	hui ji	2000
+財氣	xing yun	2000
+貨	shang pin	2000
+貨單	fa piao	2000
+責罪	ze bei	2000
+貯貨房	chu cang shi	2000
+貴	qin ai de	2000
+買上盤	pi fa gou jin	2000
+買客	gu ke	2000
+買配	mai cai	2000
+賒	dai	2000
+賜福	zhu fu	2000
+賞格	tong ji ling	2000
+賢	neng gan	1000
+賢亞娘	tian hua	2000
+賣上盤	pi fa xiao shou	2000
+賰	sheng xia	2000
+賻錢	du qian	2000
+贃	li run	1000
+赤糖	hong tang	2000
+赤肉	shou rou	2000
+走	pao	2000
+走餉	bi shui	2000
+起	kai shi	2000
+起價	zhang jia	2000
+起頭	kai shi	2000
+趁	li run	2000
+趣味	you qu	2000
+跌落	diao luo	2000
+路票	tong xing zheng	2000
+跳脫	tuo su	2000
+身分	ti ge	2000
+身尸	shi ti	2000
+身屍	shi ti	2000
+身底衫	chen shan	2000
+車租	che fei	2000
+軟疕	zhong feng	2000
+輪	lun	2000
+輸贏	bi sai	2000
+轉	hui	2000
+近覷	jin shi	2000
+追	zhui gan	2000
+送喪	song bin	2000
+通日	zheng tian	2000
+通暝	zheng ye	2000
+逝逝	mei ci	2000
+週流	man you	2000
+過責	ze bei	2000
+過限	yu qi	2000
+適意	le yi	2000
+邋遢	la ta	2000
+鄕里	xiang cun	2000
+酒錢	you fei	2000
+酒開	kai ping qi	2000
+酥	cui	2000
+醜陋	chou lou	1000
+醪	hun zhuo	2000
+醫館	yi yuan	2000
+重利	gao li	2000
+野樣	chou lou	2000
+金器	jin shi	2000
+釘咬	qian zi	2000
+鈕	niu kou	2000
+鈕縫	niu kou kong	2000
+鉸刀	jian dao	2000
+銀單	hui piao	2000
+銃	qiang	2000
+銃子	zi dan	2000
+銃空	qiang guan	2000
+銅指	ding zhen	2000
+銅薄	tong ban	2000
+鋪陳	pu gai	2000
+鋪頭	dian pu	2000
+錫薄	xi bo	2000
+錯	qiang	2000
+鍋	shui hu	2000
+鎖	suo tou	2000
+鎖匙	yao shi	2000
+鎦金器	xiang jin qi	2000
+鏇	zuan shi	2000
+鐵棍	tie bang	2000
+鐵碎	tie xie	2000
+鐵筆	gang bi	2000
+鑤	xiao guan zi	2000
+鑽囝	zhui zi	2000
+鑿囝	zao zi	2000
+門扇後	men hou	2000
+開單	kai zhang	2000
+開帆	yang fan	2000
+閑遊	xian guang	1000
+閒遊	xian guang	2000
+闊	kuan	2000
+闊達		2000
+阮	wo men	2000
+阿㜷	ma ma	1000
+阿㜷	nai ma	1000
+阿公	gong gong	2000
+阿公	ye ye	2000
+阿妗	jiu mu	2000
+阿姨	ma ma	2000
+阿娘	fu ren	2000
+阿娘囝	xiao jie	2000
+阿媽	po po	2000
+阿嬭	ma ma	2000
+阿嬭	nai ma	2000
+阿舍	fu shao	2000
+阿舍	guan shao	2000
+阿𡟓	ma ma	1000
+陂	shao zi	2000
+除	jian	2000
+陽車火船	ming lun chuan	2000
+隔乳	duan nai	2000
+隨便	sui bian	2000
+雀暝	ye mang	2000
+雄	kuai	2000
+雅	piao liang	2000
+雅在	hen piao liang	2000
+雜疾	bu shu tan	1000
+雜集	bu shu tan	2000
+雞毛筅	ji mao dan zi	2000
+雞翁	gong ji	2000
+難	kun nan	2000
+零些	yi xie	2000
+零些賣	ling shou	2000
+雹	bing bao	2000
+霶霈	feng sheng	1000
+靈精	ji ling	2000
+青盲	xia	2000
+面	lian	2000
+面䩍䩍青	lian se cang bai	2000
+面布		2000
+面會	hui mian	2000
+面皮	lian pi	2000
+面盆	lian pen	2000
+鞋拖	tuo xie	2000
+預	zhun bei	2000
+頭儂	tou mu	2000
+頭家	lao ban	2000
+頭布	tou jin	2000
+頭毛	tou fa	2000
+頭眩	tou tong	2000
+頭路	gong zuo	2000
+頰溝	lian jia	2000
+頷	jing	2000
+頷幋	wei jin	2000
+頷幔	wei jin	2000
+頷領	yi ling	2000
+額囟	xin men	2000
+額頭	qian e	2000
+風爐	huo lu	2000
+風禽	feng zheng	2000
+風雨針	qing yu biao	2000
+風颱	tai feng	2000
+食	chi	2000
+食床	can zhuo	2000
+食房	can ting	2000
+食槅	fan he	2000
+食痘	shui dou	2000
+食積	ji shi	2000
+食臊	chi hun	2000
+食薰	chou yan	2000
+食錢	shou hui	2000
+飯床	fan zhuo	2000
+飲	mi tang	2000
+餅藥		2000
+餉	guan shui	2000
+餉關	hai guan	2000
+餜	dan gao	1000
+香柴	tan xiang mu	2000
+香菰	mo gu	2000
+馬房	ma jiu	2000
+馬索	jiang sheng	2000
+馬踏䟓	ma deng	2000
+駁	zheng bian	2000
+駛	jia	2000
+騷館	ji yuan	2000
+驚	pa	2000
+驚愕	jing dai	2000
+骨殖	shi gu	2000
+骸	tou zi	2000
+骹	tui	2000
+骹桶	yu gang	2000
+骹目	jiao huai	2000
+骹腸肚	xiao tui du	2000
+骹腿	tui	2000
+骹臁	qian jing gu	2000
+骹趾	jiao zhi	2000
+骹踏椅	jiao deng	2000
+骹蹯	zu mian	2000
+骹頭趺	xi gai	2000
+骹𢅎	L2	2000
+高麗菜	juan xin cai	2000
+鬃	fa ji	2000
+鬚	hu zi	2000
+魚子	yu zi	2000
+魚春	yu zi	2000
+魚翼	yu chi	2000
+魚腮	yu sai	2000
+魴龜	hai gui	2000
+鮡	qing chun dou	2000
+鱟伯策	bai ye chuang	2000
+鷹架	jiao shou jia	2000
+鹽硝	xiao shi	2000
+黃𦅇瘦㾪	mian huang ji shou	2000
+點卯	dian ming	2000
+鼎	chao guo	2000
+鼻	wen	2000
+鼻空	bi kong	2000
+齒刷	ya shua	2000
+齒痛	ya tong	2000
+齒齦	ya ken	2000
+龍位	wang wei	2000
+龍眼	long yan	2000
+𠁞	bu hui	1000
+𠁞孬	bu cuo	2000
+𠕆	ying	2000
+𠢕	neng gan	2000
+𡚸	lao po	1000
+𡜿	lao po	500
+𣴨	bi ti	2000
+𤇢	kao	2000
+𤞚	kuang	2000
+𤞚狗	kuang quan	2000
+𤷗裂	gui lie	2000
+𦈢	ci	2000
+𦮴	mao ni	1000
+𨫋	da pao	2000
+𩛌		2000
+𩩍籬	xie gu	2000
+𩩍籬骨	xie gu	2000
