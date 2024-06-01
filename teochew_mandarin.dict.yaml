@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.05.31"
+version:	"2024.06.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -515,6 +515,7 @@ mih-kâi	shen me	500
 mih-nâng	shen me ren	500
 mn̂g-sìⁿ-ãu	men hou	500
 mo	jue	500
+mo-tsháu	ye cao	500
 mu̍eh	zuo	500
 mu̍eh-chia̍h	mi jian	500
 mu̍eh-kiãⁿ	dong xi	500
@@ -1965,6 +1966,8 @@ zṳ̂	luan	500
 苡米	yi mi	2000
 若㩼	duo shao	2000
 若是	ru guo	2000
+茅	jue	2000
+茅草	ye cao	2000
 茶盅	cha bei	2000
 茶礶	cha hu	2000
 茶米	cha ye	2000

@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.phrase
-version:	"2024.05.31"
+version:	"2024.06.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -503,6 +503,7 @@ mih-kâi	mih kai5	500
 mih-nâng	mih nang5	500
 mn̂g-sìⁿ-ãu	mng5 sinn3 au6	500
 mo	mo	500
+mo-tsháu	mo tshau2	500
 mu̍eh	mueh8	500
 mu̍eh-chia̍h	mueh8 chiah8	500
 mu̍eh-kiãⁿ	mueh8 kiann6	500
@@ -1933,6 +1934,8 @@ zṳ̂	zur5	500
 苡米	iunn3 bi2	2000
 若㩼	jieh8 tsoi7	2000
 若是	nann7 si6	2000
+茅	mo	2000
+茅草	mo tshau2	2000
 茶盅	te6 cheng	2000
 茶礶	te5 kuan3	2000
 茶米	te5 bi2	2000
