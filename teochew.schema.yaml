@@ -101,7 +101,7 @@ mandarin_reverse_lookup:
   dictionary: teochew_mandarin
   prefix: "v"
   suffix: "'"
-  tips: "〔普通話反查〕"
+  tips: "〔地道用詞查詢〕"
   enable_completion: false
   enable_sentence: false
   preedit_format:
@@ -112,7 +112,7 @@ pinyin_reverse_lookup:
   dictionary: luna_pinyin
   prefix: "f"
   suffix: "'"
-  tips: "〔拼音反查〕"
+  tips: "〔潮州音查詢〕"
   enable_completion: false
   enable_sentence: false
   preedit_format:
