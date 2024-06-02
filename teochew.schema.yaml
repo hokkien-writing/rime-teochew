@@ -10,9 +10,9 @@ schema:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
-    白話字及漢字
-    拼音反查及普通話反查
-    https://github.com/hokkien-writing/rime-teochew
+    支持白話字及漢字
+    支持潮州音查詢及地道用詞查詢
+    詳細內容見：https://github.com/hokkien-writing/rime-teochew
   dependencies:
     - teochew_mandarin
     - luna_pinyin
