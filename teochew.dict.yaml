@@ -13,5560 +13,5560 @@ import_tables:
   - teochew.puj
   - teochew.phrase
 ...
-阿	a
-鴉	a
-丫	a
-亞	a
-拗	a2
-亞	a3
-啊	a7
-押	ah
-鴨	ah
-呷	ah
-埃	ai
-唉	ai
-哀	ai
-挨	ai
-藹	ai2
-靄	ai2
-哎	ai7
-艾	ainn3
-愛	ainn3
-欲	ainn3
-沃	ak
-抑	ak
-軋	ak
-惡	ak
-庵	am
-飲	am2
-暗	am3
-黯	am3
-氨	an
-安	an
-胺	an
-按	an3
-案	an3
-宴	an3
-晏	an3
-鼴	an3
-骯	ang
-翁	ang
-盎	ang3
-甕	ang3
-洪	ang5
-紅	ang5
-餡	ann7
-押	ap
-呷	ap
-盒	ap8
-匣	ap8
-凹	au
-歐	au
-鷗	au
-毆	au
-漚	au
-區	au
-坳	au
-甌	au
-鏖	au
-毆	au2
-嘔	au2
-拗	au2
-懊	au3
-漚	au3
-喉	au5
-後	au6
-眉	bai5
-嵋	bai5
-墨	bak8
-木	bak8
-密	bat8
-鉚	bau2
-卯	bau2
-碼	be2
-馬	be2
-麥	beh8
-米	bi2
-未	bi7
-味	bi7
-描	bie5
-瞄	bie5
-廟	bie7
-癟	bih
-蜜	bit8
-拇	bo2
-母	bo2
-亡	bo5
-無	bo5
-毋	bo5
-帽	bo7
-磨	bo7
-買	boi2
-𠁞	boi6
-賣	boi7
-牡	bou2
-畝	bou2
-母	bou2
-模	bou5
-戊	bou7
-撫	bu2
-武	bu2
-舞	bu2
-侮	bu2
-鵡	bu2
-巫	bu5
-誣	bu5
-無	bu5
-蕪	bu5
-務	bu6
-霧	bu7
-磨	bua5
-撥	buah
-抹	buah
-末	buah8
-沫	buah8
-饅	buan6
-蔓	buan6
-曼	buan6
-慢	buan6
-漫	buan6
-謾	buan6
-萬	buan7
-妄	buang2
-罔	buang2
-魍	buang2
-亡	buang5
-忘	buang5
-望	buang6
-美	bue2
-尾	bue2
-枚	bue5
-梅	bue5
-酶	bue5
-黴	bue5
-煤	bue5
-媒	bue5
-未	bue7
-襪	bueh8
-蚊	bun
-燜	bun
-玫	bun5
-文	bun5
-紋	bun5
-紊	bun5
-聞	bun6
-悶	bun7
-吻	but
-勿	but
-齋	che
-姐	che2
-這	che2
-債	che3
-寨	che7
-積	cheh
-績	cheh
-責	cheh
-職	cheh
-仄	cheh
-叔	chek
-則	chek
-燭	chek
-稷	chek
-蜀	chek8
-一	chek8
-壹	chek8
-澤	chek8
-丁	cheng
-睛	cheng
-精	cheng
-僧	cheng
-增	cheng
-憎	cheng
-曾	cheng
-貞	cheng
-偵	cheng
-蒸	cheng
-掙	cheng
-睜	cheng
-猙	cheng
-怔	cheng
-幀	cheng
-盅	cheng
-甑	cheng
-箏	cheng
-舂	cheng
-征	cheng
-鐘	cheng
-鍾	cheng
-種	cheng2
-腫	cheng2
-蹭	cheng3
-正	cheng3
-政	cheng3
-證	cheng3
-種	cheng3
-衆	cheng3
-症	cheng3
-曾	cheng5
-靖	cheng6
-淨	cheng6
-靚	cheng6
-爭	chenn
-井	chenn2
-阱	chenn2
-晴	chenn5
-靜	chenn6
-叉	chhe
-岔	chhe
-差	chhe
-尺	chhe
-扯	chhe2
-廁	chhe3
-查	chhe5
-策	chheh
-冊	chheh
-側	chhek
-測	chhek
-斥	chhek
-僳	chhek
-戚	chhek
-粟	chhek
-彳	chhek
-稱	chheng
-清	chheng
-襯	chheng3
-稱	chheng3
-橙	chheng5
-情	chheng5
-穿	chheng7
-青	chhenn
-氰	chhenn
-生	chhenn
-星	chhenn
-腥	chhenn
-蜻	chhenn
-醒	chhenn2
-差	chhi
-癡	chhi
-棲	chhi
-妻	chhi
-鰓	chhi
-淒	chhi
-悽	chhi
-恥	chhi2
-齒	chhi2
-侈	chhi2
-刺	chhi3
-試	chhi3
-弒	chhi3
-遲	chhi5
-馳	chhi5
-齊	chhi5
-薺	chhi5
-市	chhi6
-飼	chhi7
-車	chhia
-奢	chhia
-賒	chhia
-且	chhia2
-赤	chhiah
-戳	chhiak
-綽	chhiak
-鵲	chhiak
-雀	chhiak
-芍	chhiak
-殲	chhiam
-懺	chhiam
-讖	chhiam
-簽	chhiam
-籤	chhiam
-潛	chhiam5
-昌	chhiang
-猖	chhiang
-嗆	chhiang
-戕	chhiang
-廠	chhiang2
-敞	chhiang2
-嗆	chhiang2
-唱	chhiang3
-倡	chhiang3
-場	chhiang5
-常	chhiang5
-長	chhiang5
-腸	chhiang5
-薔	chhiang5
-爿	chhiang5
-請	chhiann2
-成	chhiann5
-悄	chhiau
-鍬	chhiau
-嘲	chhiau2
-悄	chhiau2
-峭	chhiau2
-俏	chhiau2
-稍	chhiau2
-朝	chhiau5
-瞧	chhiau5
-晁	chhiau5
-唱	chhie3
-笑	chhie3
-尺	chhieh
-淖	chhieh
-席	chhieh8
-扦	chhien
-釺	chhien
-遷	chhien
-纖	chhien
-阡	chhien
-韆	chhien
-淺	chhien2
-槍	chhienn
-搶	chhienn2
-牆	chhienn5
-上	chhienn6
-橡	chhienn6
-像	chhienn6
-象	chhienn6
-匠	chhienn7
-沏	chhiet
-切	chhiet
-竊	chhiet
-彳	chhih8
-深	chhim
-寢	chhim2
-沁	chhim3
-侵	chhim5
-尋	chhim5
-親	chhin
-秤	chhin3
-凊	chhin3
-臣	chhin5
-陳	chhin5
-秦	chhin5
-鮮	chhinn
-尋	chhinn5
-緝	chhip
-輯	chhip
-七	chhit
-柒	chhit
-拭	chhit
-瞅	chhiu
-初	chhiu
-揪	chhiu
-鍬	chhiu
-秋	chhiu
-鞦	chhiu
-鬚	chhiu
-手	chhiu2
-醜	chhiu2
-漱	chhiu3
-酬	chhiu5
-仇	chhiu5
-囚	chhiu5
-售	chhiu5
-樹	chhiu7
-膣	chi
-此	chi2
-姊	chi2
-詣	chi2
-脂	chi2
-址	chi2
-指	chi2
-止	chi2
-趾	chi2
-旨	chi2
-稚	chi2
-紫	chi2
-籽	chi2
-子	chi2
-祇	chi2
-祉	chi2
-芷	chi2
-霽	chi2
-只	chi2
-掣	chi3
-熾	chi3
-擠	chi3
-祭	chi3
-劑	chi3
-濟	chi3
-際	chi3
-識	chi3
-摯	chi3
-至	chi3
-幟	chi3
-痣	chi3
-齏	chi3
-志	chi3
-誌	chi3
-制	chi3
-製	chi3
-巳	chi6
-舐	chi6
-遮	chia
-姐	chia2
-者	chia2
-鍺	chia2
-蔗	chia3
-炙	chia3
-籍	chia6
-藉	chia6
-謝	chia7
-跡	chiah
-脊	chiah
-隻	chiah
-食	chiah8
-嚼	chiak
-爵	chiak
-芍	chiak
-勺	chiak
-酌	chiak
-灼	chiak
-尖	chiam
-漸	chiam
-贍	chiam
-瞻	chiam
-詹	chiam
-占	chiam
-佔	chiam3
-漸	chiam6
-塹	chiam6
-暫	chiam6
-將	chiang
-樟	chiang
-章	chiang
-彰	chiang
-漳	chiang
-張	chiang
-長	chiang2
-將	chiang3
-獎	chiang3
-漲	chiang3
-脹	chiang3
-瘴	chiang3
-障	chiang3
-嶂	chiang3
-匠	chiang6
-杖	chiang6
-丈	chiang6
-仗	chiang6
-晶	chiann
-精	chiann
-正	chiann
-整	chiann2
-正	chiann3
-成	chiann5
-情	chiann5
-接	chiap
-捷	chiap8
-睫	chiap8
-洽	chiap8
-朝	chiau
-礁	chiau
-焦	chiau
-招	chiau
-昭	chiau
-鳥	chiau2
-照	chiau3
-雀	chiauh
-蕉	chie
-椒	chie
-招	chie
-少	chie2
-照	chie3
-質	chieh
-借	chieh
-石	chieh8
-箋	chien
-煎	chien
-濺	chien
-羶	chien
-趁	chien2
-踐	chien2
-餞	chien2
-濺	chien2
-燼	chien2
-疹	chien2
-診	chien2
-殄	chien2
-畛	chien2
-翦	chien2
-顫	chien3
-剪	chien3
-戰	chien3
-漿	chienn
-樟	chienn
-章	chienn
-蔣	chienn2
-槳	chienn2
-掌	chienn2
-醬	chienn3
-上	chienn6
-癢	chienn6
-即	chiet
-浙	chiet
-接	chih
-折	chih
-摺	chih
-舌	chih8
-折	chih8
-斟	chim
-枕	chim2
-浸	chim3
-津	chin
-薪	chin
-真	chin
-甄	chin
-臻	chin
-瞋	chin
-震	chin2
-振	chin2
-拯	chin2
-賑	chin2
-薦	chin3
-進	chin3
-晉	chin3
-盡	chin6
-儘	chin6
-薦	chinn
-歧	chinn
-氏	chinn
-氈	chinn
-支	chinn
-吱	chinn
-肢	chinn
-脂	chinn
-稚	chinn2
-擠	chinn3
-煎	chinn3
-箭	chinn3
-錢	chinn5
-薺	chinn5
-執	chip
-集	chip8
-疾	chip8
-嫉	chip8
-熾	chit
-脊	chit
-浙	chit
-織	chit
-鯽	chit
-稠	chiu
-舟	chiu
-州	chiu
-洲	chiu
-周	chiu
-週	chiu
-酒	chiu2
-咒	chiu3
-皺	chiu3
-就	chiu6
-啞	e2
-下	e6
-廈	e6
-下	e7
-耶	e7
-厄	eh
-扼	eh
-軛	eh
-臆	ek
-溢	ek
-隘	ek8
-掖	ek8
-腋	ek8
-液	ek8
-易	ek8
-億	ek8
-疫	ek8
-亦	ek8
-憶	ek8
-溢	ek8
-譯	ek8
-翼	ek8
-翌	ek8
-繹	ek8
-浴	ek8
-奕	ek8
-弈	ek8
-翁	eng
-英	eng
-櫻	eng
-嬰	eng
-鷹	eng
-纓	eng
-罌	eng
-膺	eng
-鶯	eng
-鸚	eng
-湧	eng2
-涌	eng2
-應	eng3
-用	eng7
-礙	gai7
-樂	gauh8
-芽	ge5
-牙	ge5
-蚜	ge5
-衙	ge5
-玉	gek8
-獄	gek8
-疑	gi5
-訝	gia3
-迓	gia3
-鵝	go5
-餓	go7
-倪	goi5
-藝	goi7
-吳	gou5
-誤	gou7
-牛	gu5
-外	gua7
-鑰	gueh8
-月	gueh8
-魏	gui7
-語	gur2
-馭	gur6
-禦	gur6
-御	gur7
-哈	ha
-孝	ha3
-瓣	hah
-哈	hah
-合	hah8
-海	hai2
-骸	hai5
-孩	hai5
-諧	hai5
-孩	hai6
-氦	hai6
-亥	hai6
-駭	hai6
-解	hai6
-咳	hai6
-械	hai6
-懈	hai6
-薤	hai6
-害	hai7
-遏	hak
-郝	hak
-喝	hak
-涸	hak
-褐	hak
-豁	hak
-瞎	hak
-轄	hak
-蠍	hak
-蓄	hak
-壑	hak
-乏	hak8
-學	hak8
-酣	ham
-憨	ham
-邯	ham
-撼	ham2
-喊	ham3
-含	ham5
-涵	ham5
-函	ham5
-銜	ham5
-咸	ham5
-憾	ham6
-陷	ham7
-鼾	han
-罕	han2
-捍	han2
-悍	han2
-焊	han2
-汗	han2
-漢	han3
-韓	han5
-寒	han5
-翰	han5
-限	han6
-烘	hang
-夯	hang2
-汗	hang5
-杭	hang5
-航	hang5
-降	hang5
-行	hang5
-項	hang6
-巷	hang7
-合	hap8
-峽	hap8
-號	hau
-浩	hau
-酵	hau
-哮	hau
-齁	hau
-鎬	hau2
-好	hau2
-吼	hau2
-昊	hau2
-皓	hau2
-孝	hau3
-壕	hau5
-嚎	hau5
-豪	hau5
-毫	hau5
-校	hau6
-後	hau6
-候	hau7
-效	hau7
-鱟	hau7
-好	haunn3
-嘿	he
-蝦	he5
-暇	he6
-下	he6
-廈	he7
-夏	he7
-赫	heh
-嚇	heh
-核	hek
-閡	hek
-黑	hek
-乏	hek8
-哼	heng
-亨	heng
-興	heng
-胸	heng
-匈	heng
-馨	heng
-興	heng3
-恆	heng5
-王	heng5
-刑	heng5
-型	heng5
-形	heng5
-行	heng5
-雄	heng5
-行	heng6
-杏	heng6
-孕	heng6
-幸	heng6
-倖	heng6
-熙	hi
-嘻	hi
-犧	hi
-稀	hi
-希	hi
-烯	hi
-頤	hi
-兮	hi
-熹	hi
-禧	hi
-羲	hi
-喜	hi2
-戲	hi3
-畦	hi5
-攜	hi6
-曳	hi6
-拽	hi6
-系	hi6
-係	hi6
-繫	hi6
-靴	hia
-霞	hia5
-暇	hia5
-遐	hia5
-瓦	hia6
-下	hia6
-蟻	hia6
-歇	hiah
-額	hiah8
-役	hiah8
-蠍	hiak
-險	hiam2
-嫌	hiam5
-香	hiang
-鄉	hiang
-晌	hiang2
-響	hiang2
-享	hiang2
-饗	hiang2
-向	hiang3
-嚮	hiang3
-兄	hiann
-邢	hiann5
-顏	hiann5
-艾	hiann7
-俠	hiap8
-狹	hiap8
-協	hiap8
-挾	hiap8
-脅	hiap8
-葉	hiap8
-邀	hiau
-梟	hiau
-驍	hiau
-曉	hiau2
-掀	hiaunn
-頁	hieh8
-葉	hieh8
-顯	hien2
-獻	hien3
-憲	hien3
-釁	hien3
-絢	hien3
-賢	hien5
-舷	hien5
-懸	hien5
-玄	hien5
-眩	hien5
-香	hienn
-鄉	hienn
-鑫	him
-熊	him5
-眩	hin5
-見	hin7
-現	hin7
-舷	hinn5
-弦	hinn5
-耳	hinn6
-旭	hiok
-毓	hiok
-馥	hiok
-郁	hiok
-匈	hiong
-洶	hiong
-凶	hiong
-兇	hiong
-雄	hiong5
-翕	hip
-休	hiunn
-幽	hiunn
-悠	hiunn
-攸	hiunn
-貅	hiunn
-朽	hiunn2
-臭	hiunn3
-嗅	hiunn3
-方	hng
-哼	hng
-荒	hng
-祅	hng
-醺	hng
-哼	hng2
-園	hng5
-遠	hng6
-呵	ho
-好	ho2
-訛	ho3
-耗	ho3
-荷	ho3
-荷	ho5
-何	ho5
-合	ho5
-河	ho5
-和	ho6
-好	ho7
-號	ho7
-賀	ho7
-酷	hoh
-翕	hoh
-鶴	hoh8
-蟹	hoi6
-還	hoinn5
-閡	hoinn6
-輻	hok
-福	hok
-複	hok
-伏	hok8
-服	hok8
-袱	hok8
-覆	hok8
-或	hok8
-惑	hok8
-域	hok8
-復	hok8
-封	hong
-峯	hong
-鋒	hong
-風	hong
-烽	hong
-轟	hong
-烘	hong
-丰	hong
-豐	hong
-哄	hong
-蚌	hong2
-俸	hong2
-哄	hong2
-諷	hong3
-訌	hong3
-哄	hong3
-鬨	hong3
-逢	hong5
-縫	hong5
-烘	hong5
-虹	hong5
-鴻	hong5
-洪	hong5
-宏	hong5
-弘	hong5
-紅	hong5
-肱	hong5
-奉	hong6
-鳳	hong6
-呼	hou
-否	hou2
-戽	hou3
-侯	hou5
-葫	hou5
-狐	hou5
-鬍	hou5
-戶	hou6
-雨	hou6
-后	hou6
-互	hou7
-虎	hounn2
-唬	hounn5
-夫	hu
-敷	hu
-膚	hu
-孵	hu
-俘	hu
-腐	hu
-呼	hu
-乎	hu
-孚	hu
-俯	hu2
-釜	hu2
-腑	hu2
-府	hu2
-父	hu2
-許	hu2
-栩	hu2
-缶	hu2
-赴	hu3
-副	hu3
-賦	hu3
-傅	hu3
-付	hu3
-訃	hu3
-咐	hu3
-扶	hu5
-符	hu5
-和	hu5
-瑚	hu5
-壺	hu5
-葫	hu5
-蝴	hu5
-狐	hu5
-弧	hu5
-芙	hu5
-胡	hu5
-衚	hu5
-糊	hu5
-輔	hu6
-阜	hu6
-負	hu6
-附	hu6
-婦	hu6
-護	hu6
-互	hu6
-滬	hu6
-酗	hu6
-煦	hu6
-瓠	hu6
-駙	hu6
-夫	hu7
-腐	hu7
-花	hua
-華	hua
-譁	hua
-嘩	hua
-禾	hua5
-和	hua5
-華	hua5
-划	hua5
-禍	hua6
-喝	huah
-伐	huah8
-槐	huai5
-徊	huai5
-懷	huai5
-淮	huai5
-壞	huai6
-泛	huam3
-礬	huam5
-凡	huam5
-釩	huam6
-凡	huam6
-犯	huam6
-患	huam6
-梵	huam6
-范	huam6
-範	huam6
-番	huan
-畨	huan
-翻	huan
-歡	huan
-獾	huan
-反	huan2
-返	huan2
-緩	huan2
-販	huan3
-換	huan3
-喚	huan3
-瘓	huan3
-煥	huan3
-渙	huan3
-幻	huan3
-樊	huan5
-繁	huan5
-煩	huan5
-環	huan5
-桓	huan5
-還	huan5
-垣	huan5
-飯	huan6
-豢	huan6
-宦	huan6
-坊	huang
-芳	huang
-方	huang
-肪	huang
-封	huang
-風	huang
-瘋	huang
-荒	huang
-慌	huang
-謊	huang
-坊	huang2
-訪	huang2
-紡	huang2
-晃	huang2
-幌	huang2
-恍	huang2
-仿	huang2
-彷	huang2
-放	huang3
-防	huang5
-妨	huang5
-衡	huang5
-磺	huang5
-蝗	huang5
-簧	huang5
-皇	huang5
-凰	huang5
-惶	huang5
-煌	huang5
-徨	huang5
-歡	huann
-還	huann
-鼾	huann5
-法	huap
-琺	huap
-砝	huap
-發	huat
-髮	huat
-罰	huat8
-筏	huat8
-伐	huat8
-乏	huat8
-閥	huat8
-穴	huat8
-花	hue
-華	hue
-化	hue
-灰	hue
-火	hue2
-伙	hue2
-夥	hue2
-化	hue3
-悔	hue3
-晦	hue3
-誨	hue3
-貨	hue3
-歲	hue3
-和	hue5
-蛔	hue5
-回	hue5
-迴	hue5
-會	hue6
-燴	hue6
-匯	hue6
-彙	hue6
-血	hueh
-橫	huenn5
-菲	hui
-非	hui
-啡	hui
-飛	hui
-灰	hui
-揮	hui
-輝	hui
-徽	hui
-妃	hui
-扉	hui
-翡	hui
-霏	hui
-麾	hui
-菲	hui2
-誹	hui2
-卉	hui2
-諱	hui2
-肺	hui3
-廢	hui3
-費	hui3
-諱	hui3
-缶	hui5
-慧	hui6
-惠	hui6
-彗	hui6
-匪	huinn2
-毀	huinn2
-懸	huinn5
-芬	hun
-酚	hun
-吩	hun
-氛	hun
-分	hun
-紛	hun
-汾	hun
-葷	hun
-昏	hun
-婚	hun
-渾	hun
-燻	hun
-暈	hun
-薰	hun
-粉	hun2
-忿	hun2
-奮	hun3
-憤	hun3
-訓	hun3
-痕	hun5
-魂	hun5
-雲	hun5
-渾	hun6
-混	hun6
-分	hun7
-份	hun7
-墟	hur
-虛	hur
-噓	hur
-圩	hur
-彼	hur2
-許	hur2
-魚	hur5
-漁	hur5
-掀	hurn
-鍁	hurn
-欣	hurn
-忻	hurn
-軒	hurn
-勳	hurn
-殷	hurn
-很	hurn2
-狠	hurn2
-恨	hurn6
-沸	hut
-拂	hut
-氟	hut
-弗	hut
-忽	hut
-彿	hut
-核	hut8
-佛	hut8
-銥	i
-依	i
-伊	i
-衣	i
-迂	i
-倚	i2
-衣	i3
-肄	i3
-意	i3
-憶	i3
-蛇	i5
-夷	i5
-移	i5
-胰	i5
-姨	i5
-彝	i5
-怡	i5
-貽	i5
-易	i6
-裔	i6
-異	i6
-矣	i7
-呀	ia
-野	ia2
-冶	ia2
-椰	ia5
-耶	ia5
-爺	ia5
-呀	ia7
-耶	ia7
-也	ia7
-夜	ia7
-亦	ia7
-益	iah
-溢	iah
-易	iah8
-驛	iah8
-爍	iak
-約	iak
-躍	iak
-鑰	iak
-藥	iak8
-閹	iam
-淹	iam
-奄	iam
-掩	iam2
-堰	iam2
-睒	iam2
-厭	iam3
-鹽	iam5
-炎	iam7
-豔	iam7
-焰	iam7
-殃	iang
-央	iang
-秧	iang
-泱	iang
-氧	iang2
-養	iang2
-映	iang3
-楊	iang5
-揚	iang5
-佯	iang5
-瘍	iang5
-羊	iang5
-洋	iang5
-陽	iang5
-烊	iang5
-癢	iang6
-漾	iang6
-恙	iang6
-影	iann2
-強	iann5
-營	iann5
-迎	iann5
-贏	iann5
-壓	iap
-葉	iap8
-麼	iau
-陶	iau
-邀	iau
-妖	iau
-要	iau
-一	iau
-喲	iau
-夭	iau
-窈	iau2
-要	iau3
-瑤	iau5
-搖	iau5
-遙	iau5
-謠	iau5
-耀	iau6
-鴦	ie
-腰	ie
-喲	ie
-舀	ie2
-搖	ie5
-窯	ie5
-姚	ie5
-約	ieh
-藥	ieh8
-蔫	ien
-焉	ien
-淵	ien
-嫣	ien
-鳶	ien
-遠	ien2
-燕	ien3
-嚥	ien3
-紈	ien5
-涎	ien6
-羨	ien6
-蜒	ien6
-延	ien6
-衍	ien6
-援	ien6
-筵	ien6
-胤	ien6
-焉	ien7
-養	ienn2
-熔	ienn5
-溶	ienn5
-楊	ienn5
-揚	ienn5
-羊	ienn5
-洋	ienn5
-陽	ienn5
-贏	ienn5
-烊	ienn5
-樣	ienn7
-淹	im
-蔭	im
-音	im
-陰	im
-飲	im2
-淫	im5
-煙	in
-茵	in
-因	in
-姻	in
-甄	in
-胭	in
-咽	in
-引	in2
-隱	in2
-蚓	in2
-印	in3
-應	in3
-鉛	in5
-沿	in5
-演	in5
-寅	in5
-縈	in5
-暈	in7
-椅	inn2
-已	inn2
-以	inn2
-燕	inn3
-丸	inn5
-圓	inn5
-夗	inn6
-硯	inn7
-院	inn7
-峪	iok8
-育	iok8
-浴	iok8
-欲	iok8
-慾	iok8
-臃	iong
-癰	iong
-雍	iong
-踴	iong2
-蛹	iong2
-永	iong2
-勇	iong2
-擁	iong3
-詠	iong3
-泳	iong3
-恿	iong3
-湧	iong3
-涌	iong3
-蓉	iong5
-榮	iong5
-融	iong5
-熔	iong5
-溶	iong5
-容	iong5
-瑩	iong5
-螢	iong5
-熒	iong5
-盈	iong5
-庸	iong5
-榕	iong5
-縈	iong5
-佣	iong5
-傭	iong5
-揖	ip
-邑	ip
-噎	it
-一	it
-乙	it
-咽	it
-逸	it8
-佚	it8
-軼	it8
-優	iu
-憂	iu
-酉	iu2
-有	iu2
-友	iu2
-誘	iu2
-肘	iu2
-牖	iu2
-鮪	iu2
-黝	iu2
-酋	iu5
-尤	iu5
-由	iu5
-郵	iu5
-鈾	iu5
-猶	iu5
-油	iu5
-釉	iu5
-柚	iu5
-猷	iu5
-魷	iu5
-游	iu5
-遊	iu5
-賄	iu6
-右	iu6
-佑	iu6
-又	iu6
-祐	iu6
-有	iu7
-又	iu7
-柚	iu7
-幼	iunn3
-若	je2
-扔	jeng5
-兒	ji5
-二	ji6
-餌	ji7
-二	ji7
-寺	ji7
-字	ji7
-惹	jia2
-若	jiak8
-弱	jiak8
-冉	jiam2
-染	jiam2
-髯	jiam2
-釀	jiang2
-壤	jiang2
-攘	jiang2
-嚷	jiang2
-瓤	jiang5
-讓	jiang6
-廿	jiap8
-擾	jiau2
-爪	jiau2
-繞	jiau3
-沼	jiau3
-饒	jiau5
-尿	jie7
-若	jieh8
-然	jien5
-燃	jien5
-熱	jiet8
-廿	jih8
-賃	jim2
-忍	jim2
-韌	jim2
-刃	jim2
-紉	jim2
-恁	jim2
-荏	jim2
-賃	jim6
-壬	jim6
-任	jim6
-妊	jim6
-任	jim7
-仁	jin5
-人	jin5
-認	jin7
-入	jip8
-日	jit8
-揉	jiu5
-柔	jiu5
-膠	ka
-鉸	ka
-咖	ka
-咳	ka
-虼	ka
-家	ka
-絞	ka2
-教	ka3
-較	ka3
-窖	ka3
-校	ka3
-咬	ka6
-蓋	kah
-合	kah
-甲	kah
-鉀	kah
-佮	kah
-合	kah8
-該	kai
-皆	kai
-秸	kai
-階	kai
-揩	kai
-楷	kai
-鈣	kai3
-蓋	kai3
-價	kai3
-戒	kai3
-芥	kai3
-界	kai3
-介	kai3
-誡	kai3
-屆	kai3
-丐	kai3
-尬	kai3
-蚧	kai3
-個	kai5
-其	kai7
-鉻	kak
-各	kak
-角	kak
-覺	kak
-軋	kak
-穀	kak
-甘	kam
-監	kam
-泔	kam
-感	kam2
-監	kam3
-檻	kam3
-鑑	kam3
-尷	kam3
-含	kam5
-竿	kan
-間	kan
-艱	kan
-乾	kan
-干	kan
-杆	kan
-奸	kan
-姦	kan
-稈	kan2
-柬	kan2
-揀	kan2
-簡	kan2
-澗	kan2
-旰	kan3
-幹	kan3
-岡	kang
-剛	kang
-缸	kang
-肛	kang
-綱	kang
-崗	kang
-工	kang
-功	kang
-公	kang
-江	kang
-扛	kang
-蚣	kang
-港	kang2
-講	kang2
-贛	kang3
-槓	kang3
-降	kang3
-共	kang7
-柑	kann
-敢	kann2
-酵	kann3
-銜	kann5
-跤	kao
-鴿	kap
-蛤	kap
-哈	kap
-合	kap
-結	kat
-皋	kau
-高	kau
-鉤	kau
-勾	kau
-溝	kau
-交	kau
-郊	kau
-枸	kau
-睾	kau
-鮫	kau
-搞	kau2
-鎬	kau2
-狗	kau2
-垢	kau2
-狡	kau2
-玖	kau2
-九	kau2
-枸	kau2
-犒	kau2
-到	kau3
-告	kau3
-夠	kau3
-猴	kau5
-垢	kau6
-厚	kau6
-加	ke
-袈	ke
-家	ke
-傢	ke
-假	ke2
-稼	ke3
-價	ke3
-架	ke3
-駕	ke3
-嫁	ke3
-枷	ke5
-下	ke6
-胳	keh
-格	keh
-隔	keh
-膈	keh
-骼	keh
-逆	keh8
-革	kek
-激	kek
-棘	kek
-菊	kek
-檄	kek
-亟	kek
-極	kek8
-局	kek8
-更	keng
-供	keng
-宮	keng
-弓	keng
-荊	keng
-兢	keng
-驚	keng
-經	keng
-矜	keng
-景	keng2
-境	keng2
-竟	keng2
-更	keng3
-敬	keng3
-亙	keng3
-瓊	keng5
-警	keng6
-競	keng6
-耕	kenn
-庚	kenn
-羹	kenn
-經	kenn
-賡	kenn
-埂	kenn2
-梗	kenn2
-更	kenn3
-勁	kenn3
-粳	kenn3
-頸	kenn3
-徑	kenn3
-逕	kenn3
-腳	kha
-骹	kha
-尻	kha
-卡	kha2
-豈	kha2
-巧	kha2
-咔	kha2
-開	khai
-楷	khai2
-凱	khai2
-概	khai3
-溉	khai3
-慨	khai3
-暨	khai3
-嘎	khak
-霍	khak
-殼	khak
-榷	khak
-確	khak
-恪	khak
-麴	khak
-堪	kham
-勘	kham
-湛	kham
-戡	kham
-龕	kham
-檻	kham2
-坎	kham2
-砍	kham2
-嵌	kham2
-刊	khan
-牽	khan
-纖	khan
-看	khan3
-刊	khan5
-工	khang
-康	khang
-慷	khang
-糠	khang
-空	khang
-匡	khang
-抗	khang3
-亢	khang3
-炕	khang3
-吭	khang3
-蓋	khap
-磕	khap
-刻	khap
-掐	khap
-恰	khap
-盍	khap
-摳	khau
-尻	khau
-考	khau2
-拷	khau2
-烤	khau2
-口	khau2
-靠	khau3
-寇	khau3
-哭	khau3
-叩	khau3
-扣	khau3
-釦	khau3
-喀	kheh
-客	kheh
-擊	khek
-刻	khek
-蛐	khek
-曲	khek
-麴	khek
-兢	kheng
-筐	kheng
-卿	kheng
-肯	kheng2
-啃	kheng2
-慶	kheng3
-罄	kheng3
-莖	kheng5
-鯨	kheng5
-痙	kheng5
-擎	kheng5
-扃	kheng5
-坑	khenn
-吭	khenn
-欺	khi
-崎	khi
-齒	khi2
-起	khi2
-啓	khi2
-杞	khi2
-器	khi3
-氣	khi3
-棄	khi3
-汽	khi3
-亟	khi3
-期	khi5
-其	khi5
-奇	khi5
-歧	khi5
-祈	khi5
-祁	khi5
-沂	khi5
-亓	khi5
-祇	khi5
-祺	khi5
-耆	khi5
-鰭	khi5
-麒	khi5
-忌	khi7
-奇	khia
-家	khia
-騎	khia5
-擎	khia5
-企	khia6
-隙	khiah
-攫	khiak
-怯	khiak
-卻	khiak
-謙	khiam
-歉	khiam2
-欠	khiam3
-緘	khiam5
-鉗	khiam5
-儉	khiam6
-強	khiang3
-強	khiang5
-襁	khiang5
-橇	khiau
-敲	khiau
-巧	khiau2
-翹	khiau3
-竅	khiau3
-喬	khiau5
-僑	khiau5
-翹	khiau5
-蕎	khiau5
-挈	khieh8
-虔	khien
-遣	khien2
-譴	khien2
-犬	khien2
-乾	khien5
-腔	khienn
-喫	khiet
-撅	khiet
-契	khiet
-孑	khiet
-挈	khiet
-黠	khiet
-屈	khih
-缺	khih
-襟	khim
-欽	khim
-衿	khim
-黔	khim5
-琴	khim5
-擒	khim5
-禽	khim5
-輕	khin
-氫	khin
-鉗	khinn5
-可	khiok
-克	khiok
-剋	khiok
-鞏	khiong2
-恐	khiong2
-窮	khiong5
-圾	khip
-級	khip
-泣	khip
-吸	khip
-汲	khip
-屈	khit
-丘	khiu
-邱	khiu
-蚯	khiu
-鳩	khiu
-求	khiu5
-裘	khiu5
-糠	khng
-勸	khng3
-戈	kho
-坷	kho
-苛	kho
-柯	kho
-涸	kho2
-棵	kho2
-顆	kho2
-可	kho2
-靠	kho3
-咯	khoh
-揩	khoi
-溪	khoi
-契	khoi3
-軋	khoih
-蓋	khoinn3
-哭	khok
-酷	khok
-梏	khok
-空	khong
-孔	khong2
-控	khong3
-箍	khou
-呼	khou
-枯	khou
-苦	khou2
-許	khou2
-寇	khou3
-庫	khou3
-褲	khou3
-蔻	khou3
-拘	khu
-丘	khu
-邱	khu
-區	khu
-軀	khu
-驅	khu
-樞	khu
-臼	khu6
-垮	khua
-挎	khua
-跨	khua
-夸	khua
-誇	khua
-掛	khua3
-胯	khua3
-闊	khuah
-筷	khuai3
-快	khuai3
-擴	khuak
-寬	khuan
-傾	khuan
-頃	khuan
-圈	khuan
-髖	khuan
-款	khuan2
-傾	khuan2
-頃	khuan2
-顴	khuan5
-權	khuan5
-逛	khuang
-匡	khuang
-框	khuang
-眶	khuang
-礦	khuang3
-曠	khuang3
-況	khuang3
-擴	khuang3
-狂	khuang5
-瓊	khuang5
-煢	khuang5
-誑	khuang5
-款	khuann
-恢	khue
-科	khue
-盔	khue
-魁	khue
-課	khue3
-卦	khue3
-瘸	khue5
-缺	khueh
-窟	khuh
-開	khui
-虧	khui
-巋	khui
-軌	khui2
-季	khui3
-氣	khui3
-葵	khui5
-馗	khui5
-饋	khui6
-愧	khui6
-潰	khui6
-坤	khun
-昆	khun
-崑	khun
-窘	khun2
-菌	khun2
-墾	khun2
-懇	khun2
-捆	khun2
-困	khun3
-睏	khun3
-拳	khun5
-羣	khun5
-去	khur3
-渠	khur5
-吃	khurh
-乞	khurh
-勤	khurn5
-芹	khurn5
-乞	khurt
-倔	khut
-窟	khut
-屈	khut
-基	ki
-機	ki
-畸	ki
-稽	ki
-箕	ki
-肌	ki
-飢	ki
-譏	ki
-姬	ki
-期	ki
-奇	ki
-枝	ki
-支	ki
-岐	ki
-嵇	ki
-梔	ki
-畿	ki
-幾	ki
-稽	ki2
-己	ki2
-紀	ki2
-指	ki2
-几	ki2
-薊	ki3
-計	ki3
-記	ki3
-既	ki3
-繼	ki3
-紀	ki3
-廄	ki3
-暨	ki3
-痣	ki3
-覬	ki3
-棋	ki5
-旗	ki5
-技	ki6
-冀	ki6
-伎	ki6
-忌	ki6
-妓	ki6
-企	ki6
-羈	ki6
-己	ki7
-嘉	kia
-佳	kia
-加	kia
-咖	kia
-茄	kia
-笳	kia
-迦	kia
-賈	kia2
-假	kia2
-寄	kia3
-揭	kiah
-撅	kiah
-劇	kiah8
-兼	kiam
-檢	kiam2
-鹼	kiam2
-撿	kiam2
-減	kiam2
-劍	kiam3
-鹼	kiam5
-鹹	kiam5
-疆	kiang
-羌	kiang
-僵	kiang
-殭	kiang
-姜	kiang
-強	kiang2
-京	kiann
-驚	kiann
-經	kiann
-假	kiann2
-今	kiann2
-仔	kiann2
-囝	kiann2
-鏡	kiann3
-行	kiann5
-件	kiann6
-健	kiann7
-頰	kiap
-劫	kiap
-潔	kiap
-峽	kiap
-愜	kiap
-夾	kiap8
-澆	kiau
-驕	kiau
-嬌	kiau
-邀	kiau
-攪	kiau2
-矯	kiau2
-餃	kiau2
-繳	kiau2
-橇	kiau6
-撬	kiau6
-叫	kie3
-橋	kie5
-茄	kie5
-轎	kie7
-腳	kieh
-角	kieh
-堅	kien
-捐	kien
-鵑	kien
-娟	kien
-見	kien3
-建	kien3
-絹	kien3
-鍵	kien6
-健	kien6
-建	kien6
-毽	kien6
-犍	kien6
-薑	kienn
-吉	kiet
-潔	kiet
-傑	kiet8
-竭	kiet8
-桀	kiet8
-砌	kih
-金	kim
-今	kim
-錦	kim2
-禁	kim3
-妗	kim6
-緊	kin2
-見	kinn3
-舷	kinn5
-墘	kinn5
-鞠	kiok
-粥	kiok
-恭	kiong
-躬	kiong
-共	kiong
-穹	kiong
-拱	kiong2
-給	kip
-急	kip
-及	kip8
-吉	kit
-揭	kit
-桔	kit
-結	kit
-龜	kiu
-玖	kiu2
-九	kiu2
-赳	kiu2
-究	kiu3
-廄	kiu3
-救	kiu3
-疚	kiu3
-球	kiu5
-糾	kiu6
-咎	kiu6
-疚	kiu6
-缸	kng
-崗	kng
-光	kng
-扛	kng
-耿	kng2
-管	kng2
-廣	kng2
-卷	kng2
-鋼	kng3
-竿	ko
-篙	ko
-高	ko
-膏	ko
-羔	ko
-糕	ko
-哥	ko
-歌	ko
-過	ko
-稿	ko2
-裹	ko2
-告	ko3
-塊	ko3
-撾	ko5
-個	ko6
-擱	koh
-胳	koh
-閣	koh
-雞	koi
-街	koi
-改	koi2
-解	koi2
-計	koi3
-解	koi3
-疥	koi3
-鮭	koi5
-慧	koi7
-易	koi7
-夾	koih
-莢	koih
-夾	koih8
-挾	koih8
-間	koinn
-肩	koinn
-繭	koinn2
-間	koinn3
-國	kok
-咯	kok
-峪	kok
-幗	kok
-谷	kok
-穀	kok
-工	kong
-攻	kong
-功	kong
-龔	kong
-公	kong
-蚣	kong
-講	kong2
-槓	kong3
-汞	kong3
-貢	kong3
-辜	kou
-菇	kou
-估	kou
-沽	kou
-孤	kou
-姑	kou
-枯	kou
-苟	kou2
-估	kou2
-鼓	kou2
-古	kou2
-股	kou2
-嘏	kou2
-牯	kou2
-妒	kou3
-垢	kou3
-構	kou3
-購	kou3
-夠	kou3
-顧	kou3
-僱	kou3
-糊	kou5
-餬	kou5
-辜	ku
-咕	ku
-孤	ku
-龜	ku
-駒	ku
-佝	ku
-古	ku2
-蠱	ku2
-賈	ku2
-韭	ku2
-久	ku2
-故	ku3
-顧	ku3
-固	ku3
-灸	ku3
-句	ku3
-舅	ku6
-具	ku6
-懼	ku6
-故	ku7
-舊	ku7
-柯	kua
-剮	kua2
-寡	kua2
-蓋	kua3
-掛	kua3
-褂	kua3
-旰	kua3
-噶	kuah
-割	kuah
-葛	kuah
-渴	kuah
-乖	kuai
-鮭	kuai
-拐	kuai2
-柺	kuai2
-怪	kuai3
-劊	kuai3
-會	kuai3
-繪	kuai3
-儈	kuai3
-檜	kuai3
-膾	kuai3
-郭	kuak
-關	kuan
-冠	kuan
-觀	kuan
-綸	kuan
-管	kuan2
-館	kuan2
-冠	kuan3
-觀	kuan3
-罐	kuan3
-慣	kuan3
-灌	kuan3
-貫	kuan3
-眷	kuan3
-券	kuan3
-摜	kuan3
-盥	kuan3
-倦	kuan6
-捲	kuan6
-光	kuang
-觥	kuang
-誑	kuang
-鰥	kuang
-耿	kuang2
-廣	kuang2
-炯	kuang2
-迥	kuang2
-逛	kuang6
-竿	kuann
-肝	kuann
-稈	kuann
-棺	kuann
-官	kuann
-桿	kuann
-趕	kuann2
-果	kuann2
-寒	kuann5
-汗	kuann7
-抉	kuat
-決	kuat
-訣	kuat
-括	kuat
-廓	kuat
-炔	kuat
-玦	kuat
-刮	kuat
-颳	kuat
-乾	kuaⁿ
-瓜	kue
-渦	kue
-果	kue2
-菓	kue2
-裹	kue2
-粿	kue2
-餜	kue2
-掛	kue3
-怪	kue3
-過	kue3
-葵	kue5
-郭	kueh
-刮	kueh
-關	kuenn
-規	kui
-圭	kui
-硅	kui
-歸	kui
-閨	kui
-窺	kui
-奎	kui
-皈	kui
-鮭	kui
-鬼	kui2
-詭	kui2
-傀	kui2
-幾	kui2
-瑰	kui3
-癸	kui3
-桂	kui3
-貴	kui3
-悸	kui3
-鱖	kui3
-慣	kuinn3
-危	kuinn5
-懸	kuinn5
-跪	kuinn6
-櫃	kuinn7
-縣	kuinn7
-軍	kun
-君	kun
-皸	kun
-輥	kun2
-滾	kun2
-棍	kun3
-裙	kun5
-郡	kun6
-車	kur
-居	kur
-櫃	kur2
-矩	kur2
-舉	kur2
-齲	kur2
-枸	kur2
-鋸	kur3
-据	kur5
-拒	kur6
-巨	kur6
-距	kur6
-踞	kur6
-炬	kur6
-據	kur6
-根	kurn
-跟	kurn
-巾	kurn
-筋	kurn
-斤	kurn
-均	kurn
-鈞	kurn
-僅	kurn2
-謹	kurn2
-靳	kurn3
-凝	kurn5
-近	kurn6
-骨	kut
-猾	kut8
-滑	kut8
-掘	kut8
-垃	la
-拉	la
-喇	la
-啦	la
-哪	la5
-拉	lah8
-蠟	lah8
-臘	lah8
-獵	lah8
-曆	lah8
-來	lai3
-賚	lai3
-萊	lai5
-來	lai5
-梨	lai5
-狸	lai5
-裏	lai6
-內	lai6
-裏	lai6
-裡	lai6
-來	lai7
-碌	lak
-落	lak
-樂	lak8
-力	lak8
-六	lak8
-陸	lak8
-栗	lak8
-慄	lak8
-艦	lam2
-攬	lam2
-覽	lam2
-纜	lam2
-藍	lam5
-婪	lam5
-淋	lam5
-南	lam5
-男	lam5
-襤	lam5
-濫	lam6
-懶	lan2
-欄	lan5
-攔	lan5
-闌	lan5
-蘭	lan5
-瀾	lan5
-讕	lan5
-鱗	lan5
-零	lan5
-難	lan5
-爛	lan6
-難	lan7
-囊	lang2
-琅	lang5
-榔	lang5
-狼	lang5
-廊	lang5
-郎	lang5
-聾	lang5
-籠	lang5
-膿	lang5
-稂	lang5
-踉	lang5
-朗	lang6
-浪	lang6
-卵	lang6
-踉	lang6
-拉	lap
-拉	lap8
-撈	lau
-老	lau2
-佬	lau2
-姥	lau2
-簍	lau2
-澇	lau3
-溜	lau3
-撈	lau5
-勞	lau5
-潦	lau5
-留	lau5
-劉	lau5
-流	lau5
-樓	lau5
-醪	lau5
-老	lau6
-漏	lau7
-鬧	lau7
-落	lauh8
-礫	leh8
-瀝	leh8
-歷	leh8
-曆	leh8
-勒	lek8
-肋	lek8
-陸	lek8
-氯	lek8
-綠	lek8
-癧	lek8
-鈴	leng
-靚	leng
-壟	leng2
-隴	leng2
-攆	leng2
-棱	leng5
-楞	leng5
-拎	leng5
-玲	leng5
-菱	leng5
-零	leng5
-齡	leng5
-伶	leng5
-羚	leng5
-凌	leng5
-靈	leng5
-陵	leng5
-另	leng5
-龍	leng5
-嚨	leng5
-隆	leng5
-能	leng5
-檸	leng5
-獰	leng5
-寧	leng5
-擰	leng5
-濘	leng5
-瓴	leng5
-聆	leng5
-令	leng6
-理	li2
-李	li2
-裏	li2
-鯉	li2
-禮	li2
-哩	li2
-旅	li2
-履	li2
-蠡	li2
-里	li2
-釐	li5
-黎	li5
-籬	li5
-狸	li5
-離	li5
-漓	li5
-麗	li5
-璃	li5
-犛	li5
-罹	li5
-魑	li5
-鸝	li5
-莉	li6
-荔	li6
-麗	li6
-厲	li6
-勵	li6
-利	li6
-痢	li6
-俐	li6
-戾	li6
-癘	li6
-礪	li6
-蒞	li6
-吏	li7
-例	li7
-哩	li7
-俐	li7
-掠	liah8
-撂	liak8
-略	liak8
-慄	liak8
-拈	liam
-粘	liam
-黏	liam
-斂	liam2
-殮	liam2
-鐮	liam5
-廉	liam5
-黏	liam5
-帘	liam5
-簾	liam5
-廿	liam6
-念	liam6
-唸	liam7
-倆	liang2
-兩	liang2
-輛	liang2
-魎	liang2
-憐	liang5
-涼	liang5
-梁	liang5
-粱	liang5
-良	liang5
-量	liang5
-量	liang6
-晾	liang6
-亮	liang6
-諒	liang6
-粒	liap8
-了	liau2
-瞭	liau2
-了	liau3
-撈	liau5
-撩	liau5
-聊	liau5
-僚	liau5
-療	liau5
-燎	liau5
-寥	liau5
-遼	liau5
-潦	liau5
-鐐	liau5
-獠	liau5
-醪	liau5
-瞭	liau5
-廖	liau7
-料	liau7
-撈	lie5
-略	lieh8
-臉	lien2
-聯	lien5
-蓮	lien5
-連	lien5
-憐	lien5
-漣	lien5
-鏈	lien5
-吝	lien6
-鏈	lien7
-煉	lien7
-練	lien7
-列	liet8
-烈	liet8
-鬣	liet8
-裂	lih8
-咧	lih8
-凜	lim2
-琳	lim5
-林	lim5
-霖	lim5
-臨	lim5
-淋	lim5
-輦	lin2
-聯	lin5
-磷	lin5
-鄰	lin5
-鱗	lin5
-轔	lin5
-麟	lin5
-立	lip8
-溜	liu
-柳	liu2
-溜	liu3
-餾	liu3
-琉	liu5
-榴	liu5
-硫	liu5
-留	liu5
-瘤	liu5
-流	liu5
-六	liu5
-囉	lo
-裹	lo2
-顆	lo2
-潦	lo2
-裸	lo2
-腦	lo2
-惱	lo2
-牢	lo5
-蘿	lo5
-螺	lo5
-羅	lo5
-邏	lo5
-鑼	lo5
-籮	lo5
-騾	lo5
-醪	lo5
-咯	lo7
-落	loh8
-駱	loh8
-禮	loi2
-犁	loi5
-黎	loi5
-籬	loi7
-笠	loih8
-貉	lok8
-酪	lok8
-烙	lok8
-磊	lok8
-麓	lok8
-碌	lok8
-祿	lok8
-錄	lok8
-陸	lok8
-戮	lok8
-洛	lok8
-駱	lok8
-絡	lok8
-骼	lok8
-籠	long2
-壟	long2
-攏	long2
-窿	long5
-隆	long5
-囊	long5
-膿	long5
-濃	long5
-農	long5
-弄	long6
-摟	lou2
-惱	lou2
-鹵	lou2
-滷	lou2
-盧	lou5
-廬	lou5
-爐	lou5
-鱸	lou5
-鸕	lou5
-陋	lou6
-露	lou7
-路	lou7
-擄	lu2
-虜	lu2
-魯	lu2
-屢	lu2
-縷	lu2
-婁	lu5
-蘆	lu5
-盧	lu5
-顱	lu5
-廬	lu5
-髏	lu5
-鸕	lu5
-賂	lu6
-潞	lu6
-鷺	lu6
-籮	lua5
-賴	lua7
-辣	luah
-烙	luah
-辣	luah8
-閱	luah8
-暖	luan2
-戀	luan3
-巒	luan5
-攣	luan5
-孿	luan5
-灤	luan5
-亂	luan6
-劣	luat
-閱	luat
-蕾	lui2
-磊	lui2
-儡	lui2
-壘	lui2
-蕊	lui2
-累	lui2
-纍	lui2
-雷	lui5
-鐳	lui5
-蕾	lui5
-擂	lui5
-羸	lui5
-淚	lui6
-累	lui6
-類	lui7
-忍	lun2
-嫩	lun3
-掄	lun5
-輪	lun5
-倫	lun5
-淪	lun5
-綸	lun5
-侖	lun5
-崙	lun5
-論	lun6
-汝	lur2
-勞	lur5
-驢	lur5
-閭	lur5
-呂	lur6
-鋁	lur6
-侶	lur6
-慮	lur6
-濾	lur6
-脫	lut
-律	lut8
-率	lut8
-鷸	lut8
-姥	m2
-拇	m2
-姆	m2
-母	m2
-毋	m6
-唔	m6
-媽	ma
-嗎	ma
-媽	ma2
-瑪	ma2
-碼	ma2
-螞	ma2
-馬	ma2
-嗎	ma2
-媽	ma5
-嘛	ma7
-勿	mai3
-埋	mai5
-霾	mai5
-邁	mai6
-衊	mak
-目	mak8
-挽	man2
-輓	man2
-蠻	man5
-閩	man5
-曼	man6
-緩	man7
-慢	man7
-莽	mang2
-蟒	mang2
-蠓	mang2
-芒	mang5
-茫	mang5
-盲	mang5
-氓	mang5
-忙	mang5
-幕	mang6
-網	mang6
-夢	mang7
-貓	mau
-耄	mau3
-茅	mau5
-毛	mau5
-矛	mau5
-犛	mau5
-髦	mau5
-冒	mau6
-貌	mau6
-夜	me5
-罵	me7
-脈	meh8
-陌	mek8
-貊	mek8
-錳	meng2
-猛	meng2
-皿	meng2
-盲	meng5
-萌	meng5
-盟	meng5
-明	meng5
-螟	meng5
-鳴	meng5
-銘	meng5
-名	meng5
-冥	meng5
-暝	meng5
-瞑	meng5
-酩	meng5
-孟	meng6
-命	meng6
-猛	menn2
-芒	menn5
-盲	menn5
-冥	menn5
-暝	menn5
-眯	mi
-乜	mi
-咪	mi
-美	mi2
-靡	mi2
-眉	mi5
-眯	mi5
-醚	mi5
-糜	mi5
-迷	mi5
-媚	mi6
-謎	mi6
-袂	mi6
-名	miann5
-命	miann7
-藐	miau2
-秒	miau2
-杳	miau2
-渺	miau2
-淼	miau2
-錨	miau5
-苗	miau5
-描	miau5
-瞄	miau5
-妙	miau6
-冕	mien2
-免	mien2
-勉	mien2
-娩	mien2
-緬	mien2
-敏	mien2
-憫	mien2
-閔	mien2
-綿	mien5
-乜	mih
-甭	min2
-免	min2
-氓	min5
-眠	min5
-民	min5
-抿	min5
-泯	min5
-面	min7
-棉	minn5
-綿	minn5
-麵	minn7
-覓	mit8
-蜜	mit8
-密	mit8
-冪	mit8
-滅	mit8
-默	mit8
-蔑	mit8
-衊	mit8
-晚	mng2
-門	mng5
-們	mng5
-問	mng7
-孬	mo2
-毛	mo5
-摸	mo5
-摹	mo5
-蘑	mo5
-模	mo5
-摩	mo5
-魔	mo5
-墓	mo6
-暮	mo6
-幕	mo6
-募	mo6
-慕	mo6
-麼	mo7
-望	mo7
-麼	moh
-膜	moh8
-漠	moh8
-沒	mok8
-莫	mok8
-漠	mok8
-寞	mok8
-木	mok8
-睦	mok8
-牧	mok8
-穆	mok8
-疫	mok8
-沐	mok8
-某	mong2
-晚	mong2
-貿	mong3
-芒	mong5
-檬	mong5
-摸	mong5
-謀	mong5
-蠓	mong5
-蒙	mong5
-濛	mong5
-矇	mong5
-朦	mong5
-茂	mong6
-舞	mong6
-瞀	mou3
-謀	mou5
-牟	mou5
-茂	mou6
-瞀	mou6
-袤	mou6
-麻	mua5
-痲	mua5
-滿	muann2
-瞞	muann5
-鰻	muann5
-末	muat8
-每	mue2
-昧	mue6
-寐	mue6
-妹	mue6
-魅	mue6
-物	mueh8
-糜	muenn5
-鎂	mui2
-美	mui2
-微	mui5
-沒	mut8
-南	na
-拿	na2
-哪	na2
-那	na2
-藍	na5
-籃	na5
-林	na5
-哪	na5
-哪	na7
-垃	nah
-拉	nah
-乃	nai2
-奶	nai2
-賴	nai6
-氖	nai6
-乃	nai6
-耐	nai6
-奈	nai6
-癩	nai6
-籟	nai6
-俺	nan2
-咱	nan2
-赧	nan2
-人	nang5
-儂	nang5
-吶	nap8
-鈉	nap8
-納	nap8
-諾	nap8
-澆	nau
-孬	nau
-腦	nau2
-惱	nau2
-瑙	nau2
-撓	nau5
-鬧	nau6
-扭	nau6
-鬧	nau7
-匿	nek8
-溺	nek8
-肉	nek8
-冷	nenn2
-秧	ng
-尹	ng2
-黃	ng5
-磺	ng5
-皚	ngai5
-呆	ngai5
-崖	ngai5
-涯	ngai5
-捱	ngai5
-艾	ngai6
-岸	ngai6
-鄂	ngak8
-噩	ngak8
-鱷	ngak8
-岳	ngak8
-嶽	ngak8
-啱	ngam
-癌	ngam5
-巖	ngam5
-眼	ngan2
-唁	ngan3
-凝	ngan5
-言	ngan5
-顏	ngan5
-元	ngan5
-雁	ngan6
-彥	ngan6
-諺	ngan6
-贗	ngan6
-昂	ngang
-囂	ngau
-敖	ngau5
-熬	ngau5
-翱	ngau5
-淆	ngau5
-爻	ngau5
-獒	ngau5
-餚	ngau5
-傲	ngau6
-逆	ngek8
-凝	ngeng5
-迎	ngeng5
-硬	ngenn6
-擬	ngi2
-議	ngi2
-誼	ngi3
-霓	ngi5
-倪	ngi5
-儀	ngi5
-宜	ngi5
-毅	ngi5
-羿	ngi5
-義	ngi6
-雅	ngia2
-鎳	ngiak8
-虐	ngiak8
-瘧	ngiak8
-嚴	ngiam5
-閻	ngiam5
-驗	ngiam7
-仰	ngiang2
-孽	ngiap8
-業	ngiap8
-貓	ngiau
-僥	ngiau5
-堯	ngiau5
-研	ngien2
-願	ngien3
-研	ngien5
-妍	ngien5
-喫	ngiet
-齧	ngiet
-黔	ngim5
-吟	ngim5
-我	ngo2
-蛾	ngo5
-峨	ngo5
-俄	ngo5
-娥	ngo5
-哦	ngo5
-梧	ngo5
-吾	ngo5
-虞	ngo5
-愚	ngo5
-隅	ngo5
-晤	ngo6
-悟	ngo6
-遇	ngo6
-寓	ngo6
-寤	ngo6
-齧	ngoih
-研	ngoinn2
-藕	ngou2
-偶	ngou2
-五	ngou2
-午	ngou2
-伍	ngou2
-牾	ngou2
-五	ngou6
-伍	ngou6
-阮	nguan2
-玩	nguan2
-頑	nguan2
-顏	nguan5
-元	nguan5
-原	nguan5
-源	nguan5
-願	nguan6
-巍	nguinn5
-危	nguinn5
-詭	nguinn6
-僞	nguinn6
-靳	ngurn5
-銀	ngurn5
-吃	ngurt
-疙	ngurt
-迄	ngurt
-訖	ngurt
-屹	ngurt
-奶	ni
-呢	ni
-女	ni2
-染	ni2
-弭	ni2
-獼	ni2
-彌	ni2
-瀰	ni2
-泥	ni3
-呢	ni5
-妮	ni5
-泥	ni5
-尼	ni5
-年	ni5
-奶	ni6
-膩	ni6
-娘	niang5
-嶺	niann2
-領	niann2
-捏	niap
-聶	niap
-鑷	niap
-涅	niap
-攝	niap
-懾	niap
-拈	niap8
-捻	niap8
-溺	niau2
-嫋	niau2
-皺	niau3
-兩	nie2
-糧	nienn5
-梁	nienn5
-粱	nienn5
-量	nienn5
-娘	nienn5
-讓	nienn7
-恁	nin2
-扭	niu2
-鈕	niu2
-紐	niu2
-妞	niu2
-謬	niu6
-女	nng2
-軟	nng2
-鑽	nng3
-郎	nng5
-瓤	nng5
-卵	nng6
-浪	nng7
-努	no3
-怒	no3
-懦	no3
-糯	no3
-駑	no3
-娜	no5
-挪	no5
-二	no6
-貳	no6
-兩	no6
-怒	no7
-蓮	noinn5
-奴	nou
-孥	nou
-奴	nou5
-孥	nou5
-爛	nuann7
-餒	nui2
-阿	o
-呵	o
-蝸	o
-渦	o
-窩	o
-噢	o
-媧	o
-屙	o
-鏖	o
-襖	o2
-奧	o3
-懊	o3
-澳	o3
-荷	o5
-菏	o5
-荷	o6
-哦	o6
-臥	o6
-啊	o7
-哦	o7
-惡	oh
-學	oh8
-挨	oi
-矮	oi2
-鞋	oi5
-會	oi6
-狹	oih8
-閒	oinn5
-閑	oinn5
-握	ok
-沃	ok
-屋	ok
-齷	ok
-嗡	ong
-翁	ong
-盎	ong3
-齆	ong3
-擁	ong6
-鷗	ou
-鎢	ou
-烏	ou
-湖	ou5
-胡	ou5
-芋	ou7
-芭	pa
-叭	pa
-吧	pa
-笆	pa
-疤	pa
-巴	pa
-爸	pa
-葩	pa
-靶	pa2
-把	pa2
-飽	pa2
-壩	pa3
-霸	pa3
-豹	pa3
-罷	pa6
-擺	pai2
-襬	pai2
-拜	pai3
-排	pai5
-牌	pai5
-徘	pai5
-敗	pai7
-八	pak
-剝	pak
-北	pak
-膊	pak
-輻	pak
-幅	pak
-腹	pak
-亳	pak
-別	pak
-縛	pak8
-斑	pan
-班	pan
-頒	pan
-扳	pan2
-版	pan2
-板	pan2
-闆	pan2
-扮	pan3
-辦	pan7
-邦	pang
-幫	pang
-梆	pang
-崩	pang
-繃	pang
-蹦	pang
-方	pang
-肪	pang
-楓	pang
-彭	pang
-榜	pang2
-膀	pang2
-綁	pang2
-耪	pang2
-放	pang3
-房	pang5
-馮	pang5
-棒	pang6
-謗	pang6
-識	pat
-苞	pau
-胞	pau
-包	pau
-孢	pau
-保	pau2
-堡	pau2
-褓	pau2
-鴇	pau2
-暴	pau6
-鮑	pau6
-爆	pau6
-瀑	pau6
-把	pe2
-扒	pe5
-耙	pe5
-爬	pe5
-琶	pe5
-杷	pe5
-父	pe6
-柏	peh
-百	peh
-佰	peh
-伯	peh
-掰	peh
-白	peh8
-帛	peh8
-柏	pek
-薄	pek
-逼	pek
-迫	pek
-秉	peng2
-炳	peng2
-迸	peng5
-幷	peng6
-并	peng6
-併	peng6
-並	peng6
-柄	penn3
-棚	penn5
-平	penn5
-病	penn7
-趴	pha
-拋	pha
-泡	pha6
-打	phah
-啪	phah
-拍	phah
-呸	phai2
-痞	phai2
-湃	phai3
-派	phai3
-沛	phai3
-霈	phai3
-排	phai5
-博	phak
-搏	phak
-伏	phak
-趴	phak
-雹	phak8
-暴	phak8
-曝	phak8
-瀑	phak8
-攀	phan
-盼	phan3
-芳	phang
-蜂	phang
-香	phang
-紡	phang2
-膀	phang5
-磅	phang5
-傍	phang5
-帆	phang5
-航	phang5
-龐	phang5
-旁	phang5
-彭	phang5
-篷	phang5
-彷	phang5
-縫	phang7
-怕	phann3
-冇	phann3
-褒	phau
-拋	phau
-刨	phau
-泡	phau
-跑	phau2
-炮	phau3
-泡	phau3
-咆	phau5
-刨	phau5
-炮	phau5
-袍	phau5
-庖	phau5
-狍	phau5
-抱	phau6
-帕	phe3
-碧	phek
-霹	phek
-劈	phek
-魄	phek
-辟	phek
-闢	phek
-烹	pheng
-拼	pheng
-騁	pheng3
-聘	pheng3
-砰	pheng5
-抨	pheng5
-硼	pheng5
-朋	pheng5
-坪	pheng5
-萍	pheng5
-平	pheng5
-憑	pheng5
-評	pheng5
-怦	pheng5
-澎	phenn5
-彭	phenn5
-膨	phenn5
-平	phenn5
-披	phi
-否	phi2
-痞	phi2
-丕	phi2
-鄙	phi3
-譬	phi3
-脾	phi5
-疲	phi5
-貔	phi5
-陂	phi5
-屁	phi6
-僻	phiah
-癖	phiah
-僻	phiah8
-聘	phiann3
-坪	phiann5
-標	phiau
-膘	phiau
-飄	phiau
-漂	phiau
-瓢	phiau
-飆	phiau
-驃	phiau
-票	phie3
-萍	phie5
-編	phien
-扁	phien
-篇	phien
-偏	phien
-翩	phien
-片	phien3
-騙	phien3
-貶	phin2
-瀕	phin5
-頻	phin5
-貧	phin5
-蘋	phin5
-瓶	phin5
-屏	phin5
-便	phinn
-片	phinn3
-鼻	phinn7
-匹	phit
-疋	phit
-覆	phiu3
-漂	phiu3
-陂	pho
-頗	pho2
-繁	pho5
-抱	pho6
-粕	phoh
-批	phoi
-稗	phoinn7
-辦	phoinn7
-爆	phok
-撲	phok
-仆	phok
-朴	phok
-樸	phok
-捧	phong2
-搿	phong2
-碰	phong3
-縫	phong5
-蓬	phong5
-篷	phong5
-鵬	phong5
-鋪	phou
-甫	phou2
-脯	phou2
-剖	phou2
-圃	phou2
-普	phou2
-浦	phou2
-譜	phou2
-涪	phou3
-舖	phou3
-抔	phou5
-簿	phou6
-浮	phu5
-莆	phu5
-葡	phu5
-菩	phu5
-蒲	phu5
-蜉	phu5
-破	phua3
-婆	phua5
-撥	phuah
-撇	phuah
-瞥	phuah
-潑	phuah
-藩	phuan
-拌	phuan3
-絆	phuan3
-畔	phuan3
-判	phuan3
-胖	phuan3
-般	phuan5
-盤	phuan5
-磐	phuan5
-番	phuann
-畨	phuann
-潘	phuann
-頗	phuann2
-判	phuann3
-伴	phuann6
-壞	phue
-胚	phue
-坯	phue
-配	phue3
-裴	phue5
-皮	phue5
-被	phue6
-𠱀	phueh8
-啡	phui2
-呸	phui2
-啡	phui3
-屁	phui3
-潘	phun
-噴	phun3
-墳	phun5
-盆	phun5
-碑	pi
-蓖	pi
-砒	pi
-陂	pi
-稗	pi2
-比	pi2
-彼	pi2
-毗	pi2
-俾	pi2
-畀	pi2
-毖	pi3
-庇	pi3
-痹	pi3
-臂	pi3
-費	pi3
-祕	pi3
-泌	pi3
-匕	pi3
-背	pi3
-揹	pi3
-琵	pi5
-啤	pi5
-脾	pi5
-枇	pi5
-備	pi6
-憊	pi6
-被	pi6
-斃	pi6
-幣	pi6
-閉	pi6
-敝	pi6
-陛	pi6
-蔽	pi7
-弊	pi7
-避	pi7
-壁	piah
-兵	piann
-冰	piann
-丙	piann2
-餅	piann2
-拚	piann3
-殍	piau2
-表	piau2
-標	pie
-錶	pie
-表	pie2
-漂	pie3
-鞭	pien
-邊	pien
-貶	pien2
-扁	pien2
-匾	pien2
-變	pien3
-遍	pien3
-瓣	pien6
-便	pien6
-卞	pien6
-辨	pien6
-辯	pien6
-蹩	piet8
-別	piet8
-鱉	pih
-憋	pih
-彬	pin
-斌	pin
-濱	pin
-賓	pin
-乒	pin
-品	pin2
-屏	pin2
-匾	pin2
-遍	pin3
-擯	pin3
-髕	pin3
-鬢	pin3
-平	pin5
-鞭	pinn
-邊	pinn
-辮	pinn
-扁	pinn2
-變	pinn3
-辮	pinn6
-筆	pit
-必	pit
-畢	pit8
-癟	pit8
-彪	piu
-方	png
-飯	png7
-玻	po
-菠	po
-波	po
-坡	po
-保	po2
-寶	po2
-報	po3
-薄	po5
-婆	po5
-駁	poh
-薄	poh8
-鉑	poh8
-箔	poh8
-舶	poh8
-泊	poh8
-魄	poh8
-捌	poih
-八	poih
-拔	poih8
-斑	poinn
-版	poinn2
-反	poinn2
-板	poinn2
-畔	poinn5
-爿	poinn5
-卜	pok
-蔔	pok8
-僕	pok8
-泵	pong5
-乓	pong5
-磅	pong7
-鎊	pong7
-埠	pou
-夫	pou
-埔	pou
-補	pou2
-斧	pou2
-脯	pou2
-傅	pou3
-布	pou3
-佈	pou3
-部	pou6
-哺	pou7
-步	pou7
-晡	pu
-怖	pu3
-富	pu3
-背	pu3
-佈	pu3
-煲	pu5
-瓠	pu5
-捕	pu6
-哺	pu6
-婦	pu6
-伏	pu7
-播	pua3
-簸	pua3
-鉢	puah
-跋	puah8
-叛	puan6
-搬	puann
-般	puann
-半	puann3
-盤	puann5
-拔	puat8
-跋	puat8
-勃	puat8
-脖	puat8
-渤	puat8
-荸	puat8
-魃	puat8
-杯	pue
-飛	pue
-輩	pue3
-貝	pue3
-背	pue3
-培	pue5
-賠	pue5
-陪	pue5
-貝	pue6
-鋇	pue6
-倍	pue6
-狽	pue6
-佩	pue6
-焙	pue7
-悲	pui
-卑	pui
-壞	pui
-肥	pui5
-吠	pui7
-奔	pun
-分	pun
-苯	pun2
-本	pun2
-糞	pun3
-夯	pun3
-畚	pun3
-笨	pun6
-不	put
-抄	sa
-莎	sa
-砂	sa
-沙	sa
-哨	sa3
-傻	sa6
-啥	sa6
-腮	sai
-鰓	sai
-篩	sai
-師	sai
-獅	sai
-思	sai
-私	sai
-西	sai
-犀	sai
-使	sai2
-屎	sai2
-駛	sai2
-灑	sai3
-塞	sai3
-賽	sai3
-曬	sai3
-使	sai3
-婿	sai3
-豺	sai5
-柿	sai6
-撒	sak
-薩	sak
-塞	sak
-剎	sak
-蝨	sak
-三	sam
-杉	sam
-三	san
-珊	san
-山	san
-刪	san
-柵	san
-瘦	san2
-疝	san3
-霰	san3
-雙	sang
-鬆	sang
-嗓	sang2
-㾪	sang2
-喪	sang3
-送	sang3
-三	sann
-叄	sann
-衫	sann
-剎	sap8
-搔	sau
-騷	sau
-梢	sau
-捎	sau
-鞘	sau
-嫂	sau2
-掃	sau3
-梢	sau3
-哨	sau3
-嗽	sau3
-嘯	sau3
-紗	se
-些	se
-裟	se
-瑟	sek
-色	sek
-識	sek
-式	sek
-適	sek
-釋	sek
-飾	sek
-碩	sek
-昔	sek
-析	sek
-矽	sek
-晰	sek
-息	sek
-悉	sek
-夕	sek
-熄	sek
-汐	sek
-媳	sek
-植	sek
-殖	sek
-擲	sek
-晳	sek
-皙	sek
-穡	sek
-窸	sek
-蟋	sek
-熟	sek8
-聲	seng
-生	seng
-甥	seng
-牲	seng
-勝	seng
-腥	seng
-猩	seng
-惺	seng
-旌	seng
-升	seng
-陞	seng
-昇	seng
-省	seng2
-勝	seng3
-聖	seng3
-成	seng5
-乘	seng5
-誠	seng5
-承	seng5
-丞	seng5
-榕	seng5
-松	seng5
-乘	seng6
-盛	seng6
-生	senn
-牲	senn
-省	senn2
-性	senn3
-姓	senn3
-拭	set
-棲	si
-施	si
-詩	si
-思	si
-私	si
-司	si
-絲	si
-西	si
-硒	si
-鷥	si
-尸	si
-屍	si
-弛	si2
-矢	si2
-始	si2
-死	si2
-豕	si2
-世	si3
-勢	si3
-肆	si3
-四	si3
-匙	si5
-辭	si5
-時	si5
-是	si6
-侍	si6
-氏	si6
-恃	si6
-視	si6
-峙	si6
-示	si7
-誓	si7
-逝	si7
-嗜	si7
-噬	si7
-視	si7
-斜	sia
-寫	sia2
-赦	sia3
-卸	sia3
-瀉	sia3
-舍	sia3
-捨	sia3
-邪	sia5
-斜	sia5
-畬	sia5
-畲	sia5
-社	sia6
-射	sia7
-謝	sia7
-錫	siah
-削	siah
-席	siah8
-屑	siak
-參	siam
-森	siam
-苫	siam
-苫	siam2
-閃	siam2
-陝	siam2
-滲	siam3
-蟬	siam5
-禪	siam5
-禪	siam6
-墒	siang
-商	siang
-湯	siang
-相	siang
-鑲	siang
-襄	siang
-湘	siang
-殤	siang
-觴	siang
-想	siang2
-鯗	siang2
-相	siang3
-信	siang3
-常	siang5
-上	siang5
-裳	siang5
-翔	siang5
-祥	siang5
-詳	siang5
-嫦	siang5
-嘗	siang5
-上	siang6
-尚	siang6
-像	siang6
-象	siang6
-聲	siann
-聖	siann3
-城	siann5
-成	siann5
-盛	siann7
-澀	siap
-倏	siap
-霎	siap
-涉	siap8
-拾	siap8
-泄	siap8
-捎	siau
-稍	siau
-搜	siau
-宿	siau
-硝	siau
-霄	siau
-銷	siau
-消	siau
-宵	siau
-肖	siau
-蕭	siau
-鞘	siau
-小	siau2
-少	siau3
-數	siau3
-韶	siau6
-邵	siau6
-紹	siau6
-肖	siau6
-肇	siau6
-燒	sie
-相	sie
-霄	sie
-小	sie2
-邵	sie7
-惜	sieh
-勺	sieh8
-石	sieh8
-液	sieh8
-仙	sien
-秈	sien
-銑	sien2
-洗	sien2
-鮮	sien2
-癬	sien2
-蘚	sien2
-跣	sien2
-煽	sien3
-搧	sien3
-闡	sien5
-單	sien5
-單	sien6
-擅	sien6
-膳	sien6
-善	sien6
-繕	sien6
-腎	sien6
-鱔	sien6
-撣	sien6
-傷	sienn
-廂	sienn
-鑲	sienn
-箱	sienn
-賞	sienn2
-相	sienn3
-像	sienn3
-肖	sienn3
-常	sienn5
-償	sienn5
-嘗	sienn5
-嚐	sienn5
-想	sienn6
-尚	sienn7
-契	siet
-設	siet
-楔	siet
-褻	siet
-薛	sih
-食	sih8
-蝕	sih8
-芯	sim
-新	sim
-心	sim
-沁	sim2
-審	sim2
-嬸	sim2
-慎	sim2
-沈	sim2
-瀋	sim2
-忱	sim5
-甚	sim6
-什	sim6
-砷	sin
-申	sin
-呻	sin
-伸	sin
-身	sin
-紳	sin
-先	sin
-薪	sin
-鋅	sin
-辛	sin
-新	sin
-莘	sin
-芯	sin3
-信	sin3
-汛	sin3
-訊	sin3
-迅	sin3
-辰	sin5
-晨	sin5
-承	sin5
-娠	sin5
-神	sin5
-繩	sin5
-蠅	sin5
-蜃	sin5
-剩	sin7
-扇	sinn3
-溼	sip
-拾	sip8
-什	sip8
-襲	sip8
-習	sip8
-失	sit
-室	sit
-食	sit8
-實	sit8
-翼	sit8
-植	sit8
-殖	sit8
-收	siu
-梳	siu
-修	siu
-羞	siu
-首	siu2
-守	siu2
-黍	siu2
-帚	siu2
-獸	siu3
-宿	siu3
-鏽	siu3
-秀	siu3
-袖	siu3
-繡	siu3
-狩	siu3
-泅	siu5
-授	siu6
-受	siu6
-壽	siu7
-桑	sng
-喪	sng
-霜	sng
-酸	sng
-耍	sng2
-蒜	sng3
-算	sng3
-搓	so
-莎	so
-蔬	so
-疏	so
-梭	so
-唆	so
-挲	so
-嫂	so2
-瑣	so2
-鎖	so2
-所	so2
-疏	so3
-索	soh
-雪	soh
-灑	soi2
-洗	soi2
-細	soi3
-嘶	soinn
-先	soinn
-寂	sok
-叔	sok
-淑	sok
-束	sok
-數	sok
-漱	sok
-速	sok
-塑	sok
-肅	sok
-縮	sok
-索	sok
-夙	sok
-贖	sok8
-孰	sok8
-屬	sok8
-俗	sok8
-續	sok8
-鬆	song
-聳	song2
-慫	song2
-宋	song3
-嵩	song5
-松	song5
-頌	song6
-訟	song6
-誦	song6
-酥	sou
-蘇	sou
-甦	sou
-艘	sou2
-擻	sou2
-瘦	sou23
-抒	su
-輸	su
-舒	su
-需	su
-須	su
-暑	su2
-曙	su2
-署	su2
-黍	su2
-墅	su2
-緒	su2
-庶	su3
-數	su3
-恕	su3
-素	su3
-塑	su3
-訴	su3
-絮	su3
-殊	su5
-樹	su6
-豎	su6
-敘	su6
-序	su6
-砂	sua
-沙	sua
-鯊	sua
-徙	sua2
-撒	suah
-殺	suah
-煞	suah
-宿	suah
-甩	suai
-數	suak
-朔	suak
-塑	suak
-溯	suak
-喧	suan
-宣	suan
-萱	suan
-選	suan2
-氽	suan3
-汆	suan3
-旋	suan5
-旋	suan6
-喧	suang
-宣	suang
-閂	suang
-爽	suang2
-山	suann
-汕	suann
-產	suann2
-散	suann2
-傘	suann3
-散	suann3
-汕	suann3
-腺	suann3
-線	suann3
-霰	suann3
-腺	suann5
-衰	sue
-戍	sue3
-帥	sue3
-稅	sue3
-說	sue3
-歲	sue3
-蛻	sue3
-刷	sueh
-說	sueh
-雖	sui
-綏	sui
-蓑	sui
-垂	sui5
-誰	sui5
-隋	sui5
-隨	sui5
-綏	sui5
-遂	sui5
-燧	sui5
-蕤	sui5
-瑞	sui6
-睡	sui6
-穗	sui7
-隧	sui7
-孫	sun
-絢	sun
-損	sun2
-筍	sun2
-瞬	sun3
-舜	sun3
-遜	sun3
-醇	sun5
-純	sun5
-循	sun5
-旬	sun5
-詢	sun5
-馴	sun5
-巡	sun5
-殉	sun5
-鶉	sun5
-順	sun6
-師	sur
-斯	sur
-撕	sur
-嘶	sur
-思	sur
-私	sur
-司	sur
-史	sur2
-賜	sur3
-思	sur3
-肆	sur3
-四	sur3
-泗	sur3
-駟	sur3
-辭	sur5
-詞	sur5
-祠	sur5
-食	sur6
-士	sur6
-事	sur6
-仕	sur6
-嗣	sur6
-伺	sur6
-似	sur6
-嶼	sur6
-峙	sur6
-祀	sur6
-事	sur7
-率	sut
-摔	sut
-屑	sut
-戌	sut
-恤	sut
-蟀	sut
-術	sut8
-述	sut8
-大	ta
-丈	ta
-打	ta2
-禾	ta5
-搭	tah
-踏	tah8
-呆	tai
-歹	tai2
-戴	tai3
-代	tai3
-貸	tai3
-黛	tai3
-大	tai6
-殆	tai6
-逮	tai6
-怠	tai6
-事	tai7
-韃	tak
-達	tak8
-毒	tak8
-獨	tak8
-度	tak8
-值	tak8
-耽	tam
-湛	tam
-聃	tam
-淡	tam6
-擔	tan
-丹	tan
-鄲	tan
-坍	tan
-殫	tan
-疸	tan2
-旦	tan3
-誕	tan3
-蛋	tan3
-陳	tan5
-但	tan6
-憚	tan6
-撣	tan6
-東	tang
-冬	tang
-中	tang
-噹	tang
-黨	tang2
-等	tang2
-董	tang2
-擋	tang3
-檔	tang3
-凍	tang3
-當	tang3
-銅	tang5
-童	tang5
-筒	tang5
-仝	tang5
-同	tang5
-動	tang6
-筒	tang6
-重	tang6
-宕	tang6
-蕩	tang6
-盪	tang6
-洞	tang7
-擔	tann
-今	tann
-膽	tann2
-擔	tann3
-石	tann3
-呾	tann3
-氮	tann6
-淡	tann6
-擲	tann6
-賺	tann7
-答	tap
-瘩	tap
-兜	tau
-逗	tau
-搗	tau2
-倒	tau2
-島	tau2
-禱	tau2
-抖	tau2
-陡	tau2
-找	tau2
-斗	tau2
-倒	tau3
-晝	tau3
-鬥	tau3
-投	tau5
-蹈	tau6
-導	tau6
-稻	tau6
-道	tau6
-盜	tau6
-豆	tau7
-痘	tau7
-讀	tau7
-茶	te5
-壓	teh
-德	tek
-嫡	tek
-竹	tek
-竺	tek
-的	tek8
-迪	tek8
-敵	tek8
-笛	tek8
-狄	tek8
-滌	tek8
-翟	tek8
-鹿	tek8
-特	tek8
-蟄	tek8
-值	tek8
-軸	tek8
-蹬	teng
-燈	teng
-登	teng
-丁	teng
-叮	teng
-釘	teng
-酊	teng
-徵	teng
-癥	teng
-等	teng2
-頂	teng2
-戥	teng2
-凳	teng3
-盯	teng3
-釘	teng3
-訂	teng3
-中	teng3
-塵	teng5
-亭	teng5
-重	teng5
-婷	teng5
-鄧	teng6
-澱	teng6
-錠	teng6
-定	teng6
-綻	teng6
-鄭	teng6
-詐	tenn3
-鄭	tenn7
-她	tha
-他	tha
-祂	tha
-它	tha
-牠	tha
-塔	thah
-疊	thah8
-篩	thai
-苔	thai
-傣	thai3
-泰	thai3
-酞	thai3
-太	thai3
-態	thai3
-汰	thai3
-鈦	thai3
-抬	thai5
-臺	thai5
-治	thai5
-台	thai5
-颱	thai5
-檯	thai5
-刣	thai5
-待	thai6
-塞	thak
-撻	thak
-踢	thak
-拓	thak
-讀	thak8
-貪	tham
-探	tham3
-嘆	tham3
-痰	tham5
-潭	tham5
-譚	tham5
-談	tham5
-撣	tham5
-撢	tham5
-壇	tham5
-罈	tham5
-坍	than
-癱	than
-坦	than2
-毯	than2
-袒	than2
-忐	than2
-趁	than3
-賺	than3
-彈	than5
-檀	than5
-通	thang
-蹚	thang
-倘	thang2
-躺	thang2
-淌	thang2
-趟	thang2
-桶	thang2
-帑	thang2
-亙	thang3
-蟲	thang5
-塘	thang5
-搪	thang5
-堂	thang5
-棠	thang5
-膛	thang5
-唐	thang5
-桐	thang5
-動	thang6
-塌	thap
-蹋	thap
-塌	thap8
-滔	thau
-絛	thau
-偷	thau
-套	thau3
-透	thau3
-掏	thau5
-淘	thau5
-陶	thau5
-頭	thau5
-宅	theh8
-搐	thek
-剔	thek
-踢	thek
-惕	thek
-禿	thek
-彳	thek
-忑	thek
-忒	thek
-窗	theng
-烴	theng
-汀	theng
-懲	theng2
-逞	theng2
-艇	theng2
-穎	theng2
-挺	theng2
-潁	theng2
-聽	theng3
-程	theng5
-澄	theng5
-瞪	theng5
-騰	theng5
-謄	theng5
-廷	theng5
-停	theng5
-庭	theng5
-婷	theng5
-蜓	theng5
-等	theng6
-撐	thenn
-體	thi2
-翅	thi3
-締	thi3
-替	thi3
-嚏	thi3
-涕	thi3
-剃	thi3
-屜	thi3
-滯	thi3
-睇	thi3
-持	thi5
-提	thi5
-啼	thi5
-痔	thi6
-拆	thiah
-添	thiam
-舔	thiam2
-忝	thiam2
-恬	thiam5
-暢	thiang3
-廳	thiann
-聽	thiann
-痛	thiann3
-呈	thiann5
-程	thiann5
-貼	thiap
-帖	thiap
-挑	thiau
-迢	thiau
-眺	thiau2
-窕	thiau2
-超	thiau3
-跳	thiau3
-調	thiau5
-柱	thiau6
-挑	thie
-糶	thie3
-天	thien
-腆	thien2
-填	thien5
-瞋	thien5
-撤	thiet
-徹	thiet
-澈	thiet
-轍	thiet
-鐵	thih
-忒	thih
-陳	thin5
-天	thinn
-添	thinn
-蓄	thiok
-畜	thiok
-抽	thiu
-丑	thiu2
-疇	thiu5
-躊	thiu5
-籌	thiu5
-濤	thiu5
-儔	thiu5
-湯	thng
-燙	thng3
-褪	thng3
-糖	thng5
-捅	thng7
-胎	tho
-推	tho
-討	tho2
-橢	tho2
-妥	tho2
-蛻	tho3
-褪	tho3
-退	tho3
-萄	tho5
-桃	tho5
-鴕	tho5
-陀	tho5
-馱	tho5
-唾	tho6
-魄	thoh
-托	thoh
-託	thoh
-駝	thoh8
-體	thoi2
-代	thoi3
-替	thoi3
-代	thoih
-睇	thoinn2
-禿	thok
-亍	thok
-通	thong
-寵	thong2
-捅	thong2
-統	thong2
-痛	thong3
-幢	thong5
-侗	thong5
-恫	thong5
-洞	thong5
-桐	thong5
-酮	thong5
-瞳	thong5
-彤	thong5
-童	thong5
-仝	thong5
-衕	thong5
-洞	thong7
-土	thou2
-吐	thou3
-兔	thou3
-塗	thou5
-躇	thu5
-滁	thu5
-儲	thu5
-圖	thu5
-徒	thu5
-途	thu5
-荼	thu5
-塗	thu5
-拖	thua
-獺	thuah
-傳	thuan5
-團	thuan5
-糰	thuan5
-攤	thuann
-癱	thuann
-灘	thuann
-鏟	thuann2
-碳	thuann3
-炭	thuann3
-頹	thue
-梯	thui
-推	thui
-腿	thui2
-錘	thui5
-吞	thun
-飩	thun
-氽	thun2
-塵	thun5
-囤	thun5
-屯	thun5
-臀	thun5
-豚	thun5
-脫	thut
-黜	thut
-的	ti
-低	ti
-蜘	ti
-知	ti
-祗	ti
-抵	ti2
-戴	ti3
-帝	ti3
-知	ti3
-置	ti3
-智	ti3
-致	ti3
-緻	ti3
-持	ti5
-池	ti5
-底	ti5
-遞	ti5
-治	ti5
-逮	ti6
-弟	ti6
-隸	ti6
-銻	ti6
-彘	ti6
-地	ti7
-治	ti7
-爹	tia
-爺	tia
-嫡	tiah
-摘	tiah
-糴	tiah8
-耋	tiak
-掂	tiam
-硯	tiam
-砧	tiam
-玷	tiam
-沾	tiam
-霑	tiam
-點	tiam2
-店	tiam3
-惦	tiam3
-甜	tiam5
-恬	tiam5
-恬	tiam7
-鼎	tiann2
-呈	tiann5
-庭	tiann5
-錠	tiann6
-定	tiann7
-蝶	tiap8
-諜	tiap8
-碉	tiau
-叼	tiau
-凋	tiau
-刁	tiau
-貂	tiau
-雕	tiau
-鵰	tiau
-吊	tiau3
-弔	tiau3
-條	tiau5
-兆	tiau6
-召	tiau6
-掉	tiau7
-調	tiau7
-潮	tie5
-着	tieh8
-顛	tien
-滇	tien
-珍	tien
-巔	tien
-碘	tien2
-典	tien2
-碾	tien2
-腆	tien2
-輾	tien2
-展	tien2
-墊	tien6
-電	tien6
-甸	tien6
-奠	tien6
-澱	tien6
-殿	tien6
-張	tienn
-長	tienn2
-釣	tienn3
-帳	tienn3
-賬	tienn3
-脹	tienn3
-場	tienn5
-丈	tienn6
-趙	tienn6
-跌	tiet
-迭	tiet
-哲	tiet
-秩	tiet
-窒	tiet
-桎	tiet
-瓞	tiet
-膣	tiet
-蛭	tiet
-蜇	tiet
-輒	tiet
-侄	tiet8
-滴	tih
-蒂	tih
-碟	tih8
-郴	tim
-鴆	tim
-沉	tim5
-沈	tim5
-朕	tim6
-顛	tin
-振	tin2
-鎮	tin3
-塵	tin5
-陳	tin5
-藤	tin5
-陣	tin7
-纏	tinn5
-漲	tinn6
-得	tit
-直	tit8
-丟	tiu
-肘	tiu2
-貯	tiu2
-佇	tiu2
-胄	tiu2
-綢	tiu5
-稻	tiu6
-宙	tiu6
-晝	tiu6
-紂	tiu6
-住	tiu7
-當	tng
-轉	tng2
-擋	tng3
-頓	tng3
-當	tng3
-長	tng5
-腸	tng5
-塘	tng5
-堂	tng5
-唐	tng5
-斷	tng6
-丈	tng6
-傳	tng7
-段	tng7
-緞	tng7
-刀	to
-哆	to
-多	to
-倒	to2
-短	to2
-朵	to2
-戴	to3
-倒	to3
-地	to3
-垛	to5
-躲	to5
-朵	to5
-剁	to5
-逃	to5
-淘	to5
-跺	to6
-在	to6
-代	to7
-袋	to7
-卓	toh
-桌	toh
-琢	toh
-啄	toh
-棹	toh
-掇	toh8
-奪	toh8
-擇	toh8
-着	toh8
-堤	toi
-抵	toi2
-底	toi2
-題	toi5
-蹄	toi5
-第	toinn6
-佃	toinn6
-靛	toinn7
-殿	toinn7
-督	tok
-築	tok
-斫	tok
-斲	tok
-毒	tok8
-犢	tok8
-獨	tok8
-逐	tok8
-篤	tok8
-丼	tom6
-東	tong
-冬	tong
-中	tong
-忠	tong
-董	tong2
-懂	tong2
-棟	tong3
-凍	tong3
-疼	tong3
-中	tong3
-動	tong6
-重	tong6
-仲	tong6
-都	tou
-肚	tou2
-廚	tou5
-圖	tou5
-屠	tou5
-杜	tou6
-肚	tou6
-土	tou6
-鍍	tou7
-度	tou7
-渡	tou7
-查	tsa
-碴	tsa
-咱	tsa
-喳	tsa
-渣	tsa
-猹	tsa
-扎	tsa
-昔	tsa2
-早	tsa2
-怎	tsa2
-昨	tsa2
-榨	tsa3
-咋	tsa3
-乍	tsa3
-炸	tsa3
-詐	tsa3
-窄	tsa3
-柞	tsa3
-閘	tsah8
-柵	tsah8
-炸	tsah8
-栽	tsai
-災	tsai
-知	tsai
-宰	tsai2
-載	tsai2
-仔	tsai2
-滓	tsai2
-載	tsai3
-再	tsai3
-才	tsai5
-臍	tsai5
-在	tsai6
-哉	tsai7
-軋	tsak
-鍘	tsak
-作	tsak
-扎	tsak
-紮	tsak
-針	tsam
-斬	tsam2
-嶄	tsam2
-蘸	tsam3
-湛	tsam3
-站	tsam6
-鏨	tsam6
-攢	tsan3
-棧	tsan3
-鑽	tsan3
-贊	tsan3
-讚	tsan3
-層	tsan5
-贓	tsang
-曾	tsang
-莊	tsang
-鬃	tsang
-棕	tsang
-臧	tsang
-髒	tsang
-總	tsang2
-壯	tsang3
-糉	tsang3
-叢	tsang5
-藏	tsang6
-臟	tsang6
-贈	tsang7
-匝	tsap
-砸	tsap
-札	tsap
-眨	tsap
-汁	tsap
-集	tsap8
-十	tsap8
-拾	tsap8
-什	tsap8
-雜	tsap8
-節	tsat
-實	tsat8
-遭	tsau
-糟	tsau
-蚤	tsau2
-走	tsau2
-竈	tsau3
-奏	tsau3
-悼	tsau6
-淖	tsau6
-造	tsau6
-皁	tsau6
-罩	tsau6
-皂	tsau6
-岔	tsha
-差	tsha
-搓	tsha
-喳	tsha
-炒	tsha2
-詫	tsha3
-搽	tsha5
-柴	tsha5
-插	tshah
-歃	tshah
-猜	tshai
-睬	tshai2
-踩	tshai2
-采	tshai2
-採	tshai2
-彩	tshai2
-綵	tshai2
-菜	tshai3
-裁	tshai5
-材	tshai5
-才	tshai5
-財	tshai5
-豺	tshai5
-擦	tshak
-察	tshak
-錯	tshak
-漆	tshak
-膝	tshak
-鑿	tshak8
-賊	tshak8
-參	tsham
-摻	tsham
-慘	tsham2
-滲	tsham3
-慚	tsham5
-攙	tsham5
-饞	tsham5
-讒	tsham5
-餐	tshan
-孱	tshan
-鏟	tshan2
-燦	tshan3
-殘	tshan5
-田	tshan5
-羼	tshan6
-蒼	tshang
-倉	tshang
-滄	tshang
-蔥	tshang
-蹌	tshang
-創	tshang3
-藏	tshang5
-操	tshau
-抄	tshau
-鈔	tshau
-吵	tshau
-剿	tshau
-草	tshau2
-操	tshau3
-臭	tshau3
-藻	tshau3
-澡	tshau3
-躁	tshau3
-噪	tshau3
-燥	tshau3
-臊	tshau3
-曹	tshau5
-巢	tshau5
-艙	tshng
-倉	tshng
-穿	tshng
-瘡	tshng
-村	tshng
-刺	tshng3
-牀	tshng5
-初	tsho
-搓	tsho
-臊	tsho
-草	tsho2
-楚	tsho2
-礎	tsho2
-糙	tsho3
-錯	tsho3
-鋤	tsho5
-磋	tsho5
-挫	tsho5
-撮	tshoh
-錯	tshoh
-亍	tshoh8
-仟	tshoinn
-千	tshoinn
-筅	tshoinn2
-蠶	tshoinn5
-矗	tshok
-觸	tshok
-戳	tshok
-簇	tshok
-促	tshok
-捉	tshok
-亍	tshok
-蹴	tshok
-齬	tshok
-充	tshong
-聰	tshong
-蔥	tshong
-囪	tshong
-匆	tshong
-衷	tshong
-種	tshong
-忡	tshong
-沖	tshong
-衝	tshong
-衝	tshong3
-崇	tshong5
-從	tshong5
-重	tshong5
-粗	tshou
-湊	tshou3
-醋	tshou3
-揍	tshou3
-愁	tshou5
-雛	tshu
-趨	tshu
-處	tshu2
-取	tshu2
-娶	tshu2
-處	tshu3
-措	tshu3
-趣	tshu3
-厝	tshu3
-滁	tshu5
-歪	tshua2
-蔡	tshua3
-娶	tshua7
-川	tshuan
-穿	tshuan
-皴	tshuan
-喘	tshuan2
-串	tshuan3
-闖	tshuan3
-躥	tshuan3
-篡	tshuan3
-竄	tshuan3
-纂	tshuan3
-釧	tshuan3
-醛	tshuan5
-全	tshuan5
-痊	tshuan5
-栓	tshuan5
-拴	tshuan5
-舛	tshuang2
-閂	tshuann3
-撮	tshuat
-掇	tshuat
-綴	tshuat
-拙	tshuat
-茁	tshuat
-吹	tshue
-炊	tshue
-髓	tshue2
-覓	tshue7
-啜	tshueh
-摧	tshui
-崔	tshui
-催	tshui
-推	tshui
-揣	tshui2
-脆	tshui3
-粹	tshui3
-翠	tshui3
-碎	tshui3
-嘴	tshui3
-春	tshun
-椿	tshun
-伸	tshun
-蠢	tshun2
-忖	tshun2
-舛	tshun2
-寸	tshun3
-淳	tshun5
-存	tshun5
-蛆	tshur
-此	tshur2
-鼠	tshur2
-次	tshur3
-疵	tshur5
-茨	tshur5
-磁	tshur5
-雌	tshur5
-慈	tshur5
-瓷	tshur5
-徐	tshur5
-鷀	tshur5
-出	tshut
-齣	tshut
-贓	tsng
-磚	tsng
-莊	tsng
-裝	tsng
-指	tsng2
-葬	tsng3
-鑽	tsng3
-圳	tsng3
-狀	tsng7
-旋	tsng7
-災	tso
-糟	tso
-棗	tso2
-阻	tso2
-左	tso2
-佐	tso2
-俎	tso2
-做	tso3
-作	tso3
-槽	tso5
-造	tso6
-助	tso6
-狀	tso6
-坐	tso6
-座	tso7
-作	tsoh
-絕	tsoh8
-㩼	tsoi7
-節	tsoih
-截	tsoih8
-指	tsoinn2
-齊	tsoinn5
-前	tsoinn5
-屬	tsok
-矚	tsok
-囑	tsok
-祝	tsok
-足	tsok
-簇	tsok8
-粥	tsok8
-族	tsok8
-終	tsong
-蹤	tsong
-宗	tsong
-綜	tsong
-種	tsong2
-總	tsong2
-衆	tsong3
-縱	tsong3
-謅	tsou
-鄒	tsou
-租	tsou
-祖	tsou2
-驟	tsou6
-狙	tsu
-疽	tsu
-咀	tsu
-蛆	tsu
-珠	tsu
-株	tsu
-朱	tsu
-諸	tsu
-誅	tsu
-詛	tsu
-組	tsu
-殂	tsu
-齟	tsu
-沮	tsu2
-拄	tsu2
-主	tsu2
-俎	tsu2
-蛀	tsu3
-鑄	tsu3
-注	tsu3
-註	tsu3
-聚	tsu6
-住	tsu6
-駐	tsu6
-撾	tsua
-抓	tsua
-紙	tsua2
-蛇	tsua5
-絀	tsuah8
-蜀	tsuak8
-濁	tsuak8
-鐲	tsuak8
-湍	tsuan
-專	tsuan
-轉	tsuan2
-攢	tsuan3
-賺	tsuan3
-撰	tsuan6
-樁	tsuang
-莊	tsuang
-裝	tsuang
-妝	tsuang
-撞	tsuang6
-狀	tsuang6
-煎	tsuann
-盞	tsuann2
-泉	tsuann5
-賤	tsuann7
-最	tsue3
-罪	tsue6
-椎	tsui
-錐	tsui
-水	tsui2
-粹	tsui3
-醉	tsui3
-瘁	tsui6
-淬	tsui6
-祟	tsui6
-贅	tsui6
-尊	tsun
-遵	tsun
-准	tsun2
-準	tsun2
-峻	tsun3
-俊	tsun3
-竣	tsun3
-浚	tsun3
-駿	tsun3
-船	tsun5
-陣	tsun5
-書	tsur
-芝	tsur
-之	tsur
-茲	tsur
-諮	tsur
-資	tsur
-姿	tsur
-滋	tsur
-淄	tsur
-孜	tsur
-孳	tsur
-齎	tsur
-輜	tsur
-鷀	tsur
-煮	tsur2
-仔	tsur2
-籽	tsur2
-子	tsur2
-漬	tsur3
-恣	tsur3
-薯	tsur5
-自	tsur6
-率	tsut
-摔	tsut
-帥	tsut
-卒	tsut
-糯	tsut8
-堆	tu
-株	tu
-蛛	tu
-誅	tu
-堵	tu2
-睹	tu2
-賭	tu2
-著	tu3
-櫥	tu5
-帶	tua3
-舵	tua6
-大	tua7
-喝	tuah
-辣	tuah8
-端	tuan
-鍛	tuan3
-斷	tuan3
-段	tuan6
-斷	tuan6
-篆	tuan6
-丹	tuann
-單	tuann
-旦	tuann3
-壇	tuann5
-惰	tuann6
-懶	tuann6
-彈	tuann7
-綴	tue3
-兌	tue6
-堆	tui
-椎	tui
-追	tui
-對	tui3
-捶	tui5
-錘	tui5
-墮	tui6
-墜	tui6
-隊	tui7
-堆	tun
-墩	tun
-噸	tun
-蹲	tun
-敦	tun
-囤	tun
-屯	tun
-諄	tun
-盾	tun2
-躉	tun2
-脣	tun5
-頓	tun6
-鈍	tun6
-遁	tun6
-豬	tur
-鋤	tur5
-除	tur5
-術	tut8
-凸	tut8
-突	tut8
-呼	u
-嗚	u
-烏	u
-污	u
-捂	u
-迂	u
-盂	u
-圩	u
-竽	u
-于	u
-吁	u
-五	u2
-雨	u2
-禹	u2
-宇	u2
-羽	u2
-塢	u3
-惡	u3
-吾	u5
-五	u5
-娛	u5
-有	u6
-哇	ua
-蛙	ua
-窪	ua
-娃	ua
-瓦	ua
-蝸	ua
-我	ua2
-倚	ua2
-哇	ua7
-喝	uah
-活	uah8
-挖	uai
-歪	uai
-獲	uak8
-穫	uak8
-豌	uan
-彎	uan
-灣	uan
-鴛	uan
-冤	uan
-阮	uan2
-皖	uan2
-惋	uan2
-宛	uan2
-婉	uan2
-腕	uan2
-苑	uan2
-剜	uan2
-怨	uan3
-椽	uan5
-丸	uan5
-烷	uan5
-完	uan5
-元	uan5
-袁	uan5
-轅	uan5
-員	uan5
-猿	uan5
-緣	uan5
-汪	uang
-枉	uang2
-往	uang2
-蝗	uang5
-皇	uang5
-凰	uang5
-王	uang5
-王	uang6
-旺	uang6
-鞍	uann
-安	uann
-碗	uann2
-案	uann3
-晏	uann3
-旱	uann6
-換	uann7
-斡	uat
-曰	uat
-越	uat8
-粵	uat8
-鍋	ue
-穢	ue3
-蔚	ue3
-尉	ue3
-慰	ue3
-衛	ue6
-畫	ue7
-話	ue7
-抉	ueh
-畫	ueh8
-穢	ueh8
-劃	ueh8
-威	ui
-醫	ui
-衣	ui
-韋	ui2
-葦	ui2
-萎	ui2
-委	ui2
-偉	ui2
-緯	ui2
-渭	ui2
-韙	ui2
-謂	ui3
-韋	ui5
-違	ui5
-桅	ui5
-圍	ui5
-爲	ui5
-謂	ui6
-胃	ui7
-位	ui7
-畏	uinn3
-瘟	un
-溫	un
-醞	un
-阮	un2
-穩	un2
-蘊	un2
-䘼	un2
-殞	un2
-韞	un2
-焚	un5
-耘	un5
-鄖	un5
-勻	un5
-云	un5
-隕	un6
-運	un7
-韻	un7
-于	ur
-於	ur
-予	ur2
-與	ur2
-淤	ur3
-翳	ur3
-輿	ur5
-予	ur5
-余	ur5
-餘	ur5
-與	ur6
-譽	ur6
-預	ur6
-豫	ur6
-與	ur7
-恩	urn
-隱	urn2
-蔚	ut
-尉	ut
-斡	ut
-兀	ut
-熨	ut
-鬱	ut
-夗	ut8
-辱	zok8
-褥	zok8
-冗	zong2
-仍	zong5
-戎	zong5
-茸	zong5
-絨	zong5
-乳	zu2
-愈	zu2
-癒	zu2
-茹	zu5
-蠕	zu5
-儒	zu5
-孺	zu5
-如	zu5
-榆	zu5
-俞	zu5
-愉	zu5
-渝	zu5
-逾	zu5
-踰	zu5
-覦	zu5
-喻	zu6
-裕	zu6
-籲	zu6
-熱	zuah8
-轉	zuan2
-纂	zuan2
-說	zuat8
-悅	zuat8
-挼	zue5
-銳	zue6
-睿	zue6
-唯	zui5
-惟	zui5
-濰	zui5
-維	zui5
-遺	zui6
-吮	zun2
-允	zun2
-潤	zun6
-韌	zun7
-閏	zun7
-耳	zur2
-爾	zur2
-洱	zur2
-汝	zur2
-璽	zur2
-而	zur5
-餌	zur6
-貳	zur6
-膩	zur6
-女	zur6
-字	zur6
+阿	a	1000
+鴉	a	1000
+丫	a	1000
+亞	a	1000
+拗	a2	1000
+亞	a3	1000
+啊	a7	1000
+押	ah	1000
+鴨	ah	1000
+呷	ah	1000
+埃	ai	1000
+唉	ai	1000
+哀	ai	1000
+挨	ai	1000
+藹	ai2	1000
+靄	ai2	1000
+哎	ai7	1000
+艾	ainn3	1000
+愛	ainn3	1000
+欲	ainn3	1000
+沃	ak	1000
+抑	ak	1000
+軋	ak	1000
+惡	ak	1000
+庵	am	1000
+飲	am2	1000
+暗	am3	1000
+黯	am3	1000
+氨	an	1000
+安	an	1000
+胺	an	1000
+按	an3	1000
+案	an3	1000
+宴	an3	1000
+晏	an3	1000
+鼴	an3	1000
+骯	ang	1000
+翁	ang	1000
+盎	ang3	1000
+甕	ang3	1000
+洪	ang5	1000
+紅	ang5	1000
+餡	ann7	1000
+押	ap	1000
+呷	ap	1000
+盒	ap8	1000
+匣	ap8	1000
+凹	au	1000
+歐	au	1000
+鷗	au	1000
+毆	au	1000
+漚	au	1000
+區	au	1000
+坳	au	1000
+甌	au	1000
+鏖	au	1000
+毆	au2	1000
+嘔	au2	1000
+拗	au2	1000
+懊	au3	1000
+漚	au3	1000
+喉	au5	1000
+後	au6	1000
+眉	bai5	1000
+嵋	bai5	1000
+墨	bak8	1000
+木	bak8	1000
+密	bat8	1000
+鉚	bau2	1000
+卯	bau2	1000
+碼	be2	1000
+馬	be2	1000
+麥	beh8	1000
+米	bi2	1000
+未	bi7	1000
+味	bi7	1000
+描	bie5	1000
+瞄	bie5	1000
+廟	bie7	1000
+癟	bih	1000
+蜜	bit8	1000
+拇	bo2	1000
+母	bo2	1000
+亡	bo5	1000
+無	bo5	1000
+毋	bo5	1000
+帽	bo7	1000
+磨	bo7	1000
+買	boi2	1000
+𠁞	boi6	1000
+賣	boi7	1000
+牡	bou2	1000
+畝	bou2	1000
+母	bou2	1000
+模	bou5	1000
+戊	bou7	1000
+撫	bu2	1000
+武	bu2	1000
+舞	bu2	1000
+侮	bu2	1000
+鵡	bu2	1000
+巫	bu5	1000
+誣	bu5	1000
+無	bu5	1000
+蕪	bu5	1000
+務	bu6	1000
+霧	bu7	1000
+磨	bua5	1000
+撥	buah	1000
+抹	buah	1000
+末	buah8	1000
+沫	buah8	1000
+饅	buan6	1000
+蔓	buan6	1000
+曼	buan6	1000
+慢	buan6	1000
+漫	buan6	1000
+謾	buan6	1000
+萬	buan7	1000
+妄	buang2	1000
+罔	buang2	1000
+魍	buang2	1000
+亡	buang5	1000
+忘	buang5	1000
+望	buang6	1000
+美	bue2	1000
+尾	bue2	1000
+枚	bue5	1000
+梅	bue5	1000
+酶	bue5	1000
+黴	bue5	1000
+煤	bue5	1000
+媒	bue5	1000
+未	bue7	1000
+襪	bueh8	1000
+蚊	bun	1000
+燜	bun	1000
+玫	bun5	1000
+文	bun5	1000
+紋	bun5	1000
+紊	bun5	1000
+聞	bun6	1000
+悶	bun7	1000
+吻	but	1000
+勿	but	1000
+齋	che	1000
+姐	che2	1000
+這	che2	1000
+債	che3	1000
+寨	che7	1000
+積	cheh	1000
+績	cheh	1000
+責	cheh	1000
+職	cheh	1000
+仄	cheh	1000
+叔	chek	1000
+則	chek	1000
+燭	chek	1000
+稷	chek	1000
+蜀	chek8	1000
+一	chek8	1000
+壹	chek8	1000
+澤	chek8	1000
+丁	cheng	1000
+睛	cheng	1000
+精	cheng	1000
+僧	cheng	1000
+增	cheng	1000
+憎	cheng	1000
+曾	cheng	1000
+貞	cheng	1000
+偵	cheng	1000
+蒸	cheng	1000
+掙	cheng	1000
+睜	cheng	1000
+猙	cheng	1000
+怔	cheng	1000
+幀	cheng	1000
+盅	cheng	1000
+甑	cheng	1000
+箏	cheng	1000
+舂	cheng	1000
+征	cheng	1000
+鐘	cheng	1000
+鍾	cheng	1000
+種	cheng2	1000
+腫	cheng2	1000
+蹭	cheng3	1000
+正	cheng3	1000
+政	cheng3	1000
+證	cheng3	1000
+種	cheng3	1000
+衆	cheng3	1000
+症	cheng3	1000
+曾	cheng5	1000
+靖	cheng6	1000
+淨	cheng6	1000
+靚	cheng6	1000
+爭	chenn	1000
+井	chenn2	1000
+阱	chenn2	1000
+晴	chenn5	1000
+靜	chenn6	1000
+叉	chhe	1000
+岔	chhe	1000
+差	chhe	1000
+尺	chhe	1000
+扯	chhe2	1000
+廁	chhe3	1000
+查	chhe5	1000
+策	chheh	1000
+冊	chheh	1000
+側	chhek	1000
+測	chhek	1000
+斥	chhek	1000
+僳	chhek	1000
+戚	chhek	1000
+粟	chhek	1000
+彳	chhek	1000
+稱	chheng	1000
+清	chheng	1000
+襯	chheng3	1000
+稱	chheng3	1000
+橙	chheng5	1000
+情	chheng5	1000
+穿	chheng7	1000
+青	chhenn	1000
+氰	chhenn	1000
+生	chhenn	1000
+星	chhenn	1000
+腥	chhenn	1000
+蜻	chhenn	1000
+醒	chhenn2	1000
+差	chhi	1000
+癡	chhi	1000
+棲	chhi	1000
+妻	chhi	1000
+鰓	chhi	1000
+淒	chhi	1000
+悽	chhi	1000
+恥	chhi2	1000
+齒	chhi2	1000
+侈	chhi2	1000
+刺	chhi3	1000
+試	chhi3	1000
+弒	chhi3	1000
+遲	chhi5	1000
+馳	chhi5	1000
+齊	chhi5	1000
+薺	chhi5	1000
+市	chhi6	1000
+飼	chhi7	1000
+車	chhia	1000
+奢	chhia	1000
+賒	chhia	1000
+且	chhia2	1000
+赤	chhiah	1000
+戳	chhiak	1000
+綽	chhiak	1000
+鵲	chhiak	1000
+雀	chhiak	1000
+芍	chhiak	1000
+殲	chhiam	1000
+懺	chhiam	1000
+讖	chhiam	1000
+簽	chhiam	1000
+籤	chhiam	1000
+潛	chhiam5	1000
+昌	chhiang	1000
+猖	chhiang	1000
+嗆	chhiang	1000
+戕	chhiang	1000
+廠	chhiang2	1000
+敞	chhiang2	1000
+嗆	chhiang2	1000
+唱	chhiang3	1000
+倡	chhiang3	1000
+場	chhiang5	1000
+常	chhiang5	1000
+長	chhiang5	1000
+腸	chhiang5	1000
+薔	chhiang5	1000
+爿	chhiang5	1000
+請	chhiann2	1000
+成	chhiann5	1000
+悄	chhiau	1000
+鍬	chhiau	1000
+嘲	chhiau2	1000
+悄	chhiau2	1000
+峭	chhiau2	1000
+俏	chhiau2	1000
+稍	chhiau2	1000
+朝	chhiau5	1000
+瞧	chhiau5	1000
+晁	chhiau5	1000
+唱	chhie3	1000
+笑	chhie3	1000
+尺	chhieh	1000
+淖	chhieh	1000
+席	chhieh8	1000
+扦	chhien	1000
+釺	chhien	1000
+遷	chhien	1000
+纖	chhien	1000
+阡	chhien	1000
+韆	chhien	1000
+淺	chhien2	1000
+槍	chhienn	1000
+搶	chhienn2	1000
+牆	chhienn5	1000
+上	chhienn6	1000
+橡	chhienn6	1000
+像	chhienn6	1000
+象	chhienn6	1000
+匠	chhienn7	1000
+沏	chhiet	1000
+切	chhiet	1000
+竊	chhiet	1000
+彳	chhih8	1000
+深	chhim	1000
+寢	chhim2	1000
+沁	chhim3	1000
+侵	chhim5	1000
+尋	chhim5	1000
+親	chhin	1000
+秤	chhin3	1000
+凊	chhin3	1000
+臣	chhin5	1000
+陳	chhin5	1000
+秦	chhin5	1000
+鮮	chhinn	1000
+尋	chhinn5	1000
+緝	chhip	1000
+輯	chhip	1000
+七	chhit	1000
+柒	chhit	1000
+拭	chhit	1000
+瞅	chhiu	1000
+初	chhiu	1000
+揪	chhiu	1000
+鍬	chhiu	1000
+秋	chhiu	1000
+鞦	chhiu	1000
+鬚	chhiu	1000
+手	chhiu2	1000
+醜	chhiu2	1000
+漱	chhiu3	1000
+酬	chhiu5	1000
+仇	chhiu5	1000
+囚	chhiu5	1000
+售	chhiu5	1000
+樹	chhiu7	1000
+膣	chi	1000
+此	chi2	1000
+姊	chi2	1000
+詣	chi2	1000
+脂	chi2	1000
+址	chi2	1000
+指	chi2	1000
+止	chi2	1000
+趾	chi2	1000
+旨	chi2	1000
+稚	chi2	1000
+紫	chi2	1000
+籽	chi2	1000
+子	chi2	1000
+祇	chi2	1000
+祉	chi2	1000
+芷	chi2	1000
+霽	chi2	1000
+只	chi2	1000
+掣	chi3	1000
+熾	chi3	1000
+擠	chi3	1000
+祭	chi3	1000
+劑	chi3	1000
+濟	chi3	1000
+際	chi3	1000
+識	chi3	1000
+摯	chi3	1000
+至	chi3	1000
+幟	chi3	1000
+痣	chi3	1000
+齏	chi3	1000
+志	chi3	1000
+誌	chi3	1000
+制	chi3	1000
+製	chi3	1000
+巳	chi6	1000
+舐	chi6	1000
+遮	chia	1000
+姐	chia2	1000
+者	chia2	1000
+鍺	chia2	1000
+蔗	chia3	1000
+炙	chia3	1000
+籍	chia6	1000
+藉	chia6	1000
+謝	chia7	1000
+跡	chiah	1000
+脊	chiah	1000
+隻	chiah	1000
+食	chiah8	1000
+嚼	chiak	1000
+爵	chiak	1000
+芍	chiak	1000
+勺	chiak	1000
+酌	chiak	1000
+灼	chiak	1000
+尖	chiam	1000
+漸	chiam	1000
+贍	chiam	1000
+瞻	chiam	1000
+詹	chiam	1000
+占	chiam	1000
+佔	chiam3	1000
+漸	chiam6	1000
+塹	chiam6	1000
+暫	chiam6	1000
+將	chiang	1000
+樟	chiang	1000
+章	chiang	1000
+彰	chiang	1000
+漳	chiang	1000
+張	chiang	1000
+長	chiang2	1000
+將	chiang3	1000
+獎	chiang3	1000
+漲	chiang3	1000
+脹	chiang3	1000
+瘴	chiang3	1000
+障	chiang3	1000
+嶂	chiang3	1000
+匠	chiang6	1000
+杖	chiang6	1000
+丈	chiang6	1000
+仗	chiang6	1000
+晶	chiann	1000
+精	chiann	1000
+正	chiann	1000
+整	chiann2	1000
+正	chiann3	1000
+成	chiann5	1000
+情	chiann5	1000
+接	chiap	1000
+捷	chiap8	1000
+睫	chiap8	1000
+洽	chiap8	1000
+朝	chiau	1000
+礁	chiau	1000
+焦	chiau	1000
+招	chiau	1000
+昭	chiau	1000
+鳥	chiau2	1000
+照	chiau3	1000
+雀	chiauh	1000
+蕉	chie	1000
+椒	chie	1000
+招	chie	1000
+少	chie2	1000
+照	chie3	1000
+質	chieh	1000
+借	chieh	1000
+石	chieh8	1000
+箋	chien	1000
+煎	chien	1000
+濺	chien	1000
+羶	chien	1000
+趁	chien2	1000
+踐	chien2	1000
+餞	chien2	1000
+濺	chien2	1000
+燼	chien2	1000
+疹	chien2	1000
+診	chien2	1000
+殄	chien2	1000
+畛	chien2	1000
+翦	chien2	1000
+顫	chien3	1000
+剪	chien3	1000
+戰	chien3	1000
+漿	chienn	1000
+樟	chienn	1000
+章	chienn	1000
+蔣	chienn2	1000
+槳	chienn2	1000
+掌	chienn2	1000
+醬	chienn3	1000
+上	chienn6	1000
+癢	chienn6	1000
+即	chiet	1000
+浙	chiet	1000
+接	chih	1000
+折	chih	1000
+摺	chih	1000
+舌	chih8	1000
+折	chih8	1000
+斟	chim	1000
+枕	chim2	1000
+浸	chim3	1000
+津	chin	1000
+薪	chin	1000
+真	chin	1000
+甄	chin	1000
+臻	chin	1000
+瞋	chin	1000
+震	chin2	1000
+振	chin2	1000
+拯	chin2	1000
+賑	chin2	1000
+薦	chin3	1000
+進	chin3	1000
+晉	chin3	1000
+盡	chin6	1000
+儘	chin6	1000
+薦	chinn	1000
+歧	chinn	1000
+氏	chinn	1000
+氈	chinn	1000
+支	chinn	1000
+吱	chinn	1000
+肢	chinn	1000
+脂	chinn	1000
+稚	chinn2	1000
+擠	chinn3	1000
+煎	chinn3	1000
+箭	chinn3	1000
+錢	chinn5	1000
+薺	chinn5	1000
+執	chip	1000
+集	chip8	1000
+疾	chip8	1000
+嫉	chip8	1000
+熾	chit	1000
+脊	chit	1000
+浙	chit	1000
+織	chit	1000
+鯽	chit	1000
+稠	chiu	1000
+舟	chiu	1000
+州	chiu	1000
+洲	chiu	1000
+周	chiu	1000
+週	chiu	1000
+酒	chiu2	1000
+咒	chiu3	1000
+皺	chiu3	1000
+就	chiu6	1000
+啞	e2	1000
+下	e6	1000
+廈	e6	1000
+下	e7	1000
+耶	e7	1000
+厄	eh	1000
+扼	eh	1000
+軛	eh	1000
+臆	ek	1000
+溢	ek	1000
+隘	ek8	1000
+掖	ek8	1000
+腋	ek8	1000
+液	ek8	1000
+易	ek8	1000
+億	ek8	1000
+疫	ek8	1000
+亦	ek8	1000
+憶	ek8	1000
+溢	ek8	1000
+譯	ek8	1000
+翼	ek8	1000
+翌	ek8	1000
+繹	ek8	1000
+浴	ek8	1000
+奕	ek8	1000
+弈	ek8	1000
+翁	eng	1000
+英	eng	1000
+櫻	eng	1000
+嬰	eng	1000
+鷹	eng	1000
+纓	eng	1000
+罌	eng	1000
+膺	eng	1000
+鶯	eng	1000
+鸚	eng	1000
+湧	eng2	1000
+涌	eng2	1000
+應	eng3	1000
+用	eng7	1000
+礙	gai7	1000
+樂	gauh8	1000
+芽	ge5	1000
+牙	ge5	1000
+蚜	ge5	1000
+衙	ge5	1000
+玉	gek8	1000
+獄	gek8	1000
+疑	gi5	1000
+訝	gia3	1000
+迓	gia3	1000
+鵝	go5	1000
+餓	go7	1000
+倪	goi5	1000
+藝	goi7	1000
+吳	gou5	1000
+誤	gou7	1000
+牛	gu5	1000
+外	gua7	1000
+鑰	gueh8	1000
+月	gueh8	1000
+魏	gui7	1000
+語	gur2	1000
+馭	gur6	1000
+禦	gur6	1000
+御	gur7	1000
+哈	ha	1000
+孝	ha3	1000
+瓣	hah	1000
+哈	hah	1000
+合	hah8	1000
+海	hai2	1000
+骸	hai5	1000
+孩	hai5	1000
+諧	hai5	1000
+孩	hai6	1000
+氦	hai6	1000
+亥	hai6	1000
+駭	hai6	1000
+解	hai6	1000
+咳	hai6	1000
+械	hai6	1000
+懈	hai6	1000
+薤	hai6	1000
+害	hai7	1000
+遏	hak	1000
+郝	hak	1000
+喝	hak	1000
+涸	hak	1000
+褐	hak	1000
+豁	hak	1000
+瞎	hak	1000
+轄	hak	1000
+蠍	hak	1000
+蓄	hak	1000
+壑	hak	1000
+乏	hak8	1000
+學	hak8	1000
+酣	ham	1000
+憨	ham	1000
+邯	ham	1000
+撼	ham2	1000
+喊	ham3	1000
+含	ham5	1000
+涵	ham5	1000
+函	ham5	1000
+銜	ham5	1000
+咸	ham5	1000
+憾	ham6	1000
+陷	ham7	1000
+鼾	han	1000
+罕	han2	1000
+捍	han2	1000
+悍	han2	1000
+焊	han2	1000
+汗	han2	1000
+漢	han3	1000
+韓	han5	1000
+寒	han5	1000
+翰	han5	1000
+限	han6	1000
+烘	hang	1000
+夯	hang2	1000
+汗	hang5	1000
+杭	hang5	1000
+航	hang5	1000
+降	hang5	1000
+行	hang5	1000
+項	hang6	1000
+巷	hang7	1000
+合	hap8	1000
+峽	hap8	1000
+號	hau	1000
+浩	hau	1000
+酵	hau	1000
+哮	hau	1000
+齁	hau	1000
+鎬	hau2	1000
+好	hau2	1000
+吼	hau2	1000
+昊	hau2	1000
+皓	hau2	1000
+孝	hau3	1000
+壕	hau5	1000
+嚎	hau5	1000
+豪	hau5	1000
+毫	hau5	1000
+校	hau6	1000
+後	hau6	1000
+候	hau7	1000
+效	hau7	1000
+鱟	hau7	1000
+好	haunn3	1000
+嘿	he	1000
+蝦	he5	1000
+暇	he6	1000
+下	he6	1000
+廈	he7	1000
+夏	he7	1000
+赫	heh	1000
+嚇	heh	1000
+核	hek	1000
+閡	hek	1000
+黑	hek	1000
+乏	hek8	1000
+哼	heng	1000
+亨	heng	1000
+興	heng	1000
+胸	heng	1000
+匈	heng	1000
+馨	heng	1000
+興	heng3	1000
+恆	heng5	1000
+王	heng5	1000
+刑	heng5	1000
+型	heng5	1000
+形	heng5	1000
+行	heng5	1000
+雄	heng5	1000
+行	heng6	1000
+杏	heng6	1000
+孕	heng6	1000
+幸	heng6	1000
+倖	heng6	1000
+熙	hi	1000
+嘻	hi	1000
+犧	hi	1000
+稀	hi	1000
+希	hi	1000
+烯	hi	1000
+頤	hi	1000
+兮	hi	1000
+熹	hi	1000
+禧	hi	1000
+羲	hi	1000
+喜	hi2	1000
+戲	hi3	1000
+畦	hi5	1000
+攜	hi6	1000
+曳	hi6	1000
+拽	hi6	1000
+系	hi6	1000
+係	hi6	1000
+繫	hi6	1000
+靴	hia	1000
+霞	hia5	1000
+暇	hia5	1000
+遐	hia5	1000
+瓦	hia6	1000
+下	hia6	1000
+蟻	hia6	1000
+歇	hiah	1000
+額	hiah8	1000
+役	hiah8	1000
+蠍	hiak	1000
+險	hiam2	1000
+嫌	hiam5	1000
+香	hiang	1000
+鄉	hiang	1000
+晌	hiang2	1000
+響	hiang2	1000
+享	hiang2	1000
+饗	hiang2	1000
+向	hiang3	1000
+嚮	hiang3	1000
+兄	hiann	1000
+邢	hiann5	1000
+顏	hiann5	1000
+艾	hiann7	1000
+俠	hiap8	1000
+狹	hiap8	1000
+協	hiap8	1000
+挾	hiap8	1000
+脅	hiap8	1000
+葉	hiap8	1000
+邀	hiau	1000
+梟	hiau	1000
+驍	hiau	1000
+曉	hiau2	1000
+掀	hiaunn	1000
+頁	hieh8	1000
+葉	hieh8	1000
+顯	hien2	1000
+獻	hien3	1000
+憲	hien3	1000
+釁	hien3	1000
+絢	hien3	1000
+賢	hien5	1000
+舷	hien5	1000
+懸	hien5	1000
+玄	hien5	1000
+眩	hien5	1000
+香	hienn	1000
+鄉	hienn	1000
+鑫	him	1000
+熊	him5	1000
+眩	hin5	1000
+見	hin7	1000
+現	hin7	1000
+舷	hinn5	1000
+弦	hinn5	1000
+耳	hinn6	1000
+旭	hiok	1000
+毓	hiok	1000
+馥	hiok	1000
+郁	hiok	1000
+匈	hiong	1000
+洶	hiong	1000
+凶	hiong	1000
+兇	hiong	1000
+雄	hiong5	1000
+翕	hip	1000
+休	hiunn	1000
+幽	hiunn	1000
+悠	hiunn	1000
+攸	hiunn	1000
+貅	hiunn	1000
+朽	hiunn2	1000
+臭	hiunn3	1000
+嗅	hiunn3	1000
+方	hng	1000
+哼	hng	1000
+荒	hng	1000
+祅	hng	1000
+醺	hng	1000
+哼	hng2	1000
+園	hng5	1000
+遠	hng6	1000
+呵	ho	1000
+好	ho2	1000
+訛	ho3	1000
+耗	ho3	1000
+荷	ho3	1000
+荷	ho5	1000
+何	ho5	1000
+合	ho5	1000
+河	ho5	1000
+和	ho6	1000
+好	ho7	1000
+號	ho7	1000
+賀	ho7	1000
+酷	hoh	1000
+翕	hoh	1000
+鶴	hoh8	1000
+蟹	hoi6	1000
+還	hoinn5	1000
+閡	hoinn6	1000
+輻	hok	1000
+福	hok	1000
+複	hok	1000
+伏	hok8	1000
+服	hok8	1000
+袱	hok8	1000
+覆	hok8	1000
+或	hok8	1000
+惑	hok8	1000
+域	hok8	1000
+復	hok8	1000
+封	hong	1000
+峯	hong	1000
+鋒	hong	1000
+風	hong	1000
+烽	hong	1000
+轟	hong	1000
+烘	hong	1000
+丰	hong	1000
+豐	hong	1000
+哄	hong	1000
+蚌	hong2	1000
+俸	hong2	1000
+哄	hong2	1000
+諷	hong3	1000
+訌	hong3	1000
+哄	hong3	1000
+鬨	hong3	1000
+逢	hong5	1000
+縫	hong5	1000
+烘	hong5	1000
+虹	hong5	1000
+鴻	hong5	1000
+洪	hong5	1000
+宏	hong5	1000
+弘	hong5	1000
+紅	hong5	1000
+肱	hong5	1000
+奉	hong6	1000
+鳳	hong6	1000
+呼	hou	1000
+否	hou2	1000
+戽	hou3	1000
+侯	hou5	1000
+葫	hou5	1000
+狐	hou5	1000
+鬍	hou5	1000
+戶	hou6	1000
+雨	hou6	1000
+后	hou6	1000
+互	hou7	1000
+虎	hounn2	1000
+唬	hounn5	1000
+夫	hu	1000
+敷	hu	1000
+膚	hu	1000
+孵	hu	1000
+俘	hu	1000
+腐	hu	1000
+呼	hu	1000
+乎	hu	1000
+孚	hu	1000
+俯	hu2	1000
+釜	hu2	1000
+腑	hu2	1000
+府	hu2	1000
+父	hu2	1000
+許	hu2	1000
+栩	hu2	1000
+缶	hu2	1000
+赴	hu3	1000
+副	hu3	1000
+賦	hu3	1000
+傅	hu3	1000
+付	hu3	1000
+訃	hu3	1000
+咐	hu3	1000
+扶	hu5	1000
+符	hu5	1000
+和	hu5	1000
+瑚	hu5	1000
+壺	hu5	1000
+葫	hu5	1000
+蝴	hu5	1000
+狐	hu5	1000
+弧	hu5	1000
+芙	hu5	1000
+胡	hu5	1000
+衚	hu5	1000
+糊	hu5	1000
+輔	hu6	1000
+阜	hu6	1000
+負	hu6	1000
+附	hu6	1000
+婦	hu6	1000
+護	hu6	1000
+互	hu6	1000
+滬	hu6	1000
+酗	hu6	1000
+煦	hu6	1000
+瓠	hu6	1000
+駙	hu6	1000
+夫	hu7	1000
+腐	hu7	1000
+花	hua	1000
+華	hua	1000
+譁	hua	1000
+嘩	hua	1000
+禾	hua5	1000
+和	hua5	1000
+華	hua5	1000
+划	hua5	1000
+禍	hua6	1000
+喝	huah	1000
+伐	huah8	1000
+槐	huai5	1000
+徊	huai5	1000
+懷	huai5	1000
+淮	huai5	1000
+壞	huai6	1000
+泛	huam3	1000
+礬	huam5	1000
+凡	huam5	1000
+釩	huam6	1000
+凡	huam6	1000
+犯	huam6	1000
+患	huam6	1000
+梵	huam6	1000
+范	huam6	1000
+範	huam6	1000
+番	huan	1000
+畨	huan	1000
+翻	huan	1000
+歡	huan	1000
+獾	huan	1000
+反	huan2	1000
+返	huan2	1000
+緩	huan2	1000
+販	huan3	1000
+換	huan3	1000
+喚	huan3	1000
+瘓	huan3	1000
+煥	huan3	1000
+渙	huan3	1000
+幻	huan3	1000
+樊	huan5	1000
+繁	huan5	1000
+煩	huan5	1000
+環	huan5	1000
+桓	huan5	1000
+還	huan5	1000
+垣	huan5	1000
+飯	huan6	1000
+豢	huan6	1000
+宦	huan6	1000
+坊	huang	1000
+芳	huang	1000
+方	huang	1000
+肪	huang	1000
+封	huang	1000
+風	huang	1000
+瘋	huang	1000
+荒	huang	1000
+慌	huang	1000
+謊	huang	1000
+坊	huang2	1000
+訪	huang2	1000
+紡	huang2	1000
+晃	huang2	1000
+幌	huang2	1000
+恍	huang2	1000
+仿	huang2	1000
+彷	huang2	1000
+放	huang3	1000
+防	huang5	1000
+妨	huang5	1000
+衡	huang5	1000
+磺	huang5	1000
+蝗	huang5	1000
+簧	huang5	1000
+皇	huang5	1000
+凰	huang5	1000
+惶	huang5	1000
+煌	huang5	1000
+徨	huang5	1000
+歡	huann	1000
+還	huann	1000
+鼾	huann5	1000
+法	huap	1000
+琺	huap	1000
+砝	huap	1000
+發	huat	1000
+髮	huat	1000
+罰	huat8	1000
+筏	huat8	1000
+伐	huat8	1000
+乏	huat8	1000
+閥	huat8	1000
+穴	huat8	1000
+花	hue	1000
+華	hue	1000
+化	hue	1000
+灰	hue	1000
+火	hue2	1000
+伙	hue2	1000
+夥	hue2	1000
+化	hue3	1000
+悔	hue3	1000
+晦	hue3	1000
+誨	hue3	1000
+貨	hue3	1000
+歲	hue3	1000
+和	hue5	1000
+蛔	hue5	1000
+回	hue5	1000
+迴	hue5	1000
+會	hue6	1000
+燴	hue6	1000
+匯	hue6	1000
+彙	hue6	1000
+血	hueh	1000
+橫	huenn5	1000
+菲	hui	1000
+非	hui	1000
+啡	hui	1000
+飛	hui	1000
+灰	hui	1000
+揮	hui	1000
+輝	hui	1000
+徽	hui	1000
+妃	hui	1000
+扉	hui	1000
+翡	hui	1000
+霏	hui	1000
+麾	hui	1000
+菲	hui2	1000
+誹	hui2	1000
+卉	hui2	1000
+諱	hui2	1000
+肺	hui3	1000
+廢	hui3	1000
+費	hui3	1000
+諱	hui3	1000
+缶	hui5	1000
+慧	hui6	1000
+惠	hui6	1000
+彗	hui6	1000
+匪	huinn2	1000
+毀	huinn2	1000
+懸	huinn5	1000
+芬	hun	1000
+酚	hun	1000
+吩	hun	1000
+氛	hun	1000
+分	hun	1000
+紛	hun	1000
+汾	hun	1000
+葷	hun	1000
+昏	hun	1000
+婚	hun	1000
+渾	hun	1000
+燻	hun	1000
+暈	hun	1000
+薰	hun	1000
+粉	hun2	1000
+忿	hun2	1000
+奮	hun3	1000
+憤	hun3	1000
+訓	hun3	1000
+痕	hun5	1000
+魂	hun5	1000
+雲	hun5	1000
+渾	hun6	1000
+混	hun6	1000
+分	hun7	1000
+份	hun7	1000
+墟	hur	1000
+虛	hur	1000
+噓	hur	1000
+圩	hur	1000
+彼	hur2	1000
+許	hur2	1000
+魚	hur5	1000
+漁	hur5	1000
+掀	hurn	1000
+鍁	hurn	1000
+欣	hurn	1000
+忻	hurn	1000
+軒	hurn	1000
+勳	hurn	1000
+殷	hurn	1000
+很	hurn2	1000
+狠	hurn2	1000
+恨	hurn6	1000
+沸	hut	1000
+拂	hut	1000
+氟	hut	1000
+弗	hut	1000
+忽	hut	1000
+彿	hut	1000
+核	hut8	1000
+佛	hut8	1000
+銥	i	1000
+依	i	1000
+伊	i	1000
+衣	i	1000
+迂	i	1000
+倚	i2	1000
+衣	i3	1000
+肄	i3	1000
+意	i3	1000
+憶	i3	1000
+蛇	i5	1000
+夷	i5	1000
+移	i5	1000
+胰	i5	1000
+姨	i5	1000
+彝	i5	1000
+怡	i5	1000
+貽	i5	1000
+易	i6	1000
+裔	i6	1000
+異	i6	1000
+矣	i7	1000
+呀	ia	1000
+野	ia2	1000
+冶	ia2	1000
+椰	ia5	1000
+耶	ia5	1000
+爺	ia5	1000
+呀	ia7	1000
+耶	ia7	1000
+也	ia7	1000
+夜	ia7	1000
+亦	ia7	1000
+益	iah	1000
+溢	iah	1000
+易	iah8	1000
+驛	iah8	1000
+爍	iak	1000
+約	iak	1000
+躍	iak	1000
+鑰	iak	1000
+藥	iak8	1000
+閹	iam	1000
+淹	iam	1000
+奄	iam	1000
+掩	iam2	1000
+堰	iam2	1000
+睒	iam2	1000
+厭	iam3	1000
+鹽	iam5	1000
+炎	iam7	1000
+豔	iam7	1000
+焰	iam7	1000
+殃	iang	1000
+央	iang	1000
+秧	iang	1000
+泱	iang	1000
+氧	iang2	1000
+養	iang2	1000
+映	iang3	1000
+楊	iang5	1000
+揚	iang5	1000
+佯	iang5	1000
+瘍	iang5	1000
+羊	iang5	1000
+洋	iang5	1000
+陽	iang5	1000
+烊	iang5	1000
+癢	iang6	1000
+漾	iang6	1000
+恙	iang6	1000
+影	iann2	1000
+強	iann5	1000
+營	iann5	1000
+迎	iann5	1000
+贏	iann5	1000
+壓	iap	1000
+葉	iap8	1000
+麼	iau	1000
+陶	iau	1000
+邀	iau	1000
+妖	iau	1000
+要	iau	1000
+一	iau	1000
+喲	iau	1000
+夭	iau	1000
+窈	iau2	1000
+要	iau3	1000
+瑤	iau5	1000
+搖	iau5	1000
+遙	iau5	1000
+謠	iau5	1000
+耀	iau6	1000
+鴦	ie	1000
+腰	ie	1000
+喲	ie	1000
+舀	ie2	1000
+搖	ie5	1000
+窯	ie5	1000
+姚	ie5	1000
+約	ieh	1000
+藥	ieh8	1000
+蔫	ien	1000
+焉	ien	1000
+淵	ien	1000
+嫣	ien	1000
+鳶	ien	1000
+遠	ien2	1000
+燕	ien3	1000
+嚥	ien3	1000
+紈	ien5	1000
+涎	ien6	1000
+羨	ien6	1000
+蜒	ien6	1000
+延	ien6	1000
+衍	ien6	1000
+援	ien6	1000
+筵	ien6	1000
+胤	ien6	1000
+焉	ien7	1000
+養	ienn2	1000
+熔	ienn5	1000
+溶	ienn5	1000
+楊	ienn5	1000
+揚	ienn5	1000
+羊	ienn5	1000
+洋	ienn5	1000
+陽	ienn5	1000
+贏	ienn5	1000
+烊	ienn5	1000
+樣	ienn7	1000
+淹	im	1000
+蔭	im	1000
+音	im	1000
+陰	im	1000
+飲	im2	1000
+淫	im5	1000
+煙	in	1000
+茵	in	1000
+因	in	1000
+姻	in	1000
+甄	in	1000
+胭	in	1000
+咽	in	1000
+引	in2	1000
+隱	in2	1000
+蚓	in2	1000
+印	in3	1000
+應	in3	1000
+鉛	in5	1000
+沿	in5	1000
+演	in5	1000
+寅	in5	1000
+縈	in5	1000
+暈	in7	1000
+椅	inn2	1000
+已	inn2	1000
+以	inn2	1000
+燕	inn3	1000
+丸	inn5	1000
+圓	inn5	1000
+夗	inn6	1000
+硯	inn7	1000
+院	inn7	1000
+峪	iok8	1000
+育	iok8	1000
+浴	iok8	1000
+欲	iok8	1000
+慾	iok8	1000
+臃	iong	1000
+癰	iong	1000
+雍	iong	1000
+踴	iong2	1000
+蛹	iong2	1000
+永	iong2	1000
+勇	iong2	1000
+擁	iong3	1000
+詠	iong3	1000
+泳	iong3	1000
+恿	iong3	1000
+湧	iong3	1000
+涌	iong3	1000
+蓉	iong5	1000
+榮	iong5	1000
+融	iong5	1000
+熔	iong5	1000
+溶	iong5	1000
+容	iong5	1000
+瑩	iong5	1000
+螢	iong5	1000
+熒	iong5	1000
+盈	iong5	1000
+庸	iong5	1000
+榕	iong5	1000
+縈	iong5	1000
+佣	iong5	1000
+傭	iong5	1000
+揖	ip	1000
+邑	ip	1000
+噎	it	1000
+一	it	1000
+乙	it	1000
+咽	it	1000
+逸	it8	1000
+佚	it8	1000
+軼	it8	1000
+優	iu	1000
+憂	iu	1000
+酉	iu2	1000
+有	iu2	1000
+友	iu2	1000
+誘	iu2	1000
+肘	iu2	1000
+牖	iu2	1000
+鮪	iu2	1000
+黝	iu2	1000
+酋	iu5	1000
+尤	iu5	1000
+由	iu5	1000
+郵	iu5	1000
+鈾	iu5	1000
+猶	iu5	1000
+油	iu5	1000
+釉	iu5	1000
+柚	iu5	1000
+猷	iu5	1000
+魷	iu5	1000
+游	iu5	1000
+遊	iu5	1000
+賄	iu6	1000
+右	iu6	1000
+佑	iu6	1000
+又	iu6	1000
+祐	iu6	1000
+有	iu7	1000
+又	iu7	1000
+柚	iu7	1000
+幼	iunn3	1000
+若	je2	1000
+扔	jeng5	1000
+兒	ji5	1000
+二	ji6	1000
+餌	ji7	1000
+二	ji7	1000
+寺	ji7	1000
+字	ji7	1000
+惹	jia2	1000
+若	jiak8	1000
+弱	jiak8	1000
+冉	jiam2	1000
+染	jiam2	1000
+髯	jiam2	1000
+釀	jiang2	1000
+壤	jiang2	1000
+攘	jiang2	1000
+嚷	jiang2	1000
+瓤	jiang5	1000
+讓	jiang6	1000
+廿	jiap8	1000
+擾	jiau2	1000
+爪	jiau2	1000
+繞	jiau3	1000
+沼	jiau3	1000
+饒	jiau5	1000
+尿	jie7	1000
+若	jieh8	1000
+然	jien5	1000
+燃	jien5	1000
+熱	jiet8	1000
+廿	jih8	1000
+賃	jim2	1000
+忍	jim2	1000
+韌	jim2	1000
+刃	jim2	1000
+紉	jim2	1000
+恁	jim2	1000
+荏	jim2	1000
+賃	jim6	1000
+壬	jim6	1000
+任	jim6	1000
+妊	jim6	1000
+任	jim7	1000
+仁	jin5	1000
+人	jin5	1000
+認	jin7	1000
+入	jip8	1000
+日	jit8	1000
+揉	jiu5	1000
+柔	jiu5	1000
+膠	ka	1000
+鉸	ka	1000
+咖	ka	1000
+咳	ka	1000
+虼	ka	1000
+家	ka	1000
+絞	ka2	1000
+教	ka3	1000
+較	ka3	1000
+窖	ka3	1000
+校	ka3	1000
+咬	ka6	1000
+蓋	kah	1000
+合	kah	1000
+甲	kah	1000
+鉀	kah	1000
+佮	kah	1000
+合	kah8	1000
+該	kai	1000
+皆	kai	1000
+秸	kai	1000
+階	kai	1000
+揩	kai	1000
+楷	kai	1000
+鈣	kai3	1000
+蓋	kai3	1000
+價	kai3	1000
+戒	kai3	1000
+芥	kai3	1000
+界	kai3	1000
+介	kai3	1000
+誡	kai3	1000
+屆	kai3	1000
+丐	kai3	1000
+尬	kai3	1000
+蚧	kai3	1000
+個	kai5	1000
+其	kai7	1000
+鉻	kak	1000
+各	kak	1000
+角	kak	1000
+覺	kak	1000
+軋	kak	1000
+穀	kak	1000
+甘	kam	1000
+監	kam	1000
+泔	kam	1000
+感	kam2	1000
+監	kam3	1000
+檻	kam3	1000
+鑑	kam3	1000
+尷	kam3	1000
+含	kam5	1000
+竿	kan	1000
+間	kan	1000
+艱	kan	1000
+乾	kan	1000
+干	kan	1000
+杆	kan	1000
+奸	kan	1000
+姦	kan	1000
+稈	kan2	1000
+柬	kan2	1000
+揀	kan2	1000
+簡	kan2	1000
+澗	kan2	1000
+旰	kan3	1000
+幹	kan3	1000
+岡	kang	1000
+剛	kang	1000
+缸	kang	1000
+肛	kang	1000
+綱	kang	1000
+崗	kang	1000
+工	kang	1000
+功	kang	1000
+公	kang	1000
+江	kang	1000
+扛	kang	1000
+蚣	kang	1000
+港	kang2	1000
+講	kang2	1000
+贛	kang3	1000
+槓	kang3	1000
+降	kang3	1000
+共	kang7	1000
+柑	kann	1000
+敢	kann2	1000
+酵	kann3	1000
+銜	kann5	1000
+跤	kao	1000
+鴿	kap	1000
+蛤	kap	1000
+哈	kap	1000
+合	kap	1000
+結	kat	1000
+皋	kau	1000
+高	kau	1000
+鉤	kau	1000
+勾	kau	1000
+溝	kau	1000
+交	kau	1000
+郊	kau	1000
+枸	kau	1000
+睾	kau	1000
+鮫	kau	1000
+搞	kau2	1000
+鎬	kau2	1000
+狗	kau2	1000
+垢	kau2	1000
+狡	kau2	1000
+玖	kau2	1000
+九	kau2	1000
+枸	kau2	1000
+犒	kau2	1000
+到	kau3	1000
+告	kau3	1000
+夠	kau3	1000
+猴	kau5	1000
+垢	kau6	1000
+厚	kau6	1000
+加	ke	1000
+袈	ke	1000
+家	ke	1000
+傢	ke	1000
+假	ke2	1000
+稼	ke3	1000
+價	ke3	1000
+架	ke3	1000
+駕	ke3	1000
+嫁	ke3	1000
+枷	ke5	1000
+下	ke6	1000
+胳	keh	1000
+格	keh	1000
+隔	keh	1000
+膈	keh	1000
+骼	keh	1000
+逆	keh8	1000
+革	kek	1000
+激	kek	1000
+棘	kek	1000
+菊	kek	1000
+檄	kek	1000
+亟	kek	1000
+極	kek8	1000
+局	kek8	1000
+更	keng	1000
+供	keng	1000
+宮	keng	1000
+弓	keng	1000
+荊	keng	1000
+兢	keng	1000
+驚	keng	1000
+經	keng	1000
+矜	keng	1000
+景	keng2	1000
+境	keng2	1000
+竟	keng2	1000
+更	keng3	1000
+敬	keng3	1000
+亙	keng3	1000
+瓊	keng5	1000
+警	keng6	1000
+競	keng6	1000
+耕	kenn	1000
+庚	kenn	1000
+羹	kenn	1000
+經	kenn	1000
+賡	kenn	1000
+埂	kenn2	1000
+梗	kenn2	1000
+更	kenn3	1000
+勁	kenn3	1000
+粳	kenn3	1000
+頸	kenn3	1000
+徑	kenn3	1000
+逕	kenn3	1000
+腳	kha	1000
+骹	kha	1000
+尻	kha	1000
+卡	kha2	1000
+豈	kha2	1000
+巧	kha2	1000
+咔	kha2	1000
+開	khai	1000
+楷	khai2	1000
+凱	khai2	1000
+概	khai3	1000
+溉	khai3	1000
+慨	khai3	1000
+暨	khai3	1000
+嘎	khak	1000
+霍	khak	1000
+殼	khak	1000
+榷	khak	1000
+確	khak	1000
+恪	khak	1000
+麴	khak	1000
+堪	kham	1000
+勘	kham	1000
+湛	kham	1000
+戡	kham	1000
+龕	kham	1000
+檻	kham2	1000
+坎	kham2	1000
+砍	kham2	1000
+嵌	kham2	1000
+刊	khan	1000
+牽	khan	1000
+纖	khan	1000
+看	khan3	1000
+刊	khan5	1000
+工	khang	1000
+康	khang	1000
+慷	khang	1000
+糠	khang	1000
+空	khang	1000
+匡	khang	1000
+抗	khang3	1000
+亢	khang3	1000
+炕	khang3	1000
+吭	khang3	1000
+蓋	khap	1000
+磕	khap	1000
+刻	khap	1000
+掐	khap	1000
+恰	khap	1000
+盍	khap	1000
+摳	khau	1000
+尻	khau	1000
+考	khau2	1000
+拷	khau2	1000
+烤	khau2	1000
+口	khau2	1000
+靠	khau3	1000
+寇	khau3	1000
+哭	khau3	1000
+叩	khau3	1000
+扣	khau3	1000
+釦	khau3	1000
+喀	kheh	1000
+客	kheh	1000
+擊	khek	1000
+刻	khek	1000
+蛐	khek	1000
+曲	khek	1000
+麴	khek	1000
+兢	kheng	1000
+筐	kheng	1000
+卿	kheng	1000
+肯	kheng2	1000
+啃	kheng2	1000
+慶	kheng3	1000
+罄	kheng3	1000
+莖	kheng5	1000
+鯨	kheng5	1000
+痙	kheng5	1000
+擎	kheng5	1000
+扃	kheng5	1000
+坑	khenn	1000
+吭	khenn	1000
+欺	khi	1000
+崎	khi	1000
+齒	khi2	1000
+起	khi2	1000
+啓	khi2	1000
+杞	khi2	1000
+器	khi3	1000
+氣	khi3	1000
+棄	khi3	1000
+汽	khi3	1000
+亟	khi3	1000
+期	khi5	1000
+其	khi5	1000
+奇	khi5	1000
+歧	khi5	1000
+祈	khi5	1000
+祁	khi5	1000
+沂	khi5	1000
+亓	khi5	1000
+祇	khi5	1000
+祺	khi5	1000
+耆	khi5	1000
+鰭	khi5	1000
+麒	khi5	1000
+忌	khi7	1000
+奇	khia	1000
+家	khia	1000
+騎	khia5	1000
+擎	khia5	1000
+企	khia6	1000
+隙	khiah	1000
+攫	khiak	1000
+怯	khiak	1000
+卻	khiak	1000
+謙	khiam	1000
+歉	khiam2	1000
+欠	khiam3	1000
+緘	khiam5	1000
+鉗	khiam5	1000
+儉	khiam6	1000
+強	khiang3	1000
+強	khiang5	1000
+襁	khiang5	1000
+橇	khiau	1000
+敲	khiau	1000
+巧	khiau2	1000
+翹	khiau3	1000
+竅	khiau3	1000
+喬	khiau5	1000
+僑	khiau5	1000
+翹	khiau5	1000
+蕎	khiau5	1000
+挈	khieh8	1000
+虔	khien	1000
+遣	khien2	1000
+譴	khien2	1000
+犬	khien2	1000
+乾	khien5	1000
+腔	khienn	1000
+喫	khiet	1000
+撅	khiet	1000
+契	khiet	1000
+孑	khiet	1000
+挈	khiet	1000
+黠	khiet	1000
+屈	khih	1000
+缺	khih	1000
+襟	khim	1000
+欽	khim	1000
+衿	khim	1000
+黔	khim5	1000
+琴	khim5	1000
+擒	khim5	1000
+禽	khim5	1000
+輕	khin	1000
+氫	khin	1000
+鉗	khinn5	1000
+可	khiok	1000
+克	khiok	1000
+剋	khiok	1000
+鞏	khiong2	1000
+恐	khiong2	1000
+窮	khiong5	1000
+圾	khip	1000
+級	khip	1000
+泣	khip	1000
+吸	khip	1000
+汲	khip	1000
+屈	khit	1000
+丘	khiu	1000
+邱	khiu	1000
+蚯	khiu	1000
+鳩	khiu	1000
+求	khiu5	1000
+裘	khiu5	1000
+糠	khng	1000
+勸	khng3	1000
+戈	kho	1000
+坷	kho	1000
+苛	kho	1000
+柯	kho	1000
+涸	kho2	1000
+棵	kho2	1000
+顆	kho2	1000
+可	kho2	1000
+靠	kho3	1000
+咯	khoh	1000
+揩	khoi	1000
+溪	khoi	1000
+契	khoi3	1000
+軋	khoih	1000
+蓋	khoinn3	1000
+哭	khok	1000
+酷	khok	1000
+梏	khok	1000
+空	khong	1000
+孔	khong2	1000
+控	khong3	1000
+箍	khou	1000
+呼	khou	1000
+枯	khou	1000
+苦	khou2	1000
+許	khou2	1000
+寇	khou3	1000
+庫	khou3	1000
+褲	khou3	1000
+蔻	khou3	1000
+拘	khu	1000
+丘	khu	1000
+邱	khu	1000
+區	khu	1000
+軀	khu	1000
+驅	khu	1000
+樞	khu	1000
+臼	khu6	1000
+垮	khua	1000
+挎	khua	1000
+跨	khua	1000
+夸	khua	1000
+誇	khua	1000
+掛	khua3	1000
+胯	khua3	1000
+闊	khuah	1000
+筷	khuai3	1000
+快	khuai3	1000
+擴	khuak	1000
+寬	khuan	1000
+傾	khuan	1000
+頃	khuan	1000
+圈	khuan	1000
+髖	khuan	1000
+款	khuan2	1000
+傾	khuan2	1000
+頃	khuan2	1000
+顴	khuan5	1000
+權	khuan5	1000
+逛	khuang	1000
+匡	khuang	1000
+框	khuang	1000
+眶	khuang	1000
+礦	khuang3	1000
+曠	khuang3	1000
+況	khuang3	1000
+擴	khuang3	1000
+狂	khuang5	1000
+瓊	khuang5	1000
+煢	khuang5	1000
+誑	khuang5	1000
+款	khuann	1000
+恢	khue	1000
+科	khue	1000
+盔	khue	1000
+魁	khue	1000
+課	khue3	1000
+卦	khue3	1000
+瘸	khue5	1000
+缺	khueh	1000
+窟	khuh	1000
+開	khui	1000
+虧	khui	1000
+巋	khui	1000
+軌	khui2	1000
+季	khui3	1000
+氣	khui3	1000
+葵	khui5	1000
+馗	khui5	1000
+饋	khui6	1000
+愧	khui6	1000
+潰	khui6	1000
+坤	khun	1000
+昆	khun	1000
+崑	khun	1000
+窘	khun2	1000
+菌	khun2	1000
+墾	khun2	1000
+懇	khun2	1000
+捆	khun2	1000
+困	khun3	1000
+睏	khun3	1000
+拳	khun5	1000
+羣	khun5	1000
+去	khur3	1000
+渠	khur5	1000
+吃	khurh	1000
+乞	khurh	1000
+勤	khurn5	1000
+芹	khurn5	1000
+乞	khurt	1000
+倔	khut	1000
+窟	khut	1000
+屈	khut	1000
+基	ki	1000
+機	ki	1000
+畸	ki	1000
+稽	ki	1000
+箕	ki	1000
+肌	ki	1000
+飢	ki	1000
+譏	ki	1000
+姬	ki	1000
+期	ki	1000
+奇	ki	1000
+枝	ki	1000
+支	ki	1000
+岐	ki	1000
+嵇	ki	1000
+梔	ki	1000
+畿	ki	1000
+幾	ki	1000
+稽	ki2	1000
+己	ki2	1000
+紀	ki2	1000
+指	ki2	1000
+几	ki2	1000
+薊	ki3	1000
+計	ki3	1000
+記	ki3	1000
+既	ki3	1000
+繼	ki3	1000
+紀	ki3	1000
+廄	ki3	1000
+暨	ki3	1000
+痣	ki3	1000
+覬	ki3	1000
+棋	ki5	1000
+旗	ki5	1000
+技	ki6	1000
+冀	ki6	1000
+伎	ki6	1000
+忌	ki6	1000
+妓	ki6	1000
+企	ki6	1000
+羈	ki6	1000
+己	ki7	1000
+嘉	kia	1000
+佳	kia	1000
+加	kia	1000
+咖	kia	1000
+茄	kia	1000
+笳	kia	1000
+迦	kia	1000
+賈	kia2	1000
+假	kia2	1000
+寄	kia3	1000
+揭	kiah	1000
+撅	kiah	1000
+劇	kiah8	1000
+兼	kiam	1000
+檢	kiam2	1000
+鹼	kiam2	1000
+撿	kiam2	1000
+減	kiam2	1000
+劍	kiam3	1000
+鹼	kiam5	1000
+鹹	kiam5	1000
+疆	kiang	1000
+羌	kiang	1000
+僵	kiang	1000
+殭	kiang	1000
+姜	kiang	1000
+強	kiang2	1000
+京	kiann	1000
+驚	kiann	1000
+經	kiann	1000
+假	kiann2	1000
+今	kiann2	1000
+仔	kiann2	1000
+囝	kiann2	1000
+鏡	kiann3	1000
+行	kiann5	1000
+件	kiann6	1000
+健	kiann7	1000
+頰	kiap	1000
+劫	kiap	1000
+潔	kiap	1000
+峽	kiap	1000
+愜	kiap	1000
+夾	kiap8	1000
+澆	kiau	1000
+驕	kiau	1000
+嬌	kiau	1000
+邀	kiau	1000
+攪	kiau2	1000
+矯	kiau2	1000
+餃	kiau2	1000
+繳	kiau2	1000
+橇	kiau6	1000
+撬	kiau6	1000
+叫	kie3	1000
+橋	kie5	1000
+茄	kie5	1000
+轎	kie7	1000
+腳	kieh	1000
+角	kieh	1000
+堅	kien	1000
+捐	kien	1000
+鵑	kien	1000
+娟	kien	1000
+見	kien3	1000
+建	kien3	1000
+絹	kien3	1000
+鍵	kien6	1000
+健	kien6	1000
+建	kien6	1000
+毽	kien6	1000
+犍	kien6	1000
+薑	kienn	1000
+吉	kiet	1000
+潔	kiet	1000
+傑	kiet8	1000
+竭	kiet8	1000
+桀	kiet8	1000
+砌	kih	1000
+金	kim	1000
+今	kim	1000
+錦	kim2	1000
+禁	kim3	1000
+妗	kim6	1000
+緊	kin2	1000
+見	kinn3	1000
+舷	kinn5	1000
+墘	kinn5	1000
+鞠	kiok	1000
+粥	kiok	1000
+恭	kiong	1000
+躬	kiong	1000
+共	kiong	1000
+穹	kiong	1000
+拱	kiong2	1000
+給	kip	1000
+急	kip	1000
+及	kip8	1000
+吉	kit	1000
+揭	kit	1000
+桔	kit	1000
+結	kit	1000
+龜	kiu	1000
+玖	kiu2	1000
+九	kiu2	1000
+赳	kiu2	1000
+究	kiu3	1000
+廄	kiu3	1000
+救	kiu3	1000
+疚	kiu3	1000
+球	kiu5	1000
+糾	kiu6	1000
+咎	kiu6	1000
+疚	kiu6	1000
+缸	kng	1000
+崗	kng	1000
+光	kng	1000
+扛	kng	1000
+耿	kng2	1000
+管	kng2	1000
+廣	kng2	1000
+卷	kng2	1000
+鋼	kng3	1000
+竿	ko	1000
+篙	ko	1000
+高	ko	1000
+膏	ko	1000
+羔	ko	1000
+糕	ko	1000
+哥	ko	1000
+歌	ko	1000
+過	ko	1000
+稿	ko2	1000
+裹	ko2	1000
+告	ko3	1000
+塊	ko3	1000
+撾	ko5	1000
+個	ko6	1000
+擱	koh	1000
+胳	koh	1000
+閣	koh	1000
+雞	koi	1000
+街	koi	1000
+改	koi2	1000
+解	koi2	1000
+計	koi3	1000
+解	koi3	1000
+疥	koi3	1000
+鮭	koi5	1000
+慧	koi7	1000
+易	koi7	1000
+夾	koih	1000
+莢	koih	1000
+夾	koih8	1000
+挾	koih8	1000
+間	koinn	1000
+肩	koinn	1000
+繭	koinn2	1000
+間	koinn3	1000
+國	kok	1000
+咯	kok	1000
+峪	kok	1000
+幗	kok	1000
+谷	kok	1000
+穀	kok	1000
+工	kong	1000
+攻	kong	1000
+功	kong	1000
+龔	kong	1000
+公	kong	1000
+蚣	kong	1000
+講	kong2	1000
+槓	kong3	1000
+汞	kong3	1000
+貢	kong3	1000
+辜	kou	1000
+菇	kou	1000
+估	kou	1000
+沽	kou	1000
+孤	kou	1000
+姑	kou	1000
+枯	kou	1000
+苟	kou2	1000
+估	kou2	1000
+鼓	kou2	1000
+古	kou2	1000
+股	kou2	1000
+嘏	kou2	1000
+牯	kou2	1000
+妒	kou3	1000
+垢	kou3	1000
+構	kou3	1000
+購	kou3	1000
+夠	kou3	1000
+顧	kou3	1000
+僱	kou3	1000
+糊	kou5	1000
+餬	kou5	1000
+辜	ku	1000
+咕	ku	1000
+孤	ku	1000
+龜	ku	1000
+駒	ku	1000
+佝	ku	1000
+古	ku2	1000
+蠱	ku2	1000
+賈	ku2	1000
+韭	ku2	1000
+久	ku2	1000
+故	ku3	1000
+顧	ku3	1000
+固	ku3	1000
+灸	ku3	1000
+句	ku3	1000
+舅	ku6	1000
+具	ku6	1000
+懼	ku6	1000
+故	ku7	1000
+舊	ku7	1000
+柯	kua	1000
+剮	kua2	1000
+寡	kua2	1000
+蓋	kua3	1000
+掛	kua3	1000
+褂	kua3	1000
+旰	kua3	1000
+噶	kuah	1000
+割	kuah	1000
+葛	kuah	1000
+渴	kuah	1000
+乖	kuai	1000
+鮭	kuai	1000
+拐	kuai2	1000
+柺	kuai2	1000
+怪	kuai3	1000
+劊	kuai3	1000
+會	kuai3	1000
+繪	kuai3	1000
+儈	kuai3	1000
+檜	kuai3	1000
+膾	kuai3	1000
+郭	kuak	1000
+關	kuan	1000
+冠	kuan	1000
+觀	kuan	1000
+綸	kuan	1000
+管	kuan2	1000
+館	kuan2	1000
+冠	kuan3	1000
+觀	kuan3	1000
+罐	kuan3	1000
+慣	kuan3	1000
+灌	kuan3	1000
+貫	kuan3	1000
+眷	kuan3	1000
+券	kuan3	1000
+摜	kuan3	1000
+盥	kuan3	1000
+倦	kuan6	1000
+捲	kuan6	1000
+光	kuang	1000
+觥	kuang	1000
+誑	kuang	1000
+鰥	kuang	1000
+耿	kuang2	1000
+廣	kuang2	1000
+炯	kuang2	1000
+迥	kuang2	1000
+逛	kuang6	1000
+竿	kuann	1000
+肝	kuann	1000
+稈	kuann	1000
+棺	kuann	1000
+官	kuann	1000
+桿	kuann	1000
+趕	kuann2	1000
+果	kuann2	1000
+寒	kuann5	1000
+汗	kuann7	1000
+抉	kuat	1000
+決	kuat	1000
+訣	kuat	1000
+括	kuat	1000
+廓	kuat	1000
+炔	kuat	1000
+玦	kuat	1000
+刮	kuat	1000
+颳	kuat	1000
+乾	kuaⁿ	1000
+瓜	kue	1000
+渦	kue	1000
+果	kue2	1000
+菓	kue2	1000
+裹	kue2	1000
+粿	kue2	1000
+餜	kue2	1000
+掛	kue3	1000
+怪	kue3	1000
+過	kue3	1000
+葵	kue5	1000
+郭	kueh	1000
+刮	kueh	1000
+關	kuenn	1000
+規	kui	1000
+圭	kui	1000
+硅	kui	1000
+歸	kui	1000
+閨	kui	1000
+窺	kui	1000
+奎	kui	1000
+皈	kui	1000
+鮭	kui	1000
+鬼	kui2	1000
+詭	kui2	1000
+傀	kui2	1000
+幾	kui2	1000
+瑰	kui3	1000
+癸	kui3	1000
+桂	kui3	1000
+貴	kui3	1000
+悸	kui3	1000
+鱖	kui3	1000
+慣	kuinn3	1000
+危	kuinn5	1000
+懸	kuinn5	1000
+跪	kuinn6	1000
+櫃	kuinn7	1000
+縣	kuinn7	1000
+軍	kun	1000
+君	kun	1000
+皸	kun	1000
+輥	kun2	1000
+滾	kun2	1000
+棍	kun3	1000
+裙	kun5	1000
+郡	kun6	1000
+車	kur	1000
+居	kur	1000
+櫃	kur2	1000
+矩	kur2	1000
+舉	kur2	1000
+齲	kur2	1000
+枸	kur2	1000
+鋸	kur3	1000
+据	kur5	1000
+拒	kur6	1000
+巨	kur6	1000
+距	kur6	1000
+踞	kur6	1000
+炬	kur6	1000
+據	kur6	1000
+根	kurn	1000
+跟	kurn	1000
+巾	kurn	1000
+筋	kurn	1000
+斤	kurn	1000
+均	kurn	1000
+鈞	kurn	1000
+僅	kurn2	1000
+謹	kurn2	1000
+靳	kurn3	1000
+凝	kurn5	1000
+近	kurn6	1000
+骨	kut	1000
+猾	kut8	1000
+滑	kut8	1000
+掘	kut8	1000
+垃	la	1000
+拉	la	1000
+喇	la	1000
+啦	la	1000
+哪	la5	1000
+拉	lah8	1000
+蠟	lah8	1000
+臘	lah8	1000
+獵	lah8	1000
+曆	lah8	1000
+來	lai3	1000
+賚	lai3	1000
+萊	lai5	1000
+來	lai5	1000
+梨	lai5	1000
+狸	lai5	1000
+裏	lai6	1000
+內	lai6	1000
+裏	lai6	1000
+裡	lai6	1000
+來	lai7	1000
+碌	lak	1000
+落	lak	1000
+樂	lak8	1000
+力	lak8	1000
+六	lak8	1000
+陸	lak8	1000
+栗	lak8	1000
+慄	lak8	1000
+艦	lam2	1000
+攬	lam2	1000
+覽	lam2	1000
+纜	lam2	1000
+藍	lam5	1000
+婪	lam5	1000
+淋	lam5	1000
+南	lam5	1000
+男	lam5	1000
+襤	lam5	1000
+濫	lam6	1000
+懶	lan2	1000
+欄	lan5	1000
+攔	lan5	1000
+闌	lan5	1000
+蘭	lan5	1000
+瀾	lan5	1000
+讕	lan5	1000
+鱗	lan5	1000
+零	lan5	1000
+難	lan5	1000
+爛	lan6	1000
+難	lan7	1000
+囊	lang2	1000
+琅	lang5	1000
+榔	lang5	1000
+狼	lang5	1000
+廊	lang5	1000
+郎	lang5	1000
+聾	lang5	1000
+籠	lang5	1000
+膿	lang5	1000
+稂	lang5	1000
+踉	lang5	1000
+朗	lang6	1000
+浪	lang6	1000
+卵	lang6	1000
+踉	lang6	1000
+拉	lap	1000
+拉	lap8	1000
+撈	lau	1000
+老	lau2	1000
+佬	lau2	1000
+姥	lau2	1000
+簍	lau2	1000
+澇	lau3	1000
+溜	lau3	1000
+撈	lau5	1000
+勞	lau5	1000
+潦	lau5	1000
+留	lau5	1000
+劉	lau5	1000
+流	lau5	1000
+樓	lau5	1000
+醪	lau5	1000
+老	lau6	1000
+漏	lau7	1000
+鬧	lau7	1000
+落	lauh8	1000
+礫	leh8	1000
+瀝	leh8	1000
+歷	leh8	1000
+曆	leh8	1000
+勒	lek8	1000
+肋	lek8	1000
+陸	lek8	1000
+氯	lek8	1000
+綠	lek8	1000
+癧	lek8	1000
+鈴	leng	1000
+靚	leng	1000
+壟	leng2	1000
+隴	leng2	1000
+攆	leng2	1000
+棱	leng5	1000
+楞	leng5	1000
+拎	leng5	1000
+玲	leng5	1000
+菱	leng5	1000
+零	leng5	1000
+齡	leng5	1000
+伶	leng5	1000
+羚	leng5	1000
+凌	leng5	1000
+靈	leng5	1000
+陵	leng5	1000
+另	leng5	1000
+龍	leng5	1000
+嚨	leng5	1000
+隆	leng5	1000
+能	leng5	1000
+檸	leng5	1000
+獰	leng5	1000
+寧	leng5	1000
+擰	leng5	1000
+濘	leng5	1000
+瓴	leng5	1000
+聆	leng5	1000
+令	leng6	1000
+理	li2	1000
+李	li2	1000
+裏	li2	1000
+鯉	li2	1000
+禮	li2	1000
+哩	li2	1000
+旅	li2	1000
+履	li2	1000
+蠡	li2	1000
+里	li2	1000
+釐	li5	1000
+黎	li5	1000
+籬	li5	1000
+狸	li5	1000
+離	li5	1000
+漓	li5	1000
+麗	li5	1000
+璃	li5	1000
+犛	li5	1000
+罹	li5	1000
+魑	li5	1000
+鸝	li5	1000
+莉	li6	1000
+荔	li6	1000
+麗	li6	1000
+厲	li6	1000
+勵	li6	1000
+利	li6	1000
+痢	li6	1000
+俐	li6	1000
+戾	li6	1000
+癘	li6	1000
+礪	li6	1000
+蒞	li6	1000
+吏	li7	1000
+例	li7	1000
+哩	li7	1000
+俐	li7	1000
+掠	liah8	1000
+撂	liak8	1000
+略	liak8	1000
+慄	liak8	1000
+拈	liam	1000
+粘	liam	1000
+黏	liam	1000
+斂	liam2	1000
+殮	liam2	1000
+鐮	liam5	1000
+廉	liam5	1000
+黏	liam5	1000
+帘	liam5	1000
+簾	liam5	1000
+廿	liam6	1000
+念	liam6	1000
+唸	liam7	1000
+倆	liang2	1000
+兩	liang2	1000
+輛	liang2	1000
+魎	liang2	1000
+憐	liang5	1000
+涼	liang5	1000
+梁	liang5	1000
+粱	liang5	1000
+良	liang5	1000
+量	liang5	1000
+量	liang6	1000
+晾	liang6	1000
+亮	liang6	1000
+諒	liang6	1000
+粒	liap8	1000
+了	liau2	1000
+瞭	liau2	1000
+了	liau3	1000
+撈	liau5	1000
+撩	liau5	1000
+聊	liau5	1000
+僚	liau5	1000
+療	liau5	1000
+燎	liau5	1000
+寥	liau5	1000
+遼	liau5	1000
+潦	liau5	1000
+鐐	liau5	1000
+獠	liau5	1000
+醪	liau5	1000
+瞭	liau5	1000
+廖	liau7	1000
+料	liau7	1000
+撈	lie5	1000
+略	lieh8	1000
+臉	lien2	1000
+聯	lien5	1000
+蓮	lien5	1000
+連	lien5	1000
+憐	lien5	1000
+漣	lien5	1000
+鏈	lien5	1000
+吝	lien6	1000
+鏈	lien7	1000
+煉	lien7	1000
+練	lien7	1000
+列	liet8	1000
+烈	liet8	1000
+鬣	liet8	1000
+裂	lih8	1000
+咧	lih8	1000
+凜	lim2	1000
+琳	lim5	1000
+林	lim5	1000
+霖	lim5	1000
+臨	lim5	1000
+淋	lim5	1000
+輦	lin2	1000
+聯	lin5	1000
+磷	lin5	1000
+鄰	lin5	1000
+鱗	lin5	1000
+轔	lin5	1000
+麟	lin5	1000
+立	lip8	1000
+溜	liu	1000
+柳	liu2	1000
+溜	liu3	1000
+餾	liu3	1000
+琉	liu5	1000
+榴	liu5	1000
+硫	liu5	1000
+留	liu5	1000
+瘤	liu5	1000
+流	liu5	1000
+六	liu5	1000
+囉	lo	1000
+裹	lo2	1000
+顆	lo2	1000
+潦	lo2	1000
+裸	lo2	1000
+腦	lo2	1000
+惱	lo2	1000
+牢	lo5	1000
+蘿	lo5	1000
+螺	lo5	1000
+羅	lo5	1000
+邏	lo5	1000
+鑼	lo5	1000
+籮	lo5	1000
+騾	lo5	1000
+醪	lo5	1000
+咯	lo7	1000
+落	loh8	1000
+駱	loh8	1000
+禮	loi2	1000
+犁	loi5	1000
+黎	loi5	1000
+籬	loi7	1000
+笠	loih8	1000
+貉	lok8	1000
+酪	lok8	1000
+烙	lok8	1000
+磊	lok8	1000
+麓	lok8	1000
+碌	lok8	1000
+祿	lok8	1000
+錄	lok8	1000
+陸	lok8	1000
+戮	lok8	1000
+洛	lok8	1000
+駱	lok8	1000
+絡	lok8	1000
+骼	lok8	1000
+籠	long2	1000
+壟	long2	1000
+攏	long2	1000
+窿	long5	1000
+隆	long5	1000
+囊	long5	1000
+膿	long5	1000
+濃	long5	1000
+農	long5	1000
+弄	long6	1000
+摟	lou2	1000
+惱	lou2	1000
+鹵	lou2	1000
+滷	lou2	1000
+盧	lou5	1000
+廬	lou5	1000
+爐	lou5	1000
+鱸	lou5	1000
+鸕	lou5	1000
+陋	lou6	1000
+露	lou7	1000
+路	lou7	1000
+擄	lu2	1000
+虜	lu2	1000
+魯	lu2	1000
+屢	lu2	1000
+縷	lu2	1000
+婁	lu5	1000
+蘆	lu5	1000
+盧	lu5	1000
+顱	lu5	1000
+廬	lu5	1000
+髏	lu5	1000
+鸕	lu5	1000
+賂	lu6	1000
+潞	lu6	1000
+鷺	lu6	1000
+籮	lua5	1000
+賴	lua7	1000
+辣	luah	1000
+烙	luah	1000
+辣	luah8	1000
+閱	luah8	1000
+暖	luan2	1000
+戀	luan3	1000
+巒	luan5	1000
+攣	luan5	1000
+孿	luan5	1000
+灤	luan5	1000
+亂	luan6	1000
+劣	luat	1000
+閱	luat	1000
+蕾	lui2	1000
+磊	lui2	1000
+儡	lui2	1000
+壘	lui2	1000
+蕊	lui2	1000
+累	lui2	1000
+纍	lui2	1000
+雷	lui5	1000
+鐳	lui5	1000
+蕾	lui5	1000
+擂	lui5	1000
+羸	lui5	1000
+淚	lui6	1000
+累	lui6	1000
+類	lui7	1000
+忍	lun2	1000
+嫩	lun3	1000
+掄	lun5	1000
+輪	lun5	1000
+倫	lun5	1000
+淪	lun5	1000
+綸	lun5	1000
+侖	lun5	1000
+崙	lun5	1000
+論	lun6	1000
+汝	lur2	1000
+勞	lur5	1000
+驢	lur5	1000
+閭	lur5	1000
+呂	lur6	1000
+鋁	lur6	1000
+侶	lur6	1000
+慮	lur6	1000
+濾	lur6	1000
+脫	lut	1000
+律	lut8	1000
+率	lut8	1000
+鷸	lut8	1000
+姥	m2	1000
+拇	m2	1000
+姆	m2	1000
+母	m2	1000
+毋	m6	1000
+唔	m6	1000
+媽	ma	1000
+嗎	ma	1000
+媽	ma2	1000
+瑪	ma2	1000
+碼	ma2	1000
+螞	ma2	1000
+馬	ma2	1000
+嗎	ma2	1000
+媽	ma5	1000
+嘛	ma7	1000
+勿	mai3	1000
+埋	mai5	1000
+霾	mai5	1000
+邁	mai6	1000
+衊	mak	1000
+目	mak8	1000
+挽	man2	1000
+輓	man2	1000
+蠻	man5	1000
+閩	man5	1000
+曼	man6	1000
+緩	man7	1000
+慢	man7	1000
+莽	mang2	1000
+蟒	mang2	1000
+蠓	mang2	1000
+芒	mang5	1000
+茫	mang5	1000
+盲	mang5	1000
+氓	mang5	1000
+忙	mang5	1000
+幕	mang6	1000
+網	mang6	1000
+夢	mang7	1000
+貓	mau	1000
+耄	mau3	1000
+茅	mau5	1000
+毛	mau5	1000
+矛	mau5	1000
+犛	mau5	1000
+髦	mau5	1000
+冒	mau6	1000
+貌	mau6	1000
+夜	me5	1000
+罵	me7	1000
+脈	meh8	1000
+陌	mek8	1000
+貊	mek8	1000
+錳	meng2	1000
+猛	meng2	1000
+皿	meng2	1000
+盲	meng5	1000
+萌	meng5	1000
+盟	meng5	1000
+明	meng5	1000
+螟	meng5	1000
+鳴	meng5	1000
+銘	meng5	1000
+名	meng5	1000
+冥	meng5	1000
+暝	meng5	1000
+瞑	meng5	1000
+酩	meng5	1000
+孟	meng6	1000
+命	meng6	1000
+猛	menn2	1000
+芒	menn5	1000
+盲	menn5	1000
+冥	menn5	1000
+暝	menn5	1000
+眯	mi	1000
+乜	mi	1000
+咪	mi	1000
+美	mi2	1000
+靡	mi2	1000
+眉	mi5	1000
+眯	mi5	1000
+醚	mi5	1000
+糜	mi5	1000
+迷	mi5	1000
+媚	mi6	1000
+謎	mi6	1000
+袂	mi6	1000
+名	miann5	1000
+命	miann7	1000
+藐	miau2	1000
+秒	miau2	1000
+杳	miau2	1000
+渺	miau2	1000
+淼	miau2	1000
+錨	miau5	1000
+苗	miau5	1000
+描	miau5	1000
+瞄	miau5	1000
+妙	miau6	1000
+冕	mien2	1000
+免	mien2	1000
+勉	mien2	1000
+娩	mien2	1000
+緬	mien2	1000
+敏	mien2	1000
+憫	mien2	1000
+閔	mien2	1000
+綿	mien5	1000
+乜	mih	1000
+甭	min2	1000
+免	min2	1000
+氓	min5	1000
+眠	min5	1000
+民	min5	1000
+抿	min5	1000
+泯	min5	1000
+面	min7	1000
+棉	minn5	1000
+綿	minn5	1000
+麵	minn7	1000
+覓	mit8	1000
+蜜	mit8	1000
+密	mit8	1000
+冪	mit8	1000
+滅	mit8	1000
+默	mit8	1000
+蔑	mit8	1000
+衊	mit8	1000
+晚	mng2	1000
+門	mng5	1000
+們	mng5	1000
+問	mng7	1000
+孬	mo2	1000
+毛	mo5	1000
+摸	mo5	1000
+摹	mo5	1000
+蘑	mo5	1000
+模	mo5	1000
+摩	mo5	1000
+魔	mo5	1000
+墓	mo6	1000
+暮	mo6	1000
+幕	mo6	1000
+募	mo6	1000
+慕	mo6	1000
+麼	mo7	1000
+望	mo7	1000
+麼	moh	1000
+膜	moh8	1000
+漠	moh8	1000
+沒	mok8	1000
+莫	mok8	1000
+漠	mok8	1000
+寞	mok8	1000
+木	mok8	1000
+睦	mok8	1000
+牧	mok8	1000
+穆	mok8	1000
+疫	mok8	1000
+沐	mok8	1000
+某	mong2	1000
+晚	mong2	1000
+貿	mong3	1000
+芒	mong5	1000
+檬	mong5	1000
+摸	mong5	1000
+謀	mong5	1000
+蠓	mong5	1000
+蒙	mong5	1000
+濛	mong5	1000
+矇	mong5	1000
+朦	mong5	1000
+茂	mong6	1000
+舞	mong6	1000
+瞀	mou3	1000
+謀	mou5	1000
+牟	mou5	1000
+茂	mou6	1000
+瞀	mou6	1000
+袤	mou6	1000
+麻	mua5	1000
+痲	mua5	1000
+滿	muann2	1000
+瞞	muann5	1000
+鰻	muann5	1000
+末	muat8	1000
+每	mue2	1000
+昧	mue6	1000
+寐	mue6	1000
+妹	mue6	1000
+魅	mue6	1000
+物	mueh8	1000
+糜	muenn5	1000
+鎂	mui2	1000
+美	mui2	1000
+微	mui5	1000
+沒	mut8	1000
+南	na	1000
+拿	na2	1000
+哪	na2	1000
+那	na2	1000
+藍	na5	1000
+籃	na5	1000
+林	na5	1000
+哪	na5	1000
+哪	na7	1000
+垃	nah	1000
+拉	nah	1000
+乃	nai2	1000
+奶	nai2	1000
+賴	nai6	1000
+氖	nai6	1000
+乃	nai6	1000
+耐	nai6	1000
+奈	nai6	1000
+癩	nai6	1000
+籟	nai6	1000
+俺	nan2	1000
+咱	nan2	1000
+赧	nan2	1000
+人	nang5	1000
+儂	nang5	1000
+吶	nap8	1000
+鈉	nap8	1000
+納	nap8	1000
+諾	nap8	1000
+澆	nau	1000
+孬	nau	1000
+腦	nau2	1000
+惱	nau2	1000
+瑙	nau2	1000
+撓	nau5	1000
+鬧	nau6	1000
+扭	nau6	1000
+鬧	nau7	1000
+匿	nek8	1000
+溺	nek8	1000
+肉	nek8	1000
+冷	nenn2	1000
+秧	ng	1000
+尹	ng2	1000
+黃	ng5	1000
+磺	ng5	1000
+皚	ngai5	1000
+呆	ngai5	1000
+崖	ngai5	1000
+涯	ngai5	1000
+捱	ngai5	1000
+艾	ngai6	1000
+岸	ngai6	1000
+鄂	ngak8	1000
+噩	ngak8	1000
+鱷	ngak8	1000
+岳	ngak8	1000
+嶽	ngak8	1000
+啱	ngam	1000
+癌	ngam5	1000
+巖	ngam5	1000
+眼	ngan2	1000
+唁	ngan3	1000
+凝	ngan5	1000
+言	ngan5	1000
+顏	ngan5	1000
+元	ngan5	1000
+雁	ngan6	1000
+彥	ngan6	1000
+諺	ngan6	1000
+贗	ngan6	1000
+昂	ngang	1000
+囂	ngau	1000
+敖	ngau5	1000
+熬	ngau5	1000
+翱	ngau5	1000
+淆	ngau5	1000
+爻	ngau5	1000
+獒	ngau5	1000
+餚	ngau5	1000
+傲	ngau6	1000
+逆	ngek8	1000
+凝	ngeng5	1000
+迎	ngeng5	1000
+硬	ngenn6	1000
+擬	ngi2	1000
+議	ngi2	1000
+誼	ngi3	1000
+霓	ngi5	1000
+倪	ngi5	1000
+儀	ngi5	1000
+宜	ngi5	1000
+毅	ngi5	1000
+羿	ngi5	1000
+義	ngi6	1000
+雅	ngia2	1000
+鎳	ngiak8	1000
+虐	ngiak8	1000
+瘧	ngiak8	1000
+嚴	ngiam5	1000
+閻	ngiam5	1000
+驗	ngiam7	1000
+仰	ngiang2	1000
+孽	ngiap8	1000
+業	ngiap8	1000
+貓	ngiau	1000
+僥	ngiau5	1000
+堯	ngiau5	1000
+研	ngien2	1000
+願	ngien3	1000
+研	ngien5	1000
+妍	ngien5	1000
+喫	ngiet	1000
+齧	ngiet	1000
+黔	ngim5	1000
+吟	ngim5	1000
+我	ngo2	1000
+蛾	ngo5	1000
+峨	ngo5	1000
+俄	ngo5	1000
+娥	ngo5	1000
+哦	ngo5	1000
+梧	ngo5	1000
+吾	ngo5	1000
+虞	ngo5	1000
+愚	ngo5	1000
+隅	ngo5	1000
+晤	ngo6	1000
+悟	ngo6	1000
+遇	ngo6	1000
+寓	ngo6	1000
+寤	ngo6	1000
+齧	ngoih	1000
+研	ngoinn2	1000
+藕	ngou2	1000
+偶	ngou2	1000
+五	ngou2	1000
+午	ngou2	1000
+伍	ngou2	1000
+牾	ngou2	1000
+五	ngou6	1000
+伍	ngou6	1000
+阮	nguan2	1000
+玩	nguan2	1000
+頑	nguan2	1000
+顏	nguan5	1000
+元	nguan5	1000
+原	nguan5	1000
+源	nguan5	1000
+願	nguan6	1000
+巍	nguinn5	1000
+危	nguinn5	1000
+詭	nguinn6	1000
+僞	nguinn6	1000
+靳	ngurn5	1000
+銀	ngurn5	1000
+吃	ngurt	1000
+疙	ngurt	1000
+迄	ngurt	1000
+訖	ngurt	1000
+屹	ngurt	1000
+奶	ni	1000
+呢	ni	1000
+女	ni2	1000
+染	ni2	1000
+弭	ni2	1000
+獼	ni2	1000
+彌	ni2	1000
+瀰	ni2	1000
+泥	ni3	1000
+呢	ni5	1000
+妮	ni5	1000
+泥	ni5	1000
+尼	ni5	1000
+年	ni5	1000
+奶	ni6	1000
+膩	ni6	1000
+娘	niang5	1000
+嶺	niann2	1000
+領	niann2	1000
+捏	niap	1000
+聶	niap	1000
+鑷	niap	1000
+涅	niap	1000
+攝	niap	1000
+懾	niap	1000
+拈	niap8	1000
+捻	niap8	1000
+溺	niau2	1000
+嫋	niau2	1000
+皺	niau3	1000
+兩	nie2	1000
+糧	nienn5	1000
+梁	nienn5	1000
+粱	nienn5	1000
+量	nienn5	1000
+娘	nienn5	1000
+讓	nienn7	1000
+恁	nin2	1000
+扭	niu2	1000
+鈕	niu2	1000
+紐	niu2	1000
+妞	niu2	1000
+謬	niu6	1000
+女	nng2	1000
+軟	nng2	1000
+鑽	nng3	1000
+郎	nng5	1000
+瓤	nng5	1000
+卵	nng6	1000
+浪	nng7	1000
+努	no3	1000
+怒	no3	1000
+懦	no3	1000
+糯	no3	1000
+駑	no3	1000
+娜	no5	1000
+挪	no5	1000
+二	no6	1000
+貳	no6	1000
+兩	no6	1000
+怒	no7	1000
+蓮	noinn5	1000
+奴	nou	1000
+孥	nou	1000
+奴	nou5	1000
+孥	nou5	1000
+爛	nuann7	1000
+餒	nui2	1000
+阿	o	1000
+呵	o	1000
+蝸	o	1000
+渦	o	1000
+窩	o	1000
+噢	o	1000
+媧	o	1000
+屙	o	1000
+鏖	o	1000
+襖	o2	1000
+奧	o3	1000
+懊	o3	1000
+澳	o3	1000
+荷	o5	1000
+菏	o5	1000
+荷	o6	1000
+哦	o6	1000
+臥	o6	1000
+啊	o7	1000
+哦	o7	1000
+惡	oh	1000
+學	oh8	1000
+挨	oi	1000
+矮	oi2	1000
+鞋	oi5	1000
+會	oi6	1000
+狹	oih8	1000
+閒	oinn5	1000
+閑	oinn5	1000
+握	ok	1000
+沃	ok	1000
+屋	ok	1000
+齷	ok	1000
+嗡	ong	1000
+翁	ong	1000
+盎	ong3	1000
+齆	ong3	1000
+擁	ong6	1000
+鷗	ou	1000
+鎢	ou	1000
+烏	ou	1000
+湖	ou5	1000
+胡	ou5	1000
+芋	ou7	1000
+芭	pa	1000
+叭	pa	1000
+吧	pa	1000
+笆	pa	1000
+疤	pa	1000
+巴	pa	1000
+爸	pa	1000
+葩	pa	1000
+靶	pa2	1000
+把	pa2	1000
+飽	pa2	1000
+壩	pa3	1000
+霸	pa3	1000
+豹	pa3	1000
+罷	pa6	1000
+擺	pai2	1000
+襬	pai2	1000
+拜	pai3	1000
+排	pai5	1000
+牌	pai5	1000
+徘	pai5	1000
+敗	pai7	1000
+八	pak	1000
+剝	pak	1000
+北	pak	1000
+膊	pak	1000
+輻	pak	1000
+幅	pak	1000
+腹	pak	1000
+亳	pak	1000
+別	pak	1000
+縛	pak8	1000
+斑	pan	1000
+班	pan	1000
+頒	pan	1000
+扳	pan2	1000
+版	pan2	1000
+板	pan2	1000
+闆	pan2	1000
+扮	pan3	1000
+辦	pan7	1000
+邦	pang	1000
+幫	pang	1000
+梆	pang	1000
+崩	pang	1000
+繃	pang	1000
+蹦	pang	1000
+方	pang	1000
+肪	pang	1000
+楓	pang	1000
+彭	pang	1000
+榜	pang2	1000
+膀	pang2	1000
+綁	pang2	1000
+耪	pang2	1000
+放	pang3	1000
+房	pang5	1000
+馮	pang5	1000
+棒	pang6	1000
+謗	pang6	1000
+識	pat	1000
+苞	pau	1000
+胞	pau	1000
+包	pau	1000
+孢	pau	1000
+保	pau2	1000
+堡	pau2	1000
+褓	pau2	1000
+鴇	pau2	1000
+暴	pau6	1000
+鮑	pau6	1000
+爆	pau6	1000
+瀑	pau6	1000
+把	pe2	1000
+扒	pe5	1000
+耙	pe5	1000
+爬	pe5	1000
+琶	pe5	1000
+杷	pe5	1000
+父	pe6	1000
+柏	peh	1000
+百	peh	1000
+佰	peh	1000
+伯	peh	1000
+掰	peh	1000
+白	peh8	1000
+帛	peh8	1000
+柏	pek	1000
+薄	pek	1000
+逼	pek	1000
+迫	pek	1000
+秉	peng2	1000
+炳	peng2	1000
+迸	peng5	1000
+幷	peng6	1000
+并	peng6	1000
+併	peng6	1000
+並	peng6	1000
+柄	penn3	1000
+棚	penn5	1000
+平	penn5	1000
+病	penn7	1000
+趴	pha	1000
+拋	pha	1000
+泡	pha6	1000
+打	phah	1000
+啪	phah	1000
+拍	phah	1000
+呸	phai2	1000
+痞	phai2	1000
+湃	phai3	1000
+派	phai3	1000
+沛	phai3	1000
+霈	phai3	1000
+排	phai5	1000
+博	phak	1000
+搏	phak	1000
+伏	phak	1000
+趴	phak	1000
+雹	phak8	1000
+暴	phak8	1000
+曝	phak8	1000
+瀑	phak8	1000
+攀	phan	1000
+盼	phan3	1000
+芳	phang	1000
+蜂	phang	1000
+香	phang	1000
+紡	phang2	1000
+膀	phang5	1000
+磅	phang5	1000
+傍	phang5	1000
+帆	phang5	1000
+航	phang5	1000
+龐	phang5	1000
+旁	phang5	1000
+彭	phang5	1000
+篷	phang5	1000
+彷	phang5	1000
+縫	phang7	1000
+怕	phann3	1000
+冇	phann3	1000
+褒	phau	1000
+拋	phau	1000
+刨	phau	1000
+泡	phau	1000
+跑	phau2	1000
+炮	phau3	1000
+泡	phau3	1000
+咆	phau5	1000
+刨	phau5	1000
+炮	phau5	1000
+袍	phau5	1000
+庖	phau5	1000
+狍	phau5	1000
+抱	phau6	1000
+帕	phe3	1000
+碧	phek	1000
+霹	phek	1000
+劈	phek	1000
+魄	phek	1000
+辟	phek	1000
+闢	phek	1000
+烹	pheng	1000
+拼	pheng	1000
+騁	pheng3	1000
+聘	pheng3	1000
+砰	pheng5	1000
+抨	pheng5	1000
+硼	pheng5	1000
+朋	pheng5	1000
+坪	pheng5	1000
+萍	pheng5	1000
+平	pheng5	1000
+憑	pheng5	1000
+評	pheng5	1000
+怦	pheng5	1000
+澎	phenn5	1000
+彭	phenn5	1000
+膨	phenn5	1000
+平	phenn5	1000
+披	phi	1000
+否	phi2	1000
+痞	phi2	1000
+丕	phi2	1000
+鄙	phi3	1000
+譬	phi3	1000
+脾	phi5	1000
+疲	phi5	1000
+貔	phi5	1000
+陂	phi5	1000
+屁	phi6	1000
+僻	phiah	1000
+癖	phiah	1000
+僻	phiah8	1000
+聘	phiann3	1000
+坪	phiann5	1000
+標	phiau	1000
+膘	phiau	1000
+飄	phiau	1000
+漂	phiau	1000
+瓢	phiau	1000
+飆	phiau	1000
+驃	phiau	1000
+票	phie3	1000
+萍	phie5	1000
+編	phien	1000
+扁	phien	1000
+篇	phien	1000
+偏	phien	1000
+翩	phien	1000
+片	phien3	1000
+騙	phien3	1000
+貶	phin2	1000
+瀕	phin5	1000
+頻	phin5	1000
+貧	phin5	1000
+蘋	phin5	1000
+瓶	phin5	1000
+屏	phin5	1000
+便	phinn	1000
+片	phinn3	1000
+鼻	phinn7	1000
+匹	phit	1000
+疋	phit	1000
+覆	phiu3	1000
+漂	phiu3	1000
+陂	pho	1000
+頗	pho2	1000
+繁	pho5	1000
+抱	pho6	1000
+粕	phoh	1000
+批	phoi	1000
+稗	phoinn7	1000
+辦	phoinn7	1000
+爆	phok	1000
+撲	phok	1000
+仆	phok	1000
+朴	phok	1000
+樸	phok	1000
+捧	phong2	1000
+搿	phong2	1000
+碰	phong3	1000
+縫	phong5	1000
+蓬	phong5	1000
+篷	phong5	1000
+鵬	phong5	1000
+鋪	phou	1000
+甫	phou2	1000
+脯	phou2	1000
+剖	phou2	1000
+圃	phou2	1000
+普	phou2	1000
+浦	phou2	1000
+譜	phou2	1000
+涪	phou3	1000
+舖	phou3	1000
+抔	phou5	1000
+簿	phou6	1000
+浮	phu5	1000
+莆	phu5	1000
+葡	phu5	1000
+菩	phu5	1000
+蒲	phu5	1000
+蜉	phu5	1000
+破	phua3	1000
+婆	phua5	1000
+撥	phuah	1000
+撇	phuah	1000
+瞥	phuah	1000
+潑	phuah	1000
+藩	phuan	1000
+拌	phuan3	1000
+絆	phuan3	1000
+畔	phuan3	1000
+判	phuan3	1000
+胖	phuan3	1000
+般	phuan5	1000
+盤	phuan5	1000
+磐	phuan5	1000
+番	phuann	1000
+畨	phuann	1000
+潘	phuann	1000
+頗	phuann2	1000
+判	phuann3	1000
+伴	phuann6	1000
+壞	phue	1000
+胚	phue	1000
+坯	phue	1000
+配	phue3	1000
+裴	phue5	1000
+皮	phue5	1000
+被	phue6	1000
+𠱀	phueh8	1000
+啡	phui2	1000
+呸	phui2	1000
+啡	phui3	1000
+屁	phui3	1000
+潘	phun	1000
+噴	phun3	1000
+墳	phun5	1000
+盆	phun5	1000
+碑	pi	1000
+蓖	pi	1000
+砒	pi	1000
+陂	pi	1000
+稗	pi2	1000
+比	pi2	1000
+彼	pi2	1000
+毗	pi2	1000
+俾	pi2	1000
+畀	pi2	1000
+毖	pi3	1000
+庇	pi3	1000
+痹	pi3	1000
+臂	pi3	1000
+費	pi3	1000
+祕	pi3	1000
+泌	pi3	1000
+匕	pi3	1000
+背	pi3	1000
+揹	pi3	1000
+琵	pi5	1000
+啤	pi5	1000
+脾	pi5	1000
+枇	pi5	1000
+備	pi6	1000
+憊	pi6	1000
+被	pi6	1000
+斃	pi6	1000
+幣	pi6	1000
+閉	pi6	1000
+敝	pi6	1000
+陛	pi6	1000
+蔽	pi7	1000
+弊	pi7	1000
+避	pi7	1000
+壁	piah	1000
+兵	piann	1000
+冰	piann	1000
+丙	piann2	1000
+餅	piann2	1000
+拚	piann3	1000
+殍	piau2	1000
+表	piau2	1000
+標	pie	1000
+錶	pie	1000
+表	pie2	1000
+漂	pie3	1000
+鞭	pien	1000
+邊	pien	1000
+貶	pien2	1000
+扁	pien2	1000
+匾	pien2	1000
+變	pien3	1000
+遍	pien3	1000
+瓣	pien6	1000
+便	pien6	1000
+卞	pien6	1000
+辨	pien6	1000
+辯	pien6	1000
+蹩	piet8	1000
+別	piet8	1000
+鱉	pih	1000
+憋	pih	1000
+彬	pin	1000
+斌	pin	1000
+濱	pin	1000
+賓	pin	1000
+乒	pin	1000
+品	pin2	1000
+屏	pin2	1000
+匾	pin2	1000
+遍	pin3	1000
+擯	pin3	1000
+髕	pin3	1000
+鬢	pin3	1000
+平	pin5	1000
+鞭	pinn	1000
+邊	pinn	1000
+辮	pinn	1000
+扁	pinn2	1000
+變	pinn3	1000
+辮	pinn6	1000
+筆	pit	1000
+必	pit	1000
+畢	pit8	1000
+癟	pit8	1000
+彪	piu	1000
+方	png	1000
+飯	png7	1000
+玻	po	1000
+菠	po	1000
+波	po	1000
+坡	po	1000
+保	po2	1000
+寶	po2	1000
+報	po3	1000
+薄	po5	1000
+婆	po5	1000
+駁	poh	1000
+薄	poh8	1000
+鉑	poh8	1000
+箔	poh8	1000
+舶	poh8	1000
+泊	poh8	1000
+魄	poh8	1000
+捌	poih	1000
+八	poih	1000
+拔	poih8	1000
+斑	poinn	1000
+版	poinn2	1000
+反	poinn2	1000
+板	poinn2	1000
+畔	poinn5	1000
+爿	poinn5	1000
+卜	pok	1000
+蔔	pok8	1000
+僕	pok8	1000
+泵	pong5	1000
+乓	pong5	1000
+磅	pong7	1000
+鎊	pong7	1000
+埠	pou	1000
+夫	pou	1000
+埔	pou	1000
+補	pou2	1000
+斧	pou2	1000
+脯	pou2	1000
+傅	pou3	1000
+布	pou3	1000
+佈	pou3	1000
+部	pou6	1000
+哺	pou7	1000
+步	pou7	1000
+晡	pu	1000
+怖	pu3	1000
+富	pu3	1000
+背	pu3	1000
+佈	pu3	1000
+煲	pu5	1000
+瓠	pu5	1000
+捕	pu6	1000
+哺	pu6	1000
+婦	pu6	1000
+伏	pu7	1000
+播	pua3	1000
+簸	pua3	1000
+鉢	puah	1000
+跋	puah8	1000
+叛	puan6	1000
+搬	puann	1000
+般	puann	1000
+半	puann3	1000
+盤	puann5	1000
+拔	puat8	1000
+跋	puat8	1000
+勃	puat8	1000
+脖	puat8	1000
+渤	puat8	1000
+荸	puat8	1000
+魃	puat8	1000
+杯	pue	1000
+飛	pue	1000
+輩	pue3	1000
+貝	pue3	1000
+背	pue3	1000
+培	pue5	1000
+賠	pue5	1000
+陪	pue5	1000
+貝	pue6	1000
+鋇	pue6	1000
+倍	pue6	1000
+狽	pue6	1000
+佩	pue6	1000
+焙	pue7	1000
+悲	pui	1000
+卑	pui	1000
+壞	pui	1000
+肥	pui5	1000
+吠	pui7	1000
+奔	pun	1000
+分	pun	1000
+苯	pun2	1000
+本	pun2	1000
+糞	pun3	1000
+夯	pun3	1000
+畚	pun3	1000
+笨	pun6	1000
+不	put	1000
+抄	sa	1000
+莎	sa	1000
+砂	sa	1000
+沙	sa	1000
+哨	sa3	1000
+傻	sa6	1000
+啥	sa6	1000
+腮	sai	1000
+鰓	sai	1000
+篩	sai	1000
+師	sai	1000
+獅	sai	1000
+思	sai	1000
+私	sai	1000
+西	sai	1000
+犀	sai	1000
+使	sai2	1000
+屎	sai2	1000
+駛	sai2	1000
+灑	sai3	1000
+塞	sai3	1000
+賽	sai3	1000
+曬	sai3	1000
+使	sai3	1000
+婿	sai3	1000
+豺	sai5	1000
+柿	sai6	1000
+撒	sak	1000
+薩	sak	1000
+塞	sak	1000
+剎	sak	1000
+蝨	sak	1000
+三	sam	1000
+杉	sam	1000
+三	san	1000
+珊	san	1000
+山	san	1000
+刪	san	1000
+柵	san	1000
+瘦	san2	1000
+疝	san3	1000
+霰	san3	1000
+雙	sang	1000
+鬆	sang	1000
+嗓	sang2	1000
+㾪	sang2	1000
+喪	sang3	1000
+送	sang3	1000
+三	sann	1000
+叄	sann	1000
+衫	sann	1000
+剎	sap8	1000
+搔	sau	1000
+騷	sau	1000
+梢	sau	1000
+捎	sau	1000
+鞘	sau	1000
+嫂	sau2	1000
+掃	sau3	1000
+梢	sau3	1000
+哨	sau3	1000
+嗽	sau3	1000
+嘯	sau3	1000
+紗	se	1000
+些	se	1000
+裟	se	1000
+瑟	sek	1000
+色	sek	1000
+識	sek	1000
+式	sek	1000
+適	sek	1000
+釋	sek	1000
+飾	sek	1000
+碩	sek	1000
+昔	sek	1000
+析	sek	1000
+矽	sek	1000
+晰	sek	1000
+息	sek	1000
+悉	sek	1000
+夕	sek	1000
+熄	sek	1000
+汐	sek	1000
+媳	sek	1000
+植	sek	1000
+殖	sek	1000
+擲	sek	1000
+晳	sek	1000
+皙	sek	1000
+穡	sek	1000
+窸	sek	1000
+蟋	sek	1000
+熟	sek8	1000
+聲	seng	1000
+生	seng	1000
+甥	seng	1000
+牲	seng	1000
+勝	seng	1000
+腥	seng	1000
+猩	seng	1000
+惺	seng	1000
+旌	seng	1000
+升	seng	1000
+陞	seng	1000
+昇	seng	1000
+省	seng2	1000
+勝	seng3	1000
+聖	seng3	1000
+成	seng5	1000
+乘	seng5	1000
+誠	seng5	1000
+承	seng5	1000
+丞	seng5	1000
+榕	seng5	1000
+松	seng5	1000
+乘	seng6	1000
+盛	seng6	1000
+生	senn	1000
+牲	senn	1000
+省	senn2	1000
+性	senn3	1000
+姓	senn3	1000
+拭	set	1000
+棲	si	1000
+施	si	1000
+詩	si	1000
+思	si	1000
+私	si	1000
+司	si	1000
+絲	si	1000
+西	si	1000
+硒	si	1000
+鷥	si	1000
+尸	si	1000
+屍	si	1000
+弛	si2	1000
+矢	si2	1000
+始	si2	1000
+死	si2	1000
+豕	si2	1000
+世	si3	1000
+勢	si3	1000
+肆	si3	1000
+四	si3	1000
+匙	si5	1000
+辭	si5	1000
+時	si5	1000
+是	si6	1000
+侍	si6	1000
+氏	si6	1000
+恃	si6	1000
+視	si6	1000
+峙	si6	1000
+示	si7	1000
+誓	si7	1000
+逝	si7	1000
+嗜	si7	1000
+噬	si7	1000
+視	si7	1000
+斜	sia	1000
+寫	sia2	1000
+赦	sia3	1000
+卸	sia3	1000
+瀉	sia3	1000
+舍	sia3	1000
+捨	sia3	1000
+邪	sia5	1000
+斜	sia5	1000
+畬	sia5	1000
+畲	sia5	1000
+社	sia6	1000
+射	sia7	1000
+謝	sia7	1000
+錫	siah	1000
+削	siah	1000
+席	siah8	1000
+屑	siak	1000
+參	siam	1000
+森	siam	1000
+苫	siam	1000
+苫	siam2	1000
+閃	siam2	1000
+陝	siam2	1000
+滲	siam3	1000
+蟬	siam5	1000
+禪	siam5	1000
+禪	siam6	1000
+墒	siang	1000
+商	siang	1000
+湯	siang	1000
+相	siang	1000
+鑲	siang	1000
+襄	siang	1000
+湘	siang	1000
+殤	siang	1000
+觴	siang	1000
+想	siang2	1000
+鯗	siang2	1000
+相	siang3	1000
+信	siang3	1000
+常	siang5	1000
+上	siang5	1000
+裳	siang5	1000
+翔	siang5	1000
+祥	siang5	1000
+詳	siang5	1000
+嫦	siang5	1000
+嘗	siang5	1000
+上	siang6	1000
+尚	siang6	1000
+像	siang6	1000
+象	siang6	1000
+聲	siann	1000
+聖	siann3	1000
+城	siann5	1000
+成	siann5	1000
+盛	siann7	1000
+澀	siap	1000
+倏	siap	1000
+霎	siap	1000
+涉	siap8	1000
+拾	siap8	1000
+泄	siap8	1000
+捎	siau	1000
+稍	siau	1000
+搜	siau	1000
+宿	siau	1000
+硝	siau	1000
+霄	siau	1000
+銷	siau	1000
+消	siau	1000
+宵	siau	1000
+肖	siau	1000
+蕭	siau	1000
+鞘	siau	1000
+小	siau2	1000
+少	siau3	1000
+數	siau3	1000
+韶	siau6	1000
+邵	siau6	1000
+紹	siau6	1000
+肖	siau6	1000
+肇	siau6	1000
+燒	sie	1000
+相	sie	1000
+霄	sie	1000
+小	sie2	1000
+邵	sie7	1000
+惜	sieh	1000
+勺	sieh8	1000
+石	sieh8	1000
+液	sieh8	1000
+仙	sien	1000
+秈	sien	1000
+銑	sien2	1000
+洗	sien2	1000
+鮮	sien2	1000
+癬	sien2	1000
+蘚	sien2	1000
+跣	sien2	1000
+煽	sien3	1000
+搧	sien3	1000
+闡	sien5	1000
+單	sien5	1000
+單	sien6	1000
+擅	sien6	1000
+膳	sien6	1000
+善	sien6	1000
+繕	sien6	1000
+腎	sien6	1000
+鱔	sien6	1000
+撣	sien6	1000
+傷	sienn	1000
+廂	sienn	1000
+鑲	sienn	1000
+箱	sienn	1000
+賞	sienn2	1000
+相	sienn3	1000
+像	sienn3	1000
+肖	sienn3	1000
+常	sienn5	1000
+償	sienn5	1000
+嘗	sienn5	1000
+嚐	sienn5	1000
+想	sienn6	1000
+尚	sienn7	1000
+契	siet	1000
+設	siet	1000
+楔	siet	1000
+褻	siet	1000
+薛	sih	1000
+食	sih8	1000
+蝕	sih8	1000
+芯	sim	1000
+新	sim	1000
+心	sim	1000
+沁	sim2	1000
+審	sim2	1000
+嬸	sim2	1000
+慎	sim2	1000
+沈	sim2	1000
+瀋	sim2	1000
+忱	sim5	1000
+甚	sim6	1000
+什	sim6	1000
+砷	sin	1000
+申	sin	1000
+呻	sin	1000
+伸	sin	1000
+身	sin	1000
+紳	sin	1000
+先	sin	1000
+薪	sin	1000
+鋅	sin	1000
+辛	sin	1000
+新	sin	1000
+莘	sin	1000
+芯	sin3	1000
+信	sin3	1000
+汛	sin3	1000
+訊	sin3	1000
+迅	sin3	1000
+辰	sin5	1000
+晨	sin5	1000
+承	sin5	1000
+娠	sin5	1000
+神	sin5	1000
+繩	sin5	1000
+蠅	sin5	1000
+蜃	sin5	1000
+剩	sin7	1000
+扇	sinn3	1000
+溼	sip	1000
+拾	sip8	1000
+什	sip8	1000
+襲	sip8	1000
+習	sip8	1000
+失	sit	1000
+室	sit	1000
+食	sit8	1000
+實	sit8	1000
+翼	sit8	1000
+植	sit8	1000
+殖	sit8	1000
+收	siu	1000
+梳	siu	1000
+修	siu	1000
+羞	siu	1000
+首	siu2	1000
+守	siu2	1000
+黍	siu2	1000
+帚	siu2	1000
+獸	siu3	1000
+宿	siu3	1000
+鏽	siu3	1000
+秀	siu3	1000
+袖	siu3	1000
+繡	siu3	1000
+狩	siu3	1000
+泅	siu5	1000
+授	siu6	1000
+受	siu6	1000
+壽	siu7	1000
+桑	sng	1000
+喪	sng	1000
+霜	sng	1000
+酸	sng	1000
+耍	sng2	1000
+蒜	sng3	1000
+算	sng3	1000
+搓	so	1000
+莎	so	1000
+蔬	so	1000
+疏	so	1000
+梭	so	1000
+唆	so	1000
+挲	so	1000
+嫂	so2	1000
+瑣	so2	1000
+鎖	so2	1000
+所	so2	1000
+疏	so3	1000
+索	soh	1000
+雪	soh	1000
+灑	soi2	1000
+洗	soi2	1000
+細	soi3	1000
+嘶	soinn	1000
+先	soinn	1000
+寂	sok	1000
+叔	sok	1000
+淑	sok	1000
+束	sok	1000
+數	sok	1000
+漱	sok	1000
+速	sok	1000
+塑	sok	1000
+肅	sok	1000
+縮	sok	1000
+索	sok	1000
+夙	sok	1000
+贖	sok8	1000
+孰	sok8	1000
+屬	sok8	1000
+俗	sok8	1000
+續	sok8	1000
+鬆	song	1000
+聳	song2	1000
+慫	song2	1000
+宋	song3	1000
+嵩	song5	1000
+松	song5	1000
+頌	song6	1000
+訟	song6	1000
+誦	song6	1000
+酥	sou	1000
+蘇	sou	1000
+甦	sou	1000
+艘	sou2	1000
+擻	sou2	1000
+瘦	sou23	1000
+抒	su	1000
+輸	su	1000
+舒	su	1000
+需	su	1000
+須	su	1000
+暑	su2	1000
+曙	su2	1000
+署	su2	1000
+黍	su2	1000
+墅	su2	1000
+緒	su2	1000
+庶	su3	1000
+數	su3	1000
+恕	su3	1000
+素	su3	1000
+塑	su3	1000
+訴	su3	1000
+絮	su3	1000
+殊	su5	1000
+樹	su6	1000
+豎	su6	1000
+敘	su6	1000
+序	su6	1000
+砂	sua	1000
+沙	sua	1000
+鯊	sua	1000
+徙	sua2	1000
+撒	suah	1000
+殺	suah	1000
+煞	suah	1000
+宿	suah	1000
+甩	suai	1000
+數	suak	1000
+朔	suak	1000
+塑	suak	1000
+溯	suak	1000
+喧	suan	1000
+宣	suan	1000
+萱	suan	1000
+選	suan2	1000
+氽	suan3	1000
+汆	suan3	1000
+旋	suan5	1000
+旋	suan6	1000
+喧	suang	1000
+宣	suang	1000
+閂	suang	1000
+爽	suang2	1000
+山	suann	1000
+汕	suann	1000
+產	suann2	1000
+散	suann2	1000
+傘	suann3	1000
+散	suann3	1000
+汕	suann3	1000
+腺	suann3	1000
+線	suann3	1000
+霰	suann3	1000
+腺	suann5	1000
+衰	sue	1000
+戍	sue3	1000
+帥	sue3	1000
+稅	sue3	1000
+說	sue3	1000
+歲	sue3	1000
+蛻	sue3	1000
+刷	sueh	1000
+說	sueh	1000
+雖	sui	1000
+綏	sui	1000
+蓑	sui	1000
+垂	sui5	1000
+誰	sui5	1000
+隋	sui5	1000
+隨	sui5	1000
+綏	sui5	1000
+遂	sui5	1000
+燧	sui5	1000
+蕤	sui5	1000
+瑞	sui6	1000
+睡	sui6	1000
+穗	sui7	1000
+隧	sui7	1000
+孫	sun	1000
+絢	sun	1000
+損	sun2	1000
+筍	sun2	1000
+瞬	sun3	1000
+舜	sun3	1000
+遜	sun3	1000
+醇	sun5	1000
+純	sun5	1000
+循	sun5	1000
+旬	sun5	1000
+詢	sun5	1000
+馴	sun5	1000
+巡	sun5	1000
+殉	sun5	1000
+鶉	sun5	1000
+順	sun6	1000
+師	sur	1000
+斯	sur	1000
+撕	sur	1000
+嘶	sur	1000
+思	sur	1000
+私	sur	1000
+司	sur	1000
+史	sur2	1000
+賜	sur3	1000
+思	sur3	1000
+肆	sur3	1000
+四	sur3	1000
+泗	sur3	1000
+駟	sur3	1000
+辭	sur5	1000
+詞	sur5	1000
+祠	sur5	1000
+食	sur6	1000
+士	sur6	1000
+事	sur6	1000
+仕	sur6	1000
+嗣	sur6	1000
+伺	sur6	1000
+似	sur6	1000
+嶼	sur6	1000
+峙	sur6	1000
+祀	sur6	1000
+事	sur7	1000
+率	sut	1000
+摔	sut	1000
+屑	sut	1000
+戌	sut	1000
+恤	sut	1000
+蟀	sut	1000
+術	sut8	1000
+述	sut8	1000
+大	ta	1000
+丈	ta	1000
+打	ta2	1000
+禾	ta5	1000
+搭	tah	1000
+踏	tah8	1000
+呆	tai	1000
+歹	tai2	1000
+戴	tai3	1000
+代	tai3	1000
+貸	tai3	1000
+黛	tai3	1000
+大	tai6	1000
+殆	tai6	1000
+逮	tai6	1000
+怠	tai6	1000
+事	tai7	1000
+韃	tak	1000
+達	tak8	1000
+毒	tak8	1000
+獨	tak8	1000
+度	tak8	1000
+值	tak8	1000
+耽	tam	1000
+湛	tam	1000
+聃	tam	1000
+淡	tam6	1000
+擔	tan	1000
+丹	tan	1000
+鄲	tan	1000
+坍	tan	1000
+殫	tan	1000
+疸	tan2	1000
+旦	tan3	1000
+誕	tan3	1000
+蛋	tan3	1000
+陳	tan5	1000
+但	tan6	1000
+憚	tan6	1000
+撣	tan6	1000
+東	tang	1000
+冬	tang	1000
+中	tang	1000
+噹	tang	1000
+黨	tang2	1000
+等	tang2	1000
+董	tang2	1000
+擋	tang3	1000
+檔	tang3	1000
+凍	tang3	1000
+當	tang3	1000
+銅	tang5	1000
+童	tang5	1000
+筒	tang5	1000
+仝	tang5	1000
+同	tang5	1000
+動	tang6	1000
+筒	tang6	1000
+重	tang6	1000
+宕	tang6	1000
+蕩	tang6	1000
+盪	tang6	1000
+洞	tang7	1000
+擔	tann	1000
+今	tann	1000
+膽	tann2	1000
+擔	tann3	1000
+石	tann3	1000
+呾	tann3	1000
+氮	tann6	1000
+淡	tann6	1000
+擲	tann6	1000
+賺	tann7	1000
+答	tap	1000
+瘩	tap	1000
+兜	tau	1000
+逗	tau	1000
+搗	tau2	1000
+倒	tau2	1000
+島	tau2	1000
+禱	tau2	1000
+抖	tau2	1000
+陡	tau2	1000
+找	tau2	1000
+斗	tau2	1000
+倒	tau3	1000
+晝	tau3	1000
+鬥	tau3	1000
+投	tau5	1000
+蹈	tau6	1000
+導	tau6	1000
+稻	tau6	1000
+道	tau6	1000
+盜	tau6	1000
+豆	tau7	1000
+痘	tau7	1000
+讀	tau7	1000
+茶	te5	1000
+壓	teh	1000
+德	tek	1000
+嫡	tek	1000
+竹	tek	1000
+竺	tek	1000
+的	tek8	1000
+迪	tek8	1000
+敵	tek8	1000
+笛	tek8	1000
+狄	tek8	1000
+滌	tek8	1000
+翟	tek8	1000
+鹿	tek8	1000
+特	tek8	1000
+蟄	tek8	1000
+值	tek8	1000
+軸	tek8	1000
+蹬	teng	1000
+燈	teng	1000
+登	teng	1000
+丁	teng	1000
+叮	teng	1000
+釘	teng	1000
+酊	teng	1000
+徵	teng	1000
+癥	teng	1000
+等	teng2	1000
+頂	teng2	1000
+戥	teng2	1000
+凳	teng3	1000
+盯	teng3	1000
+釘	teng3	1000
+訂	teng3	1000
+中	teng3	1000
+塵	teng5	1000
+亭	teng5	1000
+重	teng5	1000
+婷	teng5	1000
+鄧	teng6	1000
+澱	teng6	1000
+錠	teng6	1000
+定	teng6	1000
+綻	teng6	1000
+鄭	teng6	1000
+詐	tenn3	1000
+鄭	tenn7	1000
+她	tha	1000
+他	tha	1000
+祂	tha	1000
+它	tha	1000
+牠	tha	1000
+塔	thah	1000
+疊	thah8	1000
+篩	thai	1000
+苔	thai	1000
+傣	thai3	1000
+泰	thai3	1000
+酞	thai3	1000
+太	thai3	1000
+態	thai3	1000
+汰	thai3	1000
+鈦	thai3	1000
+抬	thai5	1000
+臺	thai5	1000
+治	thai5	1000
+台	thai5	1000
+颱	thai5	1000
+檯	thai5	1000
+刣	thai5	1000
+待	thai6	1000
+塞	thak	1000
+撻	thak	1000
+踢	thak	1000
+拓	thak	1000
+讀	thak8	1000
+貪	tham	1000
+探	tham3	1000
+嘆	tham3	1000
+痰	tham5	1000
+潭	tham5	1000
+譚	tham5	1000
+談	tham5	1000
+撣	tham5	1000
+撢	tham5	1000
+壇	tham5	1000
+罈	tham5	1000
+坍	than	1000
+癱	than	1000
+坦	than2	1000
+毯	than2	1000
+袒	than2	1000
+忐	than2	1000
+趁	than3	1000
+賺	than3	1000
+彈	than5	1000
+檀	than5	1000
+通	thang	1000
+蹚	thang	1000
+倘	thang2	1000
+躺	thang2	1000
+淌	thang2	1000
+趟	thang2	1000
+桶	thang2	1000
+帑	thang2	1000
+亙	thang3	1000
+蟲	thang5	1000
+塘	thang5	1000
+搪	thang5	1000
+堂	thang5	1000
+棠	thang5	1000
+膛	thang5	1000
+唐	thang5	1000
+桐	thang5	1000
+動	thang6	1000
+塌	thap	1000
+蹋	thap	1000
+塌	thap8	1000
+滔	thau	1000
+絛	thau	1000
+偷	thau	1000
+套	thau3	1000
+透	thau3	1000
+掏	thau5	1000
+淘	thau5	1000
+陶	thau5	1000
+頭	thau5	1000
+宅	theh8	1000
+搐	thek	1000
+剔	thek	1000
+踢	thek	1000
+惕	thek	1000
+禿	thek	1000
+彳	thek	1000
+忑	thek	1000
+忒	thek	1000
+窗	theng	1000
+烴	theng	1000
+汀	theng	1000
+懲	theng2	1000
+逞	theng2	1000
+艇	theng2	1000
+穎	theng2	1000
+挺	theng2	1000
+潁	theng2	1000
+聽	theng3	1000
+程	theng5	1000
+澄	theng5	1000
+瞪	theng5	1000
+騰	theng5	1000
+謄	theng5	1000
+廷	theng5	1000
+停	theng5	1000
+庭	theng5	1000
+婷	theng5	1000
+蜓	theng5	1000
+等	theng6	1000
+撐	thenn	1000
+體	thi2	1000
+翅	thi3	1000
+締	thi3	1000
+替	thi3	1000
+嚏	thi3	1000
+涕	thi3	1000
+剃	thi3	1000
+屜	thi3	1000
+滯	thi3	1000
+睇	thi3	1000
+持	thi5	1000
+提	thi5	1000
+啼	thi5	1000
+痔	thi6	1000
+拆	thiah	1000
+添	thiam	1000
+舔	thiam2	1000
+忝	thiam2	1000
+恬	thiam5	1000
+暢	thiang3	1000
+廳	thiann	1000
+聽	thiann	1000
+痛	thiann3	1000
+呈	thiann5	1000
+程	thiann5	1000
+貼	thiap	1000
+帖	thiap	1000
+挑	thiau	1000
+迢	thiau	1000
+眺	thiau2	1000
+窕	thiau2	1000
+超	thiau3	1000
+跳	thiau3	1000
+調	thiau5	1000
+柱	thiau6	1000
+挑	thie	1000
+糶	thie3	1000
+天	thien	1000
+腆	thien2	1000
+填	thien5	1000
+瞋	thien5	1000
+撤	thiet	1000
+徹	thiet	1000
+澈	thiet	1000
+轍	thiet	1000
+鐵	thih	1000
+忒	thih	1000
+陳	thin5	1000
+天	thinn	1000
+添	thinn	1000
+蓄	thiok	1000
+畜	thiok	1000
+抽	thiu	1000
+丑	thiu2	1000
+疇	thiu5	1000
+躊	thiu5	1000
+籌	thiu5	1000
+濤	thiu5	1000
+儔	thiu5	1000
+湯	thng	1000
+燙	thng3	1000
+褪	thng3	1000
+糖	thng5	1000
+捅	thng7	1000
+胎	tho	1000
+推	tho	1000
+討	tho2	1000
+橢	tho2	1000
+妥	tho2	1000
+蛻	tho3	1000
+褪	tho3	1000
+退	tho3	1000
+萄	tho5	1000
+桃	tho5	1000
+鴕	tho5	1000
+陀	tho5	1000
+馱	tho5	1000
+唾	tho6	1000
+魄	thoh	1000
+托	thoh	1000
+託	thoh	1000
+駝	thoh8	1000
+體	thoi2	1000
+代	thoi3	1000
+替	thoi3	1000
+代	thoih	1000
+睇	thoinn2	1000
+禿	thok	1000
+亍	thok	1000
+通	thong	1000
+寵	thong2	1000
+捅	thong2	1000
+統	thong2	1000
+痛	thong3	1000
+幢	thong5	1000
+侗	thong5	1000
+恫	thong5	1000
+洞	thong5	1000
+桐	thong5	1000
+酮	thong5	1000
+瞳	thong5	1000
+彤	thong5	1000
+童	thong5	1000
+仝	thong5	1000
+衕	thong5	1000
+洞	thong7	1000
+土	thou2	1000
+吐	thou3	1000
+兔	thou3	1000
+塗	thou5	1000
+躇	thu5	1000
+滁	thu5	1000
+儲	thu5	1000
+圖	thu5	1000
+徒	thu5	1000
+途	thu5	1000
+荼	thu5	1000
+塗	thu5	1000
+拖	thua	1000
+獺	thuah	1000
+傳	thuan5	1000
+團	thuan5	1000
+糰	thuan5	1000
+攤	thuann	1000
+癱	thuann	1000
+灘	thuann	1000
+鏟	thuann2	1000
+碳	thuann3	1000
+炭	thuann3	1000
+頹	thue	1000
+梯	thui	1000
+推	thui	1000
+腿	thui2	1000
+錘	thui5	1000
+吞	thun	1000
+飩	thun	1000
+氽	thun2	1000
+塵	thun5	1000
+囤	thun5	1000
+屯	thun5	1000
+臀	thun5	1000
+豚	thun5	1000
+脫	thut	1000
+黜	thut	1000
+的	ti	1000
+低	ti	1000
+蜘	ti	1000
+知	ti	1000
+祗	ti	1000
+抵	ti2	1000
+戴	ti3	1000
+帝	ti3	1000
+知	ti3	1000
+置	ti3	1000
+智	ti3	1000
+致	ti3	1000
+緻	ti3	1000
+持	ti5	1000
+池	ti5	1000
+底	ti5	1000
+遞	ti5	1000
+治	ti5	1000
+逮	ti6	1000
+弟	ti6	1000
+隸	ti6	1000
+銻	ti6	1000
+彘	ti6	1000
+地	ti7	1000
+治	ti7	1000
+爹	tia	1000
+爺	tia	1000
+嫡	tiah	1000
+摘	tiah	1000
+糴	tiah8	1000
+耋	tiak	1000
+掂	tiam	1000
+硯	tiam	1000
+砧	tiam	1000
+玷	tiam	1000
+沾	tiam	1000
+霑	tiam	1000
+點	tiam2	1000
+店	tiam3	1000
+惦	tiam3	1000
+甜	tiam5	1000
+恬	tiam5	1000
+恬	tiam7	1000
+鼎	tiann2	1000
+呈	tiann5	1000
+庭	tiann5	1000
+錠	tiann6	1000
+定	tiann7	1000
+蝶	tiap8	1000
+諜	tiap8	1000
+碉	tiau	1000
+叼	tiau	1000
+凋	tiau	1000
+刁	tiau	1000
+貂	tiau	1000
+雕	tiau	1000
+鵰	tiau	1000
+吊	tiau3	1000
+弔	tiau3	1000
+條	tiau5	1000
+兆	tiau6	1000
+召	tiau6	1000
+掉	tiau7	1000
+調	tiau7	1000
+潮	tie5	1000
+着	tieh8	1000
+顛	tien	1000
+滇	tien	1000
+珍	tien	1000
+巔	tien	1000
+碘	tien2	1000
+典	tien2	1000
+碾	tien2	1000
+腆	tien2	1000
+輾	tien2	1000
+展	tien2	1000
+墊	tien6	1000
+電	tien6	1000
+甸	tien6	1000
+奠	tien6	1000
+澱	tien6	1000
+殿	tien6	1000
+張	tienn	1000
+長	tienn2	1000
+釣	tienn3	1000
+帳	tienn3	1000
+賬	tienn3	1000
+脹	tienn3	1000
+場	tienn5	1000
+丈	tienn6	1000
+趙	tienn6	1000
+跌	tiet	1000
+迭	tiet	1000
+哲	tiet	1000
+秩	tiet	1000
+窒	tiet	1000
+桎	tiet	1000
+瓞	tiet	1000
+膣	tiet	1000
+蛭	tiet	1000
+蜇	tiet	1000
+輒	tiet	1000
+侄	tiet8	1000
+滴	tih	1000
+蒂	tih	1000
+碟	tih8	1000
+郴	tim	1000
+鴆	tim	1000
+沉	tim5	1000
+沈	tim5	1000
+朕	tim6	1000
+顛	tin	1000
+振	tin2	1000
+鎮	tin3	1000
+塵	tin5	1000
+陳	tin5	1000
+藤	tin5	1000
+陣	tin7	1000
+纏	tinn5	1000
+漲	tinn6	1000
+得	tit	1000
+直	tit8	1000
+丟	tiu	1000
+肘	tiu2	1000
+貯	tiu2	1000
+佇	tiu2	1000
+胄	tiu2	1000
+綢	tiu5	1000
+稻	tiu6	1000
+宙	tiu6	1000
+晝	tiu6	1000
+紂	tiu6	1000
+住	tiu7	1000
+當	tng	1000
+轉	tng2	1000
+擋	tng3	1000
+頓	tng3	1000
+當	tng3	1000
+長	tng5	1000
+腸	tng5	1000
+塘	tng5	1000
+堂	tng5	1000
+唐	tng5	1000
+斷	tng6	1000
+丈	tng6	1000
+傳	tng7	1000
+段	tng7	1000
+緞	tng7	1000
+刀	to	1000
+哆	to	1000
+多	to	1000
+倒	to2	1000
+短	to2	1000
+朵	to2	1000
+戴	to3	1000
+倒	to3	1000
+地	to3	1000
+垛	to5	1000
+躲	to5	1000
+朵	to5	1000
+剁	to5	1000
+逃	to5	1000
+淘	to5	1000
+跺	to6	1000
+在	to6	1000
+代	to7	1000
+袋	to7	1000
+卓	toh	1000
+桌	toh	1000
+琢	toh	1000
+啄	toh	1000
+棹	toh	1000
+掇	toh8	1000
+奪	toh8	1000
+擇	toh8	1000
+着	toh8	1000
+堤	toi	1000
+抵	toi2	1000
+底	toi2	1000
+題	toi5	1000
+蹄	toi5	1000
+第	toinn6	1000
+佃	toinn6	1000
+靛	toinn7	1000
+殿	toinn7	1000
+督	tok	1000
+築	tok	1000
+斫	tok	1000
+斲	tok	1000
+毒	tok8	1000
+犢	tok8	1000
+獨	tok8	1000
+逐	tok8	1000
+篤	tok8	1000
+丼	tom6	1000
+東	tong	1000
+冬	tong	1000
+中	tong	1000
+忠	tong	1000
+董	tong2	1000
+懂	tong2	1000
+棟	tong3	1000
+凍	tong3	1000
+疼	tong3	1000
+中	tong3	1000
+動	tong6	1000
+重	tong6	1000
+仲	tong6	1000
+都	tou	1000
+肚	tou2	1000
+廚	tou5	1000
+圖	tou5	1000
+屠	tou5	1000
+杜	tou6	1000
+肚	tou6	1000
+土	tou6	1000
+鍍	tou7	1000
+度	tou7	1000
+渡	tou7	1000
+查	tsa	1000
+碴	tsa	1000
+咱	tsa	1000
+喳	tsa	1000
+渣	tsa	1000
+猹	tsa	1000
+扎	tsa	1000
+昔	tsa2	1000
+早	tsa2	1000
+怎	tsa2	1000
+昨	tsa2	1000
+榨	tsa3	1000
+咋	tsa3	1000
+乍	tsa3	1000
+炸	tsa3	1000
+詐	tsa3	1000
+窄	tsa3	1000
+柞	tsa3	1000
+閘	tsah8	1000
+柵	tsah8	1000
+炸	tsah8	1000
+栽	tsai	1000
+災	tsai	1000
+知	tsai	1000
+宰	tsai2	1000
+載	tsai2	1000
+仔	tsai2	1000
+滓	tsai2	1000
+載	tsai3	1000
+再	tsai3	1000
+才	tsai5	1000
+臍	tsai5	1000
+在	tsai6	1000
+哉	tsai7	1000
+軋	tsak	1000
+鍘	tsak	1000
+作	tsak	1000
+扎	tsak	1000
+紮	tsak	1000
+針	tsam	1000
+斬	tsam2	1000
+嶄	tsam2	1000
+蘸	tsam3	1000
+湛	tsam3	1000
+站	tsam6	1000
+鏨	tsam6	1000
+攢	tsan3	1000
+棧	tsan3	1000
+鑽	tsan3	1000
+贊	tsan3	1000
+讚	tsan3	1000
+層	tsan5	1000
+贓	tsang	1000
+曾	tsang	1000
+莊	tsang	1000
+鬃	tsang	1000
+棕	tsang	1000
+臧	tsang	1000
+髒	tsang	1000
+總	tsang2	1000
+壯	tsang3	1000
+糉	tsang3	1000
+叢	tsang5	1000
+藏	tsang6	1000
+臟	tsang6	1000
+贈	tsang7	1000
+匝	tsap	1000
+砸	tsap	1000
+札	tsap	1000
+眨	tsap	1000
+汁	tsap	1000
+集	tsap8	1000
+十	tsap8	1000
+拾	tsap8	1000
+什	tsap8	1000
+雜	tsap8	1000
+節	tsat	1000
+實	tsat8	1000
+遭	tsau	1000
+糟	tsau	1000
+蚤	tsau2	1000
+走	tsau2	1000
+竈	tsau3	1000
+奏	tsau3	1000
+悼	tsau6	1000
+淖	tsau6	1000
+造	tsau6	1000
+皁	tsau6	1000
+罩	tsau6	1000
+皂	tsau6	1000
+岔	tsha	1000
+差	tsha	1000
+搓	tsha	1000
+喳	tsha	1000
+炒	tsha2	1000
+詫	tsha3	1000
+搽	tsha5	1000
+柴	tsha5	1000
+插	tshah	1000
+歃	tshah	1000
+猜	tshai	1000
+睬	tshai2	1000
+踩	tshai2	1000
+采	tshai2	1000
+採	tshai2	1000
+彩	tshai2	1000
+綵	tshai2	1000
+菜	tshai3	1000
+裁	tshai5	1000
+材	tshai5	1000
+才	tshai5	1000
+財	tshai5	1000
+豺	tshai5	1000
+擦	tshak	1000
+察	tshak	1000
+錯	tshak	1000
+漆	tshak	1000
+膝	tshak	1000
+鑿	tshak8	1000
+賊	tshak8	1000
+參	tsham	1000
+摻	tsham	1000
+慘	tsham2	1000
+滲	tsham3	1000
+慚	tsham5	1000
+攙	tsham5	1000
+饞	tsham5	1000
+讒	tsham5	1000
+餐	tshan	1000
+孱	tshan	1000
+鏟	tshan2	1000
+燦	tshan3	1000
+殘	tshan5	1000
+田	tshan5	1000
+羼	tshan6	1000
+蒼	tshang	1000
+倉	tshang	1000
+滄	tshang	1000
+蔥	tshang	1000
+蹌	tshang	1000
+創	tshang3	1000
+藏	tshang5	1000
+操	tshau	1000
+抄	tshau	1000
+鈔	tshau	1000
+吵	tshau	1000
+剿	tshau	1000
+草	tshau2	1000
+操	tshau3	1000
+臭	tshau3	1000
+藻	tshau3	1000
+澡	tshau3	1000
+躁	tshau3	1000
+噪	tshau3	1000
+燥	tshau3	1000
+臊	tshau3	1000
+曹	tshau5	1000
+巢	tshau5	1000
+艙	tshng	1000
+倉	tshng	1000
+穿	tshng	1000
+瘡	tshng	1000
+村	tshng	1000
+刺	tshng3	1000
+牀	tshng5	1000
+初	tsho	1000
+搓	tsho	1000
+臊	tsho	1000
+草	tsho2	1000
+楚	tsho2	1000
+礎	tsho2	1000
+糙	tsho3	1000
+錯	tsho3	1000
+鋤	tsho5	1000
+磋	tsho5	1000
+挫	tsho5	1000
+撮	tshoh	1000
+錯	tshoh	1000
+亍	tshoh8	1000
+仟	tshoinn	1000
+千	tshoinn	1000
+筅	tshoinn2	1000
+蠶	tshoinn5	1000
+矗	tshok	1000
+觸	tshok	1000
+戳	tshok	1000
+簇	tshok	1000
+促	tshok	1000
+捉	tshok	1000
+亍	tshok	1000
+蹴	tshok	1000
+齬	tshok	1000
+充	tshong	1000
+聰	tshong	1000
+蔥	tshong	1000
+囪	tshong	1000
+匆	tshong	1000
+衷	tshong	1000
+種	tshong	1000
+忡	tshong	1000
+沖	tshong	1000
+衝	tshong	1000
+衝	tshong3	1000
+崇	tshong5	1000
+從	tshong5	1000
+重	tshong5	1000
+粗	tshou	1000
+湊	tshou3	1000
+醋	tshou3	1000
+揍	tshou3	1000
+愁	tshou5	1000
+雛	tshu	1000
+趨	tshu	1000
+處	tshu2	1000
+取	tshu2	1000
+娶	tshu2	1000
+處	tshu3	1000
+措	tshu3	1000
+趣	tshu3	1000
+厝	tshu3	1000
+滁	tshu5	1000
+歪	tshua2	1000
+蔡	tshua3	1000
+娶	tshua7	1000
+川	tshuan	1000
+穿	tshuan	1000
+皴	tshuan	1000
+喘	tshuan2	1000
+串	tshuan3	1000
+闖	tshuan3	1000
+躥	tshuan3	1000
+篡	tshuan3	1000
+竄	tshuan3	1000
+纂	tshuan3	1000
+釧	tshuan3	1000
+醛	tshuan5	1000
+全	tshuan5	1000
+痊	tshuan5	1000
+栓	tshuan5	1000
+拴	tshuan5	1000
+舛	tshuang2	1000
+閂	tshuann3	1000
+撮	tshuat	1000
+掇	tshuat	1000
+綴	tshuat	1000
+拙	tshuat	1000
+茁	tshuat	1000
+吹	tshue	1000
+炊	tshue	1000
+髓	tshue2	1000
+覓	tshue7	1000
+啜	tshueh	1000
+摧	tshui	1000
+崔	tshui	1000
+催	tshui	1000
+推	tshui	1000
+揣	tshui2	1000
+脆	tshui3	1000
+粹	tshui3	1000
+翠	tshui3	1000
+碎	tshui3	1000
+嘴	tshui3	1000
+春	tshun	1000
+椿	tshun	1000
+伸	tshun	1000
+蠢	tshun2	1000
+忖	tshun2	1000
+舛	tshun2	1000
+寸	tshun3	1000
+淳	tshun5	1000
+存	tshun5	1000
+蛆	tshur	1000
+此	tshur2	1000
+鼠	tshur2	1000
+次	tshur3	1000
+疵	tshur5	1000
+茨	tshur5	1000
+磁	tshur5	1000
+雌	tshur5	1000
+慈	tshur5	1000
+瓷	tshur5	1000
+徐	tshur5	1000
+鷀	tshur5	1000
+出	tshut	1000
+齣	tshut	1000
+贓	tsng	1000
+磚	tsng	1000
+莊	tsng	1000
+裝	tsng	1000
+指	tsng2	1000
+葬	tsng3	1000
+鑽	tsng3	1000
+圳	tsng3	1000
+狀	tsng7	1000
+旋	tsng7	1000
+災	tso	1000
+糟	tso	1000
+棗	tso2	1000
+阻	tso2	1000
+左	tso2	1000
+佐	tso2	1000
+俎	tso2	1000
+做	tso3	1000
+作	tso3	1000
+槽	tso5	1000
+造	tso6	1000
+助	tso6	1000
+狀	tso6	1000
+坐	tso6	1000
+座	tso7	1000
+作	tsoh	1000
+絕	tsoh8	1000
+㩼	tsoi7	1000
+節	tsoih	1000
+截	tsoih8	1000
+指	tsoinn2	1000
+齊	tsoinn5	1000
+前	tsoinn5	1000
+屬	tsok	1000
+矚	tsok	1000
+囑	tsok	1000
+祝	tsok	1000
+足	tsok	1000
+簇	tsok8	1000
+粥	tsok8	1000
+族	tsok8	1000
+終	tsong	1000
+蹤	tsong	1000
+宗	tsong	1000
+綜	tsong	1000
+種	tsong2	1000
+總	tsong2	1000
+衆	tsong3	1000
+縱	tsong3	1000
+謅	tsou	1000
+鄒	tsou	1000
+租	tsou	1000
+祖	tsou2	1000
+驟	tsou6	1000
+狙	tsu	1000
+疽	tsu	1000
+咀	tsu	1000
+蛆	tsu	1000
+珠	tsu	1000
+株	tsu	1000
+朱	tsu	1000
+諸	tsu	1000
+誅	tsu	1000
+詛	tsu	1000
+組	tsu	1000
+殂	tsu	1000
+齟	tsu	1000
+沮	tsu2	1000
+拄	tsu2	1000
+主	tsu2	1000
+俎	tsu2	1000
+蛀	tsu3	1000
+鑄	tsu3	1000
+注	tsu3	1000
+註	tsu3	1000
+聚	tsu6	1000
+住	tsu6	1000
+駐	tsu6	1000
+撾	tsua	1000
+抓	tsua	1000
+紙	tsua2	1000
+蛇	tsua5	1000
+絀	tsuah8	1000
+蜀	tsuak8	1000
+濁	tsuak8	1000
+鐲	tsuak8	1000
+湍	tsuan	1000
+專	tsuan	1000
+轉	tsuan2	1000
+攢	tsuan3	1000
+賺	tsuan3	1000
+撰	tsuan6	1000
+樁	tsuang	1000
+莊	tsuang	1000
+裝	tsuang	1000
+妝	tsuang	1000
+撞	tsuang6	1000
+狀	tsuang6	1000
+煎	tsuann	1000
+盞	tsuann2	1000
+泉	tsuann5	1000
+賤	tsuann7	1000
+最	tsue3	1000
+罪	tsue6	1000
+椎	tsui	1000
+錐	tsui	1000
+水	tsui2	1000
+粹	tsui3	1000
+醉	tsui3	1000
+瘁	tsui6	1000
+淬	tsui6	1000
+祟	tsui6	1000
+贅	tsui6	1000
+尊	tsun	1000
+遵	tsun	1000
+准	tsun2	1000
+準	tsun2	1000
+峻	tsun3	1000
+俊	tsun3	1000
+竣	tsun3	1000
+浚	tsun3	1000
+駿	tsun3	1000
+船	tsun5	1000
+陣	tsun5	1000
+書	tsur	1000
+芝	tsur	1000
+之	tsur	1000
+茲	tsur	1000
+諮	tsur	1000
+資	tsur	1000
+姿	tsur	1000
+滋	tsur	1000
+淄	tsur	1000
+孜	tsur	1000
+孳	tsur	1000
+齎	tsur	1000
+輜	tsur	1000
+鷀	tsur	1000
+煮	tsur2	1000
+仔	tsur2	1000
+籽	tsur2	1000
+子	tsur2	1000
+漬	tsur3	1000
+恣	tsur3	1000
+薯	tsur5	1000
+自	tsur6	1000
+率	tsut	1000
+摔	tsut	1000
+帥	tsut	1000
+卒	tsut	1000
+糯	tsut8	1000
+堆	tu	1000
+株	tu	1000
+蛛	tu	1000
+誅	tu	1000
+堵	tu2	1000
+睹	tu2	1000
+賭	tu2	1000
+著	tu3	1000
+櫥	tu5	1000
+帶	tua3	1000
+舵	tua6	1000
+大	tua7	1000
+喝	tuah	1000
+辣	tuah8	1000
+端	tuan	1000
+鍛	tuan3	1000
+斷	tuan3	1000
+段	tuan6	1000
+斷	tuan6	1000
+篆	tuan6	1000
+丹	tuann	1000
+單	tuann	1000
+旦	tuann3	1000
+壇	tuann5	1000
+惰	tuann6	1000
+懶	tuann6	1000
+彈	tuann7	1000
+綴	tue3	1000
+兌	tue6	1000
+堆	tui	1000
+椎	tui	1000
+追	tui	1000
+對	tui3	1000
+捶	tui5	1000
+錘	tui5	1000
+墮	tui6	1000
+墜	tui6	1000
+隊	tui7	1000
+堆	tun	1000
+墩	tun	1000
+噸	tun	1000
+蹲	tun	1000
+敦	tun	1000
+囤	tun	1000
+屯	tun	1000
+諄	tun	1000
+盾	tun2	1000
+躉	tun2	1000
+脣	tun5	1000
+頓	tun6	1000
+鈍	tun6	1000
+遁	tun6	1000
+豬	tur	1000
+鋤	tur5	1000
+除	tur5	1000
+術	tut8	1000
+凸	tut8	1000
+突	tut8	1000
+呼	u	1000
+嗚	u	1000
+烏	u	1000
+污	u	1000
+捂	u	1000
+迂	u	1000
+盂	u	1000
+圩	u	1000
+竽	u	1000
+于	u	1000
+吁	u	1000
+五	u2	1000
+雨	u2	1000
+禹	u2	1000
+宇	u2	1000
+羽	u2	1000
+塢	u3	1000
+惡	u3	1000
+吾	u5	1000
+五	u5	1000
+娛	u5	1000
+有	u6	1000
+哇	ua	1000
+蛙	ua	1000
+窪	ua	1000
+娃	ua	1000
+瓦	ua	1000
+蝸	ua	1000
+我	ua2	1000
+倚	ua2	1000
+哇	ua7	1000
+喝	uah	1000
+活	uah8	1000
+挖	uai	1000
+歪	uai	1000
+獲	uak8	1000
+穫	uak8	1000
+豌	uan	1000
+彎	uan	1000
+灣	uan	1000
+鴛	uan	1000
+冤	uan	1000
+阮	uan2	1000
+皖	uan2	1000
+惋	uan2	1000
+宛	uan2	1000
+婉	uan2	1000
+腕	uan2	1000
+苑	uan2	1000
+剜	uan2	1000
+怨	uan3	1000
+椽	uan5	1000
+丸	uan5	1000
+烷	uan5	1000
+完	uan5	1000
+元	uan5	1000
+袁	uan5	1000
+轅	uan5	1000
+員	uan5	1000
+猿	uan5	1000
+緣	uan5	1000
+汪	uang	1000
+枉	uang2	1000
+往	uang2	1000
+蝗	uang5	1000
+皇	uang5	1000
+凰	uang5	1000
+王	uang5	1000
+王	uang6	1000
+旺	uang6	1000
+鞍	uann	1000
+安	uann	1000
+碗	uann2	1000
+案	uann3	1000
+晏	uann3	1000
+旱	uann6	1000
+換	uann7	1000
+斡	uat	1000
+曰	uat	1000
+越	uat8	1000
+粵	uat8	1000
+鍋	ue	1000
+穢	ue3	1000
+蔚	ue3	1000
+尉	ue3	1000
+慰	ue3	1000
+衛	ue6	1000
+畫	ue7	1000
+話	ue7	1000
+抉	ueh	1000
+畫	ueh8	1000
+穢	ueh8	1000
+劃	ueh8	1000
+威	ui	1000
+醫	ui	1000
+衣	ui	1000
+韋	ui2	1000
+葦	ui2	1000
+萎	ui2	1000
+委	ui2	1000
+偉	ui2	1000
+緯	ui2	1000
+渭	ui2	1000
+韙	ui2	1000
+謂	ui3	1000
+韋	ui5	1000
+違	ui5	1000
+桅	ui5	1000
+圍	ui5	1000
+爲	ui5	1000
+謂	ui6	1000
+胃	ui7	1000
+位	ui7	1000
+畏	uinn3	1000
+瘟	un	1000
+溫	un	1000
+醞	un	1000
+阮	un2	1000
+穩	un2	1000
+蘊	un2	1000
+䘼	un2	1000
+殞	un2	1000
+韞	un2	1000
+焚	un5	1000
+耘	un5	1000
+鄖	un5	1000
+勻	un5	1000
+云	un5	1000
+隕	un6	1000
+運	un7	1000
+韻	un7	1000
+于	ur	1000
+於	ur	1000
+予	ur2	1000
+與	ur2	1000
+淤	ur3	1000
+翳	ur3	1000
+輿	ur5	1000
+予	ur5	1000
+余	ur5	1000
+餘	ur5	1000
+與	ur6	1000
+譽	ur6	1000
+預	ur6	1000
+豫	ur6	1000
+與	ur7	1000
+恩	urn	1000
+隱	urn2	1000
+蔚	ut	1000
+尉	ut	1000
+斡	ut	1000
+兀	ut	1000
+熨	ut	1000
+鬱	ut	1000
+夗	ut8	1000
+辱	zok8	1000
+褥	zok8	1000
+冗	zong2	1000
+仍	zong5	1000
+戎	zong5	1000
+茸	zong5	1000
+絨	zong5	1000
+乳	zu2	1000
+愈	zu2	1000
+癒	zu2	1000
+茹	zu5	1000
+蠕	zu5	1000
+儒	zu5	1000
+孺	zu5	1000
+如	zu5	1000
+榆	zu5	1000
+俞	zu5	1000
+愉	zu5	1000
+渝	zu5	1000
+逾	zu5	1000
+踰	zu5	1000
+覦	zu5	1000
+喻	zu6	1000
+裕	zu6	1000
+籲	zu6	1000
+熱	zuah8	1000
+轉	zuan2	1000
+纂	zuan2	1000
+說	zuat8	1000
+悅	zuat8	1000
+挼	zue5	1000
+銳	zue6	1000
+睿	zue6	1000
+唯	zui5	1000
+惟	zui5	1000
+濰	zui5	1000
+維	zui5	1000
+遺	zui6	1000
+吮	zun2	1000
+允	zun2	1000
+潤	zun6	1000
+韌	zun7	1000
+閏	zun7	1000
+耳	zur2	1000
+爾	zur2	1000
+洱	zur2	1000
+汝	zur2	1000
+璽	zur2	1000
+而	zur5	1000
+餌	zur6	1000
+貳	zur6	1000
+膩	zur6	1000
+女	zur6	1000
+字	zur6	1000
