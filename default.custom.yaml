@@ -1,0 +1,6 @@
+# default.custom.yaml
+
+patch:
+  schema_list:
+    - schema: luna_pinyin
+    - schema: teochew
