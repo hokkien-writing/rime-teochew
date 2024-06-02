@@ -5,9 +5,10 @@
 schema:
   schema_id: teochew_mandarin
   name: 普通話轉潮州話
-  version: "2024.05.27"
+  version: "2024.06.02"
   author:
-    - Lim <lshare@outlook.com>
+    - Hokkien-writing
+    - Lim <tsunhualim@gmail.com>
   description: |
     普通話轉潮州話
     https://github.com/hokkien-writing/rime-teochew
