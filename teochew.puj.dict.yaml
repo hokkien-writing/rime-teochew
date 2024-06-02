@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.puj
-version:	"2024.06.01"
+version:	"2024.06.02"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -4854,10 +4854,6 @@ phuah	phuah
 Phuah	Phuah
 phua̍h	phuah8
 Phua̍h	Phuah8
-phuak	phuak
-Phuak	Phuak
-phua̍k	phuak8
-Phua̍k	Phuak8
 phuan	phuan
 Phuan	Phuan
 phuán	phuan2

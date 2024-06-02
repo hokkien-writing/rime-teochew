@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.06.01"
+version:	"2024.06.02"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -26,6 +26,7 @@ ak	xie e	500
 ang-chiá	fu qi	500
 ang-chiá-kiáⁿ	xiao liang kou	500
 ang-kiáⁿ	tu hua	500
+ang-tshun	an chun	500
 au	tang wan	500
 ba̍k-sat	chou chong	500
 ba̍k-táu	wu zei	500
@@ -463,6 +464,7 @@ lo̍h-suáⁿ	liu chan	500
 lo̍h-sîn-phuâ	nv wu	500
 lo̍h-tsûn	shang chuan	500
 luah	lao	500
+lu̍t hóng siang thî hṳ̂-ong tit lĩ	yu bang xiang chi yu weng de li	500
 làu-sái	fu xie	500
 lái-ngṳ̂n	shou kuan	500
 láu-chí	bin lang	500
@@ -478,6 +480,7 @@ lâu-tsúi hiông	gao chao	500
 lâu-tsúi pêⁿ	di chao	500
 lã	zu gou	500
 lãi	jia	500
+lãu hóng seⁿ tsu	lao bang sheng zhu	500
 lãu-hàu	rou dou kou	500
 lêng-cheng	ji ling	500
 lêng-ûi	neng li	500
@@ -634,6 +637,8 @@ pháng	qu dong	500
 phâi-chhiâng	hua li	500
 phâng-phài	feng sheng	500
 phâu-thâi	bao lei	500
+phãu-hãm	bao han	500
+phãu-put-phêng	bao bu ping	500
 phêng-huâ	he ping	500
 phêng-tuaⁿ	zheng shu	500
 phòng	zhang	500
@@ -913,6 +918,7 @@ tsai-kuan	dang xin	500
 tsang	fa ji	500
 tsang-sui	suo yi	500
 tsa̍p-chi̍p	bu shu tan	500
+tsh3-piⁿ	lin ju	500
 tshah-tshãn	zheng qian	500
 tsha̍k-kiáⁿ	zao zi	500
 tsha̍k-kiáⁿ	zhui zi	500
@@ -923,6 +929,7 @@ tsho	xing	500
 tshoh	qiang	500
 tshoiⁿ-lí-kiàⁿ	wang yuan jing	500
 tshou	cu cao	500
+tshou-pũn	cu ben	500
 tshu-sùe	fang zu	500
 tshue	zheng	500
 tshui-pek	cui tao	500
@@ -1286,6 +1293,7 @@ zṳ̂	luan	500
 厝	jia	2000
 厝主	fang dong	2000
 厝稅	fang zu	2000
+厝邊	lin ju	2000
 厝頂	fang ding	2000
 受賄	shou hui	2000
 口㼦	shu kou bei	2000
@@ -1473,6 +1481,8 @@ zṳ̂	luan	500
 批館	you ju	2000
 找錢	zhao qian	2000
 找錢行	qian bi dui huan shang	2000
+抱不平	bao bu ping	2000
+抱憾	bao han	2000
 抽分	yong jin	2000
 抽減	zhe kou	2000
 抽痛	chou jin	2000
@@ -1504,7 +1514,8 @@ zṳ̂	luan	500
 掌	kan	2000
 掌更儂	shou ye ren	2000
 掌櫃	shou yin yuan	2000
-排塲	hua li	2000
+排場	hua li	2000
+排塲	hua li	1000
 排年	nian nian	2000
 排日	tian tian	2000
 排比	an pai	2000
@@ -1860,6 +1871,7 @@ zṳ̂	luan	500
 籐牌	dun pai	2000
 粉鳥	ge zi	2000
 粗	cu cao	2000
+粗笨	cu ben	2000
 粟倉	gu cang	2000
 粿	dan gao	2000
 糜	zhou	2000
@@ -1902,6 +1914,7 @@ zṳ̂	luan	500
 翕	men	2000
 翕	zheng	2000
 翹楚	chu zhong	2000
+老蚌生珠	lao bang sheng zhu	2000
 考	ce shi	2000
 耍	wan	2000
 耳鈎	er huan	2000
@@ -2273,6 +2286,8 @@ zṳ̂	luan	500
 魴龜	hai gui	2000
 鮡	qing chun dou	2000
 鱟伯策	bai ye chuang	2000
+鵪鶉	an chun	2000
+鷸蚌相持漁翁得利	yu bang xiang chi yu weng de li	2000
 鷹架	jiao shou jia	2000
 鹽硝	xiao shi	2000
 黃𦅇瘦㾪	mian huang ji shou	2000

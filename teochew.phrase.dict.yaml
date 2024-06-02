@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.phrase
-version:	"2024.06.01"
+version:	"2024.06.02"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -23,6 +23,7 @@ ak	ak	500
 ang-chiá	ang chia2	500
 ang-chiá-kiáⁿ	ang chia2 kiann2	500
 ang-kiáⁿ	ang kiann2	500
+ang-tshun	ang tshun	500
 au	au	500
 ba̍k-sat	bak8 sat	500
 ba̍k-táu	bak8 tau2	500
@@ -452,6 +453,7 @@ lo̍h-suáⁿ	loh8 suann2	500
 lo̍h-sîn-phuâ	loh8 sin5 phua5	500
 lo̍h-tsûn	loh8 tsun5	500
 luah	luah	500
+lu̍t hóng siang thî hṳ̂-ong tit lĩ	lut8 hong2 siang thi5 hur5 ong tit li6	500
 làu-sái	lau3 sai2	500
 lái-ngṳ̂n	lai2 ngurn5	500
 láu-chí	lau2 chi2	500
@@ -467,6 +469,7 @@ lâu-tsúi hiông	lau5 tsui2 hiong5	500
 lâu-tsúi pêⁿ	lau5 tsui2 penn5	500
 lã	la6	500
 lãi	lai6	500
+lãu hóng seⁿ tsu	lau6 hong2 senn tsu	500
 lãu-hàu	lau6 hau3	500
 lêng-cheng	leng5 cheng	500
 lêng-ûi	leng5 ui5	500
@@ -619,6 +622,8 @@ pháng	phang2	500
 phâi-chhiâng	phai5 chhiang5	500
 phâng-phài	phang5 phai3	500
 phâu-thâi	phau5 thai5	500
+phãu-hãm	phau6 ham6	500
+phãu-put-phêng	phau6 put pheng5	500
 phêng-huâ	pheng5 hua5	500
 phêng-tuaⁿ	pheng5 tuann	500
 phòng	phong3	500
@@ -890,6 +895,7 @@ tsai-kuan	tsai kuan	500
 tsang	tsang	500
 tsang-sui	tsang sui	500
 tsa̍p-chi̍p	tsap8 chip8	500
+tsh3-piⁿ	tsh3 pinn	500
 tshah-tshãn	tshah tshan6	500
 tsha̍k-kiáⁿ	tshak8 kiann2	500
 tshng	tshng	500
@@ -899,6 +905,7 @@ tsho	tsho	500
 tshoh	tshoh	500
 tshoiⁿ-lí-kiàⁿ	tshoinn li2 kiann3	500
 tshou	tshou	500
+tshou-pũn	tshou pun6	500
 tshu-sùe	tshu sue3	500
 tshue	tshue	500
 tshui-pek	tshui pek	500
@@ -1259,6 +1266,7 @@ zṳ̂	zur5	500
 厝	tshu3	2000
 厝主	tshu3 tsu2	2000
 厝稅	tshu sue3	2000
+厝邊	tsh3 pinn	2000
 厝頂	tshu3 teng2	2000
 受賄	siu6 iu6	2000
 口㼦	khou2 kong2	2000
@@ -1446,6 +1454,8 @@ zṳ̂	zur5	500
 批館	phoi kuan2	2000
 找錢	tau2 chinn5	2000
 找錢行	tau2 chinn hang5	2000
+抱不平	phau6 put pheng5	2000
+抱憾	phau6 ham6	2000
 抽分	thiu hun3	2000
 抽減	thiu kiam2	2000
 抽痛	thiu thiann3	2000
@@ -1477,7 +1487,8 @@ zṳ̂	zur5	500
 掌	chien2	2000
 掌更儂	chienn2 kenn nang5	2000
 掌櫃	chiang2 kuinn7	2000
-排塲	phai5 chhiang5	2000
+排場	phai5 chhiang5	2000
+排塲	phai5 chhiang5	1000
 排年	pai5 ninn	2000
 排日	pai5 jit8	2000
 排比	pai5 pi2	2000
@@ -1829,6 +1840,7 @@ zṳ̂	zur5	500
 籐牌	tin pai5	2000
 粉鳥	hun2 chiau2	2000
 粗	tshou	2000
+粗笨	tshou pun6	2000
 粟倉	chhek tshng	2000
 粿	kue2	2000
 糜	muenn5	2000
@@ -1870,6 +1882,7 @@ zṳ̂	zur5	500
 翁姐囝	ang chia2 kiann2	2000
 翕	hip	2000
 翹楚	khiau5 tsho2	2000
+老蚌生珠	lau6 hong2 senn tsu	2000
 考	khau2	2000
 耍	sng2	2000
 耳鈎	hinn6 kau	2000
@@ -2236,6 +2249,8 @@ zṳ̂	zur5	500
 魴龜	hang ku	2000
 鮡	thiau5	2000
 鱟伯策	hau7 peh chheh	2000
+鵪鶉	ang tshun	2000
+鷸蚌相持漁翁得利	lut8 hong2 siang thi5 hur5 ong tit li6	2000
 鷹架	in ke3	2000
 鹽硝	iam2 siau	2000
 黃𦅇瘦㾪	ng5 sng sou2 san2	2000
