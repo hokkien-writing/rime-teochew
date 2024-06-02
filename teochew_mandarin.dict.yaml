@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# Teochew Mandarin
+# Teochew Mandarin 潮州話-普通話
 # 維護於 https://github.com/hokkien-writing/rime-teochew/teochew_mandarin.dict.yaml
 #
 ---
@@ -10,2310 +10,2315 @@ version:	"2024.06.02"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
-a-kong	gong gong	500
-a-kong	ye ye	500
-a-kĩm	jiu mu	500
-a-má	po po	500
-a-ni	ma ma	500
-a-ni	nai ma	500
-a-niêⁿ	fu ren	500
-a-niêⁿ-kiáⁿ	xiao jie	500
-a-sià	fu shao	500
-a-sià	guan shao	500
-a-sĩ	huo zhe shi	500
-a-âi	ma ma	500
-ak	xie e	500
-ang-chiá	fu qi	500
-ang-chiá-kiáⁿ	xiao liang kou	500
-ang-kiáⁿ	tu hua	500
-ang-tshun	an chun	500
-au	tang wan	500
-ba̍k-sat	chou chong	500
-ba̍k-táu	wu zei	500
-bua̍h	fen	500
-buān-sì	yong heng	500
-bà-gê	bao ya	500
-bé-pâng	ma jiu	500
-bé-soh	jiang sheng	500
-bé-ta̍h-tèng	ma deng	500
-bói-chiēⁿ-puâⁿ	pi fa gou jin	500
-bói-kheh	gu ke	500
-bóu	lao po	500
-bô	mei you	500
-bô tiāⁿ-tie̍h	bu que ding	500
-bô-hẽng	que de	500
-bô-kui-kú	mei you li mao	500
-bô-tèng-ēng	bu zhong yong	500
-bõi	bu hui	500
-bõi-mó	bu cuo	500
-bùi	fei zi	500
-búe-phùe	mai cai	500
-bûe-ne̍k	li ji rou	500
-bī-sōu	wei dao	500
-bō-tiàu	mao jia	500
-bōi-chiēⁿ-puâⁿ	pi fa xiao shou	500
-būe	mei	500
-cheh-hâm	jun xian	500
-cheh-jĩm	zhi wu	500
-cheh-tsūe	ze bei	500
-cheng-seⁿ	jia chu	500
-che̍k-búe hṳ̂	yi tiao yu	500
-chheh-hṳ̂	shu chong	500
-chheh-kè	shu jia	500
-chheh-phûe	shu ji feng mian	500
-chheh-tû	shu chu	500
-chhek-tshng	gu cang	500
-chheng-khih	qian jing	500
-chheⁿ	sheng	500
-chheⁿ-huân	lv fan	500
-chheⁿ-hūn-nâng	mo sheng ren	500
-chheⁿ-mêⁿ	xia	500
-chheⁿ-tshài	sha la	500
-chhi-gî	ang zang	500
-chhi-tshám	bei can	500
-chhia	dai	500
-chhiah-ne̍k	shou rou	500
-chhiah-thn̂g	hong tang	500
-chhieh-mûeⁿ	xi zhou	500
-chhiet-iàu	zhong yao	500
-chhim-kheⁿ	shan gu	500
-chhin-chhiẽⁿ	hao xiang	500
-chhin-chhiẽⁿ	xiang si	500
-chhin-chiãⁿ	qin qi	500
-chhit	ca	500
-chhit-kha kâi sui	men dian	500
-chhiu	hu zi	500
-chhiáⁿ-táⁿ	shao deng	500
-chhiù	shua	500
-chhiú-chí	jie zhi	500
-chhiú-kṳn	can jin	500
-chhiú-lap	shou tao	500
-chhiú-pòu	shou pa	500
-chhiú-tiû	shou pa	500
-chhiū-nîⁿ	xiang jiao	500
-chhèng	qiang	500
-chhèng-chí	zi dan	500
-chhèng-khang	qiang guan	500
-chhì	chang	500
-chhìn	leng	500
-chhìn-tshái	sui bian	500
-chhĩ	shi chang	500
-chia-tsou	che fei	500
-chia̍h	chi	500
-chia̍h-chek	ji shi	500
-chia̍h-chîⁿ	shou hui	500
-chia̍h-hun	chou yan	500
-chia̍h-keh	fan he	500
-chia̍h-pâng	can ting	500
-chia̍h-tshn̂g	can zhuo	500
-chia̍h-tsho	chi hun	500
-chia̍h-tāu	shui dou	500
-chiaⁿ-ne̍k	shou rou	500
-chie̍h-põu	shi tou	500
-chieⁿ-ló	zhang nao	500
-chieⁿ-tshâ	zhang nao	500
-chim	wen	500
-chiu-liû	man you	500
-chià-phoh	gan zhe zha	500
-chiáng-kūiⁿ	shou yin yuan	500
-chiáu-mêⁿ	ye mang	500
-chiáⁿ		500
-chiè	an	500
-chièn-tsûn	zhan jian	500
-chièⁿ-seⁿ	ru ci	500
-chié	shao	500
-chién	kan	500
-chiéⁿ	chuan jiang	500
-chiéⁿ-keⁿ-nâng	shou ye ren	500
-chiú-chîⁿ	you fei	500
-chiú-khui	kai ping qi	500
-chiēⁿ-kuà	shang wu	500
-chiẽⁿ-siàu	ru zhang	500
-chiⁿ	di tan	500
-chè-tsú	zhai quan ren	500
-chèng-sêⁿ	fa pi qi	500
-chèng-tsu	da yi miao	500
-chì		500
-chí	zhe	500
-chí-tsûn	xian zai	500
-chím-thâu-lông	zhen tou tao	500
-chîⁿ-tshang	bi ji	500
-e̍k-pòu		500
-guā-ke	niang jia	500
-gu̍eh si̍h	yue shi	500
-gu̍eh-kì	yue ji	500
-gâu	neng gan	500
-gâu-a-niêⁿ	tian hua	500
-gê-thâu-khi	hou cao ya	500
-gû-nĩⁿ-iû	huang you	500
-hang-ku	hai gui	500
-he̍k	lei	500
-he̍k	pi lao	500
-hiah	ting	500
-hiah	xiu xi	500
-hiak-tie̍h-sú	zhong shu	500
-hiam-chie	la jiao	500
-hia̍h-sìn	xin men	500
-hia̍h-thâu	qian e	500
-hia̍p-tia̍p	jiao lian	500
-hieⁿ-kou	mo gu	500
-hieⁿ-lí	xiang cun	500
-hioⁿ-tshâ	tan xiang mu	500
-hip	men	500
-hip	zheng	500
-hiàng	guan shui	500
-hiàng-kuan	hai guan	500
-hiáu	ming bai	500
-hiâⁿ-húe	shao huo	500
-hiông	kuai	500
-hiûⁿ	ao	500
-hiēn-chîⁿ	xian jin	500
-hoh	zheng	500
-hong-hiám	wei xian	500
-huah-hì	ha qian	500
-huan-kuah	fan shu	500
-huan-kue	nan gua	500
-huan-káng		500
-huan-lâi	feng li	500
-huan-nâng	ye man ren	500
-huan-tsṳ̂	fan shu	500
-huang-hōu-tsam	qing yu biao	500
-huang-khîm	feng zheng	500
-huang-lôu	huo lu	500
-huang-thai	tai feng	500
-huang-thiàⁿ	feng shi	500
-huat-sie	fa shao	500
-huaⁿ-hí	gao xing	500
-hue-kan	hua ping	500
-hue-niauⁿ	hua yan qiao yu	500
-hue-niêⁿ	ji nv	500
-hue-pòu	yin hua mian bu	500
-hue-tshùi	hua yan qiao yu	500
-hueh-méhⁿ	xue guan	500
-huân-ló	dan xin	500
-huãm-lu̍t	fan fa	500
-hàm	jiao	500
-hái-kîⁿ	hai bian	500
-hái-sṳ̃	dao yu	500
-hái-zông	hai mian	500
-hái-éng	hai lang	500
-hán-tit	hen shao	500
-hân-sú-tsam	wen du ji	500
-hãu-seⁿ	nian qing	500
-hîn-tsûn	yun chuan	500
-hó-thàn	hao zhuan	500
-hô-lan-tsṳ̂	tu dou	500
-hô-lan-tāu	wan dou	500
-hôu-khî	shui zhi	500
-hù-thoh	wei tuo	500
-hùe	shang pin	500
-hùe-tuaⁿ	fa piao	500
-húe-chie̍h	da huo shi	500
-húe-hu	hui jin	500
-húe-pâi	huo chai	500
-húe-si̍t-pâng	chu fang	500
-húe-su̍h	huo jian	500
-húe-thâu	chu shi	500
-húe-tiéⁿ	chuan zhang	500
-húe-tshâ	chai huo	500
-húe-tsûn	qi chuan	500
-húe-tsûn-kiáⁿ	qi ting	500
-hún-chiáu	ge zi	500
-hûi	ci	500
-hāu-peh-chheh	bai ye chuang	500
-hĩⁿ-kau	er huan	500
-hīn-tsãi	xian zai	500
-hṳ́	na	500
-hṳ̂-chhi	yu sai	500
-hṳ̂-chí	yu zi	500
-hṳ̂-si̍t	yu chi	500
-hṳ̂-tshun	yu zi	500
-hẽng-chí	pin de	500
-i	ta	500
-i-nguân	yi jiu	500
-iak-liãng	da yue	500
-iang		500
-iau	ji e	500
-ia̍h-chhiú	zhao shou	500
-ie-ku	tuo bei	500
-ie-kut	ji gu	500
-ieh	cai	500
-ie̍h-kúi	yin qing	500
-in-kè	jiao shou jia	500
-in-tâng	yan cong	500
-it-tit	ji de	500
-iá-iēⁿ	chou lou	500
-iám-siau	xiao shi	500
-iáu-hó	hao xie	500
-iáⁿ	chao guo	500
-iâ-sou-kà	ye su jiao	500
-iâng-chhia húe-tsûn	ming lun chuan	500
-iâⁿ-puâⁿ	ying di	500
-ièn-tshài	hai zao	500
-iùⁿ	jing zhi	500
-iùⁿ-bí	yi mi	500
-iû-sueh	qi shua	500
-iā	ye	500
-iēⁿ	wai guan	500
-jie̍h-tsōi	duo shao	500
-jiàu-se	zhou bu	500
-jiáng	jiao han	500
-jiáng	jiao rang	500
-jiāu	zhui gan	500
-jiē-pha	pang guang	500
-ji̍h	an	500
-ji̍p-kháu-hùe	jin kou shang pin	500
-ji̍t si̍h	ri shi	500
-ji̍t-chheng	ri ji ben	500
-ji̍t-chí	ri qi	500
-ji̍t-ji̍t	tian tian	500
-ji̍t-kuà	bai tian	500
-ji̍t-tàu	zhong wu	500
-jī-chhiú	zhu li	500
-jī-húe	er fu	500
-jī-hō	shang biao	500
-ka-chiah	ji bei	500
-ka-kī	zi ji	500
-ka-kī-nâng	zi ji ren	500
-ka-la̍uh	diao luo	500
-ka-lî	ga li	500
-ka-sàu	ke sou	500
-ka-to	jian dao	500
-kah	he	500
-kah-kiáⁿ	ma jia	500
-kak-kue	si gua	500
-kam-bi̍t	bin lang gao	500
-kam-chek	tao chong bing	500
-kam-thâng	tao chong	500
-kang-chiⁿ	gong zi	500
-kau-kuà	jiao yi	500
-kau-tshap	jiao wang	500
-kau-íⁿ	kao bei yi	500
-kaⁿ	gan	500
-ke	duo	500
-ke-mêⁿ	jin ye	500
-ke-si	jia ju	500
-ke-sìn	jia shu	500
-ke-tiéⁿ	jing li	500
-keh	chou ti	500
-keh-nĩⁿ	duan nai	500
-kek-sim	tong xin	500
-keng-chie	xiang jiao	500
-kha	tui	500
-kha-kiáu	bang tui	500
-kha-ma̍k	jiao huai	500
-kha-niâm	qian jing gu	500
-kha-puâⁿ	zu mian	500
-kha-ta̍h-íⁿ	jiao deng	500
-kha-tháng	yu gang	500
-kha-thâu-u	xi gai	500
-kha-thúi	tui	500
-kha-tn̂g-tóu	xiao tui du	500
-kha-tsóiⁿ	jiao zhi	500
-khah	tai	500
-kham-kai	ying shou	500
-khang-tóu	kong fu	500
-kheh-siang	shang ren	500
-kheh-tiàm	jiu dian	500
-khiau	qiong	500
-khieh-hiàng	shou shui	500
-khie̍h	dai	500
-khih-tshùi	chun lie	500
-khiàng	li hai	500
-khiâu-tshó	chu zhong	500
-khiã	zhan	500
-khuah	kuan	500
-khuah-ta̍k		500
-khuaⁿ-khuaⁿ	jian jian	500
-khuaⁿ-tiâⁿ	guang chang	500
-khui-phâng	yang fan	500
-khui-tuaⁿ	kai zhang	500
-khuà-lṳ̃	you lv	500
-khuàⁿ-ua̍h	huan kuai	500
-khàng-tshn̂g	kang	500
-kháu	ce shi	500
-khì-la̍t	li liang	500
-khí	kai shi	500
-khí-chhiù	ya shua	500
-khí-kè	zhang jia	500
-khí-ngṳ̂n	ya ken	500
-khí-thiàⁿ	ya tong	500
-khí-thâu	kai shi	500
-khî-khá-mu̍eh	qi zhen yi bao	500
-khî-ĩ	jing qi	500
-khîm-siù	chu sheng	500
-khòu-kha	ku tui	500
-khòu-ku̍eh	duan ku	500
-khòu-tuā	yao dai	500
-khóu-kóng	shu kou bei	500
-khùi	qi xi	500
-khǹg	cang	500
-khṳh	gei	500
-khṳt-chia̍h	qi gai	500
-khẽng	cai hong	500
-kia̍h	mu ji	500
-kiaⁿ	pa	500
-kiaⁿ-ngo̍h	jing dai	500
-kih-kau	lian jia	500
-kim-khùi	jin shi	500
-kit	ju zi	500
-kit-phí	jie jia	500
-kit-tàng	dong jie	500
-kiám	shao	500
-kiáⁿ	zi nv	500
-kiáⁿ-ji̍t	jin tian	500
-kiâⁿ	zou	500
-kiâⁿ-hàu	xiao shun	500
-kiâⁿ-ta̍h	zou dong	500
-kiâⁿ-tsûn-nâng	chuan fu	500
-kiâⁿ-tāⁿ-lōu	mi lu	500
-kiè	jiao	500
-kièn-siàu	xiu chi	500
-kiê	qie zi	500
-kiāⁿ	jian zhuang	500
-kng	liang	500
-kng-thàng	tou ming	500
-ko	nian chou	500
-ko-lẽ-tshài	juan xin cai	500
-ko-pî	ka fei	500
-ko-pî-bō	ka fei ji	500
-koh-lâng-ẽ	ye wo	500
-koh-lô	shuo fu	500
-koi-ang	gong ji	500
-koi-chhĩ	shi chang	500
-koi-mô-tshóiⁿ	ji mao dan zi	500
-koiⁿ-thâu	jian bang	500
-kong-chhin	gong duan ren	500
-kou	mei	500
-ko̍ih-lo̍ih	dou li	500
-ku-ie	gou lou	500
-ku-láu	gu gua lao ren	500
-kuah	qie	500
-kuah kang-chiⁿ	kou gong zi	500
-kuan-kù	zhao gu	500
-kuang	pian	500
-kuaⁿ	gan zang	500
-kui-kṳ́	you li mao	500
-kui-nguân	ku cun fen lei zhang	500
-kuk-si̍k	shi gu	500
-kuà	dai	500
-kuàn-pien	zhong feng	500
-kuàn-tn̂g	xiang chang	500
-kuái-kha	bo zu	500
-kuâⁿ-tie̍h	shou han	500
-kuãⁿ	ti	500
-ku̍t	chan	500
-ku̍t	guang hua de	500
-kài-lua̍h	jie mo	500
-kàu	zu gou	500
-ká-thiàⁿ	jiao tong	500
-kám-siā	gan xie	500
-káng-lũn	tao lun	500
-káu-bó	mu gou	500
-káu-koih	wu gou	500
-kãu-la̍k	ban li	500
-kè-chîⁿ	jia ge	500
-kì-siàu	ru zhang	500
-kìm-kháu	feng suo gang kou	500
-kím-káng	feng suo gang kou	500
-kòi	jie chuang	500
-kòi-kāng	zong ji	500
-kòng	chun	500
-kòng	da pao	500
-kói-sueh	jie shi	500
-kóiⁿ	qun zhe	500
-kóu-láu	gu gua lao ren	250
-kóu-sṳ̄	li shi	500
-kóu-tn̄g	chuan shuo	500
-kông	yu chun	500
-kùe-cheh	ze bei	500
-kùe-hãng	yu qi	500
-kùe-tsuá	sao mu	500
-kùi	qin ai de	500
-kùi-phûe	rou gui	500
-kúe	dan gao	500
-kúe-chí	shui guo	500
-kún-tsui	kai shui	500
-kûiⁿ	gao	500
-kāng	he	500
-kōi	rong yi	500
-kṳn	jing mai	500
-kṳ̃n-tshṳ̀	jin shi	500
-kẽ	di	500
-lap-thap	la ta	500
-la̍h-chià	hong gan zhe	500
-la̍h-ji̍t	ri li	500
-la̍p-hiàng	na shui	500
-la̍t	qin lao	500
-lia̍h	zhua	500
-lia̍h-tuã	zhang duo	500
-lim	yin	500
-liú	niu kou	500
-liú	wa	500
-liú-phāng	niu kou kong	500
-liû	zhong liu	500
-liām-lōu	bao yuan	500
-liū-kim-khì	xiang jin qi	500
-lok	shi tou	500
-lo̍h	jiang	500
-lo̍h-kè	jiang jia	500
-lo̍h-pha̍k	xia bing bao	500
-lo̍h-pńg	tou zi	500
-lo̍h-sek	tui shai	500
-lo̍h-suáⁿ	liu chan	500
-lo̍h-sîn-phuâ	nv wu	500
-lo̍h-tsûn	shang chuan	500
-luah	lao	500
-lu̍t hóng siang thî hṳ̂-ong tit lĩ	yu bang xiang chi yu weng de li	500
-làu-sái	fu xie	500
-lái-ngṳ̂n	shou kuan	500
-láu-chí	bin lang	500
-láu-hie̍h	bin lang ye	500
-láu-kiáⁿ	pian zi	500
-lâ	zhi fang	500
-lâi-uáng	fen lei zhang	500
-lân-ló	yi xie	500
-lân-san-bōi	ling shou	500
-lâu khó	tui chao	500
-lâu tĩⁿ	zhang chao	500
-lâu-tsúi hiông	gao chao	500
-lâu-tsúi pêⁿ	di chao	500
-lã	zu gou	500
-lãi	jia	500
-lãu hóng seⁿ tsu	lao bang sheng zhu	500
-lãu-hàu	rou dou kou	500
-lêng-cheng	ji ling	500
-lêng-ûi	neng li	500
-lêng-ūi	wang wei	500
-lín	lun	500
-lî	ze ma	500
-lîm-khîm	shi jia guo	500
-ló-tōng-nâng	liu lang zhe	500
-lói-pài	xing qi ri	500
-lói-pài-tn̂g	jiao tang	500
-lóng-tsóng	zong gong	500
-lóu	tao yan	500
-lô	hun zhuo	500
-lô	zhi wen	500
-lô-keⁿ	luo pan	500
-lāi	feng li	500
-lāi-chîⁿ	li yi	500
-lān-hu̍t	yi wan	500
-lān-pha	yin nang	500
-lĩ-chit	li ji	500
-lōu-phiè	tong xing zheng	500
-lṳ́	ni	500
-ma̍k-bâi	mei mao	500
-ma̍k-chhì-mô	yan jie mao	500
-ma̍k-chiu	yan jing	500
-ma̍k-chiu-phûe	yan pi	500
-ma̍k-jîn	yan qiu	500
-ma̍k-kiàⁿ	yan jing	500
-ma̍k-siap	kun juan	500
-ma̍k-si̍t	kan tou	500
-ma̍k-tsap	yan lei	500
-miaⁿ-sek	ming yu	500
-miaⁿ-thâu	ming sheng	500
-mih-kâi	shen me	500
-mih-nâng	shen me ren	500
-mn̂g-sìⁿ-ãu	men hou	500
-mo	jue	500
-mo-tsháu	ye cao	500
-mu̍eh	zuo	500
-mu̍eh-chia̍h	mi jian	500
-mu̍eh-kiãⁿ	dong xi	500
-màiⁿ	bu yao	500
-màⁿ-khí	ming tian	500
-méhⁿ	mai bo	500
-méⁿ	kuai	500
-mêng-khí	zao shang	500
-mêⁿ-hng	wan shang	500
-mêⁿ-hng-kiáⁿ	bang wan	500
-mêⁿ-kuà	ye jian	500
-mêⁿ-nîⁿ	ming nian	500
-mín	bu yong	500
-mîn-tshn̂g	chuang	500
-mîⁿ	fu lan	500
-mîⁿ-hiûⁿ	mian ao	500
-mó	bu hao	500
-mông-in	mi wu	500
-mûeⁿ	zhou	500
-māng-hek	shan zhu	500
-māng-ka	bo luo mi	500
-mīn	lian	500
-mīn-hũe	hui mian	500
-mīn-liau-liau-cheⁿ	lian se cang bai	500
-mīn-phûe	lian pi	500
-mīn-phûn	lian pen	500
-mīn-pòu		500
-m̃	bu	500
-m̄-tsai-nâng	bu xing ren shi	500
-nah-sap	la ji	500
-nah-sap-sièⁿ	bu qian bu jing	500
-ne̍k-tshō	rou mo	500
-ne̍k-óiⁿ	long yan	500
-ngiau-thâu-chiáu	mao tou ying	500
-ngiá	piao liang	500
-ngiá-tsãi	hen piao liang	500
-ngà	chun	500
-ngán-tsãi	xian zai	500
-ngâi	dai	500
-ngân	leng	500
-ngóu-chheⁿ	xing xing	500
-ngõu-khou	wu yuan	500
-ngṳ̂n-tuaⁿ	hui piao	500
-ni-bó	nai ma	500
-nouⁿ-kiáⁿ	hai zi	500
-nouⁿ-kiáⁿ-khuán	hai zi qi	500
-nuãⁿ	kou shui	500
-nuãⁿ	tuo ye	500
-nám-tsāi-jī	ti huo dan	500
-nán	wo men	500
-nâng-chhiâⁿ	en qing	500
-nâng-chhêng	mian zi	500
-nâng-kheh	ke ren	500
-nâng-kiáⁿ	tu hua	500
-nâng-kong-kiáⁿ	wan ou	500
-nâng-sṳ̄	ren qing shi gu	500
-nãiⁿ	ren shou	500
-nín	ni men	500
-nîⁿ	mao ni	500
-nñg	dan	500
-nñg-chheng	dan bai	500
-nñg-jîn	dan huang	500
-nôiⁿ-kak	ling jiao	500
-nôiⁿ-kúe	li zhi	500
-nāⁿ-sĩ	ru guo	500
-nńg-nîⁿ	zhong feng	500
-n̂g-sng-sóu-sán	mian huang ji shou	500
-o-ló	cheng zan	500
-o-tso	la ji	500
-oh	kun nan	500
-ou	hei	500
-ou-iû	bai you	500
-ou-mīn-nâng	hei ren	500
-ou-thn̂g	hei tang	500
-ou-àm	hei an	500
-o̍ih	zhai	500
-o̍ih-sueh		500
-pah-oh	da ge	500
-pang	mu ban	500
-pat	ren shi	500
-pa̍k	bang	500
-pek	kao	500
-pek	sheng qi	500
-pek-chhek	yi nu	500
-pe̍h-huat-kâi	za cao	500
-pe̍h-huân	ming fan	500
-pe̍h-ne̍k	fei rou	500
-pha-tèng	pao mao	500
-phah	da	500
-phah-khang	jing ji ren	500
-phah-pho̍k	gu zhang	500
-phah-tsuá-pâi	da pai	500
-phang	xiang	500
-phang-siū	feng chao	500
-phang-tsúi	xiang shui	500
-pha̍k	bing bao	500
-pha̍k	shai	500
-phian-kou	ban shen bu sui	500
-phiaⁿ-lî	xie gu	500
-phiaⁿ-lî-kut	xie gu	500
-phiⁿ	pian yi	500
-pho-phûe	xin feng	500
-phoi	xue	500
-phoi-kuán	you ju	500
-phoi-sìn	xin jian	500
-phou-tîn	pu gai	500
-phun	gan shui	500
-phuà-chîⁿ	po fei	500
-phuà-ke-kiáⁿ	bai jia zi	500
-phuà-pēⁿ	sheng bing	500
-phu̍eh-ūe	liao tian	500
-phàⁿ	ruan	500
-phái	huai	500
-phái-kiáⁿ	pi zi	500
-pháng	qu dong	500
-phâi-chhiâng	hua li	500
-phâng-phài	feng sheng	500
-phâu-thâi	bao lei	500
-phãu-hãm	bao han	500
-phãu-put-phêng	bao bu ping	500
-phêng-huâ	he ping	500
-phêng-tuaⁿ	zheng shu	500
-phòng	zhang	500
-phòng-phiẽ	bao zhu	500
-phòu	dian	500
-phòu-thâu	dian pu	500
-phõu-kiáⁿ	ben zi	500
-phû	zha	500
-phīⁿ	bi ti	500
-phīⁿ	wen	500
-phīⁿ-khang	bi kong	500
-pi	shao zi	500
-pik-li̍h	gui lie	500
-piáⁿ-ie̍h		500
-pn̄g-tshn̂g	fan zhuo	500
-po-lî-tsun	bo li ping	500
-poh	zheng bian	500
-po̍h		500
-pua̍h	die	500
-pua̍h-chîⁿ	du qian	500
-pun	chu	500
-pun	gei	500
-puà-sièⁿ	hui rong	500
-puàⁿ-mêⁿ	ban ye	500
-puâⁿ-kiáⁿ	die zi	500
-puâⁿ-siàu	zhuan zhang	500
-pài-it	xing qi yi	500
-pài-jī	xing qi er	500
-pài-la̍k	xing qi liu	500
-pài-lãu-iâ	bai shen	500
-pài-ngõu	xing qi wu	500
-pài-saⁿ	xing qi san	500
-pài-sì	xing qi si	500
-pàu	xiao guan zi	500
-pâi-ji̍t	tian tian	500
-pâi-niⁿ	nian nian	500
-pâi-pí	an pai	500
-pêⁿ-iē	yi yang	500
-pì	bei	500
-pò-hiàng-tuaⁿ	zai huo qing dan	500
-pò-tsai	gao zhi	500
-pòu-chhùi	ma bu	500
-pòu-lōu	bu pi	500
-pòu-phit	bu pi	500
-pó-ke	bao xian	500
-pó-ke-jī	bao xian dan	500
-pó-ke-kuán	bao xian gong si	500
-pó-niáⁿ	bao zheng	500
-póu-tháu	fu tou	500
-pùn-ki	bo ji	500
-pùn-táu	bo ji	500
-pún-téng	ben fen	500
-pû	bai nan gua	500
-pû-hia	shui piao	500
-pĩ-kò	bei gao	500
-pńg-chîⁿ	ben jin	500
-pńg-hūn	yi wu	500
-pōu	ju jue	500
-pũ-chéng	fu zhong	500
-pũ-lâng	hua nong	500
-pūe	kao	500
-sai-khia	si ren	500
-sai-khia-chîⁿ	si fang qian	500
-sai-pẽ	shi fu	500
-sam-pâi	mu fa	500
-san-hû	shan hu	500
-sau-kuán	ji yuan	500
-sa̍h	shui zhu	500
-saⁿ-keⁿ puàⁿ-mêⁿ	san geng ban ye	500
-saⁿ-khòu	yi fu	500
-saⁿ-kṳ	yi jin	500
-saⁿ-tiàu	liang yi jia	500
-saⁿ-tō	yi dai	500
-saⁿ-ńg	yi xiu	500
-sek-liāu	ran liao	500
-sek-î	le yi	500
-seng-lí	sheng yi	500
-seng-lí-nâng	sheng yi ren	500
-seⁿ-huang	feng shi	500
-seⁿ-san	sheng xiu	500
-seⁿ-sṳ̄	re shi	500
-si-ûi	ban fa	500
-siah-po̍h	xi bo	500
-siau	xiao shi	500
-sie-chiap	lian jie	500
-sie-chieh-mn̄g	da zhao hu	500
-sie-mēⁿ	chao jia	500
-sie-phah	da jia	500
-sie-su	bi sai	500
-sie-thâi	da zhan	500
-sie-tsui	wen kai shui	500
-sie-à	zheng lun	500
-sieh	ai	500
-sien-hû	shan hu	500
-sie̍h-liû	shi liu	500
-sieⁿ-huang	gan mao	500
-sieⁿ-hûn	shang ba	500
-sim-kuaⁿ-thâu	xiong tang	500
-sim-sèⁿ	pi qi	500
-sim-tông-tông	xin shen bu ding	500
-sin-bũn-tsuá	bao zhi	500
-sin-hūn	ti ge	500
-sin-nâng	xin niang	500
-sin-nâng-tia	xin lang guan	500
-sin-pũ	xi fu	500
-sin-seⁿ	yi sheng	500
-sin-si	shi ti	500
-sin-tói-saⁿ	chen shan	500
-siu-phâng	shou fan	500
-siu-siàu	shou zhang	500
-siu-tuaⁿ	shou ju	500
-siàu-phõu	zhang ben	500
-siá-jī-tshn̂g	xie zi zhuo	500
-siáu	feng dian	500
-siáu	kuang	500
-siáu-iáⁿ	zhao pian	500
-siáu-káu	kuang quan	500
-siáu-lí	xiu chi	500
-siâ-gō-hún	xi mi	500
-siãng-hó	zui hao	500
-sié-nn̂g	xiao shu zi	500
-sién	xuan	500
-siéⁿ-keh	tong ji ling	500
-siû-tsui	you yong	500
-siũ-iũ	shou hui	500
-si̍h-pńg	kui ben	500
-siẽⁿ-chí	shen zang	500
-soh	sheng zi	500
-soh-kiáⁿ	sheng zi	500
-soi	jiao rang	500
-sou	cui	500
-su-iâⁿ	bi sai	500
-sua-pà	sha di	500
-suah	sa	500
-sue-phî	wei mi	500
-sue-sap	wei mi	500
-suh	shun xi	500
-suāiⁿ	mang guo	500
-suān	zuan shi	500
-sàng-sng	song bin	500
-sàu-siú	sao zhou	500
-sàu-soi-chheⁿ	hui xing	500
-sái	hua	500
-sái	hua fei	500
-sái	jia	500
-sái-chîⁿ	hua qian	500
-sái-puah	shi pen	500
-sán	shou	500
-sán-kut-la̍k-ne̍k	shou gu lin xun	500
-sãi	fei zi	500
-sên	cheng	500
-sêng-chhiū	rong shu	500
-sì-chhêng	tong qing da li	500
-sì-kan	shi jie	500
-sì-pang tshn̂g	fang zhuo	500
-sì-thâu	shi li	500
-sìn-kuan	you ju	500
-sìn-phûe	xin feng	500
-sî-pie	shou biao	500
-sòi	xiao	500
-sòi-jī	zai xi	500
-só	suo tou	500
-só-hùi	hua fei	500
-só-sî	yao shi	500
-sói-e̍k	xi zao	500
-sói-e̍k-pàng	yu shi	500
-sói-e̍k-tháng	yu gang	500
-sóng-khuài	huan kuai	500
-sõng-sṳ	lv shi	500
-sùe	zu jin	500
-sùe-bũ-si	shui wu ju	500
-sùn-pēⁿ	fei lao	500
-sûn	jian cha	500
-sûn	kan wang	500
-sī-iû	jiang you	500
-sńg	wan	500
-sńg-siàu	suan zhang	500
-sǹg-buâ	jia	500
-sṳ̀-hok	zhu fu	500
-ta	gan	500
-ta-ke	po po	500
-ta-ke-kuaⁿ	gong po	500
-ta-kuaⁿ	gong gong	500
-ta-pou	nan ren	500
-ta-pou-kiáⁿ	nan hai	500
-tah-pùe	bei xin	500
-tak-nn̄g	lang fei	500
-tam-sêng	bao shi	500
-tang-si	ce suo	500
-ta̍h-ti̍h	luo suo	500
-taⁿ	xian zai	500
-taⁿ-kê	dai shang jia suo	500
-tek-chià	bai gan zhe	500
-tek-pâi	zhu fa	500
-teng-chuáⁿ	zhong shi tai deng	500
-teng-kã	qian zi	500
-teng-tùe	zhao liao	500
-tha̍k-keng	song jing	500
-theng	chuang	500
-thiah-húe-kì	san huo	500
-thiap	yao qing han	500
-thien-tsú-kà	tian zhu jiao	500
-thih-kùn	tie bang	500
-thih-pit	gang bi	500
-thih-tshùi	tie xie	500
-thiu-hùn	yong jin	500
-thiu-kiám	zhe kou	500
-thiu-thiàⁿ	chou jin	500
-thiàu-thut	tuo su	500
-thiâu	qing chun dou	500
-thiⁿ	jia	500
-thiⁿ-sî	tian qi	500
-thng-sî	tang shao	500
-thn̄g-chí	zhuo qiu	500
-thok-chiáⁿ	tu ding	500
-thua	la	500
-thut-hà	tuo xiao	500
-thuàⁿ	mei	500
-thàm-mn̄g	xun wen	500
-thàn	li run	500
-thàng-ji̍t	zheng tian	500
-thàng-mêⁿ	zheng ye	500
-tháu	jie	500
-tháu-pòu	tou jin	500
-thâi	sha	500
-thâu-hîn	tou tong	500
-thâu-ke	lao ban	500
-thâu-lōu	gong zuo	500
-thâu-mô	tou fa	500
-thâu-nâng	tou mu	500
-thì-thâu	li fa	500
-thì-to	ti xu dao	500
-thòu-sià	huo luan	500
-thó-tàng	wen tuo	500
-thóiⁿ	kan	500
-thóiⁿ-tsṳ-pâng	yue du shi	500
-thôu	tu	500
-thôu-kha	di mian	500
-thûe	chuang	500
-thĩ	zhi chuang	500
-thīⁿ	feng	500
-thǹg	tuo	500
-tiam	zhen ban	500
-tiang-sî	shen me shi hou	500
-tiau-khiak	diao po	500
-tiau-tùn	diao nan	500
-tie̍h	dui	500
-tie̍h-sua	fu jiao tong	500
-tih-kiáⁿ	yi dian	500
-tin-pâi	dun pai	500
-tiàu-kue	huang gua	500
-tiám-báu	dian ming	500
-tián	xuan yao	500
-tiâm-ko	guo jiang	500
-tiâu-tiâu	jing ran	500
-tiâu-ti̍t	wen tuo	500
-tiâu-ti̍t	you tiao li	500
-tiãⁿ-tsũe	pan xing	500
-tièⁿ-tóu	fu zhang	500
-tiām-tiām	jing jing	500
-tiāⁿ-ngṳ̂n	ding jin	500
-tiāⁿ-tie̍h	yi ding	500
-ti̍t-thàu	zhi da	500
-tiẽⁿ-nâng	yue fu	500
-tiẽⁿ-ḿ	yue mu	500
-tiẽⁿ-ḿ-phuâ	zhang mu niang	500
-tn̂g-nâng	zhong guo ren	500
-to-khah	dao qiao	500
-toh	zhuo zi	500
-tok	hui bang	500
-tok	zhan	500
-tok-kang	jian gong	500
-tok-tshō	duo sui	500
-tsa-ji̍t	zuo tian	500
-tsa-mêⁿ	zuo ye	500
-tsai-kuan	dang xin	500
-tsang	fa ji	500
-tsang-sui	suo yi	500
-tsa̍p-chi̍p	bu shu tan	500
-tsh3-piⁿ	lin ju	500
-tshah-tshãn	zheng qian	500
-tsha̍k-kiáⁿ	zao zi	500
-tsha̍k-kiáⁿ	zhui zi	500
-tshng	kui yang	500
-tshn̂g-pòu	zhuo bu	500
-tshn̂g-téng	zhuo shang	500
-tsho	xing	500
-tshoh	qiang	500
-tshoiⁿ-lí-kiàⁿ	wang yuan jing	500
-tshou	cu cao	500
-tshou-pũn	cu ben	500
-tshu-sùe	fang zu	500
-tshue	zheng	500
-tshui-pek	cui tao	500
-tshut-guā-nâng	mo sheng ren	500
-tshut-jī-pe̍h	deng bu gao	500
-tshut-kháu-hùe	chu kou shang pin	500
-tshut-tsu	tian hua	500
-tshut-tāu	shui dou	500
-tshuā-tsúi	ling gang yuan	500
-tshài-thâu	bai luo bo	500
-tshài-thâu-kháu		500
-tshài-tāu	dou jiao	500
-tshàu-nâng	e gun	500
-tsháu-pou	cao ping	500
-tshâ-thâu	mu tou ren	500
-tshâ-thûi	gun bang	500
-tshâi-hù	hui ji	500
-tshâi-khì	xing yun	500
-tshãn-tūi	cha dui	500
-tshóiⁿ	mao shua	500
-tshóiⁿ	shua	500
-tshông	cong	500
-tshù	jia	500
-tshù-bī	you qu	500
-tshù-tsú	fang dong	500
-tshù-téng	fang ding	500
-tshùi	zui	500
-tshùi-lîm-phûe	zui chun	500
-tshùn-chìn	jin bu	500
-tshûn	sheng xia	500
-tshūe	zhao	500
-tsng-ke	zhuang jia	500
-tsnńg-thâu-kong	mu zhi	500
-tsoh-kang	gong zuo	500
-tsong-kú	zong shi	500
-tso̍ih	qie	500
-tsuá-bûe	zhi nian	500
-tsuá-hue	jia hua	500
-tsuá-jī	chao piao	500
-tsuā-tsuā	mei ci	500
-tsàng	qiang zhuang de	500
-tsàu-thâu	zao tai	500
-tsáu	pao	500
-tsáu-hiàng	bi shui	500
-tsáu-khí	qi chuang	500
-tsâng	ke	500
-tsãi	hen	500
-tsò-chhit	shao qi	500
-tsò-chiēⁿ-puâⁿ	pi fa jiao yi	500
-tsò-kha-chhiú	dong shou jiao	500
-tsò-seⁿ-ji̍t	guo sheng ri	500
-tsò-tsoih	guo jie	500
-tsóng-phõu	zong zhang	500
-tsô-thâu-ne̍k	zhu tou rou	500
-tsôiⁿ-khí	men ya	500
-tsúi-in	zheng qi	500
-tsúi-nîⁿ	cu hua ni	500
-tsúi-siú	shui shou	500
-tsúi-thiu	shui beng	500
-tsûn-kiáⁿ	shan ban	500
-tsûn-tsou	chuan fei	500
-tsûn-tsú	chuan zhang	500
-tsōi	duo	500
-tsũi		500
-tsūe	zhe zhou	500
-tsṳ-niêⁿ	nv ren	500
-tsṳ́	zuo	500
-tsṳ̃-chĩn	zi sha	500
-tsṳ̃-lâi-húe	huo chai	500
-tuah	chi ze	500
-tuaⁿ-teng	du sheng zi	500
-tun-hùe-pâng	chu cang shi	500
-tuà-hà	dai xiao	500
-tuã	chuan duo	500
-tuãⁿ	lan duo	500
-tuā-chhèng	da pao	500
-tuā-chi̍h	jie ba	500
-tuā-húe	da fu	500
-tuā-ke	po po	250
-tuā-ke-kuaⁿ	gong po	250
-tuā-thâu-ló	da guan yuan	500
-tuā-tshái-hù	shou xi hui ji	500
-tuā-tshâ	yuan mu	500
-tuā-ãu-ji̍t	da hou tian	500
-tàⁿ	shuo	500
-tá-tia̍p	zhe mo	500
-táu-chiⁿ-hâng	qian bi dui huan shang	500
-táu-chîⁿ	zhao qian	500
-tâm	shi	500
-tâng-mn̂g	lian jin	500
-tâng-po̍h	tong ban	500
-tâng-tsóiⁿ	ding zhen	500
-tâu	tou zi	500
-tãi-kong	duo shou	500
-tãng-lāi	gao li	500
-tèng	mao	500
-tê-bí	cha ye	500
-tê-kuàn	cha hu	500
-tì-iâⁿ	za ying	500
-tî-kâi	na ge	500
-tî-kò	na li	500
-tî-kò húe	na li ren	500
-tî-nâng	na ge ren	500
-tñg-chhùi	shu kou	500
-tñg-khùi	duan qi	500
-tò-ta̍h	luo suo	500
-tó-tièⁿ	dao bi	500
-tói-tsṳ́	yuan jian	500
-tóiⁿ	di ya	500
-tóiⁿ-khòi	di ya qi ju	500
-tóiⁿ-tsú	di ya ren	500
-tóu khùn	ji e	500
-tóu làu	fu xie	500
-tóu-siap	bian mi	500
-tóu-thiàⁿ	du zi tong	500
-tõ	cong	500
-tõ	zai	500
-tõng-kak	shou zhang	500
-tùi-tuaⁿ	hui piao	500
-túi	la	500
-tĩⁿ	man	500
-tī-kha	ji chu	500
-tī-kài	bian jie	500
-tī-tāu	hua sheng	500
-tńg	hui	500
-tōiⁿ	ying	500
-tōu-tsûn	hang chuan	500
-tūn-ãm-kui	jia zhuang xian zhong	500
-tǹg	cheng ya	500
-tǹg-tsú	cheng ya ren	500
-tṳ-ko	gong zhu	500
-tṳ̂	jian	500
-tṳ̄	kuai zi	500
-tẽ-cheng	cha bei	500
-uan-ke	chao nao	500
-uang-khuk	yuan wang	500
-ue	shui hu	500
-ui-kuán	yi yuan	500
-un-chiàng	wen yi	500
-uàⁿ	an jian	500
-uáⁿ	wan	500
-uáⁿ-kong	da wan	500
-uân-kù	yuan yin	500
-uân-sui	xiang cai	500
-uâng-bō	wang guan	500
-uâng-lâi	feng li	500
-uāⁿ	gai bian	500
-u̍t	shui	500
-u̍t-pâng	wo shi	500
-zo̍k	chuang dian	500
-zua̍h-pòu	xia bu	500
-zuán-lôu	huo guo	500
-zông	rong	500
-zú	yue	500
-zú-hó	geng hao	500
-zṳ̂	luan	500
-à	zheng bian	500
-àng	da guan zi	500
-ám	mi tang	500
-áu-ueh	ou tu	500
-âng-ie̍h	zhi tong yao	500
-âng-thâu-tsûn	fan chuan	500
-âng-tâng	huang tong	500
-âu-lèng	hou long	500
-ãm	jing	500
-ãm-muaⁿ	wei jin	500
-ãm-niáⁿ	yi ling	500
-ãm-phuân	wei jin	500
-ãu-ji̍t	hou tian	500
-é	ya ba	500
-êng-ti	tui chi	500
-ìn	hui da	500
-ìn-sêng	cheng nuo	500
-ìⁿ-chiáu	yan zi	500
-ín-chìn	tui jian	500
-în	ceng	500
-îⁿ-tshn̂g	yuan zhuo	500
-ô-khak-kiàⁿ	zhen zhu mu	500
-ô-tsu	zhen zhu	500
-ôi-thua	tuo xie	500
-ôiⁿ-iû	xian guang	500
-ùe	gan ran	500
-ùi	pa	500
-ùi-chhìn	wei han	500
-ùn	zhan	500
-ún	wo men	500
-ún-tǹg	wen tuo	500
-ûi	wei gan	500
-ńg	xiu zi	500
-ũ a-bô	you mei you	500
-ṳ̃	zhun bei	500
-ẽ-hâi	xia ba	500
-ẽ-ji̍t	ta ri	500
-ẽ-kuà	xia wu	500
-ẽ-tsuā	xia ci	500
-㦙	chun	2000
-㩼	duo	2000
-㪗	jie	2000
-㴷	shi	2000
-㽱痛	jiao tong	2000
-㾪	shou	2000
-㾪骨落肉	shou gu lin xun	2000
-㾫枯	ban shen bu sui	1000
-㿗	chuang	2000
-䘼	xiu zi	2000
-䛩	zheng bian	2000
-䭄		1000
-䭕		2000
-䶕牙	bao ya	2000
-一尾魚	yi tiao yu	2000
-丈人	yue fu	2000
-丈夫	nan ren	2000
-丈夫囝	nan hai	2000
-丈母	yue mu	2000
-丈母婆	zhang mu niang	2000
-三更半暝	san geng ban ye	2000
-上好	zui hao	2000
-上數	ru zhang	2000
-上旰	shang wu	2000
-上旰	xia wu	2000
-下	di	2000
-下日	ta ri	2000
-下逝	xia ci	2000
-下頦	xia ba	2000
-不	bu	2000
-不知人	bu xing ren shi	2000
-世情	tong qing da li	2000
-世間	shi jie	2000
-乏	pi lao	2000
-乘	cheng	2000
-乜儂	shen me ren	2000
-乜其	shen me	2000
-乞	gei	2000
-乞食	qi gai	2000
-二伙	er fu	2000
-二手	zhu li	2000
-五箍	wu yuan	2000
-亞是	huo zhe shi	2000
-交挿	jiao wang	2000
-交掛	jiao yi	2000
-交插	jiao wang	1000
-交椅	kao bei yi	2000
-亦	ye	2000
-人事	ren qing shi gu	1000
-人客	ke ren	2000
-人情	en qing	1000
-人情	mian zi	1000
-今	xian zai	2000
-今旦日	jin tian	2000
-今暝	jin ye	2000
-付托	wei tuo	2000
-仙瑚	shan hu	2000
-企	zhan	1000
-伊	ta	2000
-伍星	xing xing	2000
-伙長	chuan zhang	2000
-伙頭	chu shi	2000
-伙食房	chu fang	2000
-作工	gong zuo	2000
-佝腰	gou lou	2000
-使	hua	2000
-使	hua fei	2000
-使費	hua fei	2000
-使錢	hua qian	2000
-來往	fen lei zhang	2000
-來銀	shou kuan	2000
-依原	yi jiu	2000
-便	pian yi	2000
-保家	bao xian	2000
-保家字	bao xian dan	2000
-保家館	bao xian gong si	2000
-保領	bao zheng	2000
-信皮	xin feng	2000
-信關	you ju	2000
-俺	wo men	1000
-倒誻	luo suo	2000
-倒賬	dao bi	2000
-偏枯	ban shen bu sui	2000
-做七	shao qi	2000
-做上盤	pi fa jiao yi	2000
-做生日	guo sheng ri	2000
-做節	guo jie	2000
-做腳手	dong shou jiao	1000
-做骹手	dong shou jiao	2000
-健	jian zhuang	2000
-偪側	yi nu	2000
-催迫	cui tao	2000
-債主	zhai quan ren	2000
-傷痕	shang ba	2000
-傷風	gan mao	2000
-價錢	jia ge	2000
-儂事	ren qing shi gu	2000
-儂公囝	wan ou	2000
-儂囝	tu hua	2000
-儂客	ke ren	1000
-儂情	en qing	2000
-儂情	mian zi	2000
-先生	yi sheng	2000
-光	liang	2000
-光通	tou ming	2000
-免	bu yong	2000
-入口貨	jin kou shang pin	2000
-內	jia	2000
-公親	gong duan ren	2000
-共	he	2000
-典	di ya	2000
-典主	di ya ren	2000
-典契	di ya qi ju	2000
-冇	ruan	2000
-冊架	shu jia	2000
-冊橱	shu chu	2000
-冊皮	shu ji feng mian	2000
-冊魚	shu chong	2000
-冤家	chao nao	2000
-冤屈	yuan wang	2000
-凊	leng	2000
-凝	leng	2000
-出口貨	chu kou shang pin	2000
-出外儂	mo sheng ren	2000
-出字白	deng bu gao	2000
-出珠	tian hua	2000
-出痘	shui dou	2000
-刀壳	dao qiao	2000
-刁厥	diao po	2000
-刁蹬	diao nan	2000
-分	chu	2000
-分	gei	2000
-切要	zhong yao	2000
-刣	sha	2000
-別	ren shi	2000
-利	feng li	2000
-利錢	li yi	2000
-刷	shua	2000
-剁	zhan	2000
-剁脞	duo sui	2000
-剁莝	duo sui	1000
-剃刀	ti xu dao	2000
-剃頭	li fa	2000
-前齒	men ya	2000
-割	qie	2000
-割工錢	kou gong zi	2000
-力	qin lao	2000
-加	duo	2000
-動角	shou zhang	2000
-勢頭	shi li	2000
-勤	qin lao	1000
-勥	li hai	2000
-勿	bu yao	2000
-匏	bai nan gua	2000
-匏桸	shui piao	2000
-匟床	kang	1000
-千里鏡	wang yuan jing	2000
-半暝	ban ye	2000
-危	gao	2000
-卵	dan	2000
-卵仁	dan huang	2000
-卵核	yi wan	2000
-卵淸	dan bai	2000
-卵脬	yin nang	2000
-厚栗	ban li	2000
-厝	jia	2000
-厝主	fang dong	2000
-厝稅	fang zu	2000
-厝邊	lin ju	2000
-厝頂	fang ding	2000
-受賄	shou hui	2000
-口㼦	shu kou bei	2000
-古事	li shi	2000
-古傳	chuan shuo	2000
-司阜	shi fu	2000
-吊瓜	huang gua	2000
-同門	lian jin	2000
-名色	ming yu	2000
-名頭	ming sheng	2000
-吐瀉	huo luan	2000
-告勞	shuo fu	2000
-呌	jiao	2000
-呢	mao ni	2000
-味素	wei dao	2000
-呵欠	ha qian	2000
-呾	shuo	2000
-咄	chi ze	2000
-咖喱	ga li	2000
-咬嗽	ke sou	2000
-咱	wo men	2000
-哺	ju jue	2000
-唐人	zhong guo ren	2000
-唚	wen	2000
-啉	yin	2000
-啞	ya ba	2000
-喉嚨	hou long	2000
-喊	jiao	2000
-喙	zui	2000
-喙唇皮	zui chun	2000
-單丁	du sheng zi	2000
-嗜		500
-嘔噦	ou tu	2000
-嘶	jiao rang	2000
-嚷	jiao han	2000
-嚷	jiao rang	2000
-四方床	fang zhuo	2000
-囝	zi nv	2000
-囥	cang	2000
-困	lei	2000
-圓床	yuan zhuo	2000
-在	cong	2000
-在	hen	2000
-在	zai	2000
-地界	bian jie	2000
-地腳	ji chu	1000
-地豆	hua sheng	2000
-地骹	ji chu	2000
-垃圾	la ji	2000
-垃圾相	bu qian bu jing	2000
-垢圿	wu gou	2000
-堪該	ying shou	2000
-報知	gao zhi	2000
-報餉單	zai huo qing dan	2000
-塗	tu	2000
-塗腳	di mian	1000
-塗骹	di mian	2000
-墨斗	wu zei	2000
-壓	an	2000
-壯	qiang zhuang de	2000
-外家	niang jia	2000
-夜旰	ye jian	2000
-夠	zu gou	2000
-大伙	da fu	2000
-大官	gong gong	2000
-大家	po po	2000
-大家官	gong po	2000
-大後日	da hou tian	2000
-大柴	yuan mu	2000
-大舌	jie ba	2000
-大財副	shou xi hui ji	2000
-大銃	da pao	2000
-大頭腦	da guan yuan	2000
-大頷奎	jia zhuang xian zhong	2000
-天主教	tian zhu jiao	2000
-天時	tian qi	2000
-奇巧物	qi zhen yi bao	2000
-奇異	jing qi	2000
-奈	ren shou	2000
-好贃	hao zhuan	1000
-好趁	hao zhuan	2000
-妥當	wen tuo	2000
-嬭母	nai ma	2000
-字號	shang biao	2000
-孤老	gu gua lao ren	2000
-孥囝	hai zi	2000
-孥囝款	hai zi qi	2000
-孬	bu hao	2000
-定着	yi ding	2000
-定罪	pan xing	2000
-定銀	ding jin	2000
-客商	shang ren	2000
-客店	jiu dian	2000
-家信	jia shu	2000
-家己	zi ji	2000
-家己儂	zi ji ren	2000
-家私	jia ju	2000
-家長	jing li	2000
-寃家	chao nao	1000
-寒暑針	wen du ji	2000
-寒着	shou han	2000
-寫字床	xie zi zhuo	2000
-寬埕	guang chang	2000
-寬寬	jian jian	2000
-寸進	jin bu	2000
-對單	hui piao	2000
-小影	zhao pian	2000
-小禮	xiu chi	2000
-小郎	xiao shu zi	2000
-少	shao	2000
-尪囝	tu hua	2000
-尻脊	ji bei	2000
-尿脬	pang guang	2000
-屎鉢	shi pen	2000
-屐	mu ji	2000
-展	xuan yao	2000
-巡	jian cha	2000
-巡	kan wang	2000
-工錢	gong zi	2000
-市	shi chang	2000
-布疋	bu pi	2000
-布碎	ma bu	2000
-布路	bu pi	2000
-帖	yao qing han	2000
-帶水	ling gang yuan	2000
-帽吊	mao jia	2000
-平和	he ping	2000
-平樣	yi yang	2000
-幼	jing zhi	2000
-床布	zhuo bu	2000
-床頂	zhuo shang	2000
-底個	na ge	2000
-底儂	na ge ren	2000
-底塊	na li	2000
-底塊夥	na li ren	2000
-底子	yuan jian	2000
-底當時	shen me shi hou	2000
-延遲	tui chi	2000
-引荐	tui jian	2000
-彼	na	2000
-後日	hou tian	2000
-後生	nian qing	2000
-徛	zhan	2000
-從	cong	2000
-心性	pi qi	2000
-心憧憧	xin shen bu ding	2000
-心肝頭	xiong tang	2000
-快活	huan kuai	2000
-念路	bao yuan	2000
-恁	ni men	2000
-恬恬	jing jing	2000
-悽慘	bei can	2000
-惜	ai	2000
-惡	tao yan	2000
-惡	xie e	2000
-惰	lan duo	2000
-愈	yue	2000
-愈好	geng hao	2000
-愊	sheng qi	2000
-感謝	gan xie	2000
-愩	chun	2000
-憑單	zheng shu	2000
-憶得	ji de	2000
-應	hui da	2000
-應承	cheng nuo	2000
-戇	yu chun	2000
-成樹	rong shu	2000
-截	qie	2000
-戰船	zhan jian	2000
-戴孝	dai xiao	2000
-所費	hua fei	2000
-手套	shou tao	2000
-手巾	can jin	2000
-手布	shou pa	2000
-手指	jie zhi	2000
-手綢	shou pa	2000
-打拍	gu zhang	2000
-打揲	zhe mo	1000
-打疊	zhe mo	2000
-打紙牌	da pai	2000
-扭	wa	2000
-批	xue	2000
-批信	xin jian	2000
-批皮	xin feng	2000
-批館	you ju	2000
-找錢	zhao qian	2000
-找錢行	qian bi dui huan shang	2000
-抱不平	bao bu ping	2000
-抱憾	bao han	2000
-抽分	yong jin	2000
-抽減	zhe kou	2000
-抽痛	chou jin	2000
-拆夥記	san huo	2000
-拋椗	pao mao	2000
-拍	da	2000
-拍呃	da ge	2000
-拍空	jing ji ren	2000
-拐腳	bo zu	1000
-拐骹	bo zu	2000
-拔	die	2000
-拖	la	2000
-拜三	xing qi san	2000
-拜乙	xing qi yi	2000
-拜伍	xing qi wu	2000
-拜四	xing qi si	2000
-拜弍	xing qi er	2000
-拜老爺	bai shen	2000
-拜陸	xing qi liu	2000
-拭	ca	2000
-拭腳其蓑	men dian	1000
-拭骹其蓑	men dian	2000
-持	dai	2000
-指頭公	mu zhi	2000
-挽	la	2000
-挿羼	zheng qian	2000
-掃箒	sao zhou	2000
-掃菷星	hui xing	2000
-掌	kan	2000
-掌更儂	shou ye ren	2000
-掌櫃	shou yin yuan	2000
-排場	hua li	2000
-排塲	hua li	1000
-排年	nian nian	2000
-排日	tian tian	2000
-排比	an pai	2000
-掘	chan	2000
-掛	dai	2000
-掛慮	you lv	2000
-掛紙	sao mu	2000
-掠	zhua	2000
-掠舵	zhang duo	2000
-探問	xun wen	2000
-插羼	zheng qian	1000
-換	gai bian	2000
-損病	fei lao	2000
-携	ti	2000
-携餉	shou shui	2000
-撈	zu gou	2000
-撒	sa	2000
-撞枳	zhuo qiu	2000
-擔承	bao shi	2000
-擔枷	dai shang jia suo	2000
-攏總	zong gong	2000
-攬儎字	ti huo dan	2000
-收單	shou ju	2000
-收帆	shou fan	2000
-收數	shou zhang	2000
-敗	huai	2000
-數簿	zhang ben	2000
-斜莪粉	xi mi	2000
-斧頭	fu tou	2000
-新人	xin niang	2000
-新人爹	xin lang guan	2000
-新婦	xi fu	2000
-新教	ye su jiao	2000
-新聞紙	bao zhi	2000
-斷氣	duan qi	2000
-施爲	ban fa	2000
-日子	ri qi	2000
-日日	tian tian	2000
-日旰	bai tian	2000
-日晝	zhong wu	2000
-日清	ri ji ben	2000
-日蝕	ri shi	2000
-早起	qi chuang	2000
-旺梨	feng li	2000
-明年	ming nian	2000
-明旦起	ming tian	2000
-易	rong yi	2000
-昨日	zuo tian	2000
-昨暝	zuo ye	2000
-時鏢	shou biao	2000
-晏	wan	2000
-暍着暑	zhong shu	2000
-暖爐	huo guo	2000
-暝昏	wan shang	2000
-暝昏囝	bang wan	2000
-曉	ming bai	2000
-曝	shai	2000
-曳手	zhao shou	2000
-月蝕	yue shi	2000
-月記	yue ji	2000
-有亞無	you mei you	2000
-朥	zhi fang	2000
-木虱	chou chong	2000
-未	mei	2000
-末	fen	2000
-本分	yi wu	2000
-本等	ben fen	2000
-本錢	ben jin	2000
-杉排	mu fa	2000
-杉牌	mu fa	1000
-杮	fei zi	2000
-東司	ce suo	2000
-枋	mu ban	2000
-枕頭囊	zhen tou tao	2000
-林擒	shi jia guo	2000
-果子	shui guo	2000
-枵	ji e	2000
-柑	gan	2000
-柴槌	gun bang	2000
-柴頭	mu tou ren	2000
-栳㭳	rou dou kou	2000
-格	chou ti	1000
-桂皮	rou gui	2000
-桅	wei gan	2000
-案	an jian	2000
-桔	ju zi	2000
-桩家	zhuang jia	2000
-條條	jing ran	2000
-條直	wen tuo	2000
-條直	you tiao li	2000
-棉裘	mian ao	2000
-棕蓑	suo yi	2000
-棹	zhuo zi	2000
-椗	mao	2000
-槅	chou ti	2000
-槳	chuan jiang	2000
-槽頭肉	zhu tou rou	2000
-樟柴	zhang nao	2000
-樟栳	zhang nao	2000
-樣	wai guan	2000
-樹泥	xiang jiao	2000
-檨	mang guo	2000
-欉	ke	2000
-欶	shun xi	2000
-歇	ting	2000
-歇	xiu xi	2000
-歡喜	gao xing	2000
-此	zhe	2000
-此樣生	ru ci	2000
-此陣	xian zai	2000
-歷日	ri li	2000
-歸原	ku cun fen lei zhang	2000
-母	lao po	2000
-氈	di tan	2000
-氣	qi xi	2000
-氣力	li liang	2000
-水呢	cu hua ni	2000
-水手	shui shou	2000
-水抽	shui beng	2000
-水烟	zheng qi	2000
-水𦮴	cu hua ni	1000
-氽水	you yong	2000
-汝	ni	2000
-污糟	la ji	2000
-沙埧	sha di	1000
-沙壩	sha di	2000
-油刷	qi shua	2000
-沿	ceng	2000
-洗浴	xi zao	2000
-洗浴房	yu shi	2000
-洗浴桶	yu gang	2000
-流水平	di chao	2000
-流水雄	gao chao	2000
-流洘	tui chao	2000
-流漲	zhang chao	2000
-浪蕩儂	liu lang zhe	2000
-浮	zha	2000
-浮膿	hua nong	2000
-浴布		2000
-海墘	hai bian	2000
-海嶼	dao yu	2000
-海湧	hai lang	2000
-海茸	hai mian	2000
-涎	kou shui	2000
-涎	tuo ye	2000
-淖糜	xi zhou	2000
-深坑	shan gu	2000
-添	jia	2000
-清潔	qian jing	2000
-減	shao	2000
-渡船	hang chuan	2000
-湯匙	tang shao	2000
-滂沛	feng sheng	2000
-滑	guang hua de	2000
-滒	nian chou	2000
-滴囝	yi dian	2000
-滾水	kai shui	2000
-漉	shi tou	2000
-漏囝	pian zi	2000
-漏屎	fu xie	2000
-漲	man	2000
-潘	gan shui	2000
-濛烟	mi wu	2000
-灌腸	xiang chang	2000
-火柴	chai huo	2000
-火灰	hui jin	2000
-火牌	huo chai	2000
-火石	da huo shi	2000
-火船	qi chuan	2000
-火船囝	qi ting	2000
-火頭	chu shi	1000
-灱	gan	2000
-灶頭	zao tai	2000
-炊	zheng	2000
-炕床	kang	2000
-炭	mei	2000
-炮臺	bao lei	2000
-烏	hei	2000
-烏暗	hei an	2000
-烏油	bai you	2000
-烏糖	hei tang	2000
-烏面儂	hei ren	2000
-烙	lao	2000
-烟筒	yan cong	2000
-焙	kao	2000
-無	mei you	2000
-無中用	bu zhong yong	2000
-無定着	bu que ding	2000
-無行	que de	2000
-無規矩	mei you li mao	2000
-煆火	shao huo	2000
-煏	kao	2000
-煠	shui zhu	2000
-照	an	2000
-煩惱	dan xin	2000
-煮	zuo	2000
-煴	zhan	2000
-熇	zheng	2000
-熱布	xia bu	2000
-熻	men	2000
-燈盞	zhong shi tai deng	2000
-燒水	wen kai shui	2000
-燕菜	hai zao	2000
-燕鳥	yan zi	2000
-營盤	ying di	2000
-爽快	huan kuai	2000
-爾	ni	1000
-牙頭齒	hou cao ya	2000
-牛乳油	huang you	2000
-物	zuo	2000
-物件	dong xi	2000
-物食	mi jian	2000
-犯律	fan fa	2000
-狗母	mu gou	2000
-狹	zhai	2000
-猛	kuai	2000
-獃	dai	2000
-王帽	wang guan	2000
-玻璃樽	bo li ping	2000
-珊瑚	shan hu	2000
-珠娘	nv ren	1000
-現在	xian zai	2000
-現錢	xian jin	2000
-瓠𣟵	shui piao	1000
-甌	tang wan	2000
-甕	da guan zi	2000
-甘癪	tao chong bing	2000
-甘虫	tao chong	2000
-甘蜜	bin lang gao	2000
-甜糕	guo jiang	2000
-生事	re shi	2000
-生份儂	mo sheng ren	1000
-生分儂	mo sheng ren	2000
-生理	sheng yi	2000
-生理儂	sheng yi ren	2000
-生疑	ang zang	2000
-生瘋	feng shi	2000
-生矾	lv fan	2000
-生菜	sha la	2000
-生鉎	sheng xiu	2000
-生𥐥	lv fan	1000
-畏	pa	2000
-畏凊	wei han	2000
-畧好	hao xie	2000
-畨人	ye man ren	1000
-畨梘		1000
-畨梨	feng li	1000
-畨瓜	nan gua	1000
-畨葛	fan shu	1000
-畨薯	fan shu	1000
-番人	ye man ren	2000
-番梘		2000
-番梨	feng li	2000
-番瓜	nan gua	2000
-番葛	fan shu	2000
-番薯	fan shu	2000
-當	cheng ya	2000
-當主	cheng ya ren	2000
-疥	jie chuang	2000
-痀腰	gou lou	1000
-痒癲	zhong feng	2000
-痔	zhi chuang	2000
-痞囝	pi zi	2000
-痢疾	li ji	2000
-痱	fei zi	2000
-瘋痛	feng shi	2000
-瘟瘴	wen yi	2000
-瘡	kui yang	2000
-瘤	zhong liu	2000
-癬	xuan	2000
-癲	feng dian	2000
-發燒	fa shao	2000
-白發其	za cao	2000
-白矾	ming fan	2000
-白肉	fei rou	2000
-白𥐥	ming fan	1000
-皺紗	zhou bu	2000
-盤囝	die zi	2000
-盤數	zhuan zhang	2000
-盪喙	shu kou	2000
-目仁	yan qiu	2000
-目實	kan tou	2000
-目汁	yan lei	2000
-目澀	kun juan	1000
-目澁	kun juan	2000
-目眉	mei mao	2000
-目眥毛	yan jie mao	2000
-目睭	yan jing	2000
-目睭皮	yan pi	2000
-目鏡	yan jing	2000
-目𥍆	kun juan	500
-盯綴	zhao liao	2000
-直透	zhi da	2000
-相䛩	zheng lun	2000
-相借問	da zhao hu	2000
-相刣	da zhan	2000
-相拍	da jia	2000
-相接	lian jie	2000
-相罵	chao jia	2000
-相輸	bi sai	2000
-眠床	chuang	2000
-眠起	zao shang	2000
-眩船	yun chuan	2000
-眼在	xian zai	2000
-眾生	jia chu	2000
-着	dui	2000
-着痧	fu jiao tong	2000
-睇	kan	2000
-睇書房	yue du shi	2000
-睡	shui	2000
-督工	jian gong	2000
-知觀	dang xin	2000
-石榴	shi liu	2000
-石部	shi tou	2000
-砧	zhen ban	2000
-破家囝	bai jia zi	2000
-破病	sheng bing	2000
-破相	hui rong	2000
-破錢	po fei	2000
-硝	xiao shi	2000
-碗公	da wan	2000
-碰鰾	bao zhu	2000
-磽	qiong	2000
-禁口	feng suo gang kou	2000
-禁港	feng suo gang kou	2000
-禮拜	xing qi ri	2000
-禮拜堂	jiao tang	2000
-禽獸	chu sheng	2000
-禿掌	tu ding	2000
-私家	si ren	2000
-私家錢	si fang qian	2000
-稅	zu jin	2000
-稅務司	shui wu ju	2000
-種珠	da yi miao	2000
-稱誦	cheng zan	2000
-穢	gan ran	2000
-穩當	wen tuo	2000
-空肚	kong fu	2000
-窓	chuang	1000
-窗	chuang	2000
-竹排	zhu fa	2000
-竹牌	zhu fa	1000
-竹蔗	bai gan zhe	2000
-筅	mao shua	2000
-筅	shua	2000
-筋	jing mai	2000
-答背	bei xin	2000
-算摩	jia	2000
-算數	suan zhang	2000
-箸	kuai zi	2000
-簥	qie zi	2000
-簿囝	ben zi	2000
-籐牌	dun pai	2000
-粉鳥	ge zi	2000
-粗	cu cao	2000
-粗笨	cu ben	2000
-粟倉	gu cang	2000
-粿	dan gao	2000
-糜	zhou	2000
-糞斗	bo ji	2000
-糞箕	bo ji	2000
-約	cai	2000
-約量	da yue	2000
-紅藥	zhi tong yao	2000
-紅銅	huang tong	2000
-紅頭船	fan chuan	2000
-納餉	na shui	2000
-紙字	chao piao	2000
-紙煤	zhi nian	2000
-紙花	jia hua	2000
-紡	qu dong	2000
-索	sheng zi	2000
-索囝	sheng zi	2000
-細	xiao	2000
-細字	zai xi	2000
-終久	zong shi	2000
-結凍	dong jie	2000
-結疕	jie jia	2000
-絨	rong	2000
-綱膠	bo luo mi	2000
-綱黑	shan zhu	2000
-緣故	yuan yin	2000
-縛	bang	2000
-縫	feng	2000
-縻	fu lan	2000
-總簿	zong zhang	2000
-缺嘴	chun lie	2000
-罕得	hen shao	2000
-置營	za ying	2000
-羅經	luo pan	2000
-羔丕	ka fei	2000
-羔丕磨	ka fei ji	2000
-羼隊	cha dui	2000
-翁姐	fu qi	2000
-翁姐囝	xiao liang kou	2000
-翕	men	2000
-翕	zheng	2000
-翹楚	chu zhong	2000
-老蚌生珠	lao bang sheng zhu	2000
-考	ce shi	2000
-耍	wan	2000
-耳鈎	er huan	2000
-職任	zhi wu	2000
-職銜	jun xian	2000
-肉脞	rou mo	2000
-肚困	ji e	2000
-肚漏	fu xie	2000
-肚澁	bian mi	2000
-肚痛	du zi tong	2000
-肝	gan zang	2000
-肨	zhang	2000
-肩頭	jian bang	2000
-胕腫	fu zhong	2000
-胳胴下	ye wo	2000
-能爲	neng li	2000
-脉	mai bo	2000
-脢肉	li ji rou	2000
-脧		2000
-脫孝	tuo xiao	2000
-脹肚	fu zhang	2000
-腈肉	shou rou	2000
-腎子	shen zang	2000
-腡	zhi wen	2000
-腥	sheng	2000
-腰佝	tuo bei	2000
-腰痀	tuo bei	1000
-腰骨	ji gu	2000
-腳	tui	1000
-腳桶	yu gang	1000
-腳目	jiao huai	1000
-腳腸肚	xiao tui du	1000
-腳腿	tui	1000
-腳臁	qian jing gu	1000
-腳趾	jiao zhi	1000
-腳踏椅	jiao deng	1000
-腳蹯	zu mian	1000
-腳頭趺	xi gai	1000
-腳𢅎	bang tui	1000
-膠離	ga li	1000
-臊	xing	2000
-臥房	wo shi	2000
-自來火	huo chai	2000
-自盡	zi sha	2000
-臭儂	e gun	2000
-舖	dian	2000
-舵	chuan duo	2000
-舵工	duo shou	2000
-船主	chuan zhang	2000
-船囝	shan ban	2000
-船租	chuan fei	2000
-色料	ran liao	2000
-芎蕉	xiang jiao	2000
-芥辣	jie mo	2000
-花嘴	hua yan qiao yu	2000
-花娘	ji nv	2000
-花布	yin hua mian bu	2000
-花干	hua ping	2000
-花貓	hua yan qiao yu	2000
-芳	xiang	2000
-芳水	xiang shui	2000
-苡米	yi mi	2000
-若㩼	duo shao	2000
-若是	ru guo	2000
-茅	jue	2000
-茅草	ye cao	2000
-茶盅	cha bei	2000
-茶礶	cha hu	2000
-茶米	cha ye	2000
-茹	luan	2000
-草埔	cao ping	2000
-荒喪	lang fei	2000
-荒險	wei xian	2000
-荔果	li zhi	2000
-荔菓	li zhi	1000
-荖枳	bin lang	2000
-荖葉	bin lang ye	2000
-荷蘭荳	wan dou	2000
-荷蘭薯	tu dou	2000
-莞荽	xiang cai	2000
-菓子	shui guo	1000
-菜荳	dou jiao	2000
-菜頭	bai luo bo	2000
-菜頭槁		2000
-菰	mei	2000
-萬世	yong heng	2000
-落	jiang	2000
-落價	jiang jia	2000
-落本	tou zi	2000
-落產	liu chan	2000
-落神婆	nv wu	2000
-落船	shang chuan	2000
-落色	tui shai	2000
-落雹	xia bing bao	2000
-葵笠	dou li	2000
-蓮角	ling jiao	2000
-蔗粕	gan zhe zha	2000
-蔫		2000
-薄		2000
-薟椒	la jiao	2000
-薺蔥	bi ji	2000
-藥鬼	yin qing	2000
-虹	cai hong	2000
-蛺蝶	jiao lian	2000
-蜂岫	feng chao	2000
-蜈蜞	shui zhi	2000
-蝕本	kui ben	2000
-蠔壳鏡	zhen zhu mu	2000
-蠔珠	zhen zhu	2000
-蠟蔗	hong gan zhe	2000
-血脉	xue guan	2000
-衋心	tong xin	2000
-行	zou	2000
-行孝	xiao shun	2000
-行差路	mi lu	2000
-行止	pin de	2000
-行船人	chuan fu	2000
-行踏	zou dong	2000
-街市	shi chang	2000
-衝性	fa pi qi	2000
-衫䘼	yi xiu	2000
-衫吊	liang yi jia	2000
-衫袋	yi dai	2000
-衫裾	yi jin	2000
-衫褲	yi fu	2000
-衰疲	wei mi	2000
-衰颯	wei mi	2000
-袂	bu hui	2000
-袂孬	bu cuo	1000
-被告	bei gao	2000
-袷囝	ma jia	2000
-裘	ao	2000
-褥	chuang dian	2000
-褪	tuo	2000
-褲帶	yao dai	2000
-褲橛	duan ku	2000
-褲腳	ku tui	1000
-褲骹	ku tui	2000
-襇	qun zhe	2000
-襊	zhe zhou	2000
-見笑	xiu chi	2000
-規矩	you li mao	2000
-覔	zhao	2000
-親像	hao xiang	2000
-親像	xiang si	2000
-親情	qin qi	2000
-觀顧	zhao gu	2000
-角瓜	si gua	2000
-解說	jie shi	2000
-計共	zong ji	2000
-記數	ru zhang	2000
-訟師	lv shi	2000
-詈	ze ma	2000
-詏	zheng bian	1000
-詖話	liao tian	2000
-試	chang	2000
-誑	pian	2000
-請待	shao deng	2000
-諑	hui bang	2000
-諸娘	nv ren	2000
-講論	tao lun	2000
-譗𧫡	luo suo	2000
-識	ren shi	1000
-讀經	song jing	2000
-讓	jiao han	1000
-豈	tai	2000
-豉油	jiang you	2000
-豬哥	gong zhu	2000
-貓頭鳥	mao tou ying	2000
-負	bei	2000
-財副	hui ji	2000
-財氣	xing yun	2000
-貨	shang pin	2000
-貨單	fa piao	2000
-責罪	ze bei	2000
-貯貨房	chu cang shi	2000
-貴	qin ai de	2000
-買上盤	pi fa gou jin	2000
-買客	gu ke	2000
-買配	mai cai	2000
-賒	dai	2000
-賜福	zhu fu	2000
-賞格	tong ji ling	2000
-賢	neng gan	1000
-賢亞娘	tian hua	2000
-賣上盤	pi fa xiao shou	2000
-賰	sheng xia	2000
-賻錢	du qian	2000
-贃	li run	1000
-赤糖	hong tang	2000
-赤肉	shou rou	2000
-走	pao	2000
-走餉	bi shui	2000
-起	kai shi	2000
-起價	zhang jia	2000
-起頭	kai shi	2000
-趁	li run	2000
-趣味	you qu	2000
-跌落	diao luo	2000
-路票	tong xing zheng	2000
-跳脫	tuo su	2000
-身分	ti ge	2000
-身尸	shi ti	2000
-身屍	shi ti	2000
-身底衫	chen shan	2000
-車租	che fei	2000
-軟疕	zhong feng	2000
-輪	lun	2000
-輸贏	bi sai	2000
-轉	hui	2000
-近覷	jin shi	2000
-追	zhui gan	2000
-送喪	song bin	2000
-通日	zheng tian	2000
-通暝	zheng ye	2000
-逝逝	mei ci	2000
-週流	man you	2000
-過責	ze bei	2000
-過限	yu qi	2000
-適意	le yi	2000
-邋遢	la ta	2000
-鄕里	xiang cun	2000
-酒錢	you fei	2000
-酒開	kai ping qi	2000
-酥	cui	2000
-醜陋	chou lou	1000
-醪	hun zhuo	2000
-醫館	yi yuan	2000
-重利	gao li	2000
-野樣	chou lou	2000
-金器	jin shi	2000
-釘咬	qian zi	2000
-鈕	niu kou	2000
-鈕縫	niu kou kong	2000
-鉸刀	jian dao	2000
-銀單	hui piao	2000
-銃	qiang	2000
-銃子	zi dan	2000
-銃空	qiang guan	2000
-銅指	ding zhen	2000
-銅薄	tong ban	2000
-鋪陳	pu gai	2000
-鋪頭	dian pu	2000
-錫薄	xi bo	2000
-錯	qiang	2000
-鍋	shui hu	2000
-鎖	suo tou	2000
-鎖匙	yao shi	2000
-鎦金器	xiang jin qi	2000
-鏇	zuan shi	2000
-鐵棍	tie bang	2000
-鐵碎	tie xie	2000
-鐵筆	gang bi	2000
-鑤	xiao guan zi	2000
-鑽囝	zhui zi	2000
-鑿囝	zao zi	2000
-門扇後	men hou	2000
-開單	kai zhang	2000
-開帆	yang fan	2000
-閑遊	xian guang	1000
-閒遊	xian guang	2000
-闊	kuan	2000
-闊達		2000
-阮	wo men	2000
-阿㜷	ma ma	1000
-阿㜷	nai ma	1000
-阿公	gong gong	2000
-阿公	ye ye	2000
-阿妗	jiu mu	2000
-阿姨	ma ma	2000
-阿娘	fu ren	2000
-阿娘囝	xiao jie	2000
-阿媽	po po	2000
-阿嬭	ma ma	2000
-阿嬭	nai ma	2000
-阿舍	fu shao	2000
-阿舍	guan shao	2000
-阿𡟓	ma ma	1000
-陂	shao zi	2000
-除	jian	2000
-陽車火船	ming lun chuan	2000
-隔乳	duan nai	2000
-隨便	sui bian	2000
-雀暝	ye mang	2000
-雄	kuai	2000
-雅	piao liang	2000
-雅在	hen piao liang	2000
-雜疾	bu shu tan	1000
-雜集	bu shu tan	2000
-雞毛筅	ji mao dan zi	2000
-雞翁	gong ji	2000
-難	kun nan	2000
-零些	yi xie	2000
-零些賣	ling shou	2000
-雹	bing bao	2000
-霶霈	feng sheng	1000
-靈精	ji ling	2000
-青盲	xia	2000
-面	lian	2000
-面䩍䩍青	lian se cang bai	2000
-面布		2000
-面會	hui mian	2000
-面皮	lian pi	2000
-面盆	lian pen	2000
-鞋拖	tuo xie	2000
-預	zhun bei	2000
-頭儂	tou mu	2000
-頭家	lao ban	2000
-頭布	tou jin	2000
-頭毛	tou fa	2000
-頭眩	tou tong	2000
-頭路	gong zuo	2000
-頰溝	lian jia	2000
-頷	jing	2000
-頷幋	wei jin	2000
-頷幔	wei jin	2000
-頷領	yi ling	2000
-額囟	xin men	2000
-額頭	qian e	2000
-風爐	huo lu	2000
-風禽	feng zheng	2000
-風雨針	qing yu biao	2000
-風颱	tai feng	2000
-食	chi	2000
-食床	can zhuo	2000
-食房	can ting	2000
-食槅	fan he	2000
-食痘	shui dou	2000
-食積	ji shi	2000
-食臊	chi hun	2000
-食薰	chou yan	2000
-食錢	shou hui	2000
-飯床	fan zhuo	2000
-飲	mi tang	2000
-餅藥		2000
-餉	guan shui	2000
-餉關	hai guan	2000
-餜	dan gao	1000
-香柴	tan xiang mu	2000
-香菰	mo gu	2000
-馬房	ma jiu	2000
-馬索	jiang sheng	2000
-馬踏䟓	ma deng	2000
-駁	zheng bian	2000
-駛	jia	2000
-騷館	ji yuan	2000
-驚	pa	2000
-驚愕	jing dai	2000
-骨殖	shi gu	2000
-骸	tou zi	2000
-骹	tui	2000
-骹桶	yu gang	2000
-骹目	jiao huai	2000
-骹腸肚	xiao tui du	2000
-骹腿	tui	2000
-骹臁	qian jing gu	2000
-骹趾	jiao zhi	2000
-骹踏椅	jiao deng	2000
-骹蹯	zu mian	2000
-骹頭趺	xi gai	2000
-骹𢅎	bang tui	2000
-高麗菜	juan xin cai	2000
-鬃	fa ji	2000
-鬚	hu zi	2000
-魚子	yu zi	2000
-魚春	yu zi	2000
-魚翼	yu chi	2000
-魚腮	yu sai	2000
-魴龜	hai gui	2000
-鮡	qing chun dou	2000
-鱟伯策	bai ye chuang	2000
-鵪鶉	an chun	2000
-鷸蚌相持漁翁得利	yu bang xiang chi yu weng de li	2000
-鷹架	jiao shou jia	2000
-鹽硝	xiao shi	2000
-黃𦅇瘦㾪	mian huang ji shou	2000
-點卯	dian ming	2000
-鼎	chao guo	2000
-鼻	wen	2000
-鼻空	bi kong	2000
-齒刷	ya shua	2000
-齒痛	ya tong	2000
-齒齦	ya ken	2000
-龍位	wang wei	2000
-龍眼	long yan	2000
-𠁞	bu hui	1000
-𠁞孬	bu cuo	2000
-𠕆	ying	2000
-𠢕	neng gan	2000
-𡚸	lao po	1000
-𡜿	lao po	500
-𣴨	bi ti	2000
-𤇢	kao	2000
-𤞚	kuang	2000
-𤞚狗	kuang quan	2000
-𤷗裂	gui lie	2000
-𦈢	ci	2000
-𦮴	mao ni	1000
-𨫋	da pao	2000
-𩛌		2000
-𩩍籬	xie gu	2000
-𩩍籬骨	xie gu	2000
+a-kong(公公)	gong gong	500
+a-kong(爺爺)	ye ye	500
+a-kĩm(舅母)	jiu mu	500
+a-má(婆婆)	po po	500
+a-ni(奶媽)	nai ma	500
+a-ni(媽媽)	ma ma	500
+a-niêⁿ(夫人)	fu ren	500
+a-niêⁿ-kiáⁿ(小姐)	xiao jie	500
+a-sià(官少)	guan shao	500
+a-sià(富少)	fu shao	500
+a-sĩ(或者是)	huo zhe shi	500
+a-âi(媽媽)	ma ma	500
+ak(邪惡)	xie e	500
+ang-chiá(夫妻)	fu qi	500
+ang-chiá-kiáⁿ(小兩口)	xiao liang kou	500
+ang-kiáⁿ(圖畫)	tu hua	500
+ang-tshun(鵪鶉)	an chun	500
+au(湯碗)	tang wan	500
+ba̍k-sat(臭蟲)	chou chong	500
+ba̍k-táu(烏賊)	wu zei	500
+bua̍h(粉)	fen	500
+buān-sì(永恆)	yong heng	500
+bà-gê(齙牙)	bao ya	500
+bé-pâng(馬廄)	ma jiu	500
+bé-soh(韁繩)	jiang sheng	500
+bé-ta̍h-tèng(馬鐙)	ma deng	500
+bói-chiēⁿ-puâⁿ(批發購進)	pi fa gou jin	500
+bói-kheh(顧客)	gu ke	500
+bóu(老婆)	lao po	500
+bô tiāⁿ-tie̍h(不確定)	bu que ding	500
+bô(沒有)	mei you	500
+bô-hẽng(缺德)	que de	500
+bô-kui-kú(沒有禮貌)	mei you li mao	500
+bô-tèng-ēng(不中用)	bu zhong yong	500
+bõi(不會)	bu hui	500
+bõi-mó(不錯)	bu cuo	500
+bùi(痱子)	fei zi	500
+búe-phùe(買菜)	mai cai	500
+bûe-ne̍k(裏脊肉)	li ji rou	500
+bī-sōu(味道)	wei dao	500
+bō-tiàu(帽架)	mao jia	500
+bōi-chiēⁿ-puâⁿ(批發銷售)	pi fa xiao shou	500
+būe(沒)	mei	500
+cheh-hâm(軍銜)	jun xian	500
+cheh-jĩm(職務)	zhi wu	500
+cheh-tsūe(責備)	ze bei	500
+cheng-seⁿ(家畜)	jia chu	500
+che̍k-búe hṳ̂(一條魚)	yi tiao yu	500
+chheh-hṳ̂(書蟲)	shu chong	500
+chheh-kè(書架)	shu jia	500
+chheh-phûe(書籍封面)	shu ji feng mian	500
+chheh-tû(書櫥)	shu chu	500
+chhek-tshng(穀倉)	gu cang	500
+chheng-khih(乾淨)	qian jing	500
+chheⁿ(生)	sheng	500
+chheⁿ-huân(綠礬)	lv fan	500
+chheⁿ-hūn-nâng(陌生人)	mo sheng ren	500
+chheⁿ-mêⁿ(瞎)	xia	500
+chheⁿ-tshài(沙拉)	sha la	500
+chhi-gî(骯髒)	ang zang	500
+chhi-tshám(悲慘)	bei can	500
+chhia(貸)	dai	500
+chhiah-ne̍k(瘦肉)	shou rou	500
+chhiah-thn̂g(紅糖)	hong tang	500
+chhieh-mûeⁿ(稀粥)	xi zhou	500
+chhiet-iàu(重要)	zhong yao	500
+chhim-kheⁿ(山谷)	shan gu	500
+chhin-chhiẽⁿ(好像)	hao xiang	500
+chhin-chhiẽⁿ(相似)	xiang si	500
+chhin-chiãⁿ(親戚)	qin qi	500
+chhit(擦)	ca	500
+chhit-kha kâi sui(門墊)	men dian	500
+chhiu(鬍子)	hu zi	500
+chhiáⁿ-táⁿ(稍等)	shao deng	500
+chhiù(刷)	shua	500
+chhiú-chí(戒指)	jie zhi	500
+chhiú-kṳn(餐巾)	can jin	500
+chhiú-lap(手套)	shou tao	500
+chhiú-pòu(手帕)	shou pa	500
+chhiú-tiû(手帕)	shou pa	500
+chhiū-nîⁿ(橡膠)	xiang jiao	500
+chhèng(槍)	qiang	500
+chhèng-chí(子彈)	zi dan	500
+chhèng-khang(槍管)	qiang guan	500
+chhì(嚐)	chang	500
+chhìn(冷)	leng	500
+chhìn-tshái(隨便)	sui bian	500
+chhĩ(市場)	shi chang	500
+chia-tsou(車費)	che fei	500
+chia̍h(吃)	chi	500
+chia̍h-chek(積食)	ji shi	500
+chia̍h-chîⁿ(受賄)	shou hui	500
+chia̍h-hun(抽菸)	chou yan	500
+chia̍h-keh(飯盒)	fan he	500
+chia̍h-pâng(餐廳)	can ting	500
+chia̍h-tshn̂g(餐桌)	can zhuo	500
+chia̍h-tsho(吃葷)	chi hun	500
+chia̍h-tāu(水痘)	shui dou	500
+chiaⁿ-ne̍k(瘦肉)	shou rou	500
+chie̍h-põu(石頭)	shi tou	500
+chieⁿ-ló(樟腦)	zhang nao	500
+chieⁿ-tshâ(樟腦)	zhang nao	500
+chim(吻)	wen	500
+chiu-liû(漫遊)	man you	500
+chià-phoh(甘蔗渣)	gan zhe zha	500
+chiáng-kūiⁿ(收銀員)	shou yin yuan	500
+chiáu-mêⁿ(夜盲)	ye mang	500
+chiáⁿ()		500
+chiè(按)	an	500
+chièn-tsûn(戰艦)	zhan jian	500
+chièⁿ-seⁿ(如此)	ru ci	500
+chié(少)	shao	500
+chién(看)	kan	500
+chiéⁿ(船槳)	chuan jiang	500
+chiéⁿ-keⁿ-nâng(守夜人)	shou ye ren	500
+chiú-chîⁿ(郵費)	you fei	500
+chiú-khui(開瓶器)	kai ping qi	500
+chiēⁿ-kuà(上午)	shang wu	500
+chiẽⁿ-siàu(入賬)	ru zhang	500
+chiⁿ(地毯)	di tan	500
+chè-tsú(債權人)	zhai quan ren	500
+chèng-sêⁿ(發脾氣)	fa pi qi	500
+chèng-tsu(打疫苗)	da yi miao	500
+chì()		500
+chí(這)	zhe	500
+chí-tsûn(現在)	xian zai	500
+chím-thâu-lông(枕頭套)	zhen tou tao	500
+chîⁿ-tshang(荸薺)	bi ji	500
+e̍k-pòu()		500
+guā-ke(娘家)	niang jia	500
+gu̍eh si̍h(月食)	yue shi	500
+gu̍eh-kì(月季)	yue ji	500
+gâu(能幹)	neng gan	500
+gâu-a-niêⁿ(天花)	tian hua	500
+gê-thâu-khi(後槽牙)	hou cao ya	500
+gû-nĩⁿ-iû(黃油)	huang you	500
+hang-ku(海龜)	hai gui	500
+he̍k(疲勞)	pi lao	500
+he̍k(累)	lei	500
+hiah(休息)	xiu xi	500
+hiah(停)	ting	500
+hiak-tie̍h-sú(中暑)	zhong shu	500
+hiam-chie(辣椒)	la jiao	500
+hia̍h-sìn(囟門)	xin men	500
+hia̍h-thâu(前額)	qian e	500
+hia̍p-tia̍p(鉸鏈)	jiao lian	500
+hieⁿ-kou(蘑菇)	mo gu	500
+hieⁿ-lí(鄉村)	xiang cun	500
+hioⁿ-tshâ(檀香木)	tan xiang mu	500
+hip(悶)	men	500
+hip(燜)	men	500
+hip(蒸)	zheng	500
+hiàng(關稅)	guan shui	500
+hiàng-kuan(海關)	hai guan	500
+hiáu(明白)	ming bai	500
+hiâⁿ-húe(燒火)	shao huo	500
+hiông(快)	kuai	500
+hiûⁿ(襖)	ao	500
+hiēn-chîⁿ(現金)	xian jin	500
+hoh(蒸)	zheng	500
+hong-hiám(危險)	wei xian	500
+huah-hì(哈欠)	ha qian	500
+huan-kuah(蕃薯)	fan shu	500
+huan-kue(南瓜)	nan gua	500
+huan-káng()		500
+huan-lâi(鳳梨)	feng li	500
+huan-nâng(野蠻人)	ye man ren	500
+huan-tsṳ̂(蕃薯)	fan shu	500
+huang-hōu-tsam(晴雨表)	qing yu biao	500
+huang-khîm(風箏)	feng zheng	500
+huang-lôu(火爐)	huo lu	500
+huang-thai(颱風)	tai feng	500
+huang-thiàⁿ(風濕)	feng shi	500
+huat-sie(發燒)	fa shao	500
+huaⁿ-hí(高興)	gao xing	500
+hue-kan(花瓶)	hua ping	500
+hue-niauⁿ(花言巧語)	hua yan qiao yu	500
+hue-niêⁿ(妓女)	ji nv	500
+hue-pòu(印花棉布)	yin hua mian bu	500
+hue-tshùi(花言巧語)	hua yan qiao yu	500
+hueh-méhⁿ(血管)	xue guan	500
+huân-ló(擔心)	dan xin	500
+huãm-lu̍t(犯法)	fan fa	500
+hàm(叫)	jiao	500
+hái-kîⁿ(海邊)	hai bian	500
+hái-sṳ̃(島嶼)	dao yu	500
+hái-zông(海綿)	hai mian	500
+hái-éng(海浪)	hai lang	500
+hán-tit(很少)	hen shao	500
+hân-sú-tsam(溫度計)	wen du ji	500
+hãu-seⁿ(年輕)	nian qing	500
+hîn-tsûn(暈船)	yun chuan	500
+hó-thàn(好賺)	hao zhuan	500
+hô-lan-tsṳ̂(土豆)	tu dou	500
+hô-lan-tāu(豌豆)	wan dou	500
+hôu-khî(水蛭)	shui zhi	500
+hù-thoh(委託)	wei tuo	500
+hùe(商品)	shang pin	500
+hùe-tuaⁿ(發票)	fa piao	500
+húe-chie̍h(打火石)	da huo shi	500
+húe-hu(灰燼)	hui jin	500
+húe-pâi(火柴)	huo chai	500
+húe-si̍t-pâng(廚房)	chu fang	500
+húe-su̍h(火箭)	huo jian	500
+húe-thâu(廚師)	chu shi	500
+húe-tiéⁿ(船長)	chuan zhang	500
+húe-tshâ(柴火)	chai huo	500
+húe-tsûn(汽船)	qi chuan	500
+húe-tsûn-kiáⁿ(汽艇)	qi ting	500
+hún-chiáu(鴿子)	ge zi	500
+hûi(瓷)	ci	500
+hāu-peh-chheh(百葉窗)	bai ye chuang	500
+hĩⁿ-kau(耳環)	er huan	500
+hīn-tsãi(現在)	xian zai	500
+hṳ́(那)	na	500
+hṳ̂-chhi(魚腮)	yu sai	500
+hṳ̂-chí(魚子)	yu zi	500
+hṳ̂-si̍t(魚翅)	yu chi	500
+hṳ̂-tshun(魚子)	yu zi	500
+hẽng-chí(品德)	pin de	500
+i(他)	ta	500
+i(她)	ta	500
+i(它)	ta	500
+i-nguân(依舊)	yi jiu	500
+iak-liãng(大約)	da yue	500
+iang()		500
+iau(飢餓)	ji e	500
+ia̍h-chhiú(招手)	zhao shou	500
+ie-ku(駝背)	tuo bei	500
+ie-kut(脊骨)	ji gu	500
+ieh(猜)	cai	500
+ie̍h-kúi(引擎)	yin qing	500
+in-kè(腳手架)	jiao shou jia	500
+in-tâng(煙囪)	yan cong	500
+it-tit(記得)	ji de	500
+iá-iēⁿ(醜陋)	chou lou	500
+iám-siau(硝石)	xiao shi	500
+iáu-hó(好些)	hao xie	500
+iáⁿ(炒鍋)	chao guo	500
+iâ-sou-kà(耶穌教)	ye su jiao	500
+iâng-chhia húe-tsûn(明輪船)	ming lun chuan	500
+iâⁿ-puâⁿ(營地)	ying di	500
+ièn-tshài(海藻)	hai zao	500
+iùⁿ(精緻)	jing zhi	500
+iùⁿ-bí(薏米)	yi mi	500
+iû-sueh(漆刷)	qi shua	500
+iā(也)	ye	500
+iēⁿ(外觀)	wai guan	500
+jie̍h-tsōi(多少)	duo shao	500
+jiàu-se(縐布)	zhou bu	500
+jiáng(叫喊)	jiao han	500
+jiáng(叫嚷)	jiao rang	500
+jiāu(追趕)	zhui gan	500
+jiē-pha(膀胱)	pang guang	500
+ji̍h(按)	an	500
+ji̍p-kháu-hùe(進口商品)	jin kou shang pin	500
+ji̍t si̍h(日食)	ri shi	500
+ji̍t-chheng(日記本)	ri ji ben	500
+ji̍t-chí(日期)	ri qi	500
+ji̍t-ji̍t(天天)	tian tian	500
+ji̍t-kuà(白天)	bai tian	500
+ji̍t-tàu(中午)	zhong wu	500
+jī-chhiú(助理)	zhu li	500
+jī-húe(二副)	er fu	500
+jī-hō(商標)	shang biao	500
+ka-chiah(脊背)	ji bei	500
+ka-kī(自己)	zi ji	500
+ka-kī-nâng(自己人)	zi ji ren	500
+ka-la̍uh(掉落)	diao luo	500
+ka-lî(咖喱)	ga li	500
+ka-sàu(咳嗽)	ke sou	500
+ka-to(剪刀)	jian dao	500
+kah(和)	he	500
+kah-kiáⁿ(馬甲)	ma jia	500
+kak-kue(絲瓜)	si gua	500
+kam-bi̍t(檳榔膏)	bin lang gao	500
+kam-chek(絛蟲病)	tao chong bing	500
+kam-thâng(絛蟲)	tao chong	500
+kang-chiⁿ(工資)	gong zi	500
+kau-kuà(交易)	jiao yi	500
+kau-tshap(交往)	jiao wang	500
+kau-íⁿ(靠背椅)	kao bei yi	500
+kaⁿ(柑)	gan	500
+ke(多)	duo	500
+ke-mêⁿ(今夜)	jin ye	500
+ke-si(家具)	jia ju	500
+ke-sìn(家書)	jia shu	500
+ke-tiéⁿ(經理)	jing li	500
+keh(抽屜)	chou ti	500
+keh-nĩⁿ(斷奶)	duan nai	500
+kek-sim(痛心)	tong xin	500
+keng-chie(香蕉)	xiang jiao	500
+kha(腿)	tui	500
+kha-kiáu(綁腿)	bang tui	500
+kha-ma̍k(腳踝)	jiao huai	500
+kha-niâm(前脛骨)	qian jing gu	500
+kha-puâⁿ(足面)	zu mian	500
+kha-ta̍h-íⁿ(腳蹬)	jiao deng	500
+kha-tháng(浴缸)	yu gang	500
+kha-thâu-u(膝蓋)	xi gai	500
+kha-thúi(腿)	tui	500
+kha-tn̂g-tóu(小腿肚)	xiao tui du	500
+kha-tsóiⁿ(腳趾)	jiao zhi	500
+khah(太)	tai	500
+kham-kai(應受)	ying shou	500
+khang-tóu(空腹)	kong fu	500
+kheh-siang(商人)	shang ren	500
+kheh-tiàm(酒店)	jiu dian	500
+khiau(窮)	qiong	500
+khieh-hiàng(收稅)	shou shui	500
+khie̍h(帶)	dai	500
+khih-tshùi(唇裂)	chun lie	500
+khiàng(厲害)	li hai	500
+khiâu-tshó(出眾)	chu zhong	500
+khiã(站)	zhan	500
+khuah(寬)	kuan	500
+khuah-ta̍k()		500
+khuaⁿ-khuaⁿ(漸漸)	jian jian	500
+khuaⁿ-tiâⁿ(廣場)	guang chang	500
+khui-phâng(揚帆)	yang fan	500
+khui-tuaⁿ(開賬)	kai zhang	500
+khuà-lṳ̃(憂慮)	you lv	500
+khuàⁿ-ua̍h(歡快)	huan kuai	500
+khàng-tshn̂g(炕)	kang	500
+kháu(測試)	ce shi	500
+khì-la̍t(力量)	li liang	500
+khí(開始)	kai shi	500
+khí-chhiù(牙刷)	ya shua	500
+khí-kè(漲價)	zhang jia	500
+khí-ngṳ̂n(牙齦)	ya ken	500
+khí-thiàⁿ(牙痛)	ya tong	500
+khí-thâu(開始)	kai shi	500
+khî-khá-mu̍eh(奇珍異寶)	qi zhen yi bao	500
+khî-ĩ(驚奇)	jing qi	500
+khîm-siù(畜生)	chu sheng	500
+khòu-kha(褲腿)	ku tui	500
+khòu-ku̍eh(短褲)	duan ku	500
+khòu-tuā(腰帶)	yao dai	500
+khóu-kóng(漱口杯)	shu kou bei	500
+khùi(氣息)	qi xi	500
+khǹg(藏)	cang	500
+khṳh(給)	gei	500
+khṳt-chia̍h(乞丐)	qi gai	500
+khẽng(彩虹)	cai hong	500
+kia̍h(木屐)	mu ji	500
+kiaⁿ(怕)	pa	500
+kiaⁿ-ngo̍h(驚呆)	jing dai	500
+kih-kau(臉頰)	lian jia	500
+kim-khùi(金飾)	jin shi	500
+kit(橘子)	ju zi	500
+kit-phí(結痂)	jie jia	500
+kit-tàng(凍結)	dong jie	500
+kiám(少)	shao	500
+kiáⁿ(子女)	zi nv	500
+kiáⁿ-ji̍t(今天)	jin tian	500
+kiâⁿ(走)	zou	500
+kiâⁿ-hàu(孝順)	xiao shun	500
+kiâⁿ-ta̍h(走動)	zou dong	500
+kiâⁿ-tsûn-nâng(船夫)	chuan fu	500
+kiâⁿ-tāⁿ-lōu(迷路)	mi lu	500
+kiè(叫)	jiao	500
+kièn-siàu(羞耻)	xiu chi	500
+kiê(茄子)	qie zi	500
+kiāⁿ(健壯)	jian zhuang	500
+kng(亮)	liang	500
+kng-thàng(透明)	tou ming	500
+ko(黏稠)	nian chou	500
+ko-lẽ-tshài(捲心菜)	juan xin cai	500
+ko-pî(咖啡)	ka fei	500
+ko-pî-bō(咖啡機)	ka fei ji	500
+koh-lâng-ẽ(腋窩)	ye wo	500
+koh-lô(說服)	shuo fu	500
+koi-ang(公雞)	gong ji	500
+koi-chhĩ(市場)	shi chang	500
+koi-mô-tshóiⁿ(雞毛撣子)	ji mao dan zi	500
+koiⁿ-thâu(肩膀)	jian bang	500
+kong-chhin(公斷人)	gong duan ren	500
+kou(霉)	mei	500
+ko̍ih-lo̍ih(斗笠)	dou li	500
+ku-ie(佝僂)	gou lou	500
+ku-láu(孤寡老人)	gu gua lao ren	500
+kuah kang-chiⁿ(扣工資)	kou gong zi	500
+kuah(切)	qie	500
+kuan-kù(照顧)	zhao gu	500
+kuang(騙)	pian	500
+kuaⁿ(肝臟)	gan zang	500
+kui-kṳ́(有禮貌)	you li mao	500
+kui-nguân(庫存分類賬)	ku cun fen lei zhang	500
+kuk-si̍k(屍骨)	shi gu	500
+kuà(戴)	dai	500
+kuàn-pien(中風)	zhong feng	500
+kuàn-tn̂g(香腸)	xiang chang	500
+kuái-kha(跛足)	bo zu	500
+kuâⁿ-tie̍h(受寒)	shou han	500
+kuãⁿ(提)	ti	500
+ku̍t(光滑的)	guang hua de	500
+ku̍t(剷)	chan	500
+kài-lua̍h(芥末)	jie mo	500
+kàu(足夠)	zu gou	500
+ká-thiàⁿ(絞痛)	jiao tong	500
+kám-siā(感謝)	gan xie	500
+káng-lũn(討論)	tao lun	500
+káu-bó(母狗)	mu gou	500
+káu-koih(污垢)	wu gou	500
+kãu-la̍k(板栗)	ban li	500
+kè-chîⁿ(價格)	jia ge	500
+kì-siàu(入賬)	ru zhang	500
+kìm-kháu(封鎖港口)	feng suo gang kou	500
+kím-káng(封鎖港口)	feng suo gang kou	500
+kòi(疥瘡)	jie chuang	500
+kòi-kāng(總計)	zong ji	500
+kòng(大砲)	da pao	500
+kòng(蠢)	chun	500
+kói-sueh(解釋)	jie shi	500
+kóiⁿ(裙褶)	qun zhe	500
+kóu-láu(孤寡老人)	gu gua lao ren	250
+kóu-sṳ̄(歷史)	li shi	500
+kóu-tn̄g(傳說)	chuan shuo	500
+kông(愚蠢)	yu chun	500
+kùe-cheh(責備)	ze bei	500
+kùe-hãng(逾期)	yu qi	500
+kùe-tsuá(掃墓)	sao mu	500
+kùi(親愛的)	qin ai de	500
+kùi-phûe(肉桂)	rou gui	500
+kúe(蛋糕)	dan gao	500
+kúe-chí(水果)	shui guo	500
+kún-tsui(開水)	kai shui	500
+kûiⁿ(高)	gao	500
+kāng(和)	he	500
+kōi(容易)	rong yi	500
+kṳn(靜脈)	jing mai	500
+kṳ̃n-tshṳ̀(近視)	jin shi	500
+kẽ(低)	di	500
+lap-thap(邋遢)	la ta	500
+la̍h-chià(紅甘蔗)	hong gan zhe	500
+la̍h-ji̍t(日曆)	ri li	500
+la̍p-hiàng(納稅)	na shui	500
+la̍t(勤勞)	qin lao	500
+lia̍h(抓)	zhua	500
+lia̍h-tuã(掌舵)	zhang duo	500
+lim(飲)	yin	500
+liú(挖)	wa	500
+liú(鈕扣)	niu kou	500
+liú-phāng(鈕扣孔)	niu kou kong	500
+liû(腫瘤)	zhong liu	500
+liām-lōu(抱怨)	bao yuan	500
+liū-kim-khì(鑲金器)	xiang jin qi	500
+lok(濕透)	shi tou	500
+lo̍h(降)	jiang	500
+lo̍h-kè(降價)	jiang jia	500
+lo̍h-pha̍k(下冰雹)	xia bing bao	500
+lo̍h-pńg(投資)	tou zi	500
+lo̍h-sek(褪色)	tui shai	500
+lo̍h-suáⁿ(流產)	liu chan	500
+lo̍h-sîn-phuâ(女巫)	nv wu	500
+lo̍h-tsûn(上船)	shang chuan	500
+luah(烙)	lao	500
+lu̍t hóng siang thî hṳ̂-ong tit lĩ(鷸蚌相持漁翁得利)	yu bang xiang chi yu weng de li	500
+làu-sái(腹瀉)	fu xie	500
+lái-ngṳ̂n(收款)	shou kuan	500
+láu-chí(檳榔)	bin lang	500
+láu-hie̍h(檳榔葉)	bin lang ye	500
+láu-kiáⁿ(騙子)	pian zi	500
+lâ(脂肪)	zhi fang	500
+lâi-uáng(分類賬)	fen lei zhang	500
+lân-ló(一些)	yi xie	500
+lân-san-bōi(零售)	ling shou	500
+lâu khó(退潮)	tui chao	500
+lâu tĩⁿ(漲潮)	zhang chao	500
+lâu-tsúi hiông(高潮)	gao chao	500
+lâu-tsúi pêⁿ(低潮)	di chao	500
+lã(足夠)	zu gou	500
+lãi(家)	jia	500
+lãu hóng seⁿ tsu(老蚌生珠)	lao bang sheng zhu	500
+lãu-hàu(肉豆蔻)	rou dou kou	500
+lêng-cheng(機靈)	ji ling	500
+lêng-ûi(能力)	neng li	500
+lêng-ūi(王位)	wang wei	500
+lín(輪)	lun	500
+lî(責罵)	ze ma	500
+lîm-khîm(釋迦果)	shi jia guo	500
+ló-tōng-nâng(流浪者)	liu lang zhe	500
+lói-pài(星期日)	xing qi ri	500
+lói-pài-tn̂g(教堂)	jiao tang	500
+lóng-tsóng(總共)	zong gong	500
+lóu(討厭)	tao yan	500
+lô(指紋)	zhi wen	500
+lô(渾濁)	hun zhuo	500
+lô-keⁿ(羅盤)	luo pan	500
+lāi(鋒利)	feng li	500
+lāi-chîⁿ(利益)	li yi	500
+lān-hu̍t(睪丸)	yi wan	500
+lān-pha(陰囊)	yin nang	500
+lĩ-chit(痢疾)	li ji	500
+lōu-phiè(通行證)	tong xing zheng	500
+lṳ́(你)	ni	500
+ma̍k-bâi(眉毛)	mei mao	500
+ma̍k-chhì-mô(眼睫毛)	yan jie mao	500
+ma̍k-chiu(眼睛)	yan jing	500
+ma̍k-chiu-phûe(眼皮)	yan pi	500
+ma̍k-jîn(眼球)	yan qiu	500
+ma̍k-kiàⁿ(眼鏡)	yan jing	500
+ma̍k-siap(睏倦)	kun juan	500
+ma̍k-si̍t(看頭)	kan tou	500
+ma̍k-tsap(眼淚)	yan lei	500
+miaⁿ-sek(名譽)	ming yu	500
+miaⁿ-thâu(名聲)	ming sheng	500
+mih-kâi(什麼)	shen me	500
+mih-nâng(什麼人)	shen me ren	500
+mn̂g-sìⁿ-ãu(門後)	men hou	500
+mo(蕨)	jue	500
+mo-tsháu(野草)	ye cao	500
+mu̍eh(做)	zuo	500
+mu̍eh-chia̍h(蜜餞)	mi jian	500
+mu̍eh-kiãⁿ(東西)	dong xi	500
+màiⁿ(不要)	bu yao	500
+màⁿ-khí(明天)	ming tian	500
+méhⁿ(脈搏)	mai bo	500
+méⁿ(快)	kuai	500
+mêng-khí(早上)	zao shang	500
+mêⁿ-hng(晚上)	wan shang	500
+mêⁿ-hng-kiáⁿ(傍晚)	bang wan	500
+mêⁿ-kuà(夜間)	ye jian	500
+mêⁿ-nîⁿ(明年)	ming nian	500
+mín(不用)	bu yong	500
+mîn-tshn̂g(床)	chuang	500
+mîⁿ(腐爛)	fu lan	500
+mîⁿ-hiûⁿ(棉襖)	mian ao	500
+mó(不好)	bu hao	500
+mông-in(迷霧)	mi wu	500
+mûeⁿ(粥)	zhou	500
+māng-hek(山竹)	shan zhu	500
+māng-ka(波羅蜜)	bo luo mi	500
+mīn(臉)	lian	500
+mīn-hũe(會面)	hui mian	500
+mīn-liau-liau-cheⁿ(臉色蒼白)	lian se cang bai	500
+mīn-phûe(臉皮)	lian pi	500
+mīn-phûn(臉盆)	lian pen	500
+mīn-pòu()		500
+m̃(不)	bu	500
+m̄-tsai-nâng(不省人事)	bu xing ren shi	500
+nah-sap(垃圾)	la ji	500
+nah-sap-sièⁿ(不乾不淨)	bu qian bu jing	500
+ne̍k-tshō(肉末)	rou mo	500
+ne̍k-óiⁿ(龍眼)	long yan	500
+ngiau-thâu-chiáu(貓頭鷹)	mao tou ying	500
+ngiá(漂亮)	piao liang	500
+ngiá-tsãi(很漂亮)	hen piao liang	500
+ngà(蠢)	chun	500
+ngán-tsãi(現在)	xian zai	500
+ngâi(呆)	dai	500
+ngân(冷)	leng	500
+ngóu-chheⁿ(行星)	xing xing	500
+ngõu-khou(五元)	wu yuan	500
+ngṳ̂n-tuaⁿ(匯票)	hui piao	500
+ni-bó(奶媽)	nai ma	500
+nouⁿ-kiáⁿ(孩子)	hai zi	500
+nouⁿ-kiáⁿ-khuán(孩子氣)	hai zi qi	500
+nuãⁿ(口水)	kou shui	500
+nuãⁿ(唾液)	tuo ye	500
+nám-tsāi-jī(提貨單)	ti huo dan	500
+nán(我們)	wo men	500
+nâng-chhiâⁿ(恩情)	en qing	500
+nâng-chhêng(面子)	mian zi	500
+nâng-kheh(客人)	ke ren	500
+nâng-kiáⁿ(圖畫)	tu hua	500
+nâng-kong-kiáⁿ(玩偶)	wan ou	500
+nâng-sṳ̄(人情世故)	ren qing shi gu	500
+nãiⁿ(忍受)	ren shou	500
+nín(你們)	ni men	500
+nîⁿ(毛呢)	mao ni	500
+nñg(蛋)	dan	500
+nñg-chheng(蛋白)	dan bai	500
+nñg-jîn(蛋黃)	dan huang	500
+nôiⁿ-kak(菱角)	ling jiao	500
+nôiⁿ-kúe(荔枝)	li zhi	500
+nāⁿ-sĩ(如果)	ru guo	500
+nńg-nîⁿ(中風)	zhong feng	500
+n̂g-sng-sóu-sán(面黃肌瘦)	mian huang ji shou	500
+o-ló(稱讚)	cheng zan	500
+o-tso(垃圾)	la ji	500
+oh(困難)	kun nan	500
+ou(黑)	hei	500
+ou-iû(柏油)	bai you	500
+ou-mīn-nâng(黑人)	hei ren	500
+ou-thn̂g(黑糖)	hei tang	500
+ou-àm(黑暗)	hei an	500
+o̍ih(窄)	zhai	500
+o̍ih-sueh()		500
+pah-oh(打嗝)	da ge	500
+pang(木板)	mu ban	500
+pat(認識)	ren shi	500
+pa̍k(綁)	bang	500
+pek(烤)	kao	500
+pek(生氣)	sheng qi	500
+pek-chhek(易怒)	yi nu	500
+pe̍h-huat-kâi(雜草)	za cao	500
+pe̍h-huân(明礬)	ming fan	500
+pe̍h-ne̍k(肥肉)	fei rou	500
+pha-tèng(拋錨)	pao mao	500
+phah(打)	da	500
+phah-khang(經紀人)	jing ji ren	500
+phah-pho̍k(鼓掌)	gu zhang	500
+phah-tsuá-pâi(打牌)	da pai	500
+phang(香)	xiang	500
+phang-siū(蜂巢)	feng chao	500
+phang-tsúi(香水)	xiang shui	500
+pha̍k(冰雹)	bing bao	500
+pha̍k(曬)	shai	500
+phian-kou(半身不遂)	ban shen bu sui	500
+phiaⁿ-lî(脇骨)	xie gu	500
+phiaⁿ-lî-kut(脇骨)	xie gu	500
+phiⁿ(便宜)	pian yi	500
+pho-phûe(信封)	xin feng	500
+phoi(削)	xue	500
+phoi-kuán(郵局)	you ju	500
+phoi-sìn(信件)	xin jian	500
+phou-tîn(鋪蓋)	pu gai	500
+phun(泔水)	gan shui	500
+phuà-chîⁿ(破費)	po fei	500
+phuà-ke-kiáⁿ(敗家子)	bai jia zi	500
+phuà-pēⁿ(生病)	sheng bing	500
+phu̍eh-ūe(聊天)	liao tian	500
+phàⁿ(軟)	ruan	500
+phái(壞)	huai	500
+phái-kiáⁿ(痞子)	pi zi	500
+pháng(驅動)	qu dong	500
+phâi-chhiâng(華麗)	hua li	500
+phâng-phài(豐盛)	feng sheng	500
+phâu-thâi(堡壘)	bao lei	500
+phãu-hãm(抱憾)	bao han	500
+phãu-put-phêng(抱不平)	bao bu ping	500
+phêng-huâ(和平)	he ping	500
+phêng-tuaⁿ(證書)	zheng shu	500
+phòng(脹)	zhang	500
+phòng-phiẽ(爆竹)	bao zhu	500
+phòu(店)	dian	500
+phòu-thâu(店鋪)	dian pu	500
+phõu-kiáⁿ(本子)	ben zi	500
+phû(炸)	zha	500
+phīⁿ(聞)	wen	500
+phīⁿ(鼻涕)	bi ti	500
+phīⁿ-khang(鼻孔)	bi kong	500
+pi(哨子)	shao zi	500
+pik-li̍h(龜裂)	gui lie	500
+piáⁿ-ie̍h()		500
+pn̄g-tshn̂g(飯桌)	fan zhuo	500
+po-lî-tsun(玻璃瓶)	bo li ping	500
+poh(爭辯)	zheng bian	500
+po̍h()		500
+pua̍h(跌)	die	500
+pua̍h-chîⁿ(賭錢)	du qian	500
+pun(給)	gei	500
+pun(除)	chu	500
+puà-sièⁿ(毀容)	hui rong	500
+puàⁿ-mêⁿ(半夜)	ban ye	500
+puâⁿ-kiáⁿ(碟子)	die zi	500
+puâⁿ-siàu(轉賬)	zhuan zhang	500
+pài-it(星期一)	xing qi yi	500
+pài-jī(星期二)	xing qi er	500
+pài-la̍k(星期六)	xing qi liu	500
+pài-lãu-iâ(拜神)	bai shen	500
+pài-ngõu(星期五)	xing qi wu	500
+pài-saⁿ(星期三)	xing qi san	500
+pài-sì(星期四)	xing qi si	500
+pàu(小罐子)	xiao guan zi	500
+pâi-ji̍t(天天)	tian tian	500
+pâi-niⁿ(年年)	nian nian	500
+pâi-pí(安排)	an pai	500
+pêⁿ-iē(一樣)	yi yang	500
+pì(背)	bei	500
+pò-hiàng-tuaⁿ(載貨清單)	zai huo qing dan	500
+pò-tsai(告知)	gao zhi	500
+pòu-chhùi(抹布)	ma bu	500
+pòu-lōu(布匹)	bu pi	500
+pòu-phit(布匹)	bu pi	500
+pó-ke(保險)	bao xian	500
+pó-ke-jī(保險單)	bao xian dan	500
+pó-ke-kuán(保險公司)	bao xian gong si	500
+pó-niáⁿ(保證)	bao zheng	500
+póu-tháu(斧頭)	fu tou	500
+pùn-ki(簸箕)	bo ji	500
+pùn-táu(簸箕)	bo ji	500
+pún-téng(本分)	ben fen	500
+pû(白南瓜)	bai nan gua	500
+pû-hia(水瓢)	shui piao	500
+pĩ-kò(被告)	bei gao	500
+pńg-chîⁿ(本金)	ben jin	500
+pńg-hūn(義務)	yi wu	500
+pōu(咀嚼)	ju jue	500
+pũ-chéng(浮腫)	fu zhong	500
+pũ-lâng(化膿)	hua nong	500
+pūe(烤)	kao	500
+sai-khia(私人)	si ren	500
+sai-khia-chîⁿ(私房錢)	si fang qian	500
+sai-pẽ(師傅)	shi fu	500
+sam-pâi(木筏)	mu fa	500
+san-hû(珊瑚)	shan hu	500
+sau-kuán(妓院)	ji yuan	500
+sa̍h(水煮)	shui zhu	500
+saⁿ-keⁿ puàⁿ-mêⁿ(三更半夜)	san geng ban ye	500
+saⁿ-khòu(衣服)	yi fu	500
+saⁿ-kṳ(衣襟)	yi jin	500
+saⁿ-tiàu(晾衣架)	liang yi jia	500
+saⁿ-tō(衣袋)	yi dai	500
+saⁿ-ńg(衣袖)	yi xiu	500
+sek-liāu(染料)	ran liao	500
+sek-î(樂意)	le yi	500
+seng-lí(生意)	sheng yi	500
+seng-lí-nâng(生意人)	sheng yi ren	500
+seⁿ-huang(風濕)	feng shi	500
+seⁿ-san(生鏽)	sheng xiu	500
+seⁿ-sṳ̄(惹事)	re shi	500
+si-ûi(辦法)	ban fa	500
+siah-po̍h(錫箔)	xi bo	500
+siau(硝石)	xiao shi	500
+sie-chiap(連接)	lian jie	500
+sie-chieh-mn̄g(打招呼)	da zhao hu	500
+sie-mēⁿ(吵架)	chao jia	500
+sie-phah(打架)	da jia	500
+sie-su(比賽)	bi sai	500
+sie-thâi(打戰)	da zhan	500
+sie-tsui(溫開水)	wen kai shui	500
+sie-à(爭論)	zheng lun	500
+sieh(愛)	ai	500
+sien-hû(珊瑚)	shan hu	500
+sie̍h-liû(石榴)	shi liu	500
+sieⁿ-huang(感冒)	gan mao	500
+sieⁿ-hûn(傷疤)	shang ba	500
+sim-kuaⁿ-thâu(胸膛)	xiong tang	500
+sim-sèⁿ(脾氣)	pi qi	500
+sim-tông-tông(心神不定)	xin shen bu ding	500
+sin-bũn-tsuá(報紙)	bao zhi	500
+sin-hūn(體格)	ti ge	500
+sin-nâng(新娘)	xin niang	500
+sin-nâng-tia(新郎倌)	xin lang guan	500
+sin-pũ(媳婦)	xi fu	500
+sin-seⁿ(醫生)	yi sheng	500
+sin-si(屍體)	shi ti	500
+sin-tói-saⁿ(襯衫)	chen shan	500
+siu-phâng(收帆)	shou fan	500
+siu-siàu(收賬)	shou zhang	500
+siu-tuaⁿ(收據)	shou ju	500
+siàu-phõu(賬本)	zhang ben	500
+siá-jī-tshn̂g(寫字桌)	xie zi zhuo	500
+siáu(狂)	kuang	500
+siáu(瘋癲)	feng dian	500
+siáu-iáⁿ(照片)	zhao pian	500
+siáu-káu(狂犬)	kuang quan	500
+siáu-lí(羞耻)	xiu chi	500
+siâ-gō-hún(西米)	xi mi	500
+siãng-hó(最好)	zui hao	500
+sié-nn̂g(小叔子)	xiao shu zi	500
+sién(癬)	xuan	500
+siéⁿ-keh(通緝令)	tong ji ling	500
+siû-tsui(游泳)	you yong	500
+siũ-iũ(受賄)	shou hui	500
+si̍h-pńg(虧本)	kui ben	500
+siẽⁿ-chí(腎臟)	shen zang	500
+soh(繩子)	sheng zi	500
+soh-kiáⁿ(繩子)	sheng zi	500
+soi(叫嚷)	jiao rang	500
+sou(脆)	cui	500
+su-iâⁿ(比賽)	bi sai	500
+sua-pà(沙堤)	sha di	500
+suah(撒)	sa	500
+sue-phî(萎靡)	wei mi	500
+sue-sap(萎靡)	wei mi	500
+suh(吮吸)	shun xi	500
+suāiⁿ(芒果)	mang guo	500
+suān(鑽石)	zuan shi	500
+sàng-sng(送殯)	song bin	500
+sàu-siú(掃帚)	sao zhou	500
+sàu-soi-chheⁿ(彗星)	hui xing	500
+sái(花)	hua	500
+sái(花費)	hua fei	500
+sái(駕)	jia	500
+sái-chîⁿ(花錢)	hua qian	500
+sái-puah(屎盆)	shi pen	500
+sán(瘦)	shou	500
+sán-kut-la̍k-ne̍k(瘦骨嶙峋)	shou gu lin xun	500
+sãi(杮子)	fei zi	500
+sên(乘)	cheng	500
+sêng-chhiū(榕樹)	rong shu	500
+sì-chhêng(通情達理)	tong qing da li	500
+sì-kan(世界)	shi jie	500
+sì-pang tshn̂g(方桌)	fang zhuo	500
+sì-thâu(勢力)	shi li	500
+sìn-kuan(郵局)	you ju	500
+sìn-phûe(信封)	xin feng	500
+sî-pie(手錶)	shou biao	500
+sòi(小)	xiao	500
+sòi-jī(仔細)	zai xi	500
+só(鎖頭)	suo tou	500
+só-hùi(花費)	hua fei	500
+só-sî(鑰匙)	yao shi	500
+sói-e̍k(洗澡)	xi zao	500
+sói-e̍k-pàng(浴室)	yu shi	500
+sói-e̍k-tháng(浴缸)	yu gang	500
+sóng-khuài(歡快)	huan kuai	500
+sõng-sṳ(律師)	lv shi	500
+sùe(租金)	zu jin	500
+sùe-bũ-si(稅務局)	shui wu ju	500
+sùn-pēⁿ(肺癆)	fei lao	500
+sûn(檢查)	jian cha	500
+sûn(看望)	kan wang	500
+sī-iû(醬油)	jiang you	500
+sńg(玩)	wan	500
+sńg-siàu(算賬)	suan zhang	500
+sǹg-buâ(加)	jia	500
+sṳ̀-hok(祝福)	zhu fu	500
+ta(亁)	gan	500
+ta-ke(婆婆)	po po	500
+ta-ke-kuaⁿ(公婆)	gong po	500
+ta-kuaⁿ(公公)	gong gong	500
+ta-pou(男人)	nan ren	500
+ta-pou-kiáⁿ(男孩)	nan hai	500
+tah-pùe(背心)	bei xin	500
+tak-nn̄g(浪費)	lang fei	500
+tam-sêng(保釋)	bao shi	500
+tang-si(廁所)	ce suo	500
+ta̍h-ti̍h(囉嗦)	luo suo	500
+taⁿ(現在)	xian zai	500
+taⁿ-kê(戴上枷鎖)	dai shang jia suo	500
+tek-chià(白甘蔗)	bai gan zhe	500
+tek-pâi(竹筏)	zhu fa	500
+teng-chuáⁿ(中式台燈)	zhong shi tai deng	500
+teng-kã(鉗子)	qian zi	500
+teng-tùe(照料)	zhao liao	500
+tha̍k-keng(誦經)	song jing	500
+theng(窗)	chuang	500
+thiah-húe-kì(散夥)	san huo	500
+thiap(邀請函)	yao qing han	500
+thien-tsú-kà(天主教)	tian zhu jiao	500
+thih-kùn(鐵棒)	tie bang	500
+thih-pit(鋼筆)	gang bi	500
+thih-tshùi(鐵屑)	tie xie	500
+thiu-hùn(佣金)	yong jin	500
+thiu-kiám(折扣)	zhe kou	500
+thiu-thiàⁿ(抽筋)	chou jin	500
+thiàu-thut(脫俗)	tuo su	500
+thiâu(青春痘)	qing chun dou	500
+thiⁿ(加)	jia	500
+thiⁿ-sî(天氣)	tian qi	500
+thng-sî(湯勺)	tang shao	500
+thn̄g-chí(桌球)	zhuo qiu	500
+thok-chiáⁿ(禿頂)	tu ding	500
+thua(拉)	la	500
+thut-hà(脫孝)	tuo xiao	500
+thuàⁿ(煤)	mei	500
+thàm-mn̄g(詢問)	xun wen	500
+thàn(利潤)	li run	500
+thàng-ji̍t(整天)	zheng tian	500
+thàng-mêⁿ(整夜)	zheng ye	500
+tháu(解)	jie	500
+tháu-pòu(頭巾)	tou jin	500
+thâi(殺)	sha	500
+thâu-hîn(頭痛)	tou tong	500
+thâu-ke(老闆)	lao ban	500
+thâu-lōu(工作)	gong zuo	500
+thâu-mô(頭髮)	tou fa	500
+thâu-nâng(頭目)	tou mu	500
+thì-thâu(理髮)	li fa	500
+thì-to(剃鬚刀)	ti xu dao	500
+thòu-sià(霍亂)	huo luan	500
+thó-tàng(穩妥)	wen tuo	500
+thóiⁿ(看)	kan	500
+thóiⁿ-tsṳ-pâng(閱讀室)	yue du shi	500
+thôu(土)	tu	500
+thôu-kha(地面)	di mian	500
+thûe(瘡)	chuang	500
+thĩ(痔瘡)	zhi chuang	500
+thīⁿ(縫)	feng	500
+thǹg(脫)	tuo	500
+tiam(砧板)	zhen ban	500
+tiang-sî(什麼時候)	shen me shi hou	500
+tiau-khiak(刁潑)	diao po	500
+tiau-tùn(刁難)	diao nan	500
+tie̍h(對)	dui	500
+tie̍h-sua(腹絞痛)	fu jiao tong	500
+tih-kiáⁿ(一點)	yi dian	500
+tin-pâi(盾牌)	dun pai	500
+tiàu-kue(黃瓜)	huang gua	500
+tiám-báu(點名)	dian ming	500
+tián(炫耀)	xuan yao	500
+tiâm-ko(果醬)	guo jiang	500
+tiâu-tiâu(井然)	jing ran	500
+tiâu-ti̍t(有條理)	you tiao li	500
+tiâu-ti̍t(穩妥)	wen tuo	500
+tiãⁿ-tsũe(判刑)	pan xing	500
+tièⁿ-tóu(腹脹)	fu zhang	500
+tiām-tiām(靜靜)	jing jing	500
+tiāⁿ-ngṳ̂n(定金)	ding jin	500
+tiāⁿ-tie̍h(一定)	yi ding	500
+ti̍t-thàu(直達)	zhi da	500
+tiẽⁿ-nâng(岳父)	yue fu	500
+tiẽⁿ-ḿ(岳母)	yue mu	500
+tiẽⁿ-ḿ-phuâ(丈母娘)	zhang mu niang	500
+tn̂g-nâng(中國人)	zhong guo ren	500
+to-khah(刀鞘)	dao qiao	500
+toh(桌子)	zhuo zi	500
+tok(斬)	zhan	500
+tok(毀謗)	hui bang	500
+tok-kang(監工)	jian gong	500
+tok-tshō(剁碎)	duo sui	500
+tsa-ji̍t(昨天)	zuo tian	500
+tsa-mêⁿ(昨夜)	zuo ye	500
+tsai-kuan(當心)	dang xin	500
+tsang(髮髻)	fa ji	500
+tsang-sui(蓑衣)	suo yi	500
+tsa̍p-chi̍p(不舒坦)	bu shu tan	500
+tsh3-piⁿ(鄰居)	lin ju	500
+tshah-tshãn(爭前)	zheng qian	500
+tsha̍k-kiáⁿ(錐子)	zhui zi	500
+tsha̍k-kiáⁿ(鑿子)	zao zi	500
+tshng(潰瘍)	kui yang	500
+tshn̂g-pòu(桌布)	zhuo bu	500
+tshn̂g-téng(桌上)	zhuo shang	500
+tsho(腥)	xing	500
+tshoh(嗆)	qiang	500
+tshoiⁿ-lí-kiàⁿ(望遠鏡)	wang yuan jing	500
+tshou(粗糙)	cu cao	500
+tshou-pũn(粗笨)	cu ben	500
+tshu-sùe(房租)	fang zu	500
+tshue(蒸)	zheng	500
+tshui-pek(催討)	cui tao	500
+tshut-guā-nâng(陌生人)	mo sheng ren	500
+tshut-jī-pe̍h(登佈告)	deng bu gao	500
+tshut-kháu-hùe(出口商品)	chu kou shang pin	500
+tshut-tsu(天花)	tian hua	500
+tshut-tāu(水痘)	shui dou	500
+tshuā-tsúi(領港員)	ling gang yuan	500
+tshài-thâu(白蘿蔔)	bai luo bo	500
+tshài-thâu-kháu()		500
+tshài-tāu(豆角)	dou jiao	500
+tshàu-nâng(惡棍)	e gun	500
+tsháu-pou(草坪)	cao ping	500
+tshâ-thâu(木頭人)	mu tou ren	500
+tshâ-thûi(棍棒)	gun bang	500
+tshâi-hù(會計)	hui ji	500
+tshâi-khì(幸運)	xing yun	500
+tshãn-tūi(插隊)	cha dui	500
+tshóiⁿ(刷)	shua	500
+tshóiⁿ(毛刷)	mao shua	500
+tshông(從)	cong	500
+tshù(家)	jia	500
+tshù-bī(有趣)	you qu	500
+tshù-tsú(房東)	fang dong	500
+tshù-téng(房頂)	fang ding	500
+tshùi(嘴)	zui	500
+tshùi-lîm-phûe(嘴唇)	zui chun	500
+tshùn-chìn(進步)	jin bu	500
+tshûn(剩下)	sheng xia	500
+tshūe(找)	zhao	500
+tsng-ke(莊家)	zhuang jia	500
+tsnńg-thâu-kong(拇指)	mu zhi	500
+tsoh-kang(工作)	gong zuo	500
+tsong-kú(總是)	zong shi	500
+tso̍ih(切)	qie	500
+tsuá-bûe(紙捻)	zhi nian	500
+tsuá-hue(假花)	jia hua	500
+tsuá-jī(鈔票)	chao piao	500
+tsuā-tsuā(每次)	mei ci	500
+tsàng(強壯的)	qiang zhuang de	500
+tsàu-thâu(灶台)	zao tai	500
+tsáu(跑)	pao	500
+tsáu-hiàng(避稅)	bi shui	500
+tsáu-khí(起床)	qi chuang	500
+tsâng(棵)	ke	500
+tsãi(很)	hen	500
+tsò-chhit(燒七)	shao qi	500
+tsò-chiēⁿ-puâⁿ(批發交易)	pi fa jiao yi	500
+tsò-kha-chhiú(動手腳)	dong shou jiao	500
+tsò-seⁿ-ji̍t(過生日)	guo sheng ri	500
+tsò-tsoih(過節)	guo jie	500
+tsóng-phõu(總賬)	zong zhang	500
+tsô-thâu-ne̍k(豬頭肉)	zhu tou rou	500
+tsôiⁿ-khí(門牙)	men ya	500
+tsúi-in(蒸汽)	zheng qi	500
+tsúi-nîⁿ(粗花呢)	cu hua ni	500
+tsúi-siú(水手)	shui shou	500
+tsúi-thiu(水泵)	shui beng	500
+tsûn-kiáⁿ(舢舨)	shan ban	500
+tsûn-tsou(船費)	chuan fei	500
+tsûn-tsú(船長)	chuan zhang	500
+tsōi(多)	duo	500
+tsũi()		500
+tsūe(褶皺)	zhe zhou	500
+tsṳ-niêⁿ(女人)	nv ren	500
+tsṳ́(做)	zuo	500
+tsṳ̃-chĩn(自殺)	zi sha	500
+tsṳ̃-lâi-húe(火柴)	huo chai	500
+tuah(叱責)	chi ze	500
+tuaⁿ-teng(獨生子)	du sheng zi	500
+tun-hùe-pâng(儲藏室)	chu cang shi	500
+tuà-hà(戴孝)	dai xiao	500
+tuã(船舵)	chuan duo	500
+tuãⁿ(懶惰)	lan duo	500
+tuā-chhèng(大砲)	da pao	500
+tuā-chi̍h(結巴)	jie ba	500
+tuā-húe(大副)	da fu	500
+tuā-ke(婆婆)	po po	250
+tuā-ke-kuaⁿ(公婆)	gong po	250
+tuā-thâu-ló(大官員)	da guan yuan	500
+tuā-tshái-hù(首席會計)	shou xi hui ji	500
+tuā-tshâ(原木)	yuan mu	500
+tuā-ãu-ji̍t(大後天)	da hou tian	500
+tàⁿ(說)	shuo	500
+tá-tia̍p(折磨)	zhe mo	500
+táu-chiⁿ-hâng(錢幣兌換商)	qian bi dui huan shang	500
+táu-chîⁿ(找錢)	zhao qian	500
+tâm(濕)	shi	500
+tâng-mn̂g(連襟)	lian jin	500
+tâng-po̍h(銅板)	tong ban	500
+tâng-tsóiⁿ(頂針)	ding zhen	500
+tâu(骰子)	tou zi	500
+tãi-kong(舵手)	duo shou	500
+tãng-lāi(高利)	gao li	500
+tèng(錨)	mao	500
+tê-bí(茶葉)	cha ye	500
+tê-kuàn(茶壺)	cha hu	500
+tì-iâⁿ(紮營)	za ying	500
+tî-kâi(哪個)	na ge	500
+tî-kò húe(哪裏人)	na li ren	500
+tî-kò(哪裏)	na li	500
+tî-nâng(哪個人)	na ge ren	500
+tñg-chhùi(漱口)	shu kou	500
+tñg-khùi(斷氣)	duan qi	500
+tò-ta̍h(囉嗦)	luo suo	500
+tó-tièⁿ(倒閉)	dao bi	500
+tói-tsṳ́(原件)	yuan jian	500
+tóiⁿ(抵押)	di ya	500
+tóiⁿ-khòi(抵押契據)	di ya qi ju	500
+tóiⁿ-tsú(抵押人)	di ya ren	500
+tóu khùn(飢餓)	ji e	500
+tóu làu(腹瀉)	fu xie	500
+tóu-siap(便秘)	bian mi	500
+tóu-thiàⁿ(肚子痛)	du zi tong	500
+tõ(在)	zai	500
+tõ(從)	cong	500
+tõng-kak(手杖)	shou zhang	500
+tùi-tuaⁿ(匯票)	hui piao	500
+túi(拉)	la	500
+tĩⁿ(滿)	man	500
+tī-kha(基礎)	ji chu	500
+tī-kài(邊界)	bian jie	500
+tī-tāu(花生)	hua sheng	500
+tńg(回)	hui	500
+tōiⁿ(硬)	ying	500
+tōu-tsûn(航船)	hang chuan	500
+tūn-ãm-kui(甲狀腺腫)	jia zhuang xian zhong	500
+tǹg(承押)	cheng ya	500
+tǹg-tsú(承押人)	cheng ya ren	500
+tṳ-ko(公豬)	gong zhu	500
+tṳ̂(減)	jian	500
+tṳ̄(筷子)	kuai zi	500
+tẽ-cheng(茶杯)	cha bei	500
+uan-ke(吵鬧)	chao nao	500
+uang-khuk(冤枉)	yuan wang	500
+ue(水壺)	shui hu	500
+ui-kuán(醫院)	yi yuan	500
+un-chiàng(瘟疫)	wen yi	500
+uàⁿ(案件)	an jian	500
+uáⁿ(晚)	wan	500
+uáⁿ-kong(大碗)	da wan	500
+uân-kù(原因)	yuan yin	500
+uân-sui(香菜)	xiang cai	500
+uâng-bō(王冠)	wang guan	500
+uâng-lâi(鳳梨)	feng li	500
+uāⁿ(改變)	gai bian	500
+u̍t(睡)	shui	500
+u̍t-pâng(臥室)	wo shi	500
+zo̍k(床墊)	chuang dian	500
+zua̍h-pòu(夏布)	xia bu	500
+zuán-lôu(火鍋)	huo guo	500
+zông(絨)	rong	500
+zú(越)	yue	500
+zú-hó(更好)	geng hao	500
+zṳ̂(亂)	luan	500
+à(爭辯)	zheng bian	500
+àng(大罐子)	da guan zi	500
+ám(米湯)	mi tang	500
+áu-ueh(嘔吐)	ou tu	500
+âng-ie̍h(止痛藥)	zhi tong yao	500
+âng-thâu-tsûn(帆船)	fan chuan	500
+âng-tâng(黃銅)	huang tong	500
+âu-lèng(喉嚨)	hou long	500
+ãm(頸)	jing	500
+ãm-muaⁿ(圍巾)	wei jin	500
+ãm-niáⁿ(衣領)	yi ling	500
+ãm-phuân(圍巾)	wei jin	500
+ãu-ji̍t(後天)	hou tian	500
+é(啞巴)	ya ba	500
+êng-ti(推遲)	tui chi	500
+ìn(回答)	hui da	500
+ìn-sêng(承諾)	cheng nuo	500
+ìⁿ-chiáu(燕子)	yan zi	500
+ín-chìn(推薦)	tui jian	500
+în(層)	ceng	500
+îⁿ-tshn̂g(圓桌)	yuan zhuo	500
+ô-khak-kiàⁿ(珍珠母)	zhen zhu mu	500
+ô-tsu(珍珠)	zhen zhu	500
+ôi-thua(拖鞋)	tuo xie	500
+ôiⁿ-iû(閒逛)	xian guang	500
+ùe(感染)	gan ran	500
+ùi(怕)	pa	500
+ùi-chhìn(畏寒)	wei han	500
+ùn(蘸)	zhan	500
+ún(我們)	wo men	500
+ún-tǹg(穩妥)	wen tuo	500
+ûi(桅桿)	wei gan	500
+ńg(袖子)	xiu zi	500
+ũ a-bô(有沒有)	you mei you	500
+ṳ̃(準備)	zhun bei	500
+ẽ-hâi(下巴)	xia ba	500
+ẽ-ji̍t(他日)	ta ri	500
+ẽ-kuà(下午)	xia wu	500
+ẽ-tsuā(下次)	xia ci	500
+㦙(蠢)	chun	2000
+㩼(多)	duo	2000
+㪗(解)	jie	2000
+㴷(濕)	shi	2000
+㽱痛(絞痛)	jiao tong	2000
+㾪(瘦)	shou	2000
+㾪骨落肉(瘦骨嶙峋)	shou gu lin xun	2000
+㾫枯(半身不遂)	ban shen bu sui	1000
+㿗(瘡)	chuang	2000
+䘼(袖子)	xiu zi	2000
+䛩(爭辯)	zheng bian	2000
+䭄()		1000
+䭕()		2000
+䶕牙(齙牙)	bao ya	2000
+一尾魚(一條魚)	yi tiao yu	2000
+丈人(岳父)	yue fu	2000
+丈夫(男人)	nan ren	2000
+丈夫囝(男孩)	nan hai	2000
+丈母(岳母)	yue mu	2000
+丈母婆(丈母娘)	zhang mu niang	2000
+三更半暝(三更半夜)	san geng ban ye	2000
+上好(最好)	zui hao	2000
+上數(入賬)	ru zhang	2000
+上旰(上午)	shang wu	2000
+上旰(下午)	xia wu	2000
+下(低)	di	2000
+下日(他日)	ta ri	2000
+下逝(下次)	xia ci	2000
+下頦(下巴)	xia ba	2000
+不(不)	bu	2000
+不知人(不省人事)	bu xing ren shi	2000
+世情(通情達理)	tong qing da li	2000
+世間(世界)	shi jie	2000
+乏(疲勞)	pi lao	2000
+乘(乘)	cheng	2000
+乜儂(什麼人)	shen me ren	2000
+乜其(什麼)	shen me	2000
+乞(給)	gei	2000
+乞食(乞丐)	qi gai	2000
+二伙(二副)	er fu	2000
+二手(助理)	zhu li	2000
+五箍(五元)	wu yuan	2000
+亞是(或者是)	huo zhe shi	2000
+交挿(交往)	jiao wang	2000
+交掛(交易)	jiao yi	2000
+交插(交往)	jiao wang	1000
+交椅(靠背椅)	kao bei yi	2000
+亦(也)	ye	2000
+人事(人情世故)	ren qing shi gu	1000
+人客(客人)	ke ren	2000
+人情(恩情)	en qing	1000
+人情(面子)	mian zi	1000
+今(現在)	xian zai	2000
+今旦日(今天)	jin tian	2000
+今暝(今夜)	jin ye	2000
+付托(委託)	wei tuo	2000
+仙瑚(珊瑚)	shan hu	2000
+企(站)	zhan	1000
+伊(他)	ta	2000
+伊(她)	ta	2000
+伊(它)	ta	2000
+伍星(行星)	xing xing	2000
+伙長(船長)	chuan zhang	2000
+伙頭(廚師)	chu shi	2000
+伙食房(廚房)	chu fang	2000
+作工(工作)	gong zuo	2000
+佝腰(佝僂)	gou lou	2000
+使(花)	hua	2000
+使(花費)	hua fei	2000
+使費(花費)	hua fei	2000
+使錢(花錢)	hua qian	2000
+來往(分類賬)	fen lei zhang	2000
+來銀(收款)	shou kuan	2000
+依原(依舊)	yi jiu	2000
+便(便宜)	pian yi	2000
+保家(保險)	bao xian	2000
+保家字(保險單)	bao xian dan	2000
+保家館(保險公司)	bao xian gong si	2000
+保領(保證)	bao zheng	2000
+信皮(信封)	xin feng	2000
+信關(郵局)	you ju	2000
+俺(我們)	wo men	1000
+倒誻(囉嗦)	luo suo	2000
+倒賬(倒閉)	dao bi	2000
+偏枯(半身不遂)	ban shen bu sui	2000
+做七(燒七)	shao qi	2000
+做上盤(批發交易)	pi fa jiao yi	2000
+做生日(過生日)	guo sheng ri	2000
+做節(過節)	guo jie	2000
+做腳手(動手腳)	dong shou jiao	1000
+做骹手(動手腳)	dong shou jiao	2000
+健(健壯)	jian zhuang	2000
+偪側(易怒)	yi nu	2000
+催迫(催討)	cui tao	2000
+債主(債權人)	zhai quan ren	2000
+傷痕(傷疤)	shang ba	2000
+傷風(感冒)	gan mao	2000
+價錢(價格)	jia ge	2000
+儂事(人情世故)	ren qing shi gu	2000
+儂公囝(玩偶)	wan ou	2000
+儂囝(圖畫)	tu hua	2000
+儂客(客人)	ke ren	1000
+儂情(恩情)	en qing	2000
+儂情(面子)	mian zi	2000
+先生(醫生)	yi sheng	2000
+光(亮)	liang	2000
+光通(透明)	tou ming	2000
+免(不用)	bu yong	2000
+入口貨(進口商品)	jin kou shang pin	2000
+內(家)	jia	2000
+公親(公斷人)	gong duan ren	2000
+共(和)	he	2000
+典(抵押)	di ya	2000
+典主(抵押人)	di ya ren	2000
+典契(抵押契據)	di ya qi ju	2000
+冇(軟)	ruan	2000
+冊架(書架)	shu jia	2000
+冊橱(書櫥)	shu chu	2000
+冊皮(書籍封面)	shu ji feng mian	2000
+冊魚(書蟲)	shu chong	2000
+冤家(吵鬧)	chao nao	2000
+冤屈(冤枉)	yuan wang	2000
+凊(冷)	leng	2000
+凝(冷)	leng	2000
+出口貨(出口商品)	chu kou shang pin	2000
+出外儂(陌生人)	mo sheng ren	2000
+出字白(登佈告)	deng bu gao	2000
+出珠(天花)	tian hua	2000
+出痘(水痘)	shui dou	2000
+刀壳(刀鞘)	dao qiao	2000
+刁厥(刁潑)	diao po	2000
+刁蹬(刁難)	diao nan	2000
+分(給)	gei	2000
+分(除)	chu	2000
+切要(重要)	zhong yao	2000
+刣(殺)	sha	2000
+別(認識)	ren shi	2000
+利(鋒利)	feng li	2000
+利錢(利益)	li yi	2000
+刷(刷)	shua	2000
+剁(斬)	zhan	2000
+剁脞(剁碎)	duo sui	2000
+剁莝(剁碎)	duo sui	1000
+剃刀(剃鬚刀)	ti xu dao	2000
+剃頭(理髮)	li fa	2000
+前齒(門牙)	men ya	2000
+割(切)	qie	2000
+割工錢(扣工資)	kou gong zi	2000
+力(勤勞)	qin lao	2000
+加(多)	duo	2000
+動角(手杖)	shou zhang	2000
+勢頭(勢力)	shi li	2000
+勤(勤勞)	qin lao	1000
+勥(厲害)	li hai	2000
+勿(不要)	bu yao	2000
+匏(白南瓜)	bai nan gua	2000
+匏桸(水瓢)	shui piao	2000
+匟床(炕)	kang	1000
+千里鏡(望遠鏡)	wang yuan jing	2000
+半暝(半夜)	ban ye	2000
+危(高)	gao	2000
+卵(蛋)	dan	2000
+卵仁(蛋黃)	dan huang	2000
+卵核(睪丸)	yi wan	2000
+卵淸(蛋白)	dan bai	2000
+卵脬(陰囊)	yin nang	2000
+厚栗(板栗)	ban li	2000
+厝(家)	jia	2000
+厝主(房東)	fang dong	2000
+厝稅(房租)	fang zu	2000
+厝邊(鄰居)	lin ju	2000
+厝頂(房頂)	fang ding	2000
+受賄(受賄)	shou hui	2000
+口㼦(漱口杯)	shu kou bei	2000
+古事(歷史)	li shi	2000
+古傳(傳說)	chuan shuo	2000
+司阜(師傅)	shi fu	2000
+吊瓜(黃瓜)	huang gua	2000
+同門(連襟)	lian jin	2000
+名色(名譽)	ming yu	2000
+名頭(名聲)	ming sheng	2000
+吐瀉(霍亂)	huo luan	2000
+告勞(說服)	shuo fu	2000
+呌(叫)	jiao	2000
+呢(毛呢)	mao ni	2000
+味素(味道)	wei dao	2000
+呵欠(哈欠)	ha qian	2000
+呾(說)	shuo	2000
+咄(叱責)	chi ze	2000
+咖喱(咖喱)	ga li	2000
+咬嗽(咳嗽)	ke sou	2000
+咱(我們)	wo men	2000
+哺(咀嚼)	ju jue	2000
+唐人(中國人)	zhong guo ren	2000
+唚(吻)	wen	2000
+啉(飲)	yin	2000
+啞(啞巴)	ya ba	2000
+喉嚨(喉嚨)	hou long	2000
+喊(叫)	jiao	2000
+喙(嘴)	zui	2000
+喙唇皮(嘴唇)	zui chun	2000
+單丁(獨生子)	du sheng zi	2000
+嗜()		500
+嘔噦(嘔吐)	ou tu	2000
+嘶(叫嚷)	jiao rang	2000
+嚷(叫喊)	jiao han	2000
+嚷(叫嚷)	jiao rang	2000
+四方床(方桌)	fang zhuo	2000
+囝(子女)	zi nv	2000
+囥(藏)	cang	2000
+困(累)	lei	2000
+圓床(圓桌)	yuan zhuo	2000
+在(在)	zai	2000
+在(很)	hen	2000
+在(從)	cong	2000
+地界(邊界)	bian jie	2000
+地腳(基礎)	ji chu	1000
+地豆(花生)	hua sheng	2000
+地骹(基礎)	ji chu	2000
+垃圾(垃圾)	la ji	2000
+垃圾相(不乾不淨)	bu qian bu jing	2000
+垢圿(污垢)	wu gou	2000
+堪該(應受)	ying shou	2000
+報知(告知)	gao zhi	2000
+報餉單(載貨清單)	zai huo qing dan	2000
+塗(土)	tu	2000
+塗腳(地面)	di mian	1000
+塗骹(地面)	di mian	2000
+墨斗(烏賊)	wu zei	2000
+壓(按)	an	2000
+壯(強壯的)	qiang zhuang de	2000
+外家(娘家)	niang jia	2000
+夜旰(夜間)	ye jian	2000
+夠(足夠)	zu gou	2000
+大伙(大副)	da fu	2000
+大官(公公)	gong gong	2000
+大家(婆婆)	po po	2000
+大家官(公婆)	gong po	2000
+大後日(大後天)	da hou tian	2000
+大柴(原木)	yuan mu	2000
+大舌(結巴)	jie ba	2000
+大財副(首席會計)	shou xi hui ji	2000
+大銃(大砲)	da pao	2000
+大頭腦(大官員)	da guan yuan	2000
+大頷奎(甲狀腺腫)	jia zhuang xian zhong	2000
+天主教(天主教)	tian zhu jiao	2000
+天時(天氣)	tian qi	2000
+奇巧物(奇珍異寶)	qi zhen yi bao	2000
+奇異(驚奇)	jing qi	2000
+奈(忍受)	ren shou	2000
+好贃(好賺)	hao zhuan	1000
+好趁(好賺)	hao zhuan	2000
+妥當(穩妥)	wen tuo	2000
+嬭母(奶媽)	nai ma	2000
+字號(商標)	shang biao	2000
+孤老(孤寡老人)	gu gua lao ren	2000
+孥囝(孩子)	hai zi	2000
+孥囝款(孩子氣)	hai zi qi	2000
+孬(不好)	bu hao	2000
+定着(一定)	yi ding	2000
+定罪(判刑)	pan xing	2000
+定銀(定金)	ding jin	2000
+客商(商人)	shang ren	2000
+客店(酒店)	jiu dian	2000
+家信(家書)	jia shu	2000
+家己(自己)	zi ji	2000
+家己儂(自己人)	zi ji ren	2000
+家私(家具)	jia ju	2000
+家長(經理)	jing li	2000
+寃家(吵鬧)	chao nao	1000
+寒暑針(溫度計)	wen du ji	2000
+寒着(受寒)	shou han	2000
+寫字床(寫字桌)	xie zi zhuo	2000
+寬埕(廣場)	guang chang	2000
+寬寬(漸漸)	jian jian	2000
+寸進(進步)	jin bu	2000
+對單(匯票)	hui piao	2000
+小影(照片)	zhao pian	2000
+小禮(羞耻)	xiu chi	2000
+小郎(小叔子)	xiao shu zi	2000
+少(少)	shao	2000
+尪囝(圖畫)	tu hua	2000
+尻脊(脊背)	ji bei	2000
+尿脬(膀胱)	pang guang	2000
+屎鉢(屎盆)	shi pen	2000
+屐(木屐)	mu ji	2000
+展(炫耀)	xuan yao	2000
+巡(檢查)	jian cha	2000
+巡(看望)	kan wang	2000
+工錢(工資)	gong zi	2000
+市(市場)	shi chang	2000
+布疋(布匹)	bu pi	2000
+布碎(抹布)	ma bu	2000
+布路(布匹)	bu pi	2000
+帖(邀請函)	yao qing han	2000
+帶水(領港員)	ling gang yuan	2000
+帽吊(帽架)	mao jia	2000
+平和(和平)	he ping	2000
+平樣(一樣)	yi yang	2000
+幼(精緻)	jing zhi	2000
+床布(桌布)	zhuo bu	2000
+床頂(桌上)	zhuo shang	2000
+底個(哪個)	na ge	2000
+底儂(哪個人)	na ge ren	2000
+底塊(哪裏)	na li	2000
+底塊夥(哪裏人)	na li ren	2000
+底子(原件)	yuan jian	2000
+底當時(什麼時候)	shen me shi hou	2000
+延遲(推遲)	tui chi	2000
+引荐(推薦)	tui jian	2000
+彼(那)	na	2000
+後日(後天)	hou tian	2000
+後生(年輕)	nian qing	2000
+徛(站)	zhan	2000
+從(從)	cong	2000
+心性(脾氣)	pi qi	2000
+心憧憧(心神不定)	xin shen bu ding	2000
+心肝頭(胸膛)	xiong tang	2000
+快活(歡快)	huan kuai	2000
+念路(抱怨)	bao yuan	2000
+恁(你們)	ni men	2000
+恬恬(靜靜)	jing jing	2000
+悽慘(悲慘)	bei can	2000
+惜(愛)	ai	2000
+惡(討厭)	tao yan	2000
+惡(邪惡)	xie e	2000
+惰(懶惰)	lan duo	2000
+愈(越)	yue	2000
+愈好(更好)	geng hao	2000
+愊(生氣)	sheng qi	2000
+感謝(感謝)	gan xie	2000
+愩(蠢)	chun	2000
+憑單(證書)	zheng shu	2000
+憶得(記得)	ji de	2000
+應(回答)	hui da	2000
+應承(承諾)	cheng nuo	2000
+戇(愚蠢)	yu chun	2000
+成樹(榕樹)	rong shu	2000
+截(切)	qie	2000
+戰船(戰艦)	zhan jian	2000
+戴孝(戴孝)	dai xiao	2000
+所費(花費)	hua fei	2000
+手套(手套)	shou tao	2000
+手巾(餐巾)	can jin	2000
+手布(手帕)	shou pa	2000
+手指(戒指)	jie zhi	2000
+手綢(手帕)	shou pa	2000
+打拍(鼓掌)	gu zhang	2000
+打揲(折磨)	zhe mo	1000
+打疊(折磨)	zhe mo	2000
+打紙牌(打牌)	da pai	2000
+扭(挖)	wa	2000
+批(削)	xue	2000
+批信(信件)	xin jian	2000
+批皮(信封)	xin feng	2000
+批館(郵局)	you ju	2000
+找錢(找錢)	zhao qian	2000
+找錢行(錢幣兌換商)	qian bi dui huan shang	2000
+抱不平(抱不平)	bao bu ping	2000
+抱憾(抱憾)	bao han	2000
+抽分(佣金)	yong jin	2000
+抽減(折扣)	zhe kou	2000
+抽痛(抽筋)	chou jin	2000
+拆夥記(散夥)	san huo	2000
+拋椗(拋錨)	pao mao	2000
+拍(打)	da	2000
+拍呃(打嗝)	da ge	2000
+拍空(經紀人)	jing ji ren	2000
+拐腳(跛足)	bo zu	1000
+拐骹(跛足)	bo zu	2000
+拔(跌)	die	2000
+拖(拉)	la	2000
+拜三(星期三)	xing qi san	2000
+拜乙(星期一)	xing qi yi	2000
+拜伍(星期五)	xing qi wu	2000
+拜四(星期四)	xing qi si	2000
+拜弍(星期二)	xing qi er	2000
+拜老爺(拜神)	bai shen	2000
+拜陸(星期六)	xing qi liu	2000
+拭(擦)	ca	2000
+拭腳其蓑(門墊)	men dian	1000
+拭骹其蓑(門墊)	men dian	2000
+持(帶)	dai	2000
+指頭公(拇指)	mu zhi	2000
+挽(拉)	la	2000
+挿羼(爭前)	zheng qian	2000
+掃箒(掃帚)	sao zhou	2000
+掃菷星(彗星)	hui xing	2000
+掌(看)	kan	2000
+掌更儂(守夜人)	shou ye ren	2000
+掌櫃(收銀員)	shou yin yuan	2000
+排場(華麗)	hua li	2000
+排塲(華麗)	hua li	1000
+排年(年年)	nian nian	2000
+排日(天天)	tian tian	2000
+排比(安排)	an pai	2000
+掘(剷)	chan	2000
+掛(戴)	dai	2000
+掛慮(憂慮)	you lv	2000
+掛紙(掃墓)	sao mu	2000
+掠(抓)	zhua	2000
+掠舵(掌舵)	zhang duo	2000
+探問(詢問)	xun wen	2000
+插羼(爭前)	zheng qian	1000
+換(改變)	gai bian	2000
+損病(肺癆)	fei lao	2000
+携(提)	ti	2000
+携餉(收稅)	shou shui	2000
+撈(足夠)	zu gou	2000
+撒(撒)	sa	2000
+撞枳(桌球)	zhuo qiu	2000
+擔承(保釋)	bao shi	2000
+擔枷(戴上枷鎖)	dai shang jia suo	2000
+攏總(總共)	zong gong	2000
+攬儎字(提貨單)	ti huo dan	2000
+收單(收據)	shou ju	2000
+收帆(收帆)	shou fan	2000
+收數(收賬)	shou zhang	2000
+敗(壞)	huai	2000
+數簿(賬本)	zhang ben	2000
+斜莪粉(西米)	xi mi	2000
+斧頭(斧頭)	fu tou	2000
+新人(新娘)	xin niang	2000
+新人爹(新郎倌)	xin lang guan	2000
+新婦(媳婦)	xi fu	2000
+新教(耶穌教)	ye su jiao	2000
+新聞紙(報紙)	bao zhi	2000
+斷氣(斷氣)	duan qi	2000
+施爲(辦法)	ban fa	2000
+日子(日期)	ri qi	2000
+日日(天天)	tian tian	2000
+日旰(白天)	bai tian	2000
+日晝(中午)	zhong wu	2000
+日清(日記本)	ri ji ben	2000
+日蝕(日食)	ri shi	2000
+早起(起床)	qi chuang	2000
+旺梨(鳳梨)	feng li	2000
+明年(明年)	ming nian	2000
+明旦起(明天)	ming tian	2000
+易(容易)	rong yi	2000
+昨日(昨天)	zuo tian	2000
+昨暝(昨夜)	zuo ye	2000
+時鏢(手錶)	shou biao	2000
+晏(晚)	wan	2000
+暍着暑(中暑)	zhong shu	2000
+暖爐(火鍋)	huo guo	2000
+暝昏(晚上)	wan shang	2000
+暝昏囝(傍晚)	bang wan	2000
+曉(明白)	ming bai	2000
+曝(曬)	shai	2000
+曳手(招手)	zhao shou	2000
+月蝕(月食)	yue shi	2000
+月記(月季)	yue ji	2000
+有亞無(有沒有)	you mei you	2000
+朥(脂肪)	zhi fang	2000
+木虱(臭蟲)	chou chong	2000
+未(沒)	mei	2000
+末(粉)	fen	2000
+本分(義務)	yi wu	2000
+本等(本分)	ben fen	2000
+本錢(本金)	ben jin	2000
+杉排(木筏)	mu fa	2000
+杉牌(木筏)	mu fa	1000
+杮(杮子)	fei zi	2000
+東司(廁所)	ce suo	2000
+枋(木板)	mu ban	2000
+枕頭囊(枕頭套)	zhen tou tao	2000
+林擒(釋迦果)	shi jia guo	2000
+果子(水果)	shui guo	2000
+枵(飢餓)	ji e	2000
+柑(柑)	gan	2000
+柴槌(棍棒)	gun bang	2000
+柴頭(木頭人)	mu tou ren	2000
+栳㭳(肉豆蔻)	rou dou kou	2000
+格(抽屜)	chou ti	1000
+桂皮(肉桂)	rou gui	2000
+桅(桅桿)	wei gan	2000
+案(案件)	an jian	2000
+桔(橘子)	ju zi	2000
+桩家(莊家)	zhuang jia	2000
+條條(井然)	jing ran	2000
+條直(有條理)	you tiao li	2000
+條直(穩妥)	wen tuo	2000
+棉裘(棉襖)	mian ao	2000
+棕蓑(蓑衣)	suo yi	2000
+棹(桌子)	zhuo zi	2000
+椗(錨)	mao	2000
+槅(抽屜)	chou ti	2000
+槳(船槳)	chuan jiang	2000
+槽頭肉(豬頭肉)	zhu tou rou	2000
+樟柴(樟腦)	zhang nao	2000
+樟栳(樟腦)	zhang nao	2000
+樣(外觀)	wai guan	2000
+樹泥(橡膠)	xiang jiao	2000
+檨(芒果)	mang guo	2000
+欉(棵)	ke	2000
+欶(吮吸)	shun xi	2000
+歇(休息)	xiu xi	2000
+歇(停)	ting	2000
+歡喜(高興)	gao xing	2000
+此(這)	zhe	2000
+此樣生(如此)	ru ci	2000
+此陣(現在)	xian zai	2000
+歷日(日曆)	ri li	2000
+歸原(庫存分類賬)	ku cun fen lei zhang	2000
+母(老婆)	lao po	2000
+氈(地毯)	di tan	2000
+氣(氣息)	qi xi	2000
+氣力(力量)	li liang	2000
+水呢(粗花呢)	cu hua ni	2000
+水手(水手)	shui shou	2000
+水抽(水泵)	shui beng	2000
+水烟(蒸汽)	zheng qi	2000
+水𦮴(粗花呢)	cu hua ni	1000
+氽水(游泳)	you yong	2000
+汝(你)	ni	2000
+污糟(垃圾)	la ji	2000
+沙埧(沙堤)	sha di	1000
+沙壩(沙堤)	sha di	2000
+油刷(漆刷)	qi shua	2000
+沿(層)	ceng	2000
+洗浴(洗澡)	xi zao	2000
+洗浴房(浴室)	yu shi	2000
+洗浴桶(浴缸)	yu gang	2000
+流水平(低潮)	di chao	2000
+流水雄(高潮)	gao chao	2000
+流洘(退潮)	tui chao	2000
+流漲(漲潮)	zhang chao	2000
+浪蕩儂(流浪者)	liu lang zhe	2000
+浮(炸)	zha	2000
+浮膿(化膿)	hua nong	2000
+浴布()		2000
+海墘(海邊)	hai bian	2000
+海嶼(島嶼)	dao yu	2000
+海湧(海浪)	hai lang	2000
+海茸(海綿)	hai mian	2000
+涎(口水)	kou shui	2000
+涎(唾液)	tuo ye	2000
+淖糜(稀粥)	xi zhou	2000
+深坑(山谷)	shan gu	2000
+添(加)	jia	2000
+清潔(乾淨)	qian jing	2000
+減(少)	shao	2000
+渡船(航船)	hang chuan	2000
+湯匙(湯勺)	tang shao	2000
+滂沛(豐盛)	feng sheng	2000
+滑(光滑的)	guang hua de	2000
+滒(黏稠)	nian chou	2000
+滴囝(一點)	yi dian	2000
+滾水(開水)	kai shui	2000
+漉(濕透)	shi tou	2000
+漏囝(騙子)	pian zi	2000
+漏屎(腹瀉)	fu xie	2000
+漲(滿)	man	2000
+潘(泔水)	gan shui	2000
+濛烟(迷霧)	mi wu	2000
+灌腸(香腸)	xiang chang	2000
+火柴(柴火)	chai huo	2000
+火灰(灰燼)	hui jin	2000
+火牌(火柴)	huo chai	2000
+火石(打火石)	da huo shi	2000
+火船(汽船)	qi chuan	2000
+火船囝(汽艇)	qi ting	2000
+火頭(廚師)	chu shi	1000
+灱(亁)	gan	2000
+灶頭(灶台)	zao tai	2000
+炊(蒸)	zheng	2000
+炕床(炕)	kang	2000
+炭(煤)	mei	2000
+炮臺(堡壘)	bao lei	2000
+烏(黑)	hei	2000
+烏暗(黑暗)	hei an	2000
+烏油(柏油)	bai you	2000
+烏糖(黑糖)	hei tang	2000
+烏面儂(黑人)	hei ren	2000
+烙(烙)	lao	2000
+烟筒(煙囪)	yan cong	2000
+焙(烤)	kao	2000
+無(沒有)	mei you	2000
+無中用(不中用)	bu zhong yong	2000
+無定着(不確定)	bu que ding	2000
+無行(缺德)	que de	2000
+無規矩(沒有禮貌)	mei you li mao	2000
+煆火(燒火)	shao huo	2000
+煏(烤)	kao	2000
+煠(水煮)	shui zhu	2000
+照(按)	an	2000
+煩惱(擔心)	dan xin	2000
+煮(做)	zuo	2000
+煴(蘸)	zhan	2000
+熇(蒸)	zheng	2000
+熱布(夏布)	xia bu	2000
+熻(燜)	men	2000
+燈盞(中式台燈)	zhong shi tai deng	2000
+燒水(溫開水)	wen kai shui	2000
+燕菜(海藻)	hai zao	2000
+燕鳥(燕子)	yan zi	2000
+營盤(營地)	ying di	2000
+爽快(歡快)	huan kuai	2000
+爾(你)	ni	1000
+牙頭齒(後槽牙)	hou cao ya	2000
+牛乳油(黃油)	huang you	2000
+物(做)	zuo	2000
+物件(東西)	dong xi	2000
+物食(蜜餞)	mi jian	2000
+犯律(犯法)	fan fa	2000
+狗母(母狗)	mu gou	2000
+狹(窄)	zhai	2000
+猛(快)	kuai	2000
+獃(呆)	dai	2000
+王帽(王冠)	wang guan	2000
+玻璃樽(玻璃瓶)	bo li ping	2000
+珊瑚(珊瑚)	shan hu	2000
+珠娘(女人)	nv ren	1000
+現在(現在)	xian zai	2000
+現錢(現金)	xian jin	2000
+瓠𣟵(水瓢)	shui piao	1000
+甌(湯碗)	tang wan	2000
+甕(大罐子)	da guan zi	2000
+甘癪(絛蟲病)	tao chong bing	2000
+甘虫(絛蟲)	tao chong	2000
+甘蜜(檳榔膏)	bin lang gao	2000
+甜糕(果醬)	guo jiang	2000
+生事(惹事)	re shi	2000
+生份儂(陌生人)	mo sheng ren	1000
+生分儂(陌生人)	mo sheng ren	2000
+生理(生意)	sheng yi	2000
+生理儂(生意人)	sheng yi ren	2000
+生疑(骯髒)	ang zang	2000
+生瘋(風濕)	feng shi	2000
+生矾(綠礬)	lv fan	2000
+生菜(沙拉)	sha la	2000
+生鉎(生鏽)	sheng xiu	2000
+生𥐥(綠礬)	lv fan	1000
+畏(怕)	pa	2000
+畏凊(畏寒)	wei han	2000
+畧好(好些)	hao xie	2000
+畨人(野蠻人)	ye man ren	1000
+畨梘()		1000
+畨梨(鳳梨)	feng li	1000
+畨瓜(南瓜)	nan gua	1000
+畨葛(蕃薯)	fan shu	1000
+畨薯(蕃薯)	fan shu	1000
+番人(野蠻人)	ye man ren	2000
+番梘()		2000
+番梨(鳳梨)	feng li	2000
+番瓜(南瓜)	nan gua	2000
+番葛(蕃薯)	fan shu	2000
+番薯(蕃薯)	fan shu	2000
+當(承押)	cheng ya	2000
+當主(承押人)	cheng ya ren	2000
+疥(疥瘡)	jie chuang	2000
+痀腰(佝僂)	gou lou	1000
+痒癲(中風)	zhong feng	2000
+痔(痔瘡)	zhi chuang	2000
+痞囝(痞子)	pi zi	2000
+痢疾(痢疾)	li ji	2000
+痱(痱子)	fei zi	2000
+瘋痛(風濕)	feng shi	2000
+瘟瘴(瘟疫)	wen yi	2000
+瘡(潰瘍)	kui yang	2000
+瘤(腫瘤)	zhong liu	2000
+癬(癬)	xuan	2000
+癲(瘋癲)	feng dian	2000
+發燒(發燒)	fa shao	2000
+白發其(雜草)	za cao	2000
+白矾(明礬)	ming fan	2000
+白肉(肥肉)	fei rou	2000
+白𥐥(明礬)	ming fan	1000
+皺紗(縐布)	zhou bu	2000
+盤囝(碟子)	die zi	2000
+盤數(轉賬)	zhuan zhang	2000
+盪喙(漱口)	shu kou	2000
+目仁(眼球)	yan qiu	2000
+目實(看頭)	kan tou	2000
+目汁(眼淚)	yan lei	2000
+目澀(睏倦)	kun juan	1000
+目澁(睏倦)	kun juan	2000
+目眉(眉毛)	mei mao	2000
+目眥毛(眼睫毛)	yan jie mao	2000
+目睭(眼睛)	yan jing	2000
+目睭皮(眼皮)	yan pi	2000
+目鏡(眼鏡)	yan jing	2000
+目𥍆(睏倦)	kun juan	500
+盯綴(照料)	zhao liao	2000
+直透(直達)	zhi da	2000
+相䛩(爭論)	zheng lun	2000
+相借問(打招呼)	da zhao hu	2000
+相刣(打戰)	da zhan	2000
+相拍(打架)	da jia	2000
+相接(連接)	lian jie	2000
+相罵(吵架)	chao jia	2000
+相輸(比賽)	bi sai	2000
+眠床(床)	chuang	2000
+眠起(早上)	zao shang	2000
+眩船(暈船)	yun chuan	2000
+眼在(現在)	xian zai	2000
+眾生(家畜)	jia chu	2000
+着(對)	dui	2000
+着痧(腹絞痛)	fu jiao tong	2000
+睇(看)	kan	2000
+睇書房(閱讀室)	yue du shi	2000
+睡(睡)	shui	2000
+督工(監工)	jian gong	2000
+知觀(當心)	dang xin	2000
+石榴(石榴)	shi liu	2000
+石部(石頭)	shi tou	2000
+砧(砧板)	zhen ban	2000
+破家囝(敗家子)	bai jia zi	2000
+破病(生病)	sheng bing	2000
+破相(毀容)	hui rong	2000
+破錢(破費)	po fei	2000
+硝(硝石)	xiao shi	2000
+碗公(大碗)	da wan	2000
+碰鰾(爆竹)	bao zhu	2000
+磽(窮)	qiong	2000
+禁口(封鎖港口)	feng suo gang kou	2000
+禁港(封鎖港口)	feng suo gang kou	2000
+禮拜(星期日)	xing qi ri	2000
+禮拜堂(教堂)	jiao tang	2000
+禽獸(畜生)	chu sheng	2000
+禿掌(禿頂)	tu ding	2000
+私家(私人)	si ren	2000
+私家錢(私房錢)	si fang qian	2000
+稅(租金)	zu jin	2000
+稅務司(稅務局)	shui wu ju	2000
+種珠(打疫苗)	da yi miao	2000
+稱誦(稱讚)	cheng zan	2000
+穢(感染)	gan ran	2000
+穩當(穩妥)	wen tuo	2000
+空肚(空腹)	kong fu	2000
+窓(窗)	chuang	1000
+窗(窗)	chuang	2000
+竹排(竹筏)	zhu fa	2000
+竹牌(竹筏)	zhu fa	1000
+竹蔗(白甘蔗)	bai gan zhe	2000
+筅(刷)	shua	2000
+筅(毛刷)	mao shua	2000
+筋(靜脈)	jing mai	2000
+答背(背心)	bei xin	2000
+算摩(加)	jia	2000
+算數(算賬)	suan zhang	2000
+箸(筷子)	kuai zi	2000
+簥(茄子)	qie zi	2000
+簿囝(本子)	ben zi	2000
+籐牌(盾牌)	dun pai	2000
+粉鳥(鴿子)	ge zi	2000
+粗(粗糙)	cu cao	2000
+粗笨(粗笨)	cu ben	2000
+粟倉(穀倉)	gu cang	2000
+粿(蛋糕)	dan gao	2000
+糜(粥)	zhou	2000
+糞斗(簸箕)	bo ji	2000
+糞箕(簸箕)	bo ji	2000
+約(猜)	cai	2000
+約量(大約)	da yue	2000
+紅藥(止痛藥)	zhi tong yao	2000
+紅銅(黃銅)	huang tong	2000
+紅頭船(帆船)	fan chuan	2000
+納餉(納稅)	na shui	2000
+紙字(鈔票)	chao piao	2000
+紙煤(紙捻)	zhi nian	2000
+紙花(假花)	jia hua	2000
+紡(驅動)	qu dong	2000
+索(繩子)	sheng zi	2000
+索囝(繩子)	sheng zi	2000
+細(小)	xiao	2000
+細字(仔細)	zai xi	2000
+終久(總是)	zong shi	2000
+結凍(凍結)	dong jie	2000
+結疕(結痂)	jie jia	2000
+絨(絨)	rong	2000
+綱膠(波羅蜜)	bo luo mi	2000
+綱黑(山竹)	shan zhu	2000
+緣故(原因)	yuan yin	2000
+縛(綁)	bang	2000
+縫(縫)	feng	2000
+縻(腐爛)	fu lan	2000
+總簿(總賬)	zong zhang	2000
+缺嘴(唇裂)	chun lie	2000
+罕得(很少)	hen shao	2000
+置營(紮營)	za ying	2000
+羅經(羅盤)	luo pan	2000
+羔丕(咖啡)	ka fei	2000
+羔丕磨(咖啡機)	ka fei ji	2000
+羼隊(插隊)	cha dui	2000
+翁姐(夫妻)	fu qi	2000
+翁姐囝(小兩口)	xiao liang kou	2000
+翕(悶)	men	2000
+翕(蒸)	zheng	2000
+翹楚(出眾)	chu zhong	2000
+老蚌生珠(老蚌生珠)	lao bang sheng zhu	2000
+考(測試)	ce shi	2000
+耍(玩)	wan	2000
+耳鈎(耳環)	er huan	2000
+職任(職務)	zhi wu	2000
+職銜(軍銜)	jun xian	2000
+肉脞(肉末)	rou mo	2000
+肚困(飢餓)	ji e	2000
+肚漏(腹瀉)	fu xie	2000
+肚澁(便秘)	bian mi	2000
+肚痛(肚子痛)	du zi tong	2000
+肝(肝臟)	gan zang	2000
+肨(脹)	zhang	2000
+肩頭(肩膀)	jian bang	2000
+胕腫(浮腫)	fu zhong	2000
+胳胴下(腋窩)	ye wo	2000
+能爲(能力)	neng li	2000
+脉(脈搏)	mai bo	2000
+脢肉(裏脊肉)	li ji rou	2000
+脧()		2000
+脫孝(脫孝)	tuo xiao	2000
+脹肚(腹脹)	fu zhang	2000
+腈肉(瘦肉)	shou rou	2000
+腎子(腎臟)	shen zang	2000
+腡(指紋)	zhi wen	2000
+腥(生)	sheng	2000
+腰佝(駝背)	tuo bei	2000
+腰痀(駝背)	tuo bei	1000
+腰骨(脊骨)	ji gu	2000
+腳(腿)	tui	1000
+腳桶(浴缸)	yu gang	1000
+腳目(腳踝)	jiao huai	1000
+腳腸肚(小腿肚)	xiao tui du	1000
+腳腿(腿)	tui	1000
+腳臁(前脛骨)	qian jing gu	1000
+腳趾(腳趾)	jiao zhi	1000
+腳踏椅(腳蹬)	jiao deng	1000
+腳蹯(足面)	zu mian	1000
+腳頭趺(膝蓋)	xi gai	1000
+腳𢅎(綁腿)	bang tui	1000
+膠離(咖喱)	ga li	1000
+臊(腥)	xing	2000
+臥房(臥室)	wo shi	2000
+自來火(火柴)	huo chai	2000
+自盡(自殺)	zi sha	2000
+臭儂(惡棍)	e gun	2000
+舖(店)	dian	2000
+舵(船舵)	chuan duo	2000
+舵工(舵手)	duo shou	2000
+船主(船長)	chuan zhang	2000
+船囝(舢舨)	shan ban	2000
+船租(船費)	chuan fei	2000
+色料(染料)	ran liao	2000
+芎蕉(香蕉)	xiang jiao	2000
+芥辣(芥末)	jie mo	2000
+花嘴(花言巧語)	hua yan qiao yu	2000
+花娘(妓女)	ji nv	2000
+花布(印花棉布)	yin hua mian bu	2000
+花干(花瓶)	hua ping	2000
+花貓(花言巧語)	hua yan qiao yu	2000
+芳(香)	xiang	2000
+芳水(香水)	xiang shui	2000
+苡米(薏米)	yi mi	2000
+若㩼(多少)	duo shao	2000
+若是(如果)	ru guo	2000
+茅(蕨)	jue	2000
+茅草(野草)	ye cao	2000
+茶盅(茶杯)	cha bei	2000
+茶礶(茶壺)	cha hu	2000
+茶米(茶葉)	cha ye	2000
+茹(亂)	luan	2000
+草埔(草坪)	cao ping	2000
+荒喪(浪費)	lang fei	2000
+荒險(危險)	wei xian	2000
+荔果(荔枝)	li zhi	2000
+荔菓(荔枝)	li zhi	1000
+荖枳(檳榔)	bin lang	2000
+荖葉(檳榔葉)	bin lang ye	2000
+荷蘭荳(豌豆)	wan dou	2000
+荷蘭薯(土豆)	tu dou	2000
+莞荽(香菜)	xiang cai	2000
+菓子(水果)	shui guo	1000
+菜荳(豆角)	dou jiao	2000
+菜頭(白蘿蔔)	bai luo bo	2000
+菜頭槁()		2000
+菰(霉)	mei	2000
+萬世(永恆)	yong heng	2000
+落(降)	jiang	2000
+落價(降價)	jiang jia	2000
+落本(投資)	tou zi	2000
+落產(流產)	liu chan	2000
+落神婆(女巫)	nv wu	2000
+落船(上船)	shang chuan	2000
+落色(褪色)	tui shai	2000
+落雹(下冰雹)	xia bing bao	2000
+葵笠(斗笠)	dou li	2000
+蓮角(菱角)	ling jiao	2000
+蔗粕(甘蔗渣)	gan zhe zha	2000
+蔫()		2000
+薄()		2000
+薟椒(辣椒)	la jiao	2000
+薺蔥(荸薺)	bi ji	2000
+藥鬼(引擎)	yin qing	2000
+虹(彩虹)	cai hong	2000
+蛺蝶(鉸鏈)	jiao lian	2000
+蜂岫(蜂巢)	feng chao	2000
+蜈蜞(水蛭)	shui zhi	2000
+蝕本(虧本)	kui ben	2000
+蠔壳鏡(珍珠母)	zhen zhu mu	2000
+蠔珠(珍珠)	zhen zhu	2000
+蠟蔗(紅甘蔗)	hong gan zhe	2000
+血脉(血管)	xue guan	2000
+衋心(痛心)	tong xin	2000
+行(走)	zou	2000
+行孝(孝順)	xiao shun	2000
+行差路(迷路)	mi lu	2000
+行止(品德)	pin de	2000
+行船人(船夫)	chuan fu	2000
+行踏(走動)	zou dong	2000
+街市(市場)	shi chang	2000
+衝性(發脾氣)	fa pi qi	2000
+衫䘼(衣袖)	yi xiu	2000
+衫吊(晾衣架)	liang yi jia	2000
+衫袋(衣袋)	yi dai	2000
+衫裾(衣襟)	yi jin	2000
+衫褲(衣服)	yi fu	2000
+衰疲(萎靡)	wei mi	2000
+衰颯(萎靡)	wei mi	2000
+袂(不會)	bu hui	2000
+袂孬(不錯)	bu cuo	1000
+被告(被告)	bei gao	2000
+袷囝(馬甲)	ma jia	2000
+裘(襖)	ao	2000
+褥(床墊)	chuang dian	2000
+褪(脫)	tuo	2000
+褲帶(腰帶)	yao dai	2000
+褲橛(短褲)	duan ku	2000
+褲腳(褲腿)	ku tui	1000
+褲骹(褲腿)	ku tui	2000
+襇(裙褶)	qun zhe	2000
+襊(褶皺)	zhe zhou	2000
+見笑(羞耻)	xiu chi	2000
+規矩(有禮貌)	you li mao	2000
+覔(找)	zhao	2000
+親像(好像)	hao xiang	2000
+親像(相似)	xiang si	2000
+親情(親戚)	qin qi	2000
+觀顧(照顧)	zhao gu	2000
+角瓜(絲瓜)	si gua	2000
+解說(解釋)	jie shi	2000
+計共(總計)	zong ji	2000
+記數(入賬)	ru zhang	2000
+訟師(律師)	lv shi	2000
+詈(責罵)	ze ma	2000
+詏(爭辯)	zheng bian	1000
+詖話(聊天)	liao tian	2000
+試(嚐)	chang	2000
+誑(騙)	pian	2000
+請待(稍等)	shao deng	2000
+諑(毀謗)	hui bang	2000
+諸娘(女人)	nv ren	2000
+講論(討論)	tao lun	2000
+譗𧫡(囉嗦)	luo suo	2000
+識(認識)	ren shi	1000
+讀經(誦經)	song jing	2000
+讓(叫喊)	jiao han	1000
+豈(太)	tai	2000
+豉油(醬油)	jiang you	2000
+豬哥(公豬)	gong zhu	2000
+貓頭鳥(貓頭鷹)	mao tou ying	2000
+負(背)	bei	2000
+財副(會計)	hui ji	2000
+財氣(幸運)	xing yun	2000
+貨(商品)	shang pin	2000
+貨單(發票)	fa piao	2000
+責罪(責備)	ze bei	2000
+貯貨房(儲藏室)	chu cang shi	2000
+貴(親愛的)	qin ai de	2000
+買上盤(批發購進)	pi fa gou jin	2000
+買客(顧客)	gu ke	2000
+買配(買菜)	mai cai	2000
+賒(貸)	dai	2000
+賜福(祝福)	zhu fu	2000
+賞格(通緝令)	tong ji ling	2000
+賢(能幹)	neng gan	1000
+賢亞娘(天花)	tian hua	2000
+賣上盤(批發銷售)	pi fa xiao shou	2000
+賰(剩下)	sheng xia	2000
+賻錢(賭錢)	du qian	2000
+贃(利潤)	li run	1000
+赤糖(紅糖)	hong tang	2000
+赤肉(瘦肉)	shou rou	2000
+走(跑)	pao	2000
+走餉(避稅)	bi shui	2000
+起(開始)	kai shi	2000
+起價(漲價)	zhang jia	2000
+起頭(開始)	kai shi	2000
+趁(利潤)	li run	2000
+趣味(有趣)	you qu	2000
+跌落(掉落)	diao luo	2000
+路票(通行證)	tong xing zheng	2000
+跳脫(脫俗)	tuo su	2000
+身分(體格)	ti ge	2000
+身尸(屍體)	shi ti	2000
+身屍(屍體)	shi ti	2000
+身底衫(襯衫)	chen shan	2000
+車租(車費)	che fei	2000
+軟疕(中風)	zhong feng	2000
+輪(輪)	lun	2000
+輸贏(比賽)	bi sai	2000
+轉(回)	hui	2000
+近覷(近視)	jin shi	2000
+追(追趕)	zhui gan	2000
+送喪(送殯)	song bin	2000
+通日(整天)	zheng tian	2000
+通暝(整夜)	zheng ye	2000
+逝逝(每次)	mei ci	2000
+週流(漫遊)	man you	2000
+過責(責備)	ze bei	2000
+過限(逾期)	yu qi	2000
+適意(樂意)	le yi	2000
+邋遢(邋遢)	la ta	2000
+鄕里(鄉村)	xiang cun	2000
+酒錢(郵費)	you fei	2000
+酒開(開瓶器)	kai ping qi	2000
+酥(脆)	cui	2000
+醜陋(醜陋)	chou lou	1000
+醪(渾濁)	hun zhuo	2000
+醫館(醫院)	yi yuan	2000
+重利(高利)	gao li	2000
+野樣(醜陋)	chou lou	2000
+金器(金飾)	jin shi	2000
+釘咬(鉗子)	qian zi	2000
+鈕(鈕扣)	niu kou	2000
+鈕縫(鈕扣孔)	niu kou kong	2000
+鉸刀(剪刀)	jian dao	2000
+銀單(匯票)	hui piao	2000
+銃(槍)	qiang	2000
+銃子(子彈)	zi dan	2000
+銃空(槍管)	qiang guan	2000
+銅指(頂針)	ding zhen	2000
+銅薄(銅板)	tong ban	2000
+鋪陳(鋪蓋)	pu gai	2000
+鋪頭(店鋪)	dian pu	2000
+錫薄(錫箔)	xi bo	2000
+錯(嗆)	qiang	2000
+鍋(水壺)	shui hu	2000
+鎖(鎖頭)	suo tou	2000
+鎖匙(鑰匙)	yao shi	2000
+鎦金器(鑲金器)	xiang jin qi	2000
+鏇(鑽石)	zuan shi	2000
+鐵棍(鐵棒)	tie bang	2000
+鐵碎(鐵屑)	tie xie	2000
+鐵筆(鋼筆)	gang bi	2000
+鑤(小罐子)	xiao guan zi	2000
+鑽囝(錐子)	zhui zi	2000
+鑿囝(鑿子)	zao zi	2000
+門扇後(門後)	men hou	2000
+開單(開賬)	kai zhang	2000
+開帆(揚帆)	yang fan	2000
+閑遊(閒逛)	xian guang	1000
+閒遊(閒逛)	xian guang	2000
+闊(寬)	kuan	2000
+闊達()		2000
+阮(我們)	wo men	2000
+阿㜷(奶媽)	nai ma	1000
+阿㜷(媽媽)	ma ma	1000
+阿公(公公)	gong gong	2000
+阿公(爺爺)	ye ye	2000
+阿妗(舅母)	jiu mu	2000
+阿姨(媽媽)	ma ma	2000
+阿娘(夫人)	fu ren	2000
+阿娘囝(小姐)	xiao jie	2000
+阿媽(婆婆)	po po	2000
+阿嬭(奶媽)	nai ma	2000
+阿嬭(媽媽)	ma ma	2000
+阿舍(官少)	guan shao	2000
+阿舍(富少)	fu shao	2000
+阿𡟓(媽媽)	ma ma	1000
+陂(哨子)	shao zi	2000
+除(減)	jian	2000
+陽車火船(明輪船)	ming lun chuan	2000
+隔乳(斷奶)	duan nai	2000
+隨便(隨便)	sui bian	2000
+雀暝(夜盲)	ye mang	2000
+雄(快)	kuai	2000
+雅(漂亮)	piao liang	2000
+雅在(很漂亮)	hen piao liang	2000
+雜疾(不舒坦)	bu shu tan	1000
+雜集(不舒坦)	bu shu tan	2000
+雞毛筅(雞毛撣子)	ji mao dan zi	2000
+雞翁(公雞)	gong ji	2000
+難(困難)	kun nan	2000
+零些(一些)	yi xie	2000
+零些賣(零售)	ling shou	2000
+雹(冰雹)	bing bao	2000
+霶霈(豐盛)	feng sheng	1000
+靈精(機靈)	ji ling	2000
+青盲(瞎)	xia	2000
+面(臉)	lian	2000
+面䩍䩍青(臉色蒼白)	lian se cang bai	2000
+面布()		2000
+面會(會面)	hui mian	2000
+面皮(臉皮)	lian pi	2000
+面盆(臉盆)	lian pen	2000
+鞋拖(拖鞋)	tuo xie	2000
+預(準備)	zhun bei	2000
+頭儂(頭目)	tou mu	2000
+頭家(老闆)	lao ban	2000
+頭布(頭巾)	tou jin	2000
+頭毛(頭髮)	tou fa	2000
+頭眩(頭痛)	tou tong	2000
+頭路(工作)	gong zuo	2000
+頰溝(臉頰)	lian jia	2000
+頷(頸)	jing	2000
+頷幋(圍巾)	wei jin	2000
+頷幔(圍巾)	wei jin	2000
+頷領(衣領)	yi ling	2000
+額囟(囟門)	xin men	2000
+額頭(前額)	qian e	2000
+風爐(火爐)	huo lu	2000
+風禽(風箏)	feng zheng	2000
+風雨針(晴雨表)	qing yu biao	2000
+風颱(颱風)	tai feng	2000
+食(吃)	chi	2000
+食床(餐桌)	can zhuo	2000
+食房(餐廳)	can ting	2000
+食槅(飯盒)	fan he	2000
+食痘(水痘)	shui dou	2000
+食積(積食)	ji shi	2000
+食臊(吃葷)	chi hun	2000
+食薰(抽菸)	chou yan	2000
+食錢(受賄)	shou hui	2000
+飯床(飯桌)	fan zhuo	2000
+飲(米湯)	mi tang	2000
+餅藥()		2000
+餉(關稅)	guan shui	2000
+餉關(海關)	hai guan	2000
+餜(蛋糕)	dan gao	1000
+香柴(檀香木)	tan xiang mu	2000
+香菰(蘑菇)	mo gu	2000
+馬房(馬廄)	ma jiu	2000
+馬索(韁繩)	jiang sheng	2000
+馬踏䟓(馬鐙)	ma deng	2000
+駁(爭辯)	zheng bian	2000
+駛(駕)	jia	2000
+騷館(妓院)	ji yuan	2000
+驚(怕)	pa	2000
+驚愕(驚呆)	jing dai	2000
+骨殖(屍骨)	shi gu	2000
+骸(骰子)	tou zi	2000
+骹(腿)	tui	2000
+骹桶(浴缸)	yu gang	2000
+骹目(腳踝)	jiao huai	2000
+骹腸肚(小腿肚)	xiao tui du	2000
+骹腿(腿)	tui	2000
+骹臁(前脛骨)	qian jing gu	2000
+骹趾(腳趾)	jiao zhi	2000
+骹踏椅(腳蹬)	jiao deng	2000
+骹蹯(足面)	zu mian	2000
+骹頭趺(膝蓋)	xi gai	2000
+骹𢅎(綁腿)	bang tui	2000
+高麗菜(捲心菜)	juan xin cai	2000
+鬃(髮髻)	fa ji	2000
+鬚(鬍子)	hu zi	2000
+魚子(魚子)	yu zi	2000
+魚春(魚子)	yu zi	2000
+魚翼(魚翅)	yu chi	2000
+魚腮(魚腮)	yu sai	2000
+魴龜(海龜)	hai gui	2000
+鮡(青春痘)	qing chun dou	2000
+鱟伯策(百葉窗)	bai ye chuang	2000
+鵪鶉(鵪鶉)	an chun	2000
+鷸蚌相持漁翁得利(鷸蚌相持漁翁得利)	yu bang xiang chi yu weng de li	2000
+鷹架(腳手架)	jiao shou jia	2000
+鹽硝(硝石)	xiao shi	2000
+黃𦅇瘦㾪(面黃肌瘦)	mian huang ji shou	2000
+點卯(點名)	dian ming	2000
+鼎(炒鍋)	chao guo	2000
+鼻(聞)	wen	2000
+鼻空(鼻孔)	bi kong	2000
+齒刷(牙刷)	ya shua	2000
+齒痛(牙痛)	ya tong	2000
+齒齦(牙齦)	ya ken	2000
+龍位(王位)	wang wei	2000
+龍眼(龍眼)	long yan	2000
+𠁞(不會)	bu hui	1000
+𠁞孬(不錯)	bu cuo	2000
+𠕆(硬)	ying	2000
+𠢕(能幹)	neng gan	2000
+𡚸(老婆)	lao po	1000
+𡜿(老婆)	lao po	500
+𣴨(鼻涕)	bi ti	2000
+𤇢(烤)	kao	2000
+𤞚(狂)	kuang	2000
+𤞚狗(狂犬)	kuang quan	2000
+𤷗裂(龜裂)	gui lie	2000
+𦈢(瓷)	ci	2000
+𦮴(毛呢)	mao ni	1000
+𨫋(大砲)	da pao	2000
+𩛌()		2000
+𩩍籬(脇骨)	xie gu	2000
+𩩍籬骨(脇骨)	xie gu	2000

@@ -42,6 +42,7 @@ engine:
     - ascii_segmentor
     - matcher
     - affix_segmentor@mandarin_reverse_lookup
+    - affix_segmentor@pinyin_reverse_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -49,14 +50,15 @@ engine:
     - punct_translator
     - script_translator
     - reverse_lookup_translator@mandarin_reverse_lookup
-    - reverse_lookup_translator
+    - reverse_lookup_translator@pinyin_reverse_lookup
+    # - reverse_lookup_translator
   filters:
     - simplifier
     - uniquifier
 
 speller:
-  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUdwxyDWXY"
-  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiuAOEIUdwxyDWXY"
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIURdfvwxyFVDWXY"
+  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIURdfvwxyFVDWXY"
   #  finals: "235678"
   delimiter: " -"
   use_space: false
@@ -91,8 +93,8 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    reverse_lookup: "f[a-z]*'?$"
-    mandarin_lookup: "v[a-z]*'?$"
+    pinyin_lookup: "^f[a-z]*'?$"
+    mandarin_lookup: "^v[a-z]*'?$"
 
 mandarin_reverse_lookup:
   tag: mandarin_lookup
@@ -105,16 +107,27 @@ mandarin_reverse_lookup:
   preedit_format:
     - xform/([nljqxy])v/$1ü/
 
-reverse_lookup:
-  tags: [ mandarin_lookup ]
-  enable_completion: false
-  enable_sentence: false
+pinyin_reverse_lookup:
+  tag: pinyin_lookup
   dictionary: luna_pinyin
   prefix: "f"
-  suffix: " '"
+  suffix: "'"
   tips: "〔拼音反查〕"
+  enable_completion: false
+  enable_sentence: false
   preedit_format:
     - xform/([nljqxy])v/$1ü/
+
+# reverse_lookup:
+#   tags: [ mandarin_lookup, pinyin_lookup ]
+  # enable_completion: false
+  # enable_sentence: false
+  # dictionary: luna_pinyin
+  # prefix: "f"
+  # suffix: "'"
+  # tips: "〔拼音反查〕"
+  # preedit_format:
+  #   - xform/([nljqxy])v/$1ü/
 
 key_binder:
   bindings:
