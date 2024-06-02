@@ -5,12 +5,13 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "2024.05.27"
+  version: "2024.06.02"
   author:
     - Lim <lshare@outlook.com>
   description: |
     潮州話輸入方案
     白話字及漢字
+    拼音反查及普通話反查
     https://github.com/hokkien-writing/rime-teochew
   dependencies:
     - teochew_mandarin
@@ -22,9 +23,8 @@ switches:
     states: [ 中文, ABC ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - name: traditionalization
-    states: [ 汉字, 漢字 ]
-    reset: 1
+  - name: simplification
+    states: [ 漢字, 汉字 ]
   - name: full_shape
     states: [ 半角, 全角 ]
 
@@ -91,7 +91,7 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "f[a-z]*'?$"
     mandarin_lookup: "v[a-z]*'?$"
 
 mandarin_reverse_lookup:
@@ -110,7 +110,7 @@ reverse_lookup:
   enable_completion: false
   enable_sentence: false
   dictionary: luna_pinyin
-  prefix: "`"
+  prefix: "f"
   suffix: " '"
   tips: "〔拼音反查〕"
   preedit_format:
