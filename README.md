@@ -1,6 +1,6 @@
 # rime-teochew（潮州話拍字方案）
 
-![拍字效果](img/u-oinn-lai-chiah-te.GIF)
+![拍字效果](assets/u-oinn-lai-chiah-te.GIF)
 
 ```
 【漢字】有閒來食茶
@@ -38,48 +38,27 @@ mó用漢字音（無論是用普通話音還是潮州話音）來表記。此�
 
 ## 安裝
 
-安裝輸入法程序，全平台攏有，請訪問 [RIME | 中州韻輸入法引擎](https://rime.im/download/) 獲取對應平台程序並安裝先。
+### 在電腦上
 
-電腦端可使用 [東風破](https://github.com/rime/plum) 安裝，命令如下：
+若電腦是視窗系統(Windows)，推薦「小狼毫」，可在 [官網](https://rime.im/download/) 或 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) 下載。
 
-``` shell
+若是蘋果系統(Darwin)，推薦「鼠鬚管」，可在 [官網](https://rime.im/download/) 或 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) 下載。
+
+Linux系統其就免加句囉，參考 [官網](https://rime.im/download/) 來安裝。
+
+按照各系統安裝了後，可使用 [東風破](https://github.com/rime/plum) 配置咱其輸入法，命令如下：
+
+```bash
 bash rime-install hokkien-writing/rime-teochew
 ```
 
-更通用其方法是直接克隆倉庫：
+### 在手機上
 
-```bash
-git clone https://github.com/hokkien-writing/rime-teochew.git
-```
+若手機是蘋果系統(IOS)，可在蘋果商店(App Store) 上搜索 「倉輸入法」並下載，然後按照下底方式配置：
 
-然後複製下底三個文件到用戶資料目錄：
+📀 [點擊播放操作視頻](assets/how-to-use-hamster.mp4)
 
-1. `teochew.puj.dict.yaml`
-2. `teochew.han.dict.yaml`
-3. `teochew.schema.yaml`
-
-再來，照下底掠 `teochew` 加入文件 `default.custom.yaml` 中其 `schema_list`：
-
-``` yaml
-schema_list:
-  - schema: luna_pinyin
-  # 省略其他常用其輸入方案
-  - schema: teochew # 添加潮州話
-```
-
-若是無 `default.custom.yaml` 此個文件，可照下底創建一個：
-
-```yaml
-# default.custom.yaml
-
-patch:
-  schema_list:
-    - schema: luna_pinyin
-    # 省略其他常用其輸入方案
-    - schema: teochew # 添加潮州話
-```
-
-至此，安裝直。
+若是安卓系統(Android)，推薦「同文輸入法」，可到 [官網](https://f-droid.org/packages/com.osfans.trime/) 或 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) 下載。
 
 ## 使用
 
@@ -91,12 +70,13 @@ patch:
 6. 默認顯示 8 個詞候選，按左右中括號（`[`、`]`）可以掀來掀去。 
 7. 支持潮州音查詢，按一下 ` f `  鍵，接落輸入普通話拼音就可以睇着潮州音啦。 
 8. 支持地道用詞查詢，按一下 ` v `  鍵，接落輸入普通話拼音就可以睇着潮州話其地道用詞啦。
+9. 電腦上按 `F4` 鍵選擇各款輸入方案，或配置簡體、西文標點、全角等。
 
 > 潮州音查詢效果：
-> ![拼音反查效果](img/tiechiuim.GIF)
+> ![拼音反查效果](assets/tiechiuim.GIF)
 
 > 地道用詞查詢效果：
-> ![普通話反查效果](img/titau.GIF)
+> ![普通話反查效果](assets/titau.GIF)
 
 ## 相輔
 
@@ -107,9 +87,9 @@ patch:
 
 ## 參考
 
-1. [中州韻輸入法引擎](https://rime.im/)
-2. [簡明潮州白話字](https://hokkien-writing.github.io/simple_puj/)
+1. [簡明潮州白話字](https://hokkien-writing.github.io/simple_puj/)
+2. [潮州話詞庫(teochew-lexicon)](https://github.com/hokkien-writing/teochew-lexicon)
 3. [潮州白話字-維基百科](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
 4. [MTR](http://tappcdn.resources.teochew.pw/files/20170114001.pdf)
 5. [潮语拼音输入法](https://github.com/kahaani/dieghv)
-6. [hokkien-writing/teochew-lexicon](https://github.com/hokkien-writing/teochew-lexicon)
+6. [中州韻輸入法引擎](https://rime.im/)
