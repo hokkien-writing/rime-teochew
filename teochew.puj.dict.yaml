@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew.puj
-version:	"2024.06.02"
+version:	"2024.06.05"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -2366,10 +2366,6 @@ khip	khip
 Khip	Khip
 khi̍p	khip8
 Khi̍p	Khip8
-khit	khit
-Khit	Khit
-khi̍t	khit8
-Khi̍t	Khit8
 khiu	khiu
 Khiu	Khiu
 khiú	khiu2
@@ -3166,10 +3162,6 @@ lãng	lang6
 Lãng	Lang6
 lāng	lang7
 Lāng	Lang7
-lap	lap
-Lap	Lap
-la̍p	lap8
-La̍p	Lap8
 lau	lau
 Lau	Lau
 láu	lau2
@@ -3278,10 +3270,6 @@ liẽ	lie6
 Liẽ	Lie6
 liē	lie7
 Liē	Lie7
-lieh	lieh
-Lieh	Lieh
-lie̍h	lieh8
-Lie̍h	Lieh8
 lien	lien
 Lien	Lien
 lién	lien2
@@ -3882,22 +3870,22 @@ nãu	nau6
 Nãu	Nau6
 nāu	nau7
 Nāu	Nau7
+ne	ne
+Ne	Ne
+né	ne2
+Né	Ne2
+nè	ne3
+Nè	Ne3
+nê	ne5
+Nê	Ne5
+nẽ	ne6
+Nẽ	Ne6
+nē	ne7
+Nē	Ne7
 nek	nek
 Nek	Nek
 ne̍k	nek8
 Ne̍k	Nek8
-neⁿ	nenn
-Neⁿ	Nenn
-néⁿ	nenn2
-Néⁿ	Nenn2
-nèⁿ	nenn3
-Nèⁿ	Nenn3
-nêⁿ	nenn5
-Nêⁿ	Nenn5
-nẽⁿ	nenn6
-Nẽⁿ	Nenn6
-nēⁿ	nenn7
-Nēⁿ	Nenn7
 ng	ng
 Ng	Ng
 ńg	ng2
@@ -4474,10 +4462,6 @@ pãng	pang6
 Pãng	Pang6
 pāng	pang7
 Pāng	Pang7
-pat	pat
-Pat	Pat
-pa̍t	pat8
-Pa̍t	Pat8
 pau	pau
 Pau	Pau
 páu	pau2

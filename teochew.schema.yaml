@@ -85,7 +85,7 @@ speller:
 translator:
   dictionary: teochew
   prism: teochew_han
-  enable_sentence: true
+  enable_sentence: false
   enable_completion: false
   enable_user_dict: true
   # initial_quality: 0.5
