@@ -2,13 +2,15 @@
 # encoding: utf-8
 #
 # Teochew PUJ 潮州白話字
-# 維護於 https://github.com/hokkien-writing/rime-teochew/teochew.puj.dict.yaml
+# 維護於 https://github.com/hokkien-writing/rime-teochew
 #
 ---
-name:	teochew.puj
+name:	teochew_puj
 version:	"2024.06.05"
 sort:	by_weight
 use_preset_vocabulary:	false
+import_tables:
+  - teochew_puj_phrase
 ...
 a	a
 A	A

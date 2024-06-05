@@ -3,4 +3,5 @@
 patch:
   schema_list:
     - schema: teochew
+    - schema: teochew_puj
     - schema: luna_pinyin

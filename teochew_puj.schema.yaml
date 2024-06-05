@@ -1,0 +1,78 @@
+# teochew.schema.yaml
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: teochew_puj
+  name: Teochew PUJ
+  version: "2024.06.05"
+  author:
+    - Hokkien-writing
+    - Lim <tsunhualim@gmail.com>
+  description: |
+    潮州白話字輸入方案
+    詳細內容見：https://github.com/hokkien-writing/rime-teochew
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUR"
+  initials: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIU"
+  delimiter: " -"
+  use_space: false
+  auto_select: false
+  algebra:
+    - "xform/[1-8]//"
+    - "derive/^ch(i|e)/ts$1/"
+    - "derive/^chh(i|e)/tsh$1/"
+    - "derive/^j(i|e)/z$1/"
+    - "derive/au/ao"
+    - "derive/ua/oa"
+    - "derive/ue/oe"
+    - "derive/iam$/iem"
+    - "derive/iap$/iep"
+    - "derive/iau$/iou"
+    - "derive/ua(n|t)$/ue$1"
+    - "derive/ie(nn|h)$/io$1"
+    - "derive/ie(n|t)$/ia$1"
+    - "derive/ie$/io"
+    - "derive/oi(nn)$/ai$1"
+
+translator:
+  dictionary: teochew_puj
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: false
+
+menu:
+  page_size: 8
+  alternative_select_keys: "12345678"
+
+style:
+  horizontal: true
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default

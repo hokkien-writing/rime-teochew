@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # Teochew Han 潮州話漢字
-# 維護於 https://github.com/hokkien-writing/rime-teochew/teochew.dict.yaml
+# 維護於 https://github.com/hokkien-writing/rime-teochew
 #
 ---
 name:	teochew
@@ -10,8 +10,9 @@ version:	"2024.06.05"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
-  - teochew.puj
-  - teochew.phrase
+  - teochew_phrase
+  - teochew_puj
+  - teochew_puj_phrase
 ...
 阿	a	5000
 鴉	a	600
