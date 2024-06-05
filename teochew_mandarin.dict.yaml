@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.06.05"
+version:	"2024.06.06"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...

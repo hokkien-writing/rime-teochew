@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.05"
+version:	"2024.06.06"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2634,7 +2634,7 @@ import_tables:
 碌	lok8	600
 祿	lok8	600
 錄	lok8	600
-陸	lok8	600
+陸	lok8	2000
 戮	lok8	600
 洛	lok8	600
 駱	lok8	600
