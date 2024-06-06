@@ -62,7 +62,7 @@ use_preset_vocabulary:	false
 乘機	seng6 ki	600
 乘法	seng5 huap	5000
 乜儂	mih nang5	5000
-乜其	mih kai5	5000
+乜其	mih kai5	10000
 乞	khurh	5000
 乞食	khurt chiah8	5000
 乾坤	khien5 khun	600
@@ -101,7 +101,8 @@ use_preset_vocabulary:	false
 代理	thoi3 li2	5000
 代職	thoih cheh	600
 企	khia6	4000
-伊	i	5000
+伊	i	10000
+伊儂	i nang5	10000
 伍星	ngou2 chhenn	2000
 伙長	hue2 tienn2	100
 伙頭	hue2 thau5	2000
@@ -113,6 +114,7 @@ use_preset_vocabulary:	false
 作工	tsoh kang	5000
 佝腰	ku ie	5000
 佣金	iong5 kim	2000
+佮	kah	10000
 使	sai2	5000
 使費	so2 hui3	5000
 使錢	sai2 chinn5	5000
@@ -130,7 +132,7 @@ use_preset_vocabulary:	false
 信念	sin3 liam6	5000
 信皮	sin3 phue5	2000
 信關	sin3 kuan	100
-俺	nan2	4000
+俺	nan2	10000
 倉庫	tshng khou3	2000
 倉皇	tshang huang5	600
 倒不如	tau3 put zu5	600
@@ -152,7 +154,7 @@ use_preset_vocabulary:	false
 做骹手	tso3 kha chhiu2	5000
 健	kiann7	5000
 偪側	pek chhek	5000
-傢俬	 kesi	2000
+傢俬	ke si	2000
 催迫	tshui pek	5000
 傭人	iong5 nang5	600
 傳授	thuan5 siu6	2000
@@ -177,12 +179,11 @@ use_preset_vocabulary:	false
 克服	khiok hok8	5000
 免	min2	5000
 入口貨	jip8 khau2 hue3	5000
-內	lai6	5000
+內	lai6	10000
 公升	kong seng	4000
 公親	kong chhin	5000
 公里	kong li2	2000
 公陞	kong seng	4000
-共	kah	5000
 共	kang7	5000
 典	toinn2	2000
 典主	toinn2 tsu2	100
@@ -209,7 +210,7 @@ use_preset_vocabulary:	false
 刀壳	to khah	5000
 刁厥	tiau khiak	5000
 刁蹬	tiau tun3	2000
-分	pun	5000
+分	pun	10000
 分別	pun piet8	5000
 切要	chhiet iau3	5000
 划算	hua5 sng3	2000
@@ -302,7 +303,7 @@ use_preset_vocabulary:	false
 呌	kie3	5000
 呢	ninn5	5000
 呢喃	ni5lam5	600
-周遊	 chiu iu5	1200
+周遊	chiu iu5	1200
 味素	bi7 sou7	5000
 呵欠	huah hi3	5000
 呼籲	hu zu6	2000
@@ -310,7 +311,7 @@ use_preset_vocabulary:	false
 咄	tuah	5000
 咖喱	ka li5	5000
 咬嗽	ka sau3	5000
-咱	nan2	5000
+咱	nan2	10000
 咸包	ham5 pau	5000
 咽喉	in au5	600
 品嘗	pin2 sienn5	2000
@@ -322,6 +323,7 @@ use_preset_vocabulary:	false
 哺育	pu6 iok8	600
 哽咽	kenn2 it	600
 唐人	tng5 nang5	100
+唔是	m6 si6	10000
 唚	chim	5000
 唱和	chhiang3 hua5	600
 唱歌	chhie3 ko	5000
@@ -345,7 +347,7 @@ use_preset_vocabulary:	false
 嚷	jiang2	5000
 四方床	si3 pang tshng5	5000
 四處	si3 tshu3	2000
-囝	kiann2	5000
+囝	kiann2	10000
 回頭	hue5 thau5	5000
 囥	khng3	5000
 困	hek8	5000
@@ -353,7 +355,7 @@ use_preset_vocabulary:	false
 圓周	inn5 chiu	1200
 圓床	inn5 tshng5	2000
 團結	thuan5 kat	5000
-在	to6	5000
+在	to6	10000
 在	tsai6	2000
 地界	ti7 kai3	5000
 地腳	ti7 kha	4000
@@ -370,7 +372,7 @@ use_preset_vocabulary:	false
 場場	tienn5 tienn5	5000
 塗	thou5	5000
 塗改	thu5 koi2	2000
-塗腳	 thou5 kha	2000
+塗腳	thou5 kha	2000
 塗腳	thou5 kha	4000
 塗骹	thou5 kha	5000
 塵埃	tin5 ai	2000
@@ -379,6 +381,7 @@ use_preset_vocabulary:	false
 壓	jih8	2000
 壯	tsang3	5000
 外家	gua7 ke	5000
+夗	ut8	5000
 夜旰	menn5 kua3	2000
 夠	kau3	5000
 夥伴	hue2 phuann6	2000
@@ -424,7 +427,7 @@ use_preset_vocabulary:	false
 孤老	ku lau2	5000
 孥囝	nounn kiann2	5000
 孥囝款	nounn kiann2 khuan2	2000
-孬	mo2	5000
+孬	mo2	10000
 安心	uann sim	1200
 安步當車	an pou7 tng3 chhia	70
 官差	kuann chhe	600
@@ -505,12 +508,13 @@ use_preset_vocabulary:	false
 幾個人	kui2 kai5 nang5	4000
 床布	tshng5 pou3	2000
 床頂	tshng5 teng2	2000
-底個	ti5 kai5	5000
-底儂	ti5 nang5	5000
-底塊	ti5 ko3	5000
+底個	ti5 kai5	10000
+底儂	ti5 nang5	10000
+底儂	ti5 tiang5	10000
+底塊	ti5 ko3	10000
 底塊夥	ti5 ko3 hue2	5000
 底子	toi2 tsur2	2000
-底當時	tiang si5	5000
+底當時	tiang si5	10000
 延遲	eng5 ti	5000
 引荐	in2 chin3	5000
 強姦	khiang5 kan	600
@@ -520,7 +524,7 @@ use_preset_vocabulary:	false
 彷彷	phang5 phang5	600
 彷彿	huang2 hut	2000
 彷彿	phang5 hut	2000
-彼	hur2	5000
+彼	hur2	10000
 征服	cheng hok8	1200
 後壁	au6 piah	5000
 後日	au6 jit8	5000
@@ -541,7 +545,7 @@ use_preset_vocabulary:	false
 志向	chi3 hiang3	5000
 快活	khuann3 uah8	5000
 念路	liam7 lou7	5000
-恁	nin2	5000
+恁	nin2	10000
 恢復	khue hok8	2000
 恬恬	tiam7 tiam7	5000
 悽慘	chhi tsham2	5000
@@ -551,7 +555,7 @@ use_preset_vocabulary:	false
 惡	lou2	5000
 惡讀	oh thak8	4000
 惰	tuann6	5000
-愈	zu2	5000
+愈	zu2	10000
 愈來愈好	zu2 lai5 zu2 ho2	5000
 愈好	zu2 ho2	5000
 愊	pek	5000
@@ -631,7 +635,7 @@ use_preset_vocabulary:	false
 拖	thua	2000
 拖累	thua lui6	5000
 拗折	a2 chih8	600
-拚命	 piann3 miann7	5000
+拚命	piann3 miann7	5000
 拜三	pai3 sann	2000
 拜乙	pai3 it	2000
 拜伍	pai3 ngou6	2000
@@ -650,7 +654,7 @@ use_preset_vocabulary:	false
 挨打	ai ta2	600
 挨着	oi tieh8	2000
 挽	tui2	2000
-挽救	 man2 kiu3	2000
+挽救	man2 kiu3	2000
 挽面	man2 min7	2000
 挿羼	tshah tshan6	2000
 捱苦	ngai5 khou2	2000
@@ -680,7 +684,7 @@ use_preset_vocabulary:	false
 換	uann7	5000
 揹個衫包	pi3 kai5 sann pau	2000
 損病	sun3 penn7	2000
-搖搖欲墜	 ie5 ie5 iok8 tui6	2000
+搖搖欲墜	ie5 ie5 iok8 tui6	2000
 搧面龐	sien3 min7 phang5	600
 携	kuann6	5000
 携餉	khieh hiang3	2000
@@ -761,7 +765,7 @@ use_preset_vocabulary:	false
 朦朧	mong5 long5	600
 木板	mok8 pan2	2000
 木虱	bak8 sat	5000
-未	bue7	5000
+未	bue7	10000
 末	buah8	5000
 本分	png2 hun7	5000
 本等	pun2 teng2	5000
@@ -805,9 +809,9 @@ use_preset_vocabulary:	false
 樟柴	chienn tsha5	5000
 樟栳	chienn lo2	5000
 模仿	mo5 huang2	2000
-樣	ienn7	5000
+樣	ienn7	10000
 樸素	phok su3	600
-樹幹	chhiu7 kan3 	1200
+樹幹	chhiu7 kan3	1200
 樹泥	chhiu7 ninn5	5000
 檨	suainn7	5000
 欄杆	lan5 kan	600
@@ -817,7 +821,7 @@ use_preset_vocabulary:	false
 歇	hiah	5000
 歡喜	huann hi2	5000
 正常	chiann3 sienn5	2000
-此	chi2	5000
+此	chi2	10000
 此搭	chi2 tah	5000
 此樣生	chienn3 senn	5000
 此陣	chi2 tsun5	5000
@@ -825,6 +829,7 @@ use_preset_vocabulary:	false
 歸原	kui nguan5	100
 殭屍	kiang si	600
 殿後	tien6 au6	600
+毋是	m6 si6	10000
 母	bou2	5000
 氈	chinn	5000
 氣	khui3	5000
@@ -836,7 +841,7 @@ use_preset_vocabulary:	false
 水車	tsui2 chhia	5000
 水𦮴	tsui2 ninn5	1600
 氽水	siu5 tsui	5000
-汝	lur2	5000
+汝	lur2	10000
 污糟	o tso	5000
 污衊	u mit8	600
 沈沒	tim5mut8	2000
@@ -922,7 +927,7 @@ use_preset_vocabulary:	false
 烙	luah	2000
 烟筒	in tang5	5000
 焙	pue7	5000
-無	bo5	5000
+無	bo5	10000
 無中用	bo5 teng3 eng7	5000
 無定着	bo5 tiann7 tieh8	5000
 無常時	bo5 chhiang5 si5	600
@@ -1078,12 +1083,11 @@ use_preset_vocabulary:	false
 着痧	tieh8 sua	2000
 睇	thoinn2	5000
 睇書房	thoinn2 tsur pang5	2000
-睡	ut8	5000
 督工	tok kang	2000
 瞭望	liau5 mo7	600
 瞭解	liau2 koi3	2000
 矇矓	mong5 long5	600
-矇騙	 mong5 phien3	600
+矇騙	mong5 phien3	600
 知觀	tsai kuan	2000
 石榴	sieh8 liu5	5000
 石部	chieh8 pou6	5000
@@ -1220,7 +1224,7 @@ use_preset_vocabulary:	false
 背包	pi3 pau	1200
 背誦	pue3 song6	2000
 胕腫	pu6 cheng2	5000
-胡椒	 hu5 chie	2000
+胡椒	hu5 chie	2000
 胡說	hu5 sueh	2000
 胡適	ou5 sek	600
 胳胴下	koh lang5 e6	100
@@ -1346,7 +1350,7 @@ use_preset_vocabulary:	false
 血脉	hueh mehnn2	5000
 衊着	mak tieh8	2000
 衋心	kek sim	5000
-行	kiann5	5000
+行	kiann5	10000
 行孝	kiann5 hau3	5000
 行差路	kiann5 tann7 lou7	2000
 行止	heng6 chi2	5000
@@ -1367,8 +1371,8 @@ use_preset_vocabulary:	false
 衫褲	sann khou3	5000
 衰疲	sue phi5	5000
 衰颯	sue sap	5000
-袂	boi6	5000
-袂孬	boi6 mo2	4000
+袂	boi6	10000
+袂孬	boi6 mo2	5000
 被告	pi6 kau3	5000
 被告	pi6 ko3	5000
 被席	phue6 chhieh8	2000
@@ -1462,7 +1466,7 @@ use_preset_vocabulary:	false
 赤肉	chhiah nek8	5000
 走	tsau2	5000
 走餉	tsau2 hiang3	2000
-起	khi2	5000
+起	khi2	10000
 起價	khi2 ke3	5000
 起程	khi2 thiann5	600
 起頭	khi2 thau5	5000
@@ -1517,7 +1521,7 @@ use_preset_vocabulary:	false
 適當	sek tang3	5000
 選拔	suan2 puat8	600
 邋遢	lap thap	5000
-郁達夫	 hiok tak8 hu	600
+郁達夫	hiok tak8 hu	600
 鄕里	hienn li2	5000
 鄰里	lin5 li2	2000
 酒帘	chiu2 liam5	600
@@ -1589,7 +1593,7 @@ use_preset_vocabulary:	false
 闊達	khuah tak8	5000
 關係	kuan hi6	5000
 關注	kuan tsu3	5000
-阮	un2	5000
+阮	un2	10000
 阿㜷	a ni	1600
 阿公	a kong	5000
 阿妗	a kim6	5000
@@ -1666,7 +1670,7 @@ use_preset_vocabulary:	false
 風颱	hong thai5	2000
 風颱	huang thai	5000
 颳風	kuat hong	2000
-食	chiah8	5000
+食	chiah8	10000
 食床	chiah8 tshng5	2000
 食房	chiah8 pang5	2000
 食槅	chiah8 keh	2000
@@ -1749,8 +1753,9 @@ use_preset_vocabulary:	false
 齒齦	khi2 ngurn5	5000
 龍位	leng5 ui7	5000
 龍眼	nek8 oinn2	5000
+𠀾孬	boi6 mo2	4000
 𠁞	boi6	4000
-𠁞孬	boi6 mo2	5000
+𠁞孬	boi6 mo2	3200
 𠕆	toinn7	5000
 𠢕	gau5	5000
 𡚸	bou2	4000

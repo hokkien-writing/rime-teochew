@@ -234,6 +234,8 @@ i(他)	ta	4999
 i(她)	ta	4999
 i(它)	ta	4999
 i-nguân(依舊)	yi jiu	1999
+i-nâng(他們)	ta men	4999
+i-nâng(她們)	ta men	4999
 iak-liãng(大約)	da yue	1999
 iang()		4999
 iau(飢餓)	ji e	4999
@@ -519,6 +521,7 @@ miaⁿ-sek(名譽)	ming yu	4999
 miaⁿ-thâu(名聲)	ming sheng	4999
 mih-kâi(什麼)	shen me	4999
 mih-nâng(什麼人)	shen me ren	4999
+mih-nâng(誰)	shui	4999
 mn̂g-sìⁿ-ãu(門後)	men hou	4999
 mo(蕨)	jue	1999
 mo-tsháu(野草)	ye cao	1999
@@ -550,6 +553,7 @@ mīn-phûe(臉皮)	lian pi	4999
 mīn-phûn(臉盆)	lian pen	4999
 mīn-pòu()		4999
 m̃(不)	bu	4999
+m̃-sĩ(不是)	bu shi	4999
 m̄-tsai-nâng(不省人事)	bu xing ren shi	4999
 nah-sap(垃圾)	la ji	4999
 nah-sap-sièⁿ(不乾不淨)	bu qian bu jing	4999
@@ -1036,7 +1040,10 @@ tì-iâⁿ(紮營)	za ying	1999
 tî-kâi(哪個)	na ge	4999
 tî-kò húe(哪裏人)	na li ren	4999
 tî-kò(哪裏)	na li	4999
-tî-nâng(哪個人)	na ge ren	4999
+tî-nâng(什麼人)	shen me ren	4999
+tî-nâng(誰)	shui	4999
+tî-tiâng(什麼人)	shen me ren	4999
+tî-tiâng(誰)	shui	4999
 tñg-chhùi(漱口)	shu kou	1999
 tñg-khùi(斷氣)	duan qi	4999
 tò-ta̍h(囉嗦)	luo suo	4999
@@ -1165,6 +1172,7 @@ zṳ̂(亂)	luan	4999
 乏(疲勞)	pi lao	5000
 乘(乘)	cheng	5000
 乜儂(什麼人)	shen me ren	5000
+乜儂(誰)	shui	5000
 乜其(什麼)	shen me	5000
 乞(給)	gei	5000
 乞食(乞丐)	qi gai	5000
@@ -1190,12 +1198,15 @@ zṳ̂(亂)	luan	4999
 伊(他)	ta	5000
 伊(她)	ta	5000
 伊(它)	ta	5000
+伊儂(他們)	ta men	5000
+伊儂(她們)	ta men	5000
 伍星(行星)	xing xing	2000
 伙長(船長)	chuan zhang	100
 伙頭(廚師)	chu shi	2000
 伙食房(廚房)	chu fang	100
 作工(工作)	gong zuo	5000
 佝腰(佝僂)	gou lou	5000
+佮(和)	he	5000
 使(花)	hua	5000
 使(花費)	hua fei	5000
 使費(花費)	hua fei	5000
@@ -1323,6 +1334,7 @@ zṳ̂(亂)	luan	4999
 咱(我們)	wo men	5000
 哺(咀嚼)	ju jue	5000
 唐人(中國人)	zhong guo ren	100
+唔是(不是)	bu shi	4000
 唚(吻)	wen	5000
 啉(飲)	yin	2000
 啞(啞巴)	ya ba	5000
@@ -1361,6 +1373,7 @@ zṳ̂(亂)	luan	4999
 壓(按)	an	2000
 壯(強壯的)	qiang zhuang de	5000
 外家(娘家)	niang jia	5000
+夗(睡)	shui	5000
 夜旰(夜間)	ye jian	2000
 夠(足夠)	zu gou	5000
 大伙(大副)	da fu	100
@@ -1432,7 +1445,8 @@ zṳ̂(亂)	luan	4999
 床布(桌布)	zhuo bu	2000
 床頂(桌上)	zhuo shang	2000
 底個(哪個)	na ge	5000
-底儂(哪個人)	na ge ren	5000
+底儂(什麼人)	shen me ren	5000
+底儂(誰)	shui	5000
 底塊(哪裏)	na li	5000
 底塊夥(哪裏人)	na li ren	5000
 底子(原件)	yuan jian	2000
@@ -1634,6 +1648,7 @@ zṳ̂(亂)	luan	4999
 此陣(現在)	xian zai	5000
 歷日(日曆)	ri li	5000
 歸原(庫存分類賬)	ku cun fen lei zhang	100
+毋是(不是)	bu shi	5000
 母(老婆)	lao po	5000
 氈(地毯)	di tan	5000
 氣(氣息)	qi xi	5000
@@ -1831,7 +1846,6 @@ zṳ̂(亂)	luan	4999
 着痧(腹絞痛)	fu jiao tong	2000
 睇(看)	kan	5000
 睇書房(閱讀室)	yue du shi	2000
-睡(睡)	shui	5000
 督工(監工)	jian gong	2000
 知觀(當心)	dang xin	2000
 石榴(石榴)	shi liu	5000
@@ -2049,7 +2063,7 @@ zṳ̂(亂)	luan	4999
 衰疲(萎靡)	wei mi	5000
 衰颯(萎靡)	wei mi	5000
 袂(不會)	bu hui	5000
-袂孬(不錯)	bu cuo	4000
+袂孬(不錯)	bu cuo	5000
 被告(被告)	bei gao	5000
 袷囝(馬甲)	ma jia	5000
 裘(襖)	ao	5000
@@ -2306,8 +2320,9 @@ zṳ̂(亂)	luan	4999
 齒齦(牙齦)	ya ken	5000
 龍位(王位)	wang wei	5000
 龍眼(龍眼)	long yan	5000
+𠀾孬(不錯)	bu cuo	4000
 𠁞(不會)	bu hui	4000
-𠁞孬(不錯)	bu cuo	5000
+𠁞孬(不錯)	bu cuo	3200
 𠕆(硬)	ying	5000
 𠢕(能幹)	neng gan	5000
 𡚸(老婆)	lao po	4000

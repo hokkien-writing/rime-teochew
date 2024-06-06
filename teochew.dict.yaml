@@ -14,13 +14,13 @@ import_tables:
   - teochew_puj
   - teochew_puj_phrase
 ...
-阿	a	5000
+阿	a	10000
 鴉	a	600
 丫	a	600
 亞	a	4000
 拗	a2	600
 亞	a3	5000
-啊	a7	3000
+啊	a7	10000
 押	ah	2000
 鴨	ah	2000
 呷	ah	600
@@ -98,12 +98,13 @@ import_tables:
 拇	bo2	600
 母	bo2	5000
 亡	bo5	600
-無	bo5	5000
+無	bo5	10000
 毋	bo5	600
 帽	bo7	600
 磨	bo7	600
 買	boi2	5000
-袂	boi6	5000
+袂	boi6	10000
+𠀾	boi6	10000
 𠁞	boi6	5000
 賣	boi7	4000
 牡	bou2	600
@@ -148,7 +149,7 @@ import_tables:
 黴	bue5	600
 煤	bue5	600
 媒	bue5	2000
-未	bue7	600
+未	bue7	10000
 襪	bueh8	600
 蚊	bun	600
 燜	bun	600
@@ -162,7 +163,7 @@ import_tables:
 勿	but	600
 齋	che	600
 姐	che2	5000
-這	che2	5000
+這	che2	10000
 債	che3	2000
 寨	che7	600
 積	cheh	600
@@ -367,7 +368,7 @@ import_tables:
 售	chhiu5	600
 樹	chhiu7	2000
 膣	chi	600
-此	chi2	5000
+此	chi2	10000
 姊	chi2	600
 詣	chi2	600
 脂	chi2	600
@@ -384,7 +385,7 @@ import_tables:
 祉	chi2	600
 芷	chi2	600
 霽	chi2	600
-只	chi2	5000
+只	chi2	10000
 掣	chi3	600
 熾	chi3	600
 擠	chi3	600
@@ -416,7 +417,7 @@ import_tables:
 跡	chiah	2000
 脊	chiah	600
 隻	chiah	5000
-食	chiah8	5000
+食	chiah8	10000
 嚼	chiak	600
 爵	chiak	600
 芍	chiak	600
@@ -852,7 +853,7 @@ import_tables:
 園	hng5	600
 遠	hng6	4000
 呵	ho	600
-好	ho2	5000
+好	ho2	10000
 訛	ho3	600
 耗	ho3	2000
 荷	ho3	600
@@ -1150,8 +1151,8 @@ import_tables:
 虛	hur	5000
 噓	hur	600
 圩	hur	600
-彼	hur2	600
-許	hur2	2000
+彼	hur2	10000
+許	hur2	10000
 魚	hur5	5000
 漁	hur5	600
 掀	hurn	600
@@ -1174,7 +1175,7 @@ import_tables:
 佛	hut8	2000
 銥	i	600
 依	i	2000
-伊	i	5000
+伊	i	10000
 衣	i	5000
 迂	i	600
 倚	i2	600
@@ -1301,7 +1302,7 @@ import_tables:
 陽	ienn5	600
 贏	ienn5	600
 烊	ienn5	600
-樣	ienn7	5000
+樣	ienn7	10000
 淹	im	2000
 蔭	im	600
 音	im	5000
@@ -1478,7 +1479,7 @@ import_tables:
 合	kah	600
 甲	kah	5000
 鉀	kah	600
-佮	kah	5000
+佮	kah	10000
 合	kah8	600
 該	kai	5000
 皆	kai	2000
@@ -1498,8 +1499,9 @@ import_tables:
 丐	kai3	600
 尬	kai3	600
 蚧	kai3	600
-個	kai5	5000
-其	kai7	4000
+個	kai5	10000
+其	kai5	10000
+个	kai5	10000
 鉻	kak	600
 各	kak	5000
 角	kak	5000
@@ -1728,7 +1730,7 @@ import_tables:
 欺	khi	600
 崎	khi	600
 齒	khi2	4000
-起	khi2	5000
+起	khi2	10000
 啓	khi2	2000
 杞	khi2	600
 器	khi3	5000
@@ -1925,7 +1927,7 @@ import_tables:
 睏	khun3	2000
 拳	khun5	2000
 羣	khun5	5000
-去	khur3	5000
+去	khur3	10000
 渠	khur5	2000
 吃	khurh	600
 乞	khurh	4000
@@ -2010,9 +2012,9 @@ import_tables:
 經	kiann	600
 今	kiann2	600
 仔	kiann2	600
-囝	kiann2	5000
+囝	kiann2	10000
 鏡	kiann3	600
-行	kiann5	5000
+行	kiann5	10000
 件	kiann6	5000
 健	kiann7	600
 頰	kiap	600
@@ -2358,11 +2360,11 @@ import_tables:
 來	lai3	600
 賚	lai3	600
 萊	lai5	600
-來	lai5	5000
+來	lai5	10000
 梨	lai5	2000
 狸	lai5	600
 裏	lai6	600
-內	lai6	5000
+內	lai6	10000
 裏	lai6	5000
 裡	lai6	5000
 來	lai7	600
@@ -2718,7 +2720,7 @@ import_tables:
 侖	lun5	600
 崙	lun5	600
 論	lun6	5000
-汝	lur2	5000
+汝	lur2	10000
 勞	lur5	1200
 驢	lur5	600
 閭	lur5	600
@@ -2862,7 +2864,7 @@ import_tables:
 門	mng5	5000
 們	mng5	600
 問	mng7	5000
-孬	mo2	5000
+孬	mo2	10000
 毛	mo5	5000
 摸	mo5	600
 摹	mo5	600
@@ -2946,8 +2948,8 @@ import_tables:
 奈	nai6	2000
 癩	nai6	600
 籟	nai6	600
-俺	nan2	3000
-咱	nan2	5000
+俺	nan2	10000
+咱	nan2	10000
 赧	nan2	600
 人	nang5	4000
 儂	nang5	5000
@@ -3123,7 +3125,7 @@ import_tables:
 量	nienn5	3000
 娘	nienn5	5000
 讓	nienn7	600
-恁	nin2	5000
+恁	nin2	10000
 扭	niu2	600
 鈕	niu2	600
 紐	niu2	600
@@ -3178,7 +3180,7 @@ import_tables:
 挨	oi	2000
 矮	oi2	600
 鞋	oi5	5000
-會	oi6	5000
+會	oi6	10000
 狹	oih8	600
 閒	oinn5	5000
 閑	oinn5	5000
@@ -3488,9 +3490,9 @@ import_tables:
 皮	phue5	5000
 被	phue6	2000
 𠱀	phueh8	2000
-啡	phui2	600
+啡	phui2	70
 呸	phui2	600
-啡	phui3	600
+啡	phui3	70
 屁	phui3	2000
 潘	phun	600
 噴	phun3	600
@@ -3677,7 +3679,7 @@ import_tables:
 肥	pui5	2000
 吠	pui7	600
 奔	pun	600
-分	pun	3000
+分	pun	10000
 苯	pun2	600
 本	pun2	5000
 糞	pun3	600
@@ -3833,7 +3835,7 @@ import_tables:
 匙	si5	600
 辭	si5	5000
 時	si5	5000
-是	si6	5000
+是	si6	10000
 侍	si6	600
 氏	si6	600
 恃	si6	600
@@ -4650,7 +4652,7 @@ import_tables:
 致	ti3	5000
 緻	ti3	2000
 池	ti5	600
-底	ti5	5000
+底	ti5	10000
 遞	ti5	600
 治	ti5	70
 逮	ti6	600
@@ -4799,7 +4801,7 @@ import_tables:
 逃	to5	2000
 淘	to5	600
 跺	to6	600
-在	to6	5000
+在	to6	10000
 代	to7	1200
 袋	to7	5000
 卓	toh	2000
@@ -5365,14 +5367,14 @@ import_tables:
 吾	u5	600
 五	u5	70
 娛	u5	2000
-有	u6	5000
+有	u6	10000
 哇	ua	600
 蛙	ua	600
 窪	ua	600
 娃	ua	600
 瓦	ua	600
 蝸	ua	600
-我	ua2	5000
+我	ua2	10000
 倚	ua2	600
 哇	ua7	5000
 喝	uah	600
@@ -5386,7 +5388,7 @@ import_tables:
 灣	uan	600
 鴛	uan	600
 冤	uan	2000
-阮	uan2	5000
+阮	uan2	10000
 皖	uan2	600
 惋	uan2	600
 宛	uan2	600
@@ -5453,7 +5455,7 @@ import_tables:
 違	ui5	600
 桅	ui5	600
 圍	ui5	2000
-爲	ui5	5000
+爲	ui5	10000
 謂	ui6	600
 胃	ui7	2000
 位	ui7	5000
@@ -5506,7 +5508,7 @@ import_tables:
 茸	zong5	600
 絨	zong5	600
 乳	zu2	600
-愈	zu2	5000
+愈	zu2	10000
 癒	zu2	2000
 茹	zu5	600
 蠕	zu5	600
