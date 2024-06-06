@@ -65,8 +65,8 @@ speller:
   use_space: false
   auto_select: false
   algebra:
-    # 去掉聲調
-    - "xform/[1-8]//"
+    - "erase/^xx$/"
+    - "xform/[1-8]//" # 去掉聲調
     - "derive/^ch(i|e)/ts$1/"
     - "derive/^chh(i|e)/tsh$1/"
     - "derive/^j(i|e)/z$1/"
@@ -81,9 +81,12 @@ speller:
     - "derive/ie(n|t)$/ia$1"
     - "derive/ie$/io"
     - "derive/oi(nn)$/ai$1"
+    - "abbrev/^([a-z]).+$/$1/" # 簡拼
+    - "abbrev/^(tsh|chh|ts|ch).+$/$1/" # 簡拼
 
 translator:
   dictionary: teochew
+  # spelling_hints: 3  # 3字內標註完整帶調音碼
   prism: teochew_han
   enable_sentence: false
   enable_completion: false
