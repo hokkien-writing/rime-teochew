@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.06.06"
+version:	"2024.06.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -829,6 +829,7 @@ ngṳt-kiaⁿ	ngurt kiann	600
 ngṳ̂n-tuaⁿ	ngurn5 tuann	1999
 ni-bó	ni bo2	1999
 ni5lâm	ni5lam5	600
+nih-ma̍k	nih mak8	600
 niú-khàu	niu2 khau3	600
 nouⁿ-kiáⁿ	nounn kiann2	4999
 nouⁿ-kiáⁿ-khuán	nounn kiann2 khuan2	1999

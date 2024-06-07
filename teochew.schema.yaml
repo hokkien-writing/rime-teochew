@@ -5,7 +5,7 @@
 schema:
   schema_id: teochew
   name: 潮州話
-  version: "2024.06.05"
+  version: "2024.06.07"
   author:
     - Hokkien-writing
     - Lim <tsunhualim@gmail.com>
@@ -65,7 +65,7 @@ speller:
   use_space: false
   auto_select: false
   algebra:
-    - "erase/^xx$/"
+    # - "erase/^xx$/"
     - "xform/[1-8]//" # 去掉聲調
     - "derive/^ch(i|e)/ts$1/"
     - "derive/^chh(i|e)/tsh$1/"
@@ -74,6 +74,7 @@ speller:
     - "derive/ua/oa"
     - "derive/ue/oe"
     - "derive/iam$/iem"
+    - "derive/^l(iem|iam|am)$/n$1/" # n,l
     - "derive/iap$/iep"
     - "derive/iau$/iou"
     - "derive/ua(n|t)$/ue$1"
@@ -94,7 +95,7 @@ translator:
   # initial_quality: 0.5
 
 recognizer:
-  import_preset: default
+  # import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
     pinyin_lookup: "^f[a-z]*'?$"

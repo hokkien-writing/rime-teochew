@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.06.06"
+version:	"2024.06.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -4244,6 +4244,10 @@ niẽⁿ	nienn6
 Niẽⁿ	Nienn6
 niēⁿ	nienn7
 Niēⁿ	Nienn7
+nih	nih
+Nih	Nih
+ni̍h	nih8
+Ni̍h	Nih8
 nin	nin
 Nin	Nin
 nín	nin2

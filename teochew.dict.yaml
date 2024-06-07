@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.06"
+version:	"2024.06.07"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2938,6 +2938,7 @@ import_tables:
 林	na5	600
 哪	na5	70
 哪	na7	70
+若	na7	600
 垃	nah	2000
 乃	nai2	600
 奶	nai2	2000
@@ -3125,6 +3126,7 @@ import_tables:
 量	nienn5	3000
 娘	nienn5	5000
 讓	nienn7	600
+𥍉	nih	600
 恁	nin2	10000
 扭	niu2	600
 鈕	niu2	600

@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.06.06"
+version:	"2024.06.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -1765,6 +1765,7 @@ use_preset_vocabulary:	false
 𤞚	siau2	5000
 𤞚狗	siau2 kau2	5000
 𤷗裂	pik lih8	5000
+𥍉目	nih mak8	600
 𦈢	hui5	5000
 𦮴	ninn5	4000
 𨫋	kong3	2000
