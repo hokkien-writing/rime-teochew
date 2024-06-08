@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.07"
+version:	"2024.06.08"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -1579,7 +1579,7 @@ import_tables:
 九	kau2	5000
 枸	kau2	600
 犒	kau2	600
-到	kau3	5000
+到	kau3	10000
 告	kau3	5000
 夠	kau3	600
 猴	kau5	600
@@ -2604,7 +2604,6 @@ import_tables:
 瘤	liu5	600
 流	liu5	5000
 六	liu5	600
-囉	lo	600
 裹	lo2	600
 顆	lo2	600
 潦	lo2	600
@@ -2619,6 +2618,7 @@ import_tables:
 鑼	lo5	600
 籮	lo5	600
 騾	lo5	600
+囉	lo5	10000
 醪	lo5	600
 咯	lo7	600
 落	loh8	5000
