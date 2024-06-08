@@ -70,11 +70,11 @@ Linux系統其就免加句囉，參考 [RIME官網](https://rime.im/download/) �
 
 若手機是蘋果系統(IOS)，推薦「[倉輸入法](https://apps.apple.com/cn/app/仓输入法/id6446617683)」，安裝後按照下底方式配置：
 
-📀 [IOS下倉輸入法配置潮州拍字方案視頻](assets/how-to-use-hamster.mp4)
+📀 [IOS下倉輸入法配置潮州拍字方案視頻](https://1drv.ms/f/s!AgqX3Jd3VLa4gTk1vlRO0T3X91c5?e=0pjQga)
 
 若是安卓系統(Android)，推薦「[同文輸入法]((https://f-droid.org/packages/com.osfans.trime/) )」。
 
-> 📌 頭頂軟件(除了倉輸入法)爲方便取用，我整理一份到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) ，可作爲備用。
+> 📌 頭頂軟件爲方便取用，我整理一份到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) ，可作爲備用。
 
 ## 使用
 
