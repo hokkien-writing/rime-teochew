@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.06.08"
+version:	"2024.06.12"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:

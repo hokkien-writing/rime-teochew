@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.08"
+version:	"2024.06.12"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2363,7 +2363,6 @@ import_tables:
 來	lai5	10000
 梨	lai5	2000
 狸	lai5	600
-裏	lai6	600
 內	lai6	10000
 裏	lai6	5000
 裡	lai6	5000
@@ -2474,7 +2473,6 @@ import_tables:
 令	leng6	5000
 理	li2	5000
 李	li2	2000
-裏	li2	2000
 鯉	li2	600
 禮	li2	600
 哩	li2	70
@@ -2482,6 +2480,8 @@ import_tables:
 履	li2	600
 蠡	li2	600
 里	li2	2000
+裏	li2	2000
+裡	li2	2000
 釐	li5	600
 黎	li5	600
 籬	li5	600

@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.06.08"
+version:	"2024.06.12"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -336,7 +336,7 @@ use_preset_vocabulary:	false
 喙	tshui3	5000
 喙唇皮	tshui3 lim5 phue5	5000
 單丁	tuann teng	5000
-單于	tuann u	70
+單于	sien5 u	70
 單獨	tuann tok8	5000
 嗎啡	ma2 hui	70
 嗜	chi3	1280
@@ -844,7 +844,7 @@ use_preset_vocabulary:	false
 汝	lur2	10000
 污糟	o tso	5000
 污衊	u mit8	600
-沈沒	tim5mut8	2000
+沈沒	tim5 mut8	2000
 沈澱	sim2 tien6	600
 沖茶	tshong te5	2000
 沙埧	sua pa3	4000

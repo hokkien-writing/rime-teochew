@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.06.08"
+version:	"2024.06.12"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -1125,6 +1125,7 @@ sièn-mīn-phâng	sien3 min7 phang5	600
 sié-nn̂g	sie2 nng5	99
 sién	sien2	4999
 siéⁿ-keh	sienn2 keh	1999
+siên-u	sien5 u	70
 siù-tsâi	siu3 tsai5	600
 siû-tsui	siu5 tsui	4999
 siũ-iũ	siu6 iu6	4999
@@ -1317,7 +1318,6 @@ tien-puà	tien pua3	600
 tie̍h	tieh8	4999
 tie̍h-sua	tieh8 sua	1999
 tih-kiáⁿ	tih kiann2	4999
-tim5mu̍t	tim5mut8	2000
 tin-pâi	tin pai5	4999
 tin-táu	tin tau2	600
 tiàu-kue	tiau3 kue	4999
@@ -1499,7 +1499,6 @@ tsṳ̃-uàn-tsṳ̃-ngãi	tsur6 uan3 tsur6 ngai6	600
 tuah	tuah	4999
 tuaⁿ-teng	tuann teng	4999
 tuaⁿ-to̍k	tuann tok8	5000
-tuaⁿ-u	tuann u	70
 tun-hùe-pâng	tun hue3 pang5	99
 tuà-hà	tua3 ha3	4999
 tuã	tua6	4999
@@ -1550,6 +1549,7 @@ tî-kò	ti5 ko3	10000
 tî-kò húe	ti5 ko3 hue2	4999
 tî-nâng	ti5 nang5	10000
 tî-tiâng	ti5 tiang5	10000
+tîm-mu̍t	tim5 mut8	2000
 tîn-ai	tin5 ai	2000
 tñg-chhùi	tng6 chhui3	1999
 tñg-khùi	tng6 khui3	4999
