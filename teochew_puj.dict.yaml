@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.06.12"
+version:	"2024.06.13"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -2264,6 +2264,10 @@ khiãng	khiang6
 Khiãng	Khiang6
 khiāng	khiang7
 Khiāng	Khiang7
+khiat	khiat
+Khiat	Khiat
+khia̍t	khiat8
+Khia̍t	Khiat8
 khiau	khiau
 Khiau	Khiau
 khiáu	khiau2

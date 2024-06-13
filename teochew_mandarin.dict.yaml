@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.06.12"
+version:	"2024.06.13"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -337,6 +337,7 @@ khuà-lṳ̃(憂慮)	you lv	1999
 khuàⁿ-ua̍h(歡快)	huan kuai	4999
 khàng-tshn̂g(炕)	kang	1999
 kháu(測試)	ce shi	4999
+khâm-khia̍t(坎坷)	kan ke	1999
 khì-la̍t(力量)	li liang	4999
 khí(開始)	kai shi	4999
 khí-chhiù(牙刷)	ya shua	4999
@@ -1429,6 +1430,7 @@ zṳ̂(亂)	luan	4999
 屎鉢(屎盆)	shi pen	100
 屐(木屐)	mu ji	100
 展(炫耀)	xuan yao	5000
+嵁硈(坎坷)	kan ke	2000
 巡(檢查)	jian cha	5000
 巡(看望)	kan wang	5000
 工錢(工資)	gong zi	2000

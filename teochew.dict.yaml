@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.12"
+version:	"2024.06.13"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -1001,6 +1001,7 @@ import_tables:
 梵	huam6	600
 范	huam6	600
 範	huam6	2000
+幡	huan	600
 番	huan	2000
 畨	huan	2000
 翻	huan	5000
@@ -1466,6 +1467,7 @@ import_tables:
 鉸	ka	600
 咖	ka	600
 咳	ka	600
+尻	ka	600
 虼	ka	600
 鮫	ka	2000
 家	ka	4000
@@ -1673,6 +1675,7 @@ import_tables:
 坎	kham2	600
 砍	kham2	600
 嵌	kham2	600
+嵁	kham5	600
 刊	khan	2000
 牽	khan	600
 纖	khan	600
@@ -1695,7 +1698,6 @@ import_tables:
 恰	khap	600
 盍	khap	600
 摳	khau	600
-尻	khau	600
 考	khau2	5000
 拷	khau2	600
 烤	khau2	600
@@ -1770,6 +1772,7 @@ import_tables:
 勥	khiang3	2000
 強	khiang5	5000
 襁	khiang5	600
+硈	khiat8	600
 橇	khiau	600
 敲	khiau	600
 巧	khiau2	600
@@ -2175,7 +2178,6 @@ import_tables:
 夠	kou3	5000
 顧	kou3	600
 僱	kou3	600
-糊	kou5	600
 餬	kou5	600
 辜	ku	600
 咕	ku	600
@@ -2198,6 +2200,7 @@ import_tables:
 懼	ku6	600
 故	ku7	600
 舊	ku7	5000
+歌	kua	600
 柯	kua	600
 剮	kua2	600
 寡	kua2	600
@@ -3469,6 +3472,7 @@ import_tables:
 撇	phuah	600
 瞥	phuah	600
 潑	phuah	2000
+幡	phuan	600
 藩	phuan	600
 拌	phuan3	600
 絆	phuan3	600
@@ -3791,8 +3795,8 @@ import_tables:
 猩	seng	600
 惺	seng	600
 旌	seng	600
+陞	seng	600
 升	seng	5000
-陞	seng	5000
 昇	seng	600
 省	seng2	4000
 勝	seng3	2000
@@ -5018,6 +5022,7 @@ import_tables:
 巢	tshau5	600
 艙	tshng	600
 倉	tshng	2000
+川	tshng	600
 穿	tshng	600
 瘡	tshng	600
 村	tshng	5000
