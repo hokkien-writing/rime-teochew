@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.06.13"
+version:	"2024.06.14"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -1077,6 +1077,7 @@ use_preset_vocabulary:	false
 相沖	siang tshong	2000
 相等	siang teng2	5000
 相罵	sie menn7	5000
+相輔	sie hu6	2000
 相輸	sie su	5000
 眠床	min5 tshng5	5000
 眠起	meng5 khi2	5000

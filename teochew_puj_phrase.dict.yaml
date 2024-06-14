@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.06.13"
+version:	"2024.06.14"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -1084,6 +1084,7 @@ sia̍h-kuãn	siah8 kuan6	2000
 siaⁿ-tiāu	siann tiau7	600
 sie-chiap	sie chiap	4999
 sie-chieh-mn̄g	sie chieh mng7	4999
+sie-hũ	sie hu6	2000
 sie-mēⁿ	sie menn7	4999
 sie-phah	sie phah	4999
 sie-su	sie su	4999
