@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.06.14"
+version:	"2024.06.15"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -5596,18 +5596,6 @@ sõu	sou6
 Sõu	Sou6
 sōu	sou7
 Sōu	Sou7
-sou2	sou2
-Sou2	Sou2
-sóu2	sou22
-Sóu2	Sou22
-sòu2	sou23
-Sòu2	Sou23
-sôu2	sou25
-Sôu2	Sou25
-sõu2	sou26
-Sõu2	Sou26
-sōu2	sou27
-Sōu2	Sou27
 su	su
 Su	Su
 sú	su2

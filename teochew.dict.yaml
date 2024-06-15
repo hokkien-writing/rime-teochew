@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.06.14"
+version:	"2024.06.15"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2975,7 +2975,6 @@ import_tables:
 溺	nek8	600
 肉	nek8	5000
 秧	ng	600
-尹	ng2	600
 黃	ng5	5000
 磺	ng5	600
 皚	ngai5	600
@@ -3733,6 +3732,7 @@ import_tables:
 刪	san	5000
 柵	san	600
 瘦	san2	600
+㾪	san2	600
 疝	san3	600
 霰	san3	600
 雙	sang	5000
@@ -4112,9 +4112,9 @@ import_tables:
 酥	sou	600
 蘇	sou	1200
 甦	sou	2000
+瘦	sou2	600
 艘	sou2	600
 擻	sou2	600
-瘦	sou23	600
 抒	su	600
 輸	su	2000
 舒	su	2000
@@ -5501,6 +5501,7 @@ import_tables:
 豫	ur6	600
 與	ur7	70
 恩	urn	2000
+尹	urn2	600
 隱	urn2	600
 蔚	ut	600
 尉	ut	600

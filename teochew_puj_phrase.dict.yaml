@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.06.14"
+version:	"2024.06.15"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
