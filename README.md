@@ -79,7 +79,7 @@ Linux系統其就免加句囉，參考 [RIME官網](https://rime.im/download/) �
 
 若是安卓系統(Android)，推薦「[同文輸入法]((https://f-droid.org/packages/com.osfans.trime/) )」。
 
-> 📌 頭頂軟件爲方便取用，我整理一份到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) ，可作爲備用。
+> 📌 頭頂軟件及拍字方案爲方便取用，已另存到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [阿里雲盤](https://www.alipan.com/s/UpgDQ19iLSi) ，可作爲備用。
 
 ## 使用
 
