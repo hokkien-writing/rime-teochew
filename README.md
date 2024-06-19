@@ -70,7 +70,7 @@ Linux系統其就免加句囉，參考 [RIME官網](https://rime.im/download/) �
 
 若手機是蘋果系統(IOS)，推薦「[倉輸入法](https://apps.apple.com/cn/app/仓输入法/id6446617683)」，安裝後按照下底視頻配置。
 
-📀 視頻可往 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [阿里雲盤](https://www.alipan.com/s/UpgDQ19iLSi)  查睇。
+📀 視頻可往 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [騰訊微雲](https://share.weiyun.com/yxVJfsN7) 查睇。
 
 若是不便，也可微信掃碼關注下底視頻號來睇。
 
@@ -79,7 +79,7 @@ Linux系統其就免加句囉，參考 [RIME官網](https://rime.im/download/) �
 
 若是安卓系統(Android)，推薦「[同文輸入法]((https://f-droid.org/packages/com.osfans.trime/) )」。
 
-> 📌 頭頂軟件及拍字方案爲方便取用，已另存到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [阿里雲盤](https://www.alipan.com/s/UpgDQ19iLSi) ，可作爲備用。
+> 📌 頭頂軟件及拍字方案爲方便取用，已另存到了 [微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4gS3ujqPC7hpY4lKt?e=Wc8xvk) | [騰訊微雲](https://share.weiyun.com/yxVJfsN7) ，可作爲備用。
 
 ## 使用
 
