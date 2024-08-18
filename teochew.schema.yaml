@@ -219,3 +219,5 @@ menu:
 
 style:
   horizontal: true
+  candidate_list_layout: linear
+
