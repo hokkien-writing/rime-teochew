@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.06.15"
+version:	"2024.09.22"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -29,9 +29,11 @@ use_preset_vocabulary:	false
 一擔	chek8 tann3	600
 一斗酒	chek8 tau2 chiu2	600
 一旦	chek8 tan3	5000
+一朶	chek8 to5	600
 一間	chek8 koinn	3000
 一隻鳥	chek8 chiah chiau2	5000
 一齣戲	chek8 tshut hi3	5000
+一𢯰花	chek8 tenn6 hue	600
 丈人	tienn6 nang5	5000
 丈夫	ta pou	5000
 丈夫囝	ta pou kiann2	5000
@@ -68,6 +70,7 @@ use_preset_vocabulary:	false
 乾坤	khien5 khun	600
 乾杯	kan pue	5000
 乾灱	kan ta	5000
+亂做	theng3 tso3	600
 了斷	liau2 tuan6	2000
 事誌	tai7 chi3	2000
 二伙	ji7 hue2	100
@@ -76,6 +79,7 @@ use_preset_vocabulary:	false
 五穀	ngou2 kak	600
 五穀	ngou2 kok	600
 五箍	ngou6 khou	2000
+井欄	chenn2 nuann5	600
 亞伯拉罕	a pek lah8 han2	70
 亞是	a si6	5000
 交代	kau tai3	2000
@@ -116,6 +120,7 @@ use_preset_vocabulary:	false
 佣金	iong5 kim	2000
 佮	kah	10000
 使	sai2	5000
+使襭	sai2 soih	600
 使費	so2 hui3	5000
 使錢	sai2 chinn5	5000
 來往	lai5 uang2	100
@@ -146,6 +151,7 @@ use_preset_vocabulary:	false
 偏枯	phian kou	5000
 做七	tso3 chhit	5000
 做上盤	tso3 chienn7 puann5	100
+做堆	tso3 pu5	600
 做成	tso3 chiann5	600
 做生日	tso3 senn jit8	5000
 做節	tso3 tsoih	5000
@@ -160,7 +166,7 @@ use_preset_vocabulary:	false
 債主	che3 tsu2	5000
 傷痕	sienn hun5	5000
 傷風	sienn huang	5000
-僥倖	ngiau5 heng6	2000
+僥倖	hiau heng6	2000
 僵硬	kiang ngenn6	600
 價錢	ke3 chinn5	5000
 儂事	nang5 sur7	5000
@@ -199,6 +205,7 @@ use_preset_vocabulary:	false
 凝固	ngeng5 ku3	2000
 凝天時	ngan5 thinn si5	1200
 凶惡	hiong ak	1200
+出	thou2 tshut	600
 出口貨	tshut khau2 hue3	5000
 出外儂	tshut gua7 nang5	5000
 出字白	tshut ji7 peh8	2000
@@ -221,6 +228,7 @@ use_preset_vocabulary:	false
 到底	kau3 toi2	2000
 制度	chi3 tou7	5000
 刷	chhiu3	5000
+刺字	chhiah ji7	600
 剁	tok	5000
 剁脞	tok tsho7	5000
 剁莝	tok tsho7	4000
@@ -287,6 +295,7 @@ use_preset_vocabulary:	false
 吃吃叫	khurh khurh kie3	600
 吃驚	ngurt kiann	600
 合併	hah8 peng6	5000
+合卺	hah8 kng2	600
 吊燈	tiau3 teng	2000
 吊瓜	tiau3 kue	5000
 同門	tang5 mng5	5000
@@ -307,6 +316,7 @@ use_preset_vocabulary:	false
 呾	tann3	5000
 咄	tuah	5000
 咖喱	ka li5	5000
+咩咩叫	meh meh kie3	600
 咬嗽	ka sau3	5000
 咱	nan2	10000
 咽喉	in au5	600
@@ -402,6 +412,7 @@ use_preset_vocabulary:	false
 天干地支	thinn kan ti7 chinn	2000
 天時	thinn si5	5000
 太保	thai3 pau2	600
+失節	sit chiet	600
 夸父	khua hu6	600
 奇巧物	khi5 kha2 mueh8	2000
 奇異	khi5 i6	2000
@@ -425,6 +436,7 @@ use_preset_vocabulary:	false
 孥囝	nounn kiann2	5000
 孥囝款	nounn kiann2 khuan2	2000
 孬	mo2	10000
+孵卵	pu7 nng6	600
 安心	uann sim	1200
 安步當車	an pou7 tng3 chhia	70
 官差	kuann chhe	600
@@ -456,9 +468,9 @@ use_preset_vocabulary:	false
 對單	tui3 tuann	2000
 小丑	siau2 thiu2	600
 小影	siau2 iann2	2000
-小禮	siau2 li2	5000
 小郎	sie2 nng5	100
 少	chie2	5000
+少禮	siau2 li2	5000
 尪囝	ang kiann2	2000
 尸位素餐	si ui7 su3 tshan	70
 尻川	kha tshng	2000
@@ -562,6 +574,7 @@ use_preset_vocabulary:	false
 愊	pek	5000
 感謝	kam2 sia7	5000
 愩	kong3	5000
+慳吝	kien lien6	600
 慾望	iok8 mo7	2000
 憑單	pheng5 tuann	2000
 憑弔	pheng5 tiau3	1200
@@ -694,6 +707,7 @@ use_preset_vocabulary:	false
 撈	la6	5000
 撒	suah	5000
 撞枳	thng7 chi2	100
+撞門	tong7 mng5	600
 撢灰	tham5 hue	600
 撣族	sien6 tsok8	600
 撣灰	tham5 hue	600
@@ -713,6 +727,7 @@ use_preset_vocabulary:	false
 收穫	siu uak8	2000
 放假	pang3 ke2	4000
 敗	phai2	5000
+敲罛	kha3 kou	600
 數簿	siau3 phou6	2000
 文壇	bun5 tham5	600
 文采郁郁	bun5 tshai2 hiok hiok	600
@@ -878,6 +893,7 @@ use_preset_vocabulary:	false
 海湧	hai2 eng2	2000
 海湧	hai2 eng2	5000
 海茸	hai2 zong5	2000
+海蜇	hai2 the7	600
 涌現	iong3 hin7	2000
 涎	nuann6	5000
 淒涼	chhi liang5	600
@@ -897,6 +913,7 @@ use_preset_vocabulary:	false
 滂沛	phang5 phai3	5000
 滑	kut8	5000
 滒	ko	5000
+滯泥	thi3 ni6	600
 滴囝	tih kiann2	5000
 滷卵	lou2 nng6	2000
 滾水	kun2 tsui	5000
@@ -932,6 +949,7 @@ use_preset_vocabulary:	false
 烙	luah	2000
 烟筒	in tang5	5000
 焙	pue7	5000
+焜焜叫	uak uak kie3	600
 無	bo5	10000
 無中用	bo5 teng3 eng7	5000
 無定着	bo5 tiann7 tieh8	5000
@@ -945,19 +963,24 @@ use_preset_vocabulary:	false
 煙塵	in teng5	600
 煙波浩淼	in po hau miau2	600
 煠	sah8	2000
+煦字	u3 ji7	600
 照	chie3	5000
 煩惱	huan5 lo2	5000
 煮	tsur2	5000
+煲爛爛	pu5 lok lok	600
 煴	un3	5000
 煽風點火	sien3 huang tiam2 hue2	600
 熇	hoh	2000
 熱布	zuah8 pou3	2000
+熱癤	zuah8 pauh	600
 熻	hip	2000
 燈盞	teng chuann2	2000
+燉雞	tun6 koi	600
 燒水	sie tsui	5000
 燕菜	ien3 tshai3	2000
 燕鳥	inn3 chiau2	5000
 營盤	iann5 puann5	2000
+爁火	na6 hue2	600
 爽快	song2 khuai3	5000
 爾	lur2	4000
 牙頭齒	ge5 thau5 khi	100
@@ -966,10 +989,12 @@ use_preset_vocabulary:	false
 物	mueh8	5000
 物件	mueh8 kiann6	5000
 物食	mueh8 chiah8	5000
+牽罟	khan kou5	600
 牽輓	khan man2	1200
 犯律	huam6 lut8	5000
 狗母	kau2 bo2	5000
 狹	oih8	5000
+狼犺	lo7 ho	600
 狼藉	lang5 chia6	2000
 猛	menn2	5000
 猴栗	kau5 lak8	600
@@ -1038,6 +1063,7 @@ use_preset_vocabulary:	false
 瘤	liu5	5000
 癡呆	chhi ngai5	600
 癥結	teng kat	1200
+癩-瘑	thai2 ko	600
 癬	sien2	5000
 癲	siau2	5000
 發燒	huat sie	5000
@@ -1141,7 +1167,7 @@ use_preset_vocabulary:	false
 筅	tshoinn2	5000
 筅塵	tshoinn2 thun5	600
 筆桿	pit kuann	600
-等待	tang2 thai6	2000
+等待	tan2 thai6	2000
 等我	theng6 ua2	600
 筋	kurn	5000
 答背	tah pue3	5000
@@ -1202,6 +1228,7 @@ use_preset_vocabulary:	false
 羅經	lo5 kenn	5000
 羔丕	ko pi5	2000
 羔丕磨	ko pi5 bo7	2000
+義塚	ngi6 thong2	600
 羼隊	tshan6 tui7	2000
 翁姐	ang chia2	5000
 翁姐	ang chia2	600
@@ -1272,6 +1299,7 @@ use_preset_vocabulary:	false
 臺灣	thai5 uan	600
 舖	phou3	5000
 舖面	phou3 min7	2000
+舢板	sam pan2	600
 舵	tua6	5000
 舵工	tai6 kong	2000
 船主	tsun5 tsu2	5000
@@ -1330,6 +1358,7 @@ use_preset_vocabulary:	false
 葵笠	koih8 loih8	2000
 蒙古	mong5 kou2	2000
 蒙難	mong5 lan7	2000
+蓮茭	noinn5 kau6	600
 蓮角	noinn5 kak	5000
 蔗粕	chia3 phoh	5000
 蔫	iang	5000
@@ -1386,6 +1415,7 @@ use_preset_vocabulary:	false
 裏底	lai6 toi2	5000
 裏衣	lai6 i	4000
 裘	hiunn5	5000
+裝奩	tsng liam5	600
 裡底	lai6 toi2	5000
 裡衣	lai6 i	4000
 製造	chi3 tsau6	2000
@@ -1394,8 +1424,10 @@ use_preset_vocabulary:	false
 褪	thng3	5000
 褲帶	khou3 tua7	5000
 褲橛	khou3 kueh8	5000
+褲橛	khou3 kueh8	600
 褲腳	khou3 kha	4000
 褲骹	khou3 kha	5000
+褻讀	siet tok8	600
 襇	koinn2	2000
 襊	tsue7	2000
 要衝	iau3 tshong	2000
@@ -1649,6 +1681,7 @@ use_preset_vocabulary:	false
 面會	min7 hue6	5000
 面皮	min7 phue5	5000
 面盆	min7 phun5	5000
+靴楦	hia hun3	600
 鞋拖	oi5 thua	5000
 鞦韆	chhiu chhien	2000
 鞦韆	chhiu chhien	600
@@ -1688,6 +1721,7 @@ use_preset_vocabulary:	false
 食薰	chiah8 hun	5000
 食錢	chiah8 chinn5	5000
 飯床	png7 tshng5	5000
+飯硬	png7 khiu7	600
 飯糰	png7 thuan5	600
 飲	am2	5000
 餅乾	piann2 kuaⁿ	2000
@@ -1742,6 +1776,9 @@ use_preset_vocabulary:	false
 鹵鹽	lou2 iam5	600
 鹹水魚	kiam5 tsui2 hur5	2000
 鹽硝	iam2 siau	5000
+鹿牡	tek8 kou2	600
+麥麩	beh8 phou	600
+麫包	minn7 pau	600
 麵粉	minn7 hun2	2000
 麵線餬	minn7 suann3 kou5	600
 麻煩	mua5 huan5	5000

@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.06.15"
+version:	"2024.09.22"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -1421,9 +1421,9 @@ zṳ̂(亂)	luan	4999
 寸進(進步)	jin bu	5000
 對單(匯票)	hui piao	2000
 小影(照片)	zhao pian	2000
-小禮(羞耻)	xiu chi	5000
 小郎(小叔子)	xiao shu zi	100
 少(少)	shao	5000
+少禮(羞耻)	xiu chi	5000
 尪囝(圖畫)	tu hua	2000
 尻脊(脊背)	ji bei	5000
 尿脬(膀胱)	pang guang	5000

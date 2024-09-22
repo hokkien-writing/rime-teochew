@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.06.15"
+version:	"2024.09.22"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -816,6 +816,18 @@ Eng	Eng
 Ẽng	Eng6
 ēng	eng7
 Ēng	Eng7
+eⁿ	enn
+Eⁿ	Enn
+éⁿ	enn2
+Éⁿ	Enn2
+èⁿ	enn3
+Èⁿ	Enn3
+êⁿ	enn5
+Êⁿ	Enn5
+ẽⁿ	enn6
+Ẽⁿ	Enn6
+ēⁿ	enn7
+Ēⁿ	Enn7
 gai	gai
 Gai	Gai
 gái	gai2
@@ -1920,6 +1932,18 @@ jĩn	jin6
 Jĩn	Jin6
 jīn	jin7
 Jīn	Jin7
+jiong	jiong
+Jiong	Jiong
+jióng	jiong2
+Jióng	Jiong2
+jiòng	jiong3
+Jiòng	Jiong3
+jiông	jiong5
+Jiông	Jiong5
+jiõng	jiong6
+Jiõng	Jiong6
+jiōng	jiong7
+Jiōng	Jiong7
 jip	jip
 Jip	Jip
 ji̍p	jip8
@@ -2108,6 +2132,10 @@ khã	kha6
 Khã	Kha6
 khā	kha7
 Khā	Kha7
+khah	khah
+Khah	Khah
+kha̍h	khah8
+Kha̍h	Khah8
 khai	khai
 Khai	Khai
 khái	khai2
@@ -2264,6 +2292,10 @@ khiãng	khiang6
 Khiãng	Khiang6
 khiāng	khiang7
 Khiāng	Khiang7
+khiap	khiap
+Khiap	Khiap
+khia̍p	khiap8
+Khia̍p	Khiap8
 khiat	khiat
 Khiat	Khiat
 khia̍t	khiat8
@@ -4484,6 +4516,10 @@ pãu	pau6
 Pãu	Pau6
 pāu	pau7
 Pāu	Pau7
+pauh	pauh
+Pauh	Pauh
+pa̍uh	pauh8
+Pa̍uh	Pauh8
 pe	pe
 Pe	Pe
 pé	pe2
@@ -5272,6 +5308,10 @@ sap	sap
 Sap	Sap
 sa̍p	sap8
 Sa̍p	Sap8
+sat	sat
+Sat	Sat
+sa̍t	sat8
+Sa̍t	Sat8
 sau	sau
 Sau	Sau
 sáu	sau2
@@ -5556,6 +5596,10 @@ sõi	soi6
 Sõi	Soi6
 sōi	soi7
 Sōi	Soi7
+soih	soih
+Soih	Soih
+so̍ih	soih8
+So̍ih	Soih8
 soiⁿ	soinn
 Soiⁿ	Soinn
 sóiⁿ	soinn2
@@ -5816,6 +5860,10 @@ tap	tap
 Tap	Tap
 ta̍p	tap8
 Ta̍p	Tap8
+tat	tat
+Tat	Tat
+ta̍t	tat8
+Ta̍t	Tat8
 tau	tau
 Tau	Tau
 táu	tau2
@@ -5944,6 +5992,10 @@ thap	thap
 Thap	Thap
 tha̍p	thap8
 Tha̍p	Thap8
+that	that
+That	That
+tha̍t	that8
+Tha̍t	That8
 thau	thau
 Thau	Thau
 tháu	thau2
@@ -5956,6 +6008,18 @@ thãu	thau6
 Thãu	Thau6
 thāu	thau7
 Thāu	Thau7
+the	the
+The	The
+thé	the2
+Thé	The2
+thè	the3
+Thè	The3
+thê	the5
+Thê	The5
+thẽ	the6
+Thẽ	The6
+thē	the7
+Thē	The7
 theh	theh
 Theh	Theh
 the̍h	theh8
@@ -6724,6 +6788,10 @@ tshãng	tshang6
 Tshãng	Tshang6
 tshāng	tshang7
 Tshāng	Tshang7
+tshat	tshat
+Tshat	Tshat
+tsha̍t	tshat8
+Tsha̍t	Tshat8
 tshau	tshau
 Tshau	Tshau
 tsháu	tshau2
@@ -7076,6 +7144,10 @@ tsuãⁿ	tsuann6
 Tsuãⁿ	Tsuann6
 tsuāⁿ	tsuann7
 Tsuāⁿ	Tsuann7
+tsuat	tsuat
+Tsuat	Tsuat
+tsua̍t	tsuat8
+Tsua̍t	Tsuat8
 tsue	tsue
 Tsue	Tsue
 tsúe	tsue2
