@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.09.22"
+version:	"2024.10.06"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -220,6 +220,7 @@ chím-thâu-lông	chim2 thau5 long5	4999
 chín-tãng	chin2 tang6	2000
 chîⁿ-tshang	chinn5 tshang	4999
 chĩn khó-lêng	chin6 kho2 leng5	2000
+eng-têng	eng teng5	600
 e̍k-pòu	ek8 pou3	4999
 guā-ke	gua7 ke	4999
 gu̍eh si̍h	gueh8 sih8	4999
@@ -280,9 +281,9 @@ huang-hiàng	huang hiang3	5000
 huang-hōu-tsam	huang hou7 tsam	1999
 huang-khîm	huang khim5	4999
 huang-lôu	huang lou5	4999
+huang-thai	huang thai	2000
 huang-thai	huang thai	4999
 huang-thiàⁿ	huang thiann3	1999
-huang-thâi	huang thai5	2000
 huang-tîn-po̍k-po̍k	huang tin5 pok8 pok8	600
 huat-hêng	huat heng5	2000
 huat-hīn	huat hin7	5000
@@ -327,6 +328,7 @@ hóng-phièn	hong2 phien3	600
 hô-lan-tsṳ̂	ho5 lan tsur5	99
 hô-lan-tāu	ho5 lan tau7	4999
 hôu-chhiu	hou5 chhiu	600
+hôu-chie	hou5 chie	600
 hôu-khî	hou5 khi5	4999
 hõu-lōu-kṳn-tiam	hou6 lou7 kurn tiam	600
 hù-thoh	hu3 thoh	4999
@@ -345,7 +347,6 @@ húe-tshâ	hue2 tsha5	1999
 húe-tsûn	hue2 tsun5	99
 húe-tsûn-kiáⁿ	hue2 tsun5 kiann2	99
 hún-chiáu	hun2 chiau2	4999
-hû-chie	hu5 chie	2000
 hû-sueh	hu5 sueh	2000
 hû-thông	hu5 thong5	600
 hû-thû	hu5 thu5	2000
@@ -628,7 +629,7 @@ kài-lua̍h	kai3 luah8	2000
 kài-lua̍h	kai3 luah8	4999
 kàn-põu	kan3 pou6	1200
 kàu	kau3	4999
-kàu liàu	kau3 liau3	5000
+kàu liòu	kau3 liou3	5000
 kàu-tói	kau3 toi2	2000
 ká-thiàⁿ	ka2 thiann3	4999
 kám-siā	kam2 sia7	4999
@@ -684,10 +685,10 @@ lia̍h	liah8	4999
 lia̍h-tuã	liah8 tua6	4999
 lim	lim	1999
 liáu-kòi	liau2 koi3	2000
-liáu-tuãn	liau2 tuan6	2000
 liâm-liâm	liam5 liam5	600
 liâu-mō	liau5 mo7	600
 liên-hĩ	lien5 hi6	2000
+lióu-tuãn	liou2 tuan6	2000
 liú	liu2	4999
 liú-phāng	liu2 phang7	4999
 liû	liu5	4999
@@ -793,6 +794,7 @@ má-tsóu	ma2 tsou2	4000
 mán-kiù	man2 kiu3	2000
 mán-liên	man2 lien5	1200
 mán-mīn	man2 min7	2000
+máⁿ-tsóu	mann2 tsou2	600
 méhⁿ	mehnn2	4999
 méⁿ	menn2	4999
 mêng-khí	meng5 khi2	4999
@@ -848,8 +850,8 @@ ngân-thiⁿ-sî	ngan5 thinn si5	1200
 ngêng-kù	ngeng5 ku3	2000
 ngóiⁿ-pêⁿ	ngoinn2 penn5	600
 ngóu-chheⁿ	ngou2 chhenn	1999
-ngóu-kak	ngou2 kak	600
 ngóu-kok	ngou2 kok	600
+ngõu-kak	ngou6 kak	600
 ngõu-khou	ngou6 khou	1999
 ngĩ-thóng	ngi6 thong2	600
 ngṳt-kiaⁿ	ngurt kiann	600
@@ -1040,6 +1042,7 @@ pòu-lōu	pou3 lou7	4999
 pòu-phit	pou3 phit	2000
 pòu-phit	pou3 phit	4999
 pòu-tì	pou3 ti3	5000
+pó-hō	po2 ho7	5000
 pó-hũ	po2 hu6	5000
 pó-ke	po2 ke	99
 pó-ke-jī	po2 ke ji7	99
@@ -1056,8 +1059,8 @@ pû	pu5	1999
 pû-hia	pu5 hia	1999
 pû-lok-lok	pu5 lok lok	600
 pēⁿ-zú	penn7 zu2	2000
-pĩ-kàu	pi6 kau3	5000
 pĩ-kò	pi6 ko3	4999
+pĩ-kò	pi6 ko3	5000
 pĩⁿ piⁿ	pinn6 pinn	600
 pńg-chîⁿ	png2 chinn5	4999
 pńg-hūn	png2 hun7	4999
@@ -1101,6 +1104,7 @@ si-ūi-sù-tshan	si ui7 su3 tshan	70
 siah-po̍h	siah poh8	4999
 siang-khiok	siang khiok	2000
 siang-tshong	siang tshong	2000
+siang-tâng	siang tang5	5000
 siang-téng	siang teng2	5000
 siau	siau	4999
 sia̍h-kuãn	siah8 kuan6	2000
@@ -1355,7 +1359,7 @@ tie̍h	tieh8	4999
 tie̍h-sua	tieh8 sua	1999
 tih-kiáⁿ	tih kiann2	4999
 tin-pâi	tin pai5	4999
-tin-tó	tin to2	600
+tin-tò	tin to3	600
 tiàu-kue	tiau3 kue	4999
 tiàu-teng	tiau3 teng	2000
 tiám-báu	tiam2 bau2	1999
@@ -1543,12 +1547,13 @@ tuà-hà	tua3 ha3	4999
 tuã	tua6	4999
 tuãn-tso̍h	tuan6 tsoh8	600
 tuãⁿ	tuann6	4999
+tuā--nâng	tua7 nang5	5000
 tuā-chhèng	tua7 chheng3	1999
 tuā-chi̍h	tua7 chih8	4999
 tuā-húe	tua7 hue2	99
 tuā-ke	tua7 ke	4999
 tuā-ke-kuaⁿ	tua7 ke kuann	4999
-tuā-nâng	tua7 nang5	5000
+tuā-kuaⁿ	tua7 kuann	5000
 tuā-thâu-ló	tua7 thau5 lo2	4999
 tuā-tshái-hù	tua7 tshai2 hu3	99
 tuā-tshâ	tua7 tsha5	4999
@@ -1569,6 +1574,7 @@ tâng-po̍h	tang5 poh8	4999
 tâng-tsóiⁿ	tang5 tsoinn2	1999
 tâu	tau5	4999
 tãi-ieh	tai6 ieh	5000
+tãi-jîn	tai6 jin5	5000
 tãi-kong	tai6 kong	1999
 tãm-po̍h	tam6 poh8	600
 tãng-lāi	tang6 lai7	4999
@@ -1709,7 +1715,7 @@ zṳ̂	zur5	4999
 ńg	ng2	4999
 ũ a-bô	u6 a bo5	4999
 ṳ iũ-jĩm	ur iu6 jim6	70
-ṳ̂-siàu	ur5 siau3	5000
+ṳ̂-siòu	ur5 siou3	5000
 ṳ̃	ur6	4999
 ẽ-hâi	e6 hai5	4999
 ẽ-ji̍t	e6 jit8	4999

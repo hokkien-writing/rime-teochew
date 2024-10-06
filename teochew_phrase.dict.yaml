@@ -6,13 +6,15 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.09.22"
+version:	"2024.10.06"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
 㦙	nga3	5000
+㨨旗	liu7 ki5	2000
 㩼	tsoi7	5000
 㪗	thau2	5000
+㪗氣	thau2 khui3	2000
 㴷	tam5	5000
 㽱痛	ka2 thiann3	5000
 㾪	san2	5000
@@ -21,44 +23,98 @@ use_preset_vocabulary:	false
 㿗	thue5	5000
 䘼	ng2	5000
 䛩	a3	5000
+䨀米	tiah8 bi2	2000
 䭄	chi3	1600
 䭕	chiann2	5000
 䶕牙	ba3 ge5	2000
+一㮣	chek8 khai3	2000
+一付	chek8 hu3	2000
+一儎	chek8 tsai7	2000
+一分鐘	chek8 hun cheng	2000
+一刻鐘	chek8 khek cheng	2000
+一堆	chek8 tun	2000
+一好	it ho2	2000
+一對	chek8 tui3	2000
 一尾魚	chek8 bue2 hur5	5000
+一帖	chek8 thiap	2000
+一弓	chek8 siu7	2000
+一把	chek8 pe2	2000
+一把花	chek8 pe2 hue	2000
 一撮	chek8 tshoh	600
 一擔	chek8 tann3	600
+一收	chek8 siu	2000
 一斗酒	chek8 tau2 chiu2	600
 一旦	chek8 tan3	5000
 一朶	chek8 to5	600
+一枝	chek8 ki	2000
+一條	chek tiou5	2000
+一疋	chek8 phit	2000
+一起	tso3 pu5	2000
 一間	chek8 koinn	3000
 一隻鳥	chek8 chiah chiau2	5000
+一雙	chek8 sang	2000
+一頃囝	chek8 khun3 kiann2	2000
+一點	chek8 tiam2	2000
 一齣戲	chek8 tshut hi3	5000
 一𢯰花	chek8 tenn6 hue	600
+丁香	teng hienn	2000
 丈人	tienn6 nang5	5000
-丈夫	ta pou	5000
+丈儂	tienn6 nang5	2000
+丈地	chiang7 ti7	2000
+丈夫	ta pou	2000
 丈夫囝	ta pou kiann2	5000
+丈姆婆	tienn6 m2 phua5	2000
 丈母	tienn6 m2	5000
 丈母	tienn6 m2	600
 丈母婆	tienn6 m2 phua5	5000
 三成	sann siann5	3000
+三更	sann kenn	2000
 三更半暝	sann kenn puann3 menn5	5000
-上好	siang6 ho2	5000
+三月	sann gueh8	2000
+三牲	sann senn	2000
+三角	sann kak	2000
+三里	sann li2	2000
+上午	chienn7 kua3	2000
+上大	siang6 tua7	2000
+上好	siang6 ho2	2000
+上帝	siang6 ti3	2000
 上數	chienn6 siau3	5000
+上數	chienn6 siou3	2000
 上旰	chienn7 kua3	2000
 上旰	e6 kua3	5000
+上目	chienn6 mak8	2000
 下	ke6	5000
-下日	e6 jit8	5000
+下下	e7 e7	2000
+下日	e6 jit8	2000
+下旰	e6 kua3	2000
+下水	e6 tsui2	2000
+下貨	he6 hue3	2000
 下逝	e6 tsua7	5000
-下頦	e6 hai5	5000
+下頦	e6 hai5	2000
 不	m6	5000
 不勞而獲	put lau5 zur5 uak8	5000
+不好	m6 monn2	2000
+不好錢	m6 monn2 chinn5	2000
+不孝	put hau3	2000
+不止	put chi2	2000
 不知人	m7 tsai nang5	5000
+不能	put leng5	2000
+不論	put lun6	2000
+不過	put kue3	2000
 世情	si3 chheng5	5000
-世間	si3 kan	5000
+世間	si3 kan	2000
 並且	peng6 chhia2	5000
 並立	peng6 lip8	5000
+中今	tong kim	2000
+中保	tong po2	2000
+中午	tong ngou2	2000
+中國	tong kok	2000
+中心	tong sim	2000
+中舉人	teng3 kur jin5	2000
 中間	tong kan	5000
 丰采	hong tshai2	2000
+主意	tsu2 i3	2000
+久久	ku2 ku2	2000
 乏	hek8	5000
 乘	sen5	5000
 乘機	seng6 ki	600
@@ -66,28 +122,47 @@ use_preset_vocabulary:	false
 乜儂	mih nang5	5000
 乜其	mih kai5	10000
 乞	khurh	5000
-乞食	khurt chiah8	5000
+乞食	khurt chiah8	2000
+乳母	zu2 bo2	2000
 乾坤	khien5 khun	600
 乾杯	kan pue	5000
 乾灱	kan ta	5000
 亂做	theng3 tso3	600
-了斷	liau2 tuan6	2000
+亂呾	theng3 tann3	2000
+了斷	liou2 tuan6	2000
+事㩼	sur7 tsoi7	2000
+事業	sur7 ngiap8	2000
+事理	sur6 li2	2000
 事誌	tai7 chi3	2000
-二伙	ji7 hue2	100
-二手	ji7 chhiu2	100
+二伙	ji7 hue2	2000
+二儂	ji7 nang5	2000
+二家	ji7 ke	2000
+二手	ji7 chhiu2	2000
+二斤半	nonn6 kurn puann3	2000
+二更	ji7 kenn	2000
+二月	ji7 gueh8	2000
 于右任	ur iu6 jim6	70
-五穀	ngou2 kak	600
+五更	ngou6 kenn	2000
 五穀	ngou2 kok	600
+五穀	ngou6 kak	600
 五箍	ngou6 khou	2000
+五經	ngou2 kiann	2000
 井欄	chenn2 nuann5	600
+些須囝	se su kiann2	2000
 亞伯拉罕	a pek lah8 han2	70
-亞是	a si6	5000
+亞是	a si6	2000
+亞無	a bo5	2000
 交代	kau tai3	2000
+交戰	kau chien3	2000
 交挿	kau tshap	5000
-交掛	kau kua3	5000
+交掛	kau kua3	2000
+交插	kau tshap	2000
 交插	kau tshap	4000
-交椅	kau inn2	5000
+交椅	kau inn2	2000
+交落	ka lauh8	2000
+交關的儂	kau kuan kai5 nang5	2000
 亦	ia7	5000
+京城	kiann siann5	2000
 人事	nang5 sur7	4000
 人云亦云	nang5 un5 ek8 un5	600
 人參	jin5 siam	600
@@ -95,231 +170,471 @@ use_preset_vocabulary:	false
 人家	nang5 ke	5000
 人情	nang5 chheng5	4000
 人情	nang5 chhiann5	4000
+什物	tsap8 mueh8	2000
+什貨	tsap8 hue3	2000
+仁慈	jin5 tshur5	2000
+仇儂	chhiu5 nang5	2000
 今	tann	5000
-今旦日	kiann2 jit8	5000
+今夜	ke menn5	2000
+今旦日	kiann2 jit8	2000
 今暝	ke menn5	5000
 今朝	kim chiau	2000
+仔細	tsur2 soi3	2000
 付托	hu3 thoh	5000
 仙丹	sien tan	2000
-仙瑚	sien hu5	5000
+仙瑚	sien hu5	2000
 代理	thoi3 li2	5000
 代職	thoih cheh	600
+仿似	huang2 sur6	2000
 企	khia6	4000
 伊	i	10000
 伊儂	i nang5	10000
 伍星	ngou2 chhenn	2000
-伙長	hue2 tienn2	100
+伍牲	ngou2 senn	2000
+伙長	hue2 tienn2	2000
 伙頭	hue2 thau5	2000
 伙食	hue2 chiah8	2000
-伙食房	hue2 sit8 pang5	100
+伙食房	hue2 sit8 pang5	2000
+估價	kou2 ke3	2000
+伶俐	leng5 lai7	2000
 佈置	pou3 ti3	5000
 佔領	chiam3 niann2	2000
+佚佗	thit tho5	2000
+佚佗物	thit tho5 mueh8	2000
+佛家	hut8 ka3	2000
 佛經	hut8 keng	2000
 作工	tsoh kang	5000
+作灰工	tsoh hue kang	2000
+作田儂	tsoh tshan5 nang5	2000
 佝腰	ku ie	5000
 佣金	iong5 kim	2000
 佮	kah	10000
 使	sai2	5000
+使牛	sai2 gu5	2000
+使用	sai2 eng7	2000
 使襭	sai2 soih	600
 使費	so2 hui3	5000
 使錢	sai2 chinn5	5000
-來往	lai5 uang2	100
+來往	lai5 uang2	2000
 來銀	lai2 ngurn5	2000
+來銀	lai5 ngurn5	2000
 依原	i nguan5	2000
+侯粟	kau6 lak8	2000
+侯蠅屎痣	hou5 sin5 sai2 ki3	2000
 便	phinn	5000
 便利	pien6 li6	5000
-保家	po2 ke	100
-保家字	po2 ke ji7	100
-保家館	po2 ke kuan2	100
+俗語	sok8 gur2	2000
+保佑	po2 iu6	2000
+保家	po2 ke	2000
+保家字	po2 ke ji7	2000
+保家館	po2 ke kuan2	2000
+保護	po2 ho7	5000
 保護	po2 hu6	5000
 保領	po2 niann2	2000
 信念	sin3 liam6	5000
 信皮	sin3 phue5	2000
-信關	sin3 kuan	100
+信關	sin3 kuan	2000
+修心	siu sim	2000
+修拾	siu sip8	2000
+修理	sur6 li2	2000
+俸祿	hong2 lok8	2000
 俺	nan2	10000
 倉庫	tshng khou3	2000
 倉皇	tshang huang5	600
 倒不如	tau3 put zu5	600
+倒手	to3 chhiu2	2000
 倒換	tau2 uann7	5000
+倒桌櫃	tau2 toh kuinn7	2000
+倒油	to3 iu5	2000
 倒茶	to3 te5	600
 倒誻	to3 tah8	5000
-倒賬	to2 tienn3	5000
+倒賬	to2 tienn3	2000
+倒酒	to3 chiu2	2000
+倒錢行	tau2 chinn hang5	2000
 倖存	heng6 tshun5	2000
 借勢	chieh si3	5000
 借用	chieh eng7	5000
+値錢	tat8 chinn5	2000
+假印	ke2 in3	2000
 假如	kia2 zu5	5000
+假手筆	ke2 chhiu2 pit	2000
+假毋知	tenn3 m6 tsai	2000
 偏枯	phian kou	5000
 做七	tso3 chhit	5000
-做上盤	tso3 chienn7 puann5	100
+做上盤	tso3 chienn7 puann5	2000
+做公親	tso3 kong chhin	2000
+做合同	tso3 hap8 tang5	2000
 做堆	tso3 pu5	600
 做成	tso3 chiann5	600
+做書	tso3 tsur	2000
+做桌	tso3 toh	2000
 做生日	tso3 senn jit8	5000
-做節	tso3 tsoih	5000
+做節	tso3 tsoih	2000
 做腳手	tso3 kha chhiu2	4000
+做衫褲	tso3 sann khou3	2000
+做親	tso3 chhin	2000
+做賊	tso3 tshat8	2000
+做頭	tso3 thau5	2000
+做飽戲	tso3 pa2 hi3	2000
 做骹手	tso3 kha chhiu2	5000
 健	kiann7	5000
 偪側	pek chhek	5000
+偶然	ngou2 jien5	2000
+偷使錢	thau sai2 chinn5	2000
+偷挈	thau khieh8	2000
+偷睇	thau thoinn2	2000
+偷睒	thau iam2	2000
 傢俬	ke si	2000
-催迫	tshui pek	5000
+催迫	tshui pek	2000
 傭人	iong5 nang5	600
 傳授	thuan5 siu6	2000
-債主	che3 tsu2	5000
-傷痕	sienn hun5	5000
-傷風	sienn huang	5000
+傳道理	thuan5 to6 li2	2000
+傳道理的儂	thuan5 to6 li2 kai5 nang5	2000
+債主	che3 tsu2	2000
+傷儂	sienn nang5	2000
+傷口	sienn khau2	2000
+傷痕	sienn hun5	2000
+傷着	sienn tieh8	2000
+傷風	sienn huang	2000
+傾掉	to3 tiou3	2000
 僥倖	hiau heng6	2000
+僥心	hiou sim	2000
 僵硬	kiang ngenn6	600
-價錢	ke3 chinn5	5000
+價錢	ke3 chinn5	2000
 儂事	nang5 sur7	5000
 儂公囝	nang5 kong kiann2	5000
 儂囝	nang5 kiann2	5000
+儂客	nang5 kheh	2000
 儂客	nang5 kheh	4000
+儂情	nang5 chheng5	2000
 儂情	nang5 chheng5	5000
 儂情	nang5 chhiann5	5000
 儘可能	chin6 kho2 leng5	2000
+元帥	nguan5 sue3	2000
 兄台	hiann thai5	600
+兄弟	hiann ti6	2000
+兄弟囝	hiann ti6 kiann2	2000
+充公	tshong kong	2000
+充軍	tshong kun	2000
 兇手	hiong chhiu2	2000
-先生	sin senn	5000
+先生	sin senn	2000
+先祖	soinn tsou2	2000
 光	kng	5000
 光通	kng thang3	2000
 克服	khiok hok8	5000
 免	min2	5000
-入口貨	jip8 khau2 hue3	5000
+免強	mien2 kiang2	2000
+入來	jip8 lai2	2000
+入口貨	jip8 khau2 hue3	2000
+入呈	jip8 tiann5	2000
+入奉教	tshap hong5 ka3	2000
+入教	jip8 ka3	2000
+入會	jip8 hue6	2000
+入禀	jip8 pin2	2000
+入秀才	jip8 siu3 tsai5	2000
 內	lai6	10000
+內地	lai6 ti	2000
+內孫	lai6 sun	2000
+內走孫	lai6 tsau2 sun	2000
+全愈	tshuan5 zu2	2000
+全權	tshuan5 khuan5	2000
+兩個	nonn6 kai5	2000
+兩箍半	nonn6 khou puann3	2000
+公主	kong tsu2	2000
+公事	kong sur7	2000
 公升	kong seng	5000
-公親	kong chhin	5000
+公司	kong si	2000
+公司山	kong si suann	2000
+公眾	kong cheng3	2000
+公親	kong chhin	2000
+公道	kong tau6	2000
+公道	kong tau7	2000
 公里	kong li2	2000
+六斤四	lak8 kurn si	2000
+六部	lak8 pou6	2000
 共	kang7	5000
+其實	khi2 sit8	2000
 典	toinn2	2000
-典主	toinn2 tsu2	100
-典契	toinn2 khoi3	100
+典主	toinn2 tsu2	2000
+典契	toinn2 khoi3	2000
 冇	phann3	5000
+冇柴	phann3 tsha5	2000
 冊架	chheh ke3	2000
 冊橱	chheh tu5	2000
 冊皮	chheh phue5	2000
 冊魚	chheh hur5	100
+册架	chheh ke3	2000
+册櫥	chheh tu5	2000
+册皮	chheh phue5	2000
+册魚	chheh hur5	2000
+冤仇	uan chhiu5	2000
+冤家	uan ke	2000
 冤家	uan ke	5000
 冤屈	uang khuk	5000
+冬瓜	tang kue	2000
+冬瓜露	tang kue lou7	2000
+冬至	tang chi3	2000
+冰糖	piann thng5	2000
+冰霜	piann sng	2000
+凄凉	chhi liang5	2000
 准許	tsun2 hur2	1200
 凊	chhin3	5000
+凊彩	chhin3 tshai2	2000
+凜凜	lim2 lim2	2000
 凝	ngan5	5000
+凝凍	kurn5 tang3	2000
 凝固	ngeng5 ku3	2000
 凝天時	ngan5 thinn si5	1200
 凶惡	hiong ak	1200
 出	thou2 tshut	600
-出口貨	tshut khau2 hue3	5000
-出外儂	tshut gua7 nang5	5000
+出力	tshut lat8	2000
+出去	tshut khur3	2000
+出口貨	tshut khau2 hue3	2000
+出名	tshut miann5	2000
+出外儂	tshut gua7 nang5	2000
 出字白	tshut ji7 peh8	2000
+出所費	tshut so2 hui3	2000
 出珠	tshut tsu	2000
 出痘	tshut tau7	2000
-刀壳	to khah	5000
+出票	tshut phie3	2000
+出簽	tshut chhiam	2000
+出貨	tshut hue3	2000
+刀囝	to kiann2	2000
+刀壳	to khah	2000
+刀架	to ke3	2000
+刀肉	to nek8	2000
 刁厥	tiau khiak	5000
 刁蹬	tiau tun3	2000
+刁鑽	tiou6 tsuan	2000
 分	pun	10000
 分別	hun piet8	5000
+分我睇	pun ua2 thoinn2	2000
+分明	hun meng5	2000
+分開	pun khui	2000
+切切	chhiet chhiet	2000
 切要	chhiet iau3	5000
+切要	chhiet iou3	2000
 划算	hua5 sng3	2000
+初一	chhiu it	2000
+初三	chhiu sann	2000
 初九	chhiu kau2	2000
+初二	chhiu ji7	2000
+初頭下	tsho thau5 e7	2000
 刣	thai5	5000
+刣儂	thai5 nang5	2000
+刣牛	thai5 gu5	2000
+刣羸	thai5 iann5	2000
+刣豬	thai5 tur	2000
+刣輸	thai5 su	2000
 別	pat	5000
 別人	pak nang5	4000
 利	lai7	5000
-利錢	lai7 chinn5	5000
-到了	kau3 liau3	5000
+利錢	lai7 chinn5	2000
+到了	kau3 liou3	5000
+到儎	kau3 tsai7	2000
 到底	kau3 toi2	2000
 制度	chi3 tou7	5000
 刷	chhiu3	5000
+刷灰水	sueh hue tsui2	2000
+刺売	chhi5 khak	2000
 刺字	chhiah ji7	600
+刺花	chhiah hue	2000
+刺藍帕	chhi3 nann3 phe3	2000
+刻苦	kat khou2	2000
+刻苦	khat khou2	2000
 剁	tok	5000
 剁脞	tok tsho7	5000
 剁莝	tok tsho7	4000
-剃刀	thi3 to	5000
-剃頭	thi3 thau5	5000
+剃刀	thi3 to	2000
+剃頭	thi3 thau5	2000
+剃頭囝	thi3 thau5 kiann2	2000
+剃鬚	khoi chhiu	2000
+則咧	chek li7	2000
 剋扣	khiok khau3	2000
+剌空	tshng3 khang	2000
 前仆後繼	tsoinn5 phok au6 ki3	600
-前齒	tsoinn5 khi2	5000
+前後	tsoinn5 au6	2000
+前齒	tsoinn5 khi2	2000
 剛才	kang tshai5	5000
+剝皮	pak phue5	2000
+剝糕粿	pak ko kue2	2000
 剩餘	sin7 ur5	5000
 剪綵	chien3 tshai2	2000
 割	kuah	5000
 割工錢	kuah kang chinn	2000
+割牛肉	kuah gu5 bah	2000
+割豬肉	kuah tur bah	2000
+創營	tshang3 iann5	2000
+創過	tshang3 kue3	2000
+劃花號	ueh8 hue ho7	2000
+劃襊	ueh8 tsue7	2000
+劈頭	phoh thau5	2000
 力	lat8	5000
+功恩	kong urn	2000
 加	ke	5000
+勉強	mien2 kiang2	2000
+勒索	lek8 sok	2000
 動角	tong6 kak	2000
+勞汝	lau5 lur2	2000
 勞累	lau5 lui6	5000
-勢頭	si3 thau5	5000
+勢頭	si3 thau5	2000
 勤	lat8	4000
 勥	khiang3	5000
+勸戒	khng3 koi3	2000
 勿	mainn3	5000
+勿亂食	mainn3 theng3 chiah8	2000
+勿哭	mainn3 khau3	2000
+勿笑	mainn3 chhie3	2000
 包紮	pau tsak	600
+包裹	pan ko2	2000
+包裹	pau ko2	2000
+包領	pau niann2	2000
 匏	pu5	2000
 匏桸	pu5 hia	2000
 匟床	khang3 tshng5	1600
 匯款	hue6 khuan2	2000
 匹配	phit phue3	5000
+十一	tsap2 it	2000
+十二	tsap8 ji7	2000
+十字架	tsap8 ji7 ke3	2000
+十戒	tsap8 kai3	2000
 千克	tshoinn khiok	5000
 千萬	tshoinn buan7	5000
 千里鏡	tshoinn li2 kiann3	2000
+升旗	seng ki5	2000
 升級	seng khip	5000
+半夜	puann3 menn5	2000
+半天	puann3 thinn	2000
 半徑	puann3 kenn3	600
 半暝	puann3 menn5	5000
+半燒	la7 lun5 sie	2000
+卑麻油	pi muann5 iu5	2000
 卜卦	pok khue3	600
 占卜	chiam pok	600
+占過	chiam3 kue3	2000
+印板	in3 poinn2	2000
+印色	in3 sek	2000
 危	kuinn5	5000
+危皮	ngui5 phue5	2000
 卵	nng6	5000
-卵仁	nng6 jin5	5000
+卵仁	nng6 jin5	2000
 卵核	lan7 hut8	5000
-卵淸	nng6 chheng	5000
-卵脬	lan7 pha	5000
+卵淸	nng6 chheng	2000
+卵脬	lan7 pha	2000
+厘秤	li5 chhin3	2000
+厚劃	kau7 ueh8	2000
 厚栗	kau6 lak8	5000
 厝	tshu3	5000
-厝主	tshu3 tsu2	5000
-厝稅	tshu sue3	5000
+厝主	tshu3 tsu2	2000
+厝囝	tshu3 kiann2	2000
+厝圖	tshu3 tou5	2000
+厝局	tshu3 kek8	2000
+厝瓦	tshu3 hia6	2000
+厝稅	tshu sue3	2000
 厝邊	tsh3 pinn	5000
 厝邊	tshu3 pinn	1200
-厝頂	tshu3 teng2	5000
+厝頂	tshu3 teng2	2000
+原價	nguan5 ke3	2000
+原告	nguan5 ko3	2000
+原根	nguan5 kurn	2000
+厠池	chhe3 kng	2000
+厲害	li6 hai7	2000
+去厝	khur3 tshu3	2000
+去哪	khur3 no7	2000
+去職	khur3 cheh	2000
 參差	tsham chhi	600
 參與	tsham ur2	5000
+參詳	tsham siang5	2000
 反常	huan2 siang5	5000
 反覆	huan2 hok8	4000
+反轉	huan2 tng2	2000
 取捨	tshu2 sia3	5000
-受賄	siu6 iu6	5000
+受苦	siu6 khou2	2000
+受賄	siu6 iu6	2000
+叛反	puan6 huan2	2000
+叛逆	puan6 ngek8	2000
 口㼦	khou2 kong2	2000
+口供	khau2 keng	2000
 古事	kou2 sur7	2000
 古代	kou2 to7	1200
 古傳	kou2 tng7	2000
 古傳	kou2 tng7	600
+古儂	kou2 nang2	2000
+古怪	ku kuai3	2000
+古昔	kou2 tsa2	2000
 只是	chi2 si6	5000
 叮噹	teng tang	600
+可惜	kho2 sieh	2000
 可惡	kho2 u3	2000
-司阜	sai pe6	5000
+可憐	kho2 lien5	2000
+可比	kho2 pi2	2000
+可痛	kho2 thiann3	2000
+司公	sai kong	2000
+司阜	sai pe6	2000
 吃吃叫	khurh khurh kie3	600
 吃驚	ngurt kiann	600
+各儂	kak nang5	2000
+各樣	koh ienn7	2000
 合併	hah8 peng6	5000
 合卺	hah8 kng2	600
+合同	hap8 tang5	2000
+合摩	hah8 bua5	2000
+合約	hap8 ieh	2000
+合約	hap8 tang2	2000
+吊桶	tiou3 thang2	2000
 吊燈	tiau3 teng	2000
 吊瓜	tiau3 kue	5000
+吊瓜	tiou3 kue	2000
+吊頷	tiou3 am3	2000
+吊頷	tiou3 am6	2000
+同字劃	tang2 ji7 ueh8	2000
 同門	tang5 mng5	5000
+名聲	miann5 siann	2000
 名色	miann sek	5000
 名頭	miann thau5	5000
 吐瀉	thou3 sia3	2000
+君子	kun tsur2	2000
 吞嚥	thun ien3	600
+吞落去	kur6 loh8 khur3	2000
+吟詩	ngim5 si	2000
+呂宋票	lur6 song2 pie	2000
+呂宋薰	lur6 song3 hun	2000
 呈文	tiann5 bun5	600
 呈現	thiann5 hin7	2000
 告勞	koh lo5	2000
+告示	ko3 si7	2000
+告贏	ko3 iann5	2000
+告輸	ko3 su	2000
+告量	kau3 nienn5	2000
 呌	kie3	5000
 呢	ninn5	5000
 呢喃	ni5lam5	600
 周遊	chiu iu5	1200
 味素	bi7 sou7	5000
-呵欠	huah hi3	5000
+味道	bi7 sou7	2000
+呵咾	o lo2	2000
+呵欠	huah hi3	2000
 呼籲	hu zu6	2000
 呾	tann3	5000
+呾大話	tann3 tua7 ue7	2000
+呾無	tann3 bo5	2000
+呾知	tann3 tsai	2000
+呾耍	tann3 sng2	2000
 咄	tuah	5000
+和尙	hue5 sienn3	2000
+和約	hua5 ieh	2000
+和黎郞	kha3 loi7 long	2000
+咒誓	chiu3 chua7	2000
+咒誓	chiu3 tshua7	2000
+咖喱	ka li5	2000
 咖喱	ka li5	5000
+咖喱末	ka li5 buah8	2000
 咩咩叫	meh meh kie3	600
-咬嗽	ka sau3	5000
+咬嗽	ka sau3	2000
 咱	nan2	10000
+咳咳叫	ka7 ka7 kie3	2000
 咽喉	in au5	600
+哀啊	ai7 a 7	2000
 品嘗	pin2 sienn5	2000
 品嚐	pin2 sienn5	2000
 哄堂大笑	hong thang5 tua7 chhie3	600
@@ -329,134 +644,327 @@ use_preset_vocabulary:	false
 哺育	pu6 iok8	600
 哽咽	kenn2 it	600
 唐人	tng5 nang5	100
+唐山	tng5 suann	2000
 唔是	m6 si6	10000
 唚	chim	5000
 唱和	chhiang3 hua5	600
 唱歌	chhie3 kua	5000
 唸經	liam7 keng	2000
+商量	kau3 nienn5	2000
 啉	lim	2000
+問候	mng7 hau7	2000
 啞	e2	5000
 啟蒙	khi2 mong5	2000
-喉嚨	au5 leng3	5000
+喉嚨	au5 leng3	2000
 喊	ham3	5000
+喘氣	huann5	2000
 喙	tshui3	5000
 喙唇皮	tshui3 lim5 phue5	5000
+喙臨皮	tshui3 lim5 phue5	2000
+喫草	khoi3 tshau2	2000
 單丁	tuann teng	5000
 單于	sien5 u	70
+單儂	tuann nang5	2000
 單獨	tuann tok8	5000
+單重	tuann teng5	2000
 嗎啡	ma2 hui	70
 嗜	chi3	1280
+嗡嗡叫	ng ng kie3	2000
+嘀嗒	ti ta5	2000
+嘆氣	thau2 khui3	2000
 嘔噦	au2 ueh	5000
+嘔穢	au2 ueh	2000
 嘗試	siang5 chhi3	1200
 嘶	soi	2000
+器具	khi3 ku6	2000
+嚇一下叫	hehnn che7 kie3	2000
 嚮往	hiang3 uang2	2000
 嚷	jiang2	5000
+四季	si3 khui3	2000
+四方	si3 pang	2000
 四方床	si3 pang tshng5	5000
+四更	si3 kenn	2000
+四肢	si3 chinn	2000
 四處	si3 tshu3	2000
 囝	kiann2	10000
+囝婿	kiann2 sai3	2000
+囝孫	kiann2 sun	2000
+回信	hue5 sin3	2000
+回家	hue5 ke	2000
+回批	hue5 phoi	2000
+回話	hue2 ue7	2000
+回話	hue5 ue7	2000
+回輪轉	hui lin3 tng2	2000
+回轉來	hui tng2 lai5	2000
 回頭	hue5 thau5	5000
+因架	in ke3	2000
+因爲	in ui5	2000
+囤貨房	tun hue3 pang5	2000
 囥	khng3	5000
 困	hek8	5000
 困難	khun3 lan5	5000
+圈套	khuan2 thau3	2000
+圈掉	khou tiou3	2000
+園籬	hng5 li5	2000
 圓周	inn5 chiu	1200
 圓床	inn5 tshng5	2000
 團結	thuan5 kat	5000
+土名	thou2 miann5	2000
+土話	thou2 ue7	2000
+土談	thou2 tham5	2000
 在	to6	10000
 在	tsai6	2000
-地界	ti7 kai3	5000
+在船	to6 tsun5	2000
+地圖	ti7 tou5	2000
+地獄	ti7 gek8	2000
+地理	ti7 li2	2000
+地界	ti7 kai3	2000
+地腳	ti7 kha	2000
 地腳	ti7 kha	4000
-地豆	ti7 tau7	5000
+地豆	ti7 tau7	2000
 地骹	ti7 kha	5000
 地點	ti7 tiam2	5000
+坐位	tso6 ui7	2000
+坐堂	tso6 tng5	2000
+坐酷久了	tso6 hoh ku2 lo7	2000
+坔塗	nam3 thou5	2000
 坦蕩	than2 tang6	2000
-垃圾	nah sap	5000
+垃圾	nah sap	2000
 垃圾相	nah sap sienn3	5000
 垢圿	kau2 koih	5000
-堪該	kham kai	5000
+城外	siann5 gua7	2000
+城門	siann5 mng5	2000
+基督	ki tok	2000
+堂兄弟	thang5 hiann ti6	2000
+堂姊妹	thang5 chi2 muenn7	2000
+堂孫婿	thang5 sun sai3	2000
+堪該	kham kai	2000
+報仇	po3 chhiu5	2000
 報知	po3 tsai	2000
-報餉單	po3 hiang3 tuann	5000
+報餉單	po3 hiang3 tuann	2000
 場面	tienn5 min7	5000
 塗	thou5	5000
 塗改	thu5 koi2	2000
+塗油	thou5 iu5	2000
+塗炭	thou5 thuann3	2000
+塗炭屎	thou2 thuann3 sai2	2000
+塗粉	thou2 hun2	2000
+塗粥	thou5 muenn5	2000
+塗糞	tou5 pun3	2000
 塗腳	thou5 kha	2000
 塗腳	thou5 kha	4000
+塗頭	thou5 thau5	2000
 塗骹	thou5 kha	5000
 塵埃	tin5 ai	2000
 墓誌銘	mo6 chi3 meng5	2000
-墨斗	bak8 tau2	5000
+墨斗	bak8 tau2	2000
+墨水	bak8 tsui2	2000
+墨水罐	bak8 tsui2 kuan3	2000
+墨硯	bak8 inn3	2000
 壓	jih8	2000
+壓棋	teh ki5	2000
+壓着	teh tieh8	2000
+壓重	teh tang6	2000
 壯	tsang3	5000
+夏至	he7 chi3	2000
+外公	gua7 kong	2000
+外國儂	gua7 kok nang5	2000
+外媽	gua7 mann2	2000
+外孫	gua7 sun	2000
 外家	gua7 ke	5000
+外甥	gua7 seng	2000
+外甥女	gua7 seng nng2	2000
+外走孫	gua7 tsau2 sun	2000
 夗	ut8	5000
 夜旰	menn5 kua3	2000
+夜昏	menn5 hng	2000
+夜昏囝	menn5 hng kiann2	2000
+夜賊	menn5 tshat8	2000
+夜間	menn5 kua3	2000
 夠	kau3	5000
+夢見	mang7 kinn3	2000
 夥伴	hue2 phuann6	2000
-大人	tua7 nang5	5000
-大伙	tua7 hue2	100
+夥計	hue2 ki3	2000
+大事	tua7 sur7	2000
+大人	tai6 jin5	5000
+大伙	tua7 hue2	2000
+大儂	tua7 nang5	5000
+大勞儂	tua7 lau5 nang5	2000
+大厝	tua7 tshu3	2000
+大姑	tua7 kou	2000
+大姨	tua7 i5	2000
+大學	tua7 oh8	2000
 大官	ta kuann	5000
 大官	ta kuann	600
+大官	tua7 kuann	5000
+大家	ta ke	2000
 大家	ta ke	5000
+大家	tai6 ke	2000
 大家	tua7 ke	5000
 大家官	ta ke kuann	5000
 大家官	tua7 ke kuann	5000
+大後日	tua7 au6 jit8	2000
 大後日	tua7 au6 jit8	5000
-大柴	tua7 tsha5	5000
+大柴	tua7 tsha5	2000
+大桶	tua7 thang2	2000
+大水	tua6 tsui2	2000
+大海	tua7 hai2	2000
+大石	tua7 chieh8	2000
 大約	tai6 ieh	5000
-大舌	tua7 chih8	5000
-大財副	tua7 tshai2 hu3	100
+大紅	tua7 ang5	2000
+大聲	tua7 siann	2000
+大舅	tua7 ku6	2000
+大舌	tua7 chih8	2000
+大菜	tua7 tshai3	2000
+大薯	tua7 tsur5	2000
+大財副	tua7 tshai2 hu3	2000
 大銃	tua7 chheng3	2000
+大門	tua7 mng5	2000
 大頭腦	tua7 thau5 lo2	5000
-大頷奎	tun7 am6 kui	5000
-天主教	thien tsu2 ka3	5000
+大頷奎	tun7 am6 kui	2000
+大風	tua7 huang	2000
+大黃	tua7 ng5	2000
+天下	thinn e6	2000
+天主	thien tsu2	2000
+天主教	thien tsu2 ka3	2000
+天光	thinn kng	2000
+天堂	thinn tng5	2000
 天壇	thinn tuann5	600
+天師	thinn sai3	2000
 天干地支	thinn kan ti7 chinn	2000
-天時	thinn si5	5000
+天平	thien pheng5	2000
+天文	thien bun5	2000
+天時	thinn si5	2000
+天時旱	thinn si2 uann6	2000
+天狗	thien kau2	2000
+天生	thien senn	2000
 太保	thai3 pau2	600
+太子	thai3 tsur2	2000
+太平	thai3 pheng5	2000
+太爺	thai3 ia5	2000
+太臣	tai6 chhin	2000
+夫人	hu jin5	2000
+失信	sit sin3	2000
+失手	phiu3 chhiu2	2000
 失節	sit chiet	600
+失約	sit ieh	2000
+失落	sit loh8	2000
+失足	tham7 phiu3	2000
 夸父	khua hu6	600
+夾布	khoih pou3	2000
+夾書册	kap tsur chheh	2000
+夾板	kap pan2	2000
+奇巧	khi5 kha2	2000
 奇巧物	khi5 kha2 mueh8	2000
 奇異	khi5 i6	2000
 奈	nainn6	5000
+奉教	hong5 ka3	2000
+奉養	hong6 iang2	2000
 奴僕	nou5 pok8	600
+奴才	nounn5 tshai5	2000
+奶母	ninn bo2	2000
 奸臣	kan chhin5	600
+好了	ho2 lo7	2000
+好價	ho2 ke3	2000
+好心	ho2 sim	2000
+好是是	ho2 si6 si6	2000
+好睇	ho2 thoinn2	2000
 好贃	ho2 than3	4000
+好赫的儂	haunn3 hehnn8 kai5 nang5	2000
+好趁	ho2 than3	2000
 好趁	ho2 than3	5000
+好過	ho2 kue3	2000
 如此	zu5 tshur2	5000
 妥當	tho2 tang3	5000
+妻舅	chhi ku6	2000
+姊妹囝	chi2 muenn7 kiann2	2000
+姐妹囝	che2 muenn7 kiann2	2000
+姑丈	kou tienn6	2000
 委託	ui2 thoh	2000
 姜子牙	kiang tsur2 ge5	600
+姦夫	kan hu	2000
+姦淫	kan im5	2000
+姨丈	i5 tienn6	2000
+姪女	tiet8 nng2	2000
 威風	ui hong	2000
+娶走	tshua7 tsau2	2000
+娶𡚸	tshua7 bou2	2000
+娼館	sau kuan2	2000
+媒儂	bue5 nang5	2000
 媽祖	ma2 tsou2	4000
+媽祖	mann2 tsou2	600
 嬭母	ni bo2	2000
 子丑寅卯	tsur2 thiu2 in5 bau2	600
-字號	ji7 ho7	5000
+孔夫子	khong2 hu tsur2	2000
+孔子	khong2 tsur2	2000
+孔雀	khong2 chhieh	2000
+字典	ji7 tien2	2000
+字板	ji7 poinn2	2000
+字母	ji7 bo2	2000
+字白	ji5 peh8	2000
+字號	ji7 ho7	2000
 存摺	tshun5 chih	2000
 孤老	kou2 lau2	5000
 孤老	ku lau2	5000
 孥囝	nounn kiann2	5000
+孥囝	nounn5 kiann2	2000
 孥囝款	nounn kiann2 khuan2	2000
+孫婦	sun pu6	2000
 孬	mo2	10000
 孵卵	pu7 nng6	600
+孵雞囝	pu7 koi kiann2	2000
+學古	oh8 kou2	2000
+學生	hak8 seng	2000
+學習	hak8 sip8	2000
+守寡	siu2 kua2	2000
 安心	uann sim	1200
+安慰	uann ue3	2000
+安更	an kenn	2000
 安步當車	an pou7 tng3 chhia	70
+完糧	uan5 nienn5	2000
+官印	kuann in3	2000
 官差	kuann chhe	600
-定着	tiann7 tieh8	5000
+官府	kuann hu2	2000
+官服	kuann hok8	2000
+官正	kuann chiann3	2000
+官衣	kuann i	2000
+官銜	kuann ham	2000
+定着	tiann7 tieh8	2000
 定罪	tiann6 tsue6	5000
+定罪	tiann7 tsue6	2000
 定銀	tiann7 ngurn5	2000
-客商	kheh siang	5000
-客店	kheh tiam3	100
+客商	kheh siang	2000
+客店	kheh tiam3	2000
 宣佈	suan pu3	4000
 宮殿	keng toinn7	600
+宰相	tsai2 siang3	2000
+害了	hai7 lo7	2000
+家主	ke tsu2	2000
+家事	ke sur7	2000
+家伙	ke hue2	2000
 家信	ke sin3	5000
+家內	ke lai6	2000
+家奴	ke nounn	2000
 家己	ka ki7	4000
 家己	ka ki7	5000
 家己儂	ka ki7 nang5	5000
-家私	ke si	5000
+家業	ke ngiap8	2000
+家神	ke sin2	2000
+家私	ke si	2000
+家資	ke tsur	2000
 家長	ke tienn2	2000
 家長	ke tienn2	600
+容訴	iong5 su3	2000
 寃家	uan ke	4000
+寄出買	kia3 khur3 boi2	2000
 寒暑針	han5 su2 tsam	2000
+寒着	kuann5 tieh8	2000
 寒着	kuann5 tieh8	5000
+寒藥	kuann5 ieh8	2000
+寡婦	kua2 hu6	2000
+實心	sit8 sim	2000
+實意	sit8 i3	2000
+審問	sim2 mng7	2000
 寫字床	sia2 ji7 tshng5	2000
 寫字檯	sia2 ji7 thai5	2000
 寬埕	khuann tiann5	5000
@@ -465,102 +973,195 @@ use_preset_vocabulary:	false
 寶藏	po2 tsang6	600
 寸尺	tshun3 chhieh	5000
 寸進	tshun3 chin3	5000
+封皮	huang phue5	2000
+封筒	huang tang5	2000
+射箭	sia6 chinn5	2000
+將來	chiang lai5	2000
+將軍	chiang3 kun	2000
+專心	tsuan sim	2000
+尊貴	tsun kui	2000
 對單	tui3 tuann	2000
+對敵	tui3 tek8	2000
+對聯	tui3 lien5	2000
+對面	tui3 min7	2000
+對頭	tui3 thau5	2000
 小丑	siau2 thiu2	600
+小可	sie2 khua2	2000
+小可事	sie2 khua2 sur7	2000
+小帽	sie2 bo7	2000
 小影	siau2 iann2	2000
+小影	siou2 iann2	2000
 小郎	sie2 nng5	100
 少	chie2	5000
+少年	siou3 ninn5	2000
+少有	chie2 u6	2000
 少禮	siau2 li2	5000
+少禮	siou2 li2	2000
+尙且	siang6 chhiann2	2000
 尪囝	ang kiann2	2000
+就是	chiu6 si6	2000
 尸位素餐	si ui7 su3 tshan	70
 尻川	kha tshng	2000
 尻川	kha tshng	600
 尻脊	ka chiah	5000
 尻脊	ka chiah	600
-尿脬	jie7 pha	5000
+尼姑婆	ninn5 kou phua5	2000
+尾蝶	bue2 iah8	2000
+尿壺	jie7 hu5	2000
+尿脬	jie7 pha	2000
+屁股爿	kha tshng poinn2	2000
 屍體	si thi2	600
-屎鉢	sai2 puah	100
+屎溝	sai2 kau	2000
+屎鉢	sai2 puah	2000
 屐	kiah8	100
 展	tian2	5000
 屬於	sok8 ur	5000
+山儂	suann nang5	2000
 山嶽	suann ngak8	2000
 山川	suann tshuan	2000
+山東梨	suann tang lai5	2000
+山水	suann tsui2	2000
+山溝	suann kau	2000
+山空	suann khang	2000
+山羊	suann ienn5	2000
 山谷	suann kok	2000
 山阿	suann o	70
+山雞	suann koi	2000
+岳母	ngak8 bo2	2000
 岳父	ngak8 pe6	1200
+峇厘	ba7 li5	2000
+峇囝	ba7 kiann2	2000
+崎嶇	khi khu	2000
 崑崙	khun lun5	600
 崙崙	lun5 lun5	600
+崩堤	pang toi	2000
 嵁硈	kham5 khiat8	2000
 嵁硈	kham5 khiat8	600
 巡	sun5	5000
+巡檢司	thou5 phou2 si	2000
 巡迴	sun5 hue5	600
 工程	kang theng5	5000
+工資	kang tsur	2000
 工錢	kang chinn	2000
+工錢	kang chinn5	2000
+差不多	tsha put to	2000
+差役	chhe hiah8	2000
+差毋多	tsha m6 to	2000
 差錯	tsha tsho3	2000
 市	chhi6	5000
+布尺	pou3 chhieh	2000
+布帆	pou3 phang5	2000
 布料	pou3 liau7	2000
 布疋	pou3 phit	2000
 布疋	pou3 phit	5000
-布碎	pou3 chhui3	5000
-布路	pou3 lou7	5000
+布碎	pou3 chhui3	2000
+布路	pou3 lou7	2000
+帆布	phang5 pou3	2000
 帖	thiap	5000
 席捲	siah8 kuan6	2000
-帶水	tshua7 tsui2	100
+帶水	tshua7 tsui2	2000
+常常	sienn5 sienn5	2000
 帽吊	bo7 tiau3	2000
+帽吊	bo7 tiou3	2000
+帽囝	bo7 kiann2	2000
+帽珠	bo7 tsu	2000
 幢幡	thong5huan	600
-平和	pheng5 hua5	5000
+干証	kan cheng3	2000
+平價	pheng5 ke3	2000
+平和	pheng5 hua5	2000
 平安	pheng5 an	1200
+平擔	penn5 tann	2000
 平樣	penn5 ie7	5000
+平樣	penn5 ienn7	2000
+年年	ni5 ninn	2000
 并州	peng6 chiu	70
 幷州	peng6 chiu	70
 幸災樂禍	heng6 tsai lak8 hua6	5000
 幹部	kan3 pou6	1200
 幼	iunn3	5000
+幼幼	iunn3 iunn3	2000
 幾乎	ki hu	5000
 幾何	ki ho5	5000
 幾個人	kui2 kai5 nang5	4000
+庇佑	pi3 iu6	2000
 床布	tshng5 pou3	2000
 床頂	tshng5 teng2	2000
+底一個	ti5 chek8 kai5	2000
 底個	ti5 kai5	10000
 底儂	ti5 nang5	10000
 底儂	ti5 tiang5	10000
 底塊	ti5 ko3	10000
 底塊夥	ti5 ko3 hue2	5000
 底子	toi2 tsur2	2000
+底時	ti5 si5	2000
 底爿	ti5 poinn5	5000
 底當時	tiang si5	10000
+底誰	ti5 tiang5	2000
+底誰的	ti5 tiang5 kai5	2000
+店舖	tiam3 phou3	2000
+府太爺	hu2 thai3 ia5	2000
+庫房	khou3 pang5	2000
+廢掉	hui3 tiou3	2000
 延遲	eng5 ti	5000
-引荐	in2 chin3	5000
+引荐	in2 chin3	2000
+弟子	ti6 tsur2	2000
+弦線	hinn5 suann3	2000
 強姦	khiang5 kan	600
 彈琴	tuann7 khim5	600
 彌補	ni2 pou2	600
 彩色	tshai2 sek	5000
+彷似	huang2 sur6	2000
 彷彿	huang2 hut	2000
 彷徨	phang5 huang5	600
 彼	hur2	10000
+彼些個	hur2 chuann3 kai5	2000
+彼底當時	hur2 tiang si5	2000
+彼樣生	hienn3 senn	2000
 征服	cheng hok8	1200
 後壁	au6 piah	5000
+後日	au6 jit8	2000
 後日	au6 jit8	5000
+後父	au6 pe6	2000
 後生	hau6 senn	4000
 後生	hau6 senn	5000
+後裔	au6 i6	2000
+得坐着	tit tso6 tieh8	2000
+得意	tit i3	2000
+得着	tit tieh8	2000
+得罪	tit tsue6	2000
+得罪着儂	tit tsue6 tieh8 nang5	2000
+得飯	tit png7	2000
 徛	khia6	5000
+徛在腳頭的儂	khia6 to6 kha thau7 kai5 nang5	2000
+徛船邊	ua2 tsun5 pinn	2000
+徛起來	khia6 khi2 lai5	2000
 從	tshong5	5000
 御用	gur7 eng7	600
 復仇	hok8 chhiu5	2000
+復轉	hok8 tng2	2000
 復辟	hok8 phek	600
 徵兆	teng tiau6	2000
 徵求	teng khiu5	2000
+心事	sim sur7	2000
 心性	sim senn3	5000
 心憧憧	sim tong5 tong5	2000
-心肝頭	sim kuann thau5	5000
+心肝頭	sim kuann thau5	2000
 心願	sim nguan6	5000
 必須	pit su	5000
 志向	chi3 hiang3	5000
-快活	khuann3 uah8	5000
-念路	liam7 lou7	5000
+忘恩	buang5 urn	2000
+忘約	buang5 ieh	2000
+忠直	tong tit8	2000
+快活	khuann3 uah8	2000
+念路	liam7 lou7	2000
+忽一下叫	huh che7 kie3	2000
+怎呢	tso3 ninn5	2000
+怎呢食	tso3 ninn5 chiah 8	2000
+思量成	sur nienn5 seng5	2000
 恁	nin2	10000
 恢復	khue hok8	2000
-恬恬	tiam7 tiam7	5000
+恬恬	tiam7 tiam7	2000
+恭喜	kiong hi2	2000
 悽慘	chhi tsham2	5000
 悽慘	chhi tsham2	600
 惜	sieh	5000
@@ -569,42 +1170,67 @@ use_preset_vocabulary:	false
 惡讀	oh thak8	4000
 惰	tuann6	5000
 愈	zu2	10000
+愈不可	zu2 m6 monn2	2000
 愈來愈好	zu2 lai5 zu2 ho2	5000
-愈好	zu2 ho2	5000
+愈好	zu2 ho2	2000
 愊	pek	5000
-感謝	kam2 sia7	5000
+意思	i3 sur7	2000
+感恩	kam2 urn	2000
+感謝	kam2 sia7	2000
 愩	kong3	5000
+慣勢	kuinn3 sinn3	2000
+慣習	kuinn3 sinn3	2000
 慳吝	kien lien6	600
 慾望	iok8 mo7	2000
 憑單	pheng5 tuann	2000
 憑弔	pheng5 tiau3	1200
-憶得	it tit	5000
+憶得	it tit	2000
 應	in3	5000
 應承	in3 seng5	5000
+應該	eng kai	2000
+應該得	eng kai tit	2000
 戇	kong5	5000
+戇去	kong5 khur3	2000
 成功	seng5 kong	5000
 成樹	seng5 chhiu7	5000
+戒薰丸	koi2 hun inn5	2000
+或者	pa lak	2000
+戥減	teng2 siam2	2000
 截	tsoih8	5000
-戰船	chien3 tsun5	5000
+戰羸	chien3 iann5	2000
+戰船	chien3 tsun5	2000
+戰輸	chien3 su	2000
 戰鬥	chien3 tau3	2000
 戲台	hi3 thai5	600
+戲旦	hi3 tuann3	2000
 戲曲	hi3 khek	5000
-戴孝	tua3 ha3	5000
+戲棚	hi3 penn5	2000
+戴孝	tua3 ha3	2000
 戴帽	ti3 bo7	600
 房舍	pang5 sia3	2000
-所費	so2 hui3	5000
+所以	so2 inn2	2000
+所費	so2 hui3	2000
+所費大	so2 hui3 tua7	2000
 扁擔	pien2 tann	2000
 扁擔	pien2 tann	600
 扁舟	phien chiu	600
-手套	chhiu2 lap	5000
-手巾	chhiu2 kurn	5000
-手布	chhiu2 pou3	5000
-手指	chhiu2 chi2	100
-手綢	chhiu2 tiu5	5000
+手下	chhiu2 e6	2000
+手套	chhiu2 lap	2000
+手巾	chhiu2 kurn	2000
+手布	chhiu2 pou3	2000
+手底	chhiu2 toi2	2000
+手指	chhiu2 chi2	2000
+手指	chhiu2 tsoinn2	2000
+手環	chhiu2 huan5	2000
+手綢	chhiu2 tiu5	2000
+手肘	chhiu2 thng6	2000
 手背	chhiu2 pu3	70
+手腕	chhiu2 uan2	2000
 手錶	chhiu2 pie	600
 才幹	tshai5 kan3	1200
+才情	tshai5 chheng5	2000
 扎啤	tsa pi5	600
+打扮	ta2 pan3	2000
 打拍	phah phok8	5000
 打揲	ta2 tiap8	1600
 打疊	ta2 tiap8	2000
@@ -613,9 +1239,11 @@ use_preset_vocabulary:	false
 扣除	khau3 tur5	5000
 扭	liu2	5000
 批	phoi	5000
-批信	phoi sin3	5000
+批信	phoi sin3	2000
+批擔	phoi tann	2000
 批皮	pho phue5	2000
-批館	phoi kuan2	100
+批皮	phoi phue5	2000
+批館	phoi kuan2	2000
 找錢	tau2 chinn5	5000
 找錢行	tau2 chinn hang5	100
 承水	sin5 tsui2	600
@@ -630,369 +1258,828 @@ use_preset_vocabulary:	false
 抵押	ti2 ah	2000
 抵擋	ti2 tang3	600
 抵禦	ti2 gur6	2000
+押數	ap siou3	2000
 押韻	ap un7	600
 抽分	thiu hun3	2000
-抽減	thiu kiam2	5000
-抽痛	thiu thiann3	5000
+抽減	thiu kiam2	2000
+抽痛	thiu thiann3	2000
+拆夥計	thiah hue2 ki3	2000
 拆夥記	thiah hue2 ki3	5000
-拋椗	pha teng3	5000
+拉凉	la7 liang5	2000
+拉凊	la7 chhin3	2000
+拋椗	pha teng3	2000
 拍	phah	5000
 拍倒	phah to2	600
+拍儂	phah nang5	2000
 拍呃	pah oh	5000
+拍呃	phah oh	2000
+拍噴	phah ka khi3	2000
+拍官司	phah kuann si	2000
 拍折	phah chih	5000
 拍拚	phah piann3	5000
-拍空	phah khang	5000
+拍撲	phah phok	2000
+拍獵	phah lah8	2000
+拍空	phah khang	2000
+拍紙牌	phah tsua2 pai5	2000
+拍舖	phah phou3	2000
+拍銃	phah chheng3	2000
+拍銜瓏術	phah ham5 lam5 sut8	2000
+拍鐵	phah thih	2000
+拐腳	kuah8 kha	2000
+拐腳	kuai2 kha	2000
 拐腳	kuai2 kha	4000
 拐騙	kuai2 phien3	600
 拐骹	kuai2 kha	5000
 拔	puah8	5000
+拔斗	puah8 tau2	2000
+拔杯	puah8 pue	2000
+拔桶	puah8 thang2	2000
 拖	thua	2000
 拖累	thua lui6	5000
+拖風	tui2 huang	2000
+拗彎	a2 uan	2000
 拗折	a2 chih8	600
 拚命	piann3 miann7	5000
+招呼	chiou hu	2000
+招柑	chie kann	2000
+招牌	chie pai5	2000
+拜一	pai3 it	2000
 拜三	pai3 sann	2000
+拜上帝儂	pai3 siang6 ti3 nang5	2000
 拜乙	pai3 it	2000
+拜二	pai3 ji7	2000
+拜五	pai3 ngou6	2000
 拜伍	pai3 ngou6	2000
+拜六	pai3 lak8	2000
 拜四	pai3 si3	2000
 拜弍	pai3 ji7	2000
-拜老爺	pai3 lau6 ia5	5000
+拜老爺	pai3 lau6 ia5	2000
 拜託	pai3 thoh	2000
+拜阿公	pai3 a kong	2000
 拜陸	pai3 lak8	2000
 拭	chhit	5000
 拭腳其蓑	chhit kha kai5 sui	80
 拭骹其蓑	chhit kha kai5 sui	100
 拮据	khiet kur5	600
+拳頭	khun5 thau5	2000
 拼湊	pheng tshou3	2000
 持	khieh8	5000
-指頭公	tsnng2 thau5 kong	5000
+指甲	tsng2 kah	2000
+指頭公	tsnng2 thau5 kong	2000
+挈來	khieh8 lai3	2000
+挈恨	khieh hurn6	2000
+挈椗	khieh8 teng3	2000
+按察	an3 tshat	2000
+挐挐	zur5 zur5	2000
 挨打	ai ta2	600
 挨着	oi tieh8	2000
+振動	tin tang6	2000
 挽	tui2	2000
 挽救	man2 kiu3	2000
+挽緊	tui2 an5	2000
 挽面	man2 min7	2000
 挿羼	tshah tshan6	2000
+捔掉	kak8 tiou3	2000
+捘掉	tsun6 tiou3	2000
+捧擎	khang5 khia5	2000
+捬着	hu2 tieh8	2000
 捱苦	ngai5 khou2	2000
 捲煎	kuan6 chien	2000
-掃箒	sau3 siu2	5000
+掃灰水	sau3 hue tsui2	2000
+掃箒	sau3 siu2	2000
 掃菷星	sau3 soi chhenn	2000
 掃蕩	sau3 tang6	2000
+掉槳	ko3	2000
 掌	chien2	5000
 掌更儂	chienn2 kenn nang5	5000
-掌櫃	chiang2 kuinn7	100
+掌櫃	chiang2 kuinn7	2000
+掌管	chiang2 kuan2	2000
+掌羊的儂	chienn2 ienn5 kai5 nang5	2000
+排列	pai5 pi2	2000
+排回	pai5 hue5	2000
 排場	pai5 chhiang5	600
 排場	phai5 chhiang5	5000
 排塲	phai5 chhiang5	4000
 排年	pai5 ninn	2000
 排日	pai5 jit8	2000
+排時	pai5 si5	2000
 排比	pai5 pi2	5000
+排趟	pai5 tng2	2000
+排轉	pai5 tng2	2000
+掗折	a2 chih8	2000
 掘	kut8	5000
 掙扎	cheng tsak	600
 掛	kua3	5000
 掛慮	khua3 lur6	2000
+掛着	khua3 tieh8	2000
 掛紙	kue3 tsua2	5000
+掛馬鞍	kua3 benn uann	2000
 掠	liah8	5000
-掠舵	liah8 tua6	5000
+掠舵	liah8 tua6	2000
 採納	tshai2 nap8	5000
-探問	tham3 mng7	5000
+探問	tham3 mng7	2000
+探囝	tham3 kiann2	2000
+插儂的事	tshap nang5 kai5 sur7	2000
+插會	tshap hue6	2000
 插羼	tshah tshan6	1600
+揖早	ip tsa6	2000
 換	uann7	5000
+換衫褲	uann7 sann khou3	2000
+揭算盤	kiah sng3 puann5	2000
 揹個衫包	pi3 kai5 sann pau	2000
 損病	sun3 penn7	2000
+搖掉	hinn3 tiou3	2000
 搖搖欲墜	ie5 ie5 iok8 tui6	2000
+搖籃	ie5 nann5	2000
+搖籤	lok chhiam	2000
+搖鐘	ie6 cheng	2000
+搖鼓	ie5 kou2	2000
 搧面龐	sien3 min7 phang5	600
+搭布帆	tah pou3 phang5	2000
+搭金	tah kim	2000
+搶剝	chhienn2 pak	2000
 携	kuann6	5000
 携餉	khieh hiang3	2000
+摒掉	phin5 tiou3	2000
 摒擋	pin2 tng3	600
+摺痕	chih tsue7	2000
 摺衫褲	chih sann khou3	2000
 撈	la6	5000
 撒	suah	5000
-撞枳	thng7 chi2	100
+撞枳	thng7 chi2	2000
 撞門	tong7 mng5	600
 撢灰	tham5 hue	600
 撣族	sien6 tsok8	600
 撣灰	tham5 hue	600
+撫院	bu2 inn7	2000
+播種	ia7 cheng2	2000
 撮要	tshuat iau3	600
+撰食	tsun6 chiah8	2000
+撼掉	ham2 tiou3	2000
 擁戴	iong3 tai3	1200
+擂腰	tui5 ie	2000
+擋毋條	tong3 m6 tiou5	2000
+擋腳	thiam3 kha	2000
 操練	tshau lien7	5000
 擔保	tan po2	5000
-擔承	tam seng5	5000
-擔枷	tann ke5	5000
+擔成	tam seng5	2000
+擔承	tam seng5	2000
+擔擔	tann tann3	2000
+擔枷	tann ke5	2000
+擔認	tam jin7	2000
+擲喉	tenn6 au5	2000
+擲掉	sek tiou3	2000
+擺弄好	pa loi2 ho2	2000
 擺攤	pai2 thuann	600
-攏總	long2 tsong2	5000
-攬儎字	nam2 tsai7 ji7	5000
+擺職	pa6 cheh	2000
+攏總	long2 tsong2	2000
+攝囝	nih kiann2	2000
+攝目	nih mak8	2000
+攬儎字	nam2 tsai7 ji7	2000
 支持	chinn thi5	5000
+收冬	siu tang	2000
 收單	siu tuann	2000
-收帆	siu phang5	5000
+收帆	siu phang5	2000
+收拾	siu sip8	2000
 收數	siu siau3	5000
+收數	siu siou3	2000
+收監	siu kam	2000
 收穫	siu uak8	2000
+改說	koi2 sueh	2000
+改變	koi2 pinn3	2000
 放假	pang3 ke2	4000
+放掉	pang3 tiou3	2000
+放此	pang3 chie2	2000
+放火	pang3 hue2	2000
+放生債	pang3 senn che3	2000
+放生數	pang3 senn siou3	2000
+放肆	huang3 sur3	2000
+放肆	huang3 sur7	2000
+放血	pang3 ang3	2000
+放親	pang3 chhin	2000
+故此	ku3 tshur2	2000
+救主	kiu3 tsu2	2000
 敗	phai2	5000
+教會熟	ka3 oi6 sek8	2000
+敬重	keng3 tong6	2000
+敲破	kha3 phna3	2000
+敲算盤	kha3 sng3 puann5	2000
 敲罛	kha3 kou	600
+敲電報	kha3 tien6 po3	2000
+整理	chiann2 li2	2000
+數個	kua kai5	2000
+數目	siou3 bak8	2000
 數簿	siau3 phou6	2000
+數簿	siou3 phou6	2000
 文壇	bun5 tham5	600
+文官	bun5 kuann	2000
+文章	bun6 chienn	2000
 文采郁郁	bun5 tshai2 hiok hiok	600
-斜莪粉	sia5 go7 hun2	100
-斧頭	pou2 thau2	5000
+斜文	sia5 bun5	2000
+斜目	sia5 mak8 chiou2	2000
+斜莪圓	sia5 go7 inn5	2000
+斜莪粉	sia5 go7 hun2	2000
+斡轉頭	ut tng2 thau5	2000
+斧頭	pou2 thau2	2000
 斫斷	tok tng6	600
+斫脞	tok tsho7	2000
+斬頭	tsam2 thau5	2000
 新人	sin nang5	100
 新人爹	sin nang5 tia	100
-新婦	sin pu6	5000
+新儂	sin nang5	2000
+新儂爹	sin nang5 tia	2000
+新娘	sin nienn5	2000
+新婦	sin pu6	2000
 新教	ia5 sou ka3	2000
-新聞紙	sin bun6 tsua2	100
+新約	sin ieh	2000
+新聞	sin bun6	2000
+新聞紙	sin bun6 tsua2	2000
 斲斷	tok tng6	600
-斷氣	tng6 khui3	5000
+斷氣	tng6 khui3	2000
 斷絕	tuan6 tsoh8	600
+方刀	pang to	2000
 方向	huang hiang3	5000
 施爲	si ui5	100
+施米	si bi2	2000
 旋尿	suan6 jie7	4000
 旋轉	suan5 tsuan2	5000
-日子	jit8 chi2	5000
-日日	jit8 jit8	5000
+旗杆	ki5 kuann	2000
+日子	jit8 chi2	2000
+日日	jit8 jit8	2000
 日旰	jit8 kua3	2000
-日晝	jit8 tau3	5000
+日晝	jit8 tau3	2000
+日淸	jit8 chheng	2000
 日清	jit8 chheng	100
 日蝕	jit8 sih8	5000
+日規	jit8 kui	2000
+日逐	jit8 tok8	2000
+日間	jit8 kua3	2000
+早早	tsa2 tsa2	2000
+早晨	tsa2 sin5	2000
 早睏	tsa2 khun3	2000
 早起	tsau2 khi2	5000
-旺梨	uang5 lai5	5000
+旺梨	uang5 lai5	2000
 昆蟲	khun thang5	600
-明年	menn5 ninn5	5000
+明年	menn5 ninn5	2000
 明旦起	mann3 khi2	5000
+明白	meng5 peh8	2000
 明瞭	meng5 liau2	2000
+明起	mann3 khi2	2000
 易	koi7	5000
-昨日	tsa jit8	5000
+映目	iang3 mak8	2000
+昨夜	tsa menn5	2000
+昨日	tsa jit8	2000
 昨暝	tsa menn5	5000
+是乜	si6 mih	2000
+時令	si5 leng6	2000
+時辰	si5 sin5	2000
 時鏢	si5 pie	2000
+時鐘	si5 cheng	2000
+時鐘槌	si5 cheng thui7	2000
 晏	uann2	5000
+晚餐	mng2 tshan	2000
+普天下	phou2 thinn e6	2000
+普天踋下	phou2 thinn kha e6	2000
+晾衫	la7 sann	2000
 暍着暑	hiak tieh8 su2	5000
 暖爐	zuan2 lou5	5000
+暗號	am3 ho7	2000
+暗靜	am3 chenn6	2000
+暗靜呾	am3 chenn6 tann3	2000
 暝昏	menn5 hng	5000
 暝昏囝	menn5 hng kiann2	5000
 暢所欲言	thiang3 so2 iok8 ngan5	2000
+暫時	chiam7 si2	2000
 曆日	lah8 jit8	600
 曉	hiau2	5000
+曉情理	hiou2 chheng5 li2	2000
 曝	phak8	5000
 曲折	khek chih	5000
 曳手	iah8 chhiu2	5000
+更好	keng3 ho2	2000
+書册	tsur chheh	2000
+書櫥	tsur tu5	2000
+書金	tsur kim	2000
+書院	tsur inn7	2000
+書齋	tsur che	2000
 曹操	tshau5 tshau3	600
+曾孫	cheng sun	2000
+曾走孫	cheng tsau2 sun	2000
+會着火	oi6 toh8 hue2	2000
+會能做得	oi7 leng5 tso3 tit	2000
+會面	hue6 min7	2000
+會食	oi6 chiah8	2000
+月囝	gueh8 kiann2	2000
+月月	gueh8 gueh8	2000
 月蝕	gueh8 sih8	5000
-月記	gueh8 ki3	5000
+月記	gueh8 ki3	2000
 有亞無	u6 a bo5	5000
+有孝	u6 hau3	2000
+有干涉	u6 kan siap8	2000
+有心事	u6 sim sur7	2000
+有用	ŭ eng7	2000
+有禮	u6 loi2	2000
+有罪	u6 tsue6	2000
+有胎	u6 tho	2000
+有能爲	u6 leng5 ui5	2000
+有補	u6 pou2	2000
+有身份	u6 sin hun7	2000
+朋友	pheng5 iu2	2000
+服色	hok8 sek	2000
 朝代	chhiau5 to7	600
+朝廷	chhiou5 theng5	2000
 朥	la5	5000
 朦朧	mong5 long5	600
 木板	bak8 pan2	2000
-木虱	bak8 sat	5000
+木耳	bak8 zur2	2000
+木虱	bak8 sat	2000
 未	bue7	10000
 末	buah8	5000
-本分	png2 hun7	5000
+本事	pun2 sur6	2000
+本來	png2 lai5	2000
+本分	png2 hun7	2000
+本地儂	png2 ti7 nang5	2000
 本等	pun2 teng2	5000
-本錢	png2 chinn5	5000
+本錢	png2 chinn5	2000
+本領	pun2 niann2	2000
+朱布	tsu pou3	2000
 朴樹	phok chhiu7	600
 杉排	sam pai5	5000
+杉牌	sam pai5	2000
 杉牌	sam pai5	4000
+束金	sok kim	2000
 杮	sai6	5000
-東司	tang si	5000
+杮餅	sai7 piann2	2000
+東司	tang si	2000
 東昇	tang seng	600
 松樹	seng5 chhiu7	600
 松樹	song5 chhiu7	600
+松香	seng5 hienn	2000
+枇杷	pi5 pe5	2000
+枉屈	uang2 khut	2000
 枋	pang	5000
-枕頭囊	chim2 thau5 long5	5000
-林擒	lim5 khim5	5000
+枕頭	chim2 thau5	2000
+枕頭囊	chim2 thau5 long5	2000
+林擒	lim5 khim5	2000
+果子	kue2 chi2	2000
 果子	kue2 chi2	5000
+果子園	kue2 chi2 hng5	2000
 枵	iau	5000
 柑	kann	5000
-柴槌	tsha5 thui5	5000
-柴頭	tsha5 thau5	5000
+染的布	ninn2 kai5 pou3	2000
+柘榴	sieh8 liu5	2000
+查睇	chhe5 thoinn2	2000
+柴杮抽	tsha5 phue3 thiu	2000
+柴槌	tsha5 thui5	2000
+柴目	tsha5 mak8	2000
+柴秤	tsha5 chhin3	2000
+柴錘	tsha5 thui5	2000
+柴鞋	tsha5 oi5	2000
+柴頭	tsha5 thau5	2000
+柴鵝	tsha5 go5	2000
 栳㭳	lau6 hau3	2000
 根據	kurn kur6	5000
+根本	kurn png2	2000
 格	keh	4000
-桂皮	kui3 phue5	5000
+桂皮	kui3 phue5	2000
 桅	ui5	5000
+桅頂	ui5 teng2	2000
 案	uann3	5000
+案牀	uann3 tshng3	2000
+桐油	thang5 iu5	2000
 桔	kit	5000
+桔丕	kit phi2	2000
 桩家	tsng ke	5000
+桶盤	thang2 puann5	2000
 桿菌	kuann khun2	600
 條條	tiau5 tiau5	5000
 條直	tiau5 tit8	5000
+梭囝	so kiann2	2000
+棉羊	minn5 ienn5	2000
 棉裘	minn5 hiunn5	5000
+棕色	tsang sek	2000
 棕蓑	tsang sui	2000
+棧房	tsan3 pang2	2000
 棹	toh	5000
+棺木	kuann bak8	2000
+棺柴	kuann tsha5	2000
+椅囝	inn2 kiann2	2000
+椅頭	inn2 thau5	2000
 椗	teng3	5000
+椗索	teng3 soh	2000
+楊桃	ienn5 to5	2000
+楊梅	ienn5 bue5	2000
+榕樹	seng5 chhiu7	2000
+榴蓮	liu5 lian5	2000
 槅	keh	5000
 槳	chienn2	5000
 槽頭肉	tso5 thau5 nek8	5000
+樓枋	lau5 pang	2000
+樓梯	lau5 thui	2000
 標準	phiau tsun2	2000
 標緻	phiau ti3	5000
-樟柴	chienn tsha5	5000
-樟栳	chienn lo2	5000
+樟柴	chienn tsha5	2000
+樟栳	chienn lo2	2000
 模仿	mo5 huang2	2000
 樣	ienn7	10000
+樸丕	phok phi2	2000
 樸素	phok su3	600
+樹呢	chhiu7 ninn5	2000
 樹幹	chhiu7 kan3	1200
-樹泥	chhiu7 ninn5	5000
+樹枝	chhiu7 ki	2000
+樹欛	chhiu7 pa3	2000
+樹泥	chhiu7 ninn5	2000
+樹皮	chhiu7 phue5	2000
+橄欖	kann nann2	2000
+機會	ki hue6	2000
+橫桅	huenn5 ui5	2000
 檨	suainn7	5000
 欄杆	lan5 kan	600
 欉	tsang5	5000
+欠儂的債	khiam3 nang5 kai5 che3	2000
+欠儂的錢	khiam3 nang5 kai5 chinn5	2000
+次次	tsua7 tsua7	2000
+欲吐	ainn3 thou3	2000
+欲訴	ainn3 su3	2000
+欲賣的	ainn5 boi7 kai5	2000
+欲退堂了	ainn3 tho3 tng5 lo7	2000
 欲食	ainn3 chiah8	5000
 欶	suh	5000
+欽差	khim chhe	2000
+款款	khuann khuann	2000
 歇	hiah	5000
-歡喜	huann hi2	5000
+歇恬	hiah tiam7	2000
+歕唏噓	pun5 hi hu5	2000
+歕嗶	pun5 pi	2000
+歕過	pun5 kue3	2000
+歕風	pun5 huang	2000
+歡喜	huann hi2	2000
 正常	chiann3 sienn5	2000
+正手	chiann3 chhiu2	2000
+正月	chiann gueh8	2000
+正直	chiann3 tit8	2000
+正經	chiann3 keng	2000
 此	chi2	10000
+此些個	chi2 chuann3 kai5	2000
 此搭	chi2 tah	5000
-此樣生	chienn3 senn	5000
+此樣生	chienn3 senn	2000
+此近日	chi2 kurn6 jit8	2000
+此近時	chi2 kurn6 si5	2000
 此陣	chi2 tsun5	5000
+武官	bu2 kuann	2000
 歷日	lah8 jit8	5000
-歸原	kui nguan5	100
+歸原	kui nguan5	2000
+死牛	si2 gu5	2000
+死狗	si2 kau2	2000
 殭屍	kiang si	600
 殿後	tien6 au6	600
+毀掉	zur2 tiou3	2000
+毋公道	m6 kong tau6	2000
+毋厚待	m6 kau6 thai6	2000
+毋合	m6 hah8	2000
+毋合法	m6 hah8 huap	2000
+毋和	m6 hua5	2000
+毋堪	m6 kham	2000
+毋堪當	m6 kham tng	2000
+毋堪該	m6 kham kai	2000
+毋好	m6 haunn3	2000
+毋對	m6 tui3	2000
+毋就理	m6 chiu6 li2	2000
+毋平	m6 penn5	2000
+毋憶得	m6 it tit	2000
+毋敢見儂	m6 kann2 kinn3 nang5	2000
 毋是	m6 si6	10000
+毋曉	m6 hiou2	2000
+毋淸	m6 chheng	2000
+毋着	m6 tieh8	2000
+毋知	m6 tsai	2000
+毋知儂	m6 tsai nang5	2000
+毋知頭	m6 tsai thau5	2000
+毋管	m6 kuan2	2000
+毋聽	m6 thiann	2000
+毋肯	m6 kheng2	2000
+毋見	m6 kinn3	2000
+毋見得	m6 kinn2 tit	2000
+毋該	m6 kai	2000
+毋認	m6 jin7	2000
+毋識	m6 pat	2000
+毋閒	m6 oinn5	2000
+毋順	m6 sun6	2000
 母	bou2	5000
+母舅	bo2 ku6	2000
+毒藥	tak8 ieh8	2000
+比好	pi2 ho2	2000
+比如	pi2 zu6	2000
+比正	pi2 chiann3	2000
+毛扇	monn5 sinn5	2000
 氈	chinn	5000
+氈帽	chinn bo7	2000
+民家	min5 ke	2000
 氣	khui3	5000
 氣力	khi3 lat8	5000
 氣勢洶洶	khi3 si3 hiong hiong	600
+氣味	khi3 bi7	2000
 水呢	tsui2 ninn5	2000
-水手	tsui2 siu2	5000
+水土	tsui2 thou2	2000
+水手	tsui2 siu2	2000
 水抽	tsui2 thiu	2000
+水桶	tsui2 thang2	2000
+水溝	tsui2 kau	2000
 水烟	tsui2 in	2000
+水煙	tsui2 in	2000
+水牛	tsui2 gu5	2000
+水缸	tsui2 kng	2000
+水罐	tsui2 kuan3	2000
+水脬	tsui2 pha	2000
 水車	tsui2 chhia	5000
+水銀	tsui2 ngurn5	2000
+水雞	tsui2 koi	2000
+水鼓	tsui2 kou2	2000
 水𦮴	tsui2 ninn5	1600
 氽水	siu5 tsui	5000
+求乞	khiu5 khurt	2000
 汝	lur2	10000
-污糟	o tso	5000
+江魚	kang hur5	2000
+污糟	o tso	2000
 污衊	u mit8	600
+沃着雨	ak tieh8 hou6	2000
+沈信	tim5 sin3	2000
 沈沒	tim5 mut8	2000
 沈澱	tim5 tien6	600
+沐浴桶	soi2 ek8 thang2	2000
 沖茶	tshong te5	2000
+沙埧	sua pa3	2000
 沙埧	sua pa3	4000
 沙壩	sua pa3	5000
+沙蜢	sua menn	2000
 油凝凝	iu5 kurn5 kurn5	600
-油刷	iu5 sueh	5000
+油刷	iu5 sueh	2000
+油紙	iu5 tsua2	2000
+沽油	kou iu5	2000
+沽酒	kou chiu2	2000
 沾染	tiam jiam2	600
 沿	in5	5000
+法律	huat lut8	2000
 注射	tsu3 sia7	5000
 注意	tsu3 i3	5000
+洋船	ienn5 tsun5	2000
+洗手杯	soi2 chhiu2 pue	2000
 洗浴	soi2 ek8	5000
 洗浴房	soi2 ek8 pang3	2000
 洗浴桶	soi2 ek8 thang2	5000
+洗浴棚	soi2 ek8 penn5	2000
+洗禮	soi2 loi2	2000
+活動	uah8 tong6	2000
+流徒	liu5 thu5	2000
+流水	lau5 tsui2	2000
 流水平	lau5 tsui2 penn5	100
+流水槽	lau7 bo2 tso5	2000
 流水雄	lau5 tsui2 hiong5	100
+流汗	lau5 kuann7	2000
 流洘	lau5 kho2	100
+流涎	lau5 nuann6	2000
 流漲	lau5 tinn6	100
+流目汁	lau5 mak8 tsap	2000
+流血	lau5 hueh	2000
 浪蕩儂	lo2 tong7 nang5	100
+浪蕩的儂	lo2 tong7 kai5 nang5	2000
 浮	phu5	5000
+浮大風	phu5 tua7 huang	2000
 浮沈	phu5 tim5	600
 浮膿	pu6 lang5	5000
 浮誇	phu5 khua	600
-浴布	ek8 pou3	5000
+浮起來	phu5 khi2 lai5	2000
+浴布	ek8 pou3	2000
+海圖	hai2 tou5	2000
 海墘	hai2 kinn5	5000
-海嶼	hai2 sur6	5000
+海嶼	hai2 sur6	2000
 海涌	hai2 eng2	2000
 海湧	hai2 eng2	2000
 海湧	hai2 eng2	5000
 海茸	hai2 zong5	2000
 海蜇	hai2 the7	600
+海賊	hai2 tshat8	2000
+海風潮	hai2 huang tie5	2000
+消息	sie2 sit	2000
 涌現	iong3 hin7	2000
 涎	nuann6	5000
 淒涼	chhi liang5	600
+淖淖	chhieh chhieh	2000
 淖糜	chhieh muenn5	5000
 淡水	tann6 tsui2	2000
 淡泊	tam6 poh8	600
-深坑	chhim khenn	5000
+淫事	im5 sur7	2000
+深坑	chhim khenn	2000
+淸潔	chheng khih	2000
+淸潔相	chheng khih sienn3	2000
 添	thinn	5000
 清潔	chheng khih	5000
 減	kiam2	5000
-渡船	tou7 tsun5	5000
+渡船	tou7 tsun5	2000
 游泳	iu5 iong3	2000
 渺茫	miau2 mang5	2000
 湧現	iong3 hin7	2000
-湯匙	thng si5	5000
+湯匙	thng si5	2000
+源來	nguan5 lai5	2000
 準備	tsun2 pi6	2000
+溜落去	liu3 loh8 khur3	2000
+溜跋	liu3 puah8	2000
+溪墘	khoi kinn5	2000
 滂沛	phang5 phai3	5000
 滑	kut8	5000
 滒	ko	5000
+滯氣	thi3 khi3	2000
 滯泥	thi3 ni6	600
 滴囝	tih kiann2	5000
 滷卵	lou2 nng6	2000
 滾水	kun2 tsui	5000
+漂白	pie3 peh8	2000
+漆器	tshat khi3	2000
 漉	lok	5000
-漏囝	lau2 kiann2	5000
-漏屎	lau3 sai2	5000
+漉漉	lok lok	2000
+漏儂	lau2 nang5	2000
+漏囝	lau2 kiann2	2000
+漏屎	lau3 sai2	2000
+漏掉	lang3 tiou3	2000
 漲	tinn6	5000
+漸漸	chiam6 chiam6	2000
 潘	phun	5000
 潮州	tie5 chiu	2000
+激死	kek si2	2000
+激酒	kek chiu2	2000
 濛烟	mong5 in	5000
 濛煙	mong5 in	600
 瀋陽	sim2 iang5	600
 瀰漫	ni2 buan6	600
 灌腸	kuan3 tng5	2000
+火山	hue2 suann	2000
 火柴	hue2 tsha5	2000
-火灰	hue2 hu	5000
+火灰	hue2 hu	2000
+火炎	hue2 iam7	2000
+火炭	hue2 thuann3	2000
+火燂	hue2 thun5	2000
+火爁	hue2 nann7	2000
+火爐	hue2 lou5	2000
 火牌	hue2 pai5	2000
-火石	hue2 chieh8	5000
-火船	hue2 tsun5	100
-火船囝	hue2 tsun5 kiann2	100
+火石	hue2 chieh8	2000
+火箭	hue2 suh8	2000
+火腿	hue2 thui2	2000
+火舌	hue2 chih8	2000
+火船	hue2 tsun5	2000
+火船囝	hue2 tsun5 kiann2	2000
+火薰筒	hue2 hun tang5	2000
+火藥	hue2 ieh8	2000
+火車	hue2 chhia	2000
+火長	hue2 tienn2	2000
+火雞	hue2 koi	2000
 火頭	hue2 thau5	1600
+火頭	hue2 thau5	2000
+灰埕	hue tiann5	2000
+灰塗	hue thou5	2000
 灱	ta	5000
 灶頭	tsau3 thau5	5000
+灼灼晃	iăp iap8 sih	2000
 炊	tshue	5000
 炕床	khang3 tshng5	2000
+炕牀	khang3 tshng5	2000
 炭	thuann3	5000
+炮臺	phau3 thai5	2000
 炮臺	phau5 thai5	5000
+烆火席	hiann5 hue2 sit8	2000
 烏	ou	5000
+烏呢	ou ninn5	2000
+烏墨	ou bak8	2000
+烏布	ou pou3	2000
+烏布鞋	ou pou3 oi5	2000
 烏暗	ou am3	5000
-烏油	ou iu5	5000
-烏糖	ou thng5	5000
-烏面儂	ou min7 nang5	100
+烏油	ou iu5	2000
+烏烏	ou ou	2000
+烏番	ou huan	2000
+烏糖	ou thng5	2000
+烏面儂	ou min7 nang5	2000
+烏魚	ou hur5	2000
 烙	luah	2000
 烟筒	in tang5	5000
 焙	pue7	5000
 焜焜叫	uak uak kie3	600
 無	bo5	10000
 無中用	bo5 teng3 eng7	5000
+無仁義	bo5 jin5 ngi6	2000
+無仔細	bo5 tsur2 soi3	2000
+無位次	bo5 ui7 tshur3	2000
+無假的	bo5 ke2 kai5	2000
+無儂情	bo5 nang5 chheng2	2000
+無去	bo5 khur3	2000
+無奈何	bo3 nainn6 ho5	2000
+無好嫌	bo5 ho2 hiam5	2000
 無定着	bo5 tiann7 tieh8	5000
 無常時	bo5 chhiang5 si5	600
+無干涉	bo5 kan siap8	2000
+無影	bo5 iann2	2000
+無影無跡	bo5 iann2 bo5 chiah	2000
+無心	bo5 sim	2000
+無情理	bo5 chheng5 li2	2000
+無才情	bo5 tshai3 chheng5	2000
+無拖欠	bo5 thua khiam3	2000
+無救了	bo5 kiu3 lo7	2000
+無望	bo5 monn7	2000
+無本事	bo5 pun2 sur7	2000
+無本領	bo5 pun2 niann2	2000
+無父無母	bo5 pe6 bo3 bo2	2000
+無班母	bo5 pan bo2	2000
+無生理	bo5 seng li2	2000
 無相干	bo5 siang kan	2000
+無相干事	bo5 siang kau sur7	2000
+無罪	bo5 tsue6	2000
+無胆	bo5 tann2	2000
+無花果	bo5 hue kue2	2000
 無行	bo5 heng6	5000
 無規矩	bo5 kui ku2	5000
+無規矩	bo5 kui kur2	2000
 無邊	bo5 pien	2000
+無限	bo5 han5	2000
+無𡚸	bo5 bou2	2000
 煆火	hiann5 hue2	5000
 煏	pek	2000
+煙塵	eng teng5	600
 煙塵	in teng5	600
 煙波浩淼	in po hau miau2	600
+煙筒	in tang5	2000
 煠	sah8	2000
+煠酒	sah8 chiu2	2000
 煦字	u3 ji7	600
 照	chie3	5000
-煩惱	huan5 lo2	5000
+照律	chie3 lut8	2000
+煩惱	huan5 lo2	2000
 煮	tsur2	5000
+煮食	tsur2 chiah8	2000
 煲爛爛	pu5 lok lok	600
+煲糊	khoh8 kou5	2000
+煲食	pu5 chiah8	2000
 煴	un3	5000
 煽風點火	sien3 huang tiam2 hue2	600
 熇	hoh	2000
 熱布	zuah8 pou3	2000
 熱癤	zuah8 pauh	600
+熱衫	zuah8 sann	2000
 熻	hip	2000
+燃塗炭	hiann5 thou5 thuann3	2000
+燃柴	hiann5 tsha5	2000
+燃火的儂	hiann5 hue2 kai5 nang5	2000
+燈心	teng sim	2000
 燈盞	teng chuann2	2000
+燈籠	teng nang5	2000
+燉鉢	tun6 puah	2000
 燉雞	tun6 koi	600
 燒水	sie tsui	5000
+燕窩	ien3 o	2000
 燕菜	ien3 tshai3	2000
 燕鳥	inn3 chiau2	5000
+燕鳥	inn3 chiou2	2000
 營盤	iann5 puann5	2000
+燭檯	chek tai5	2000
 爁火	na6 hue2	600
-爽快	song2 khuai3	5000
+爆掉	piang3 tiou3	2000
+爛儂	au3 nang5	2000
+父母	pe6 bo2	2000
+爽快	song2 khuai3	2000
 爾	lur2	4000
+牀布	tshng5 pou3	2000
+牀櫃	tshng5 kuinn7	2000
 牙頭齒	ge5 thau5 khi	100
-牛乳油	gu5 ninn6 iu5	5000
+牙頭齒	ge5 thau5 khi2	2000
+牛乳油	gu5 ninn6 iu5	2000
+牛乳罐	gu5 ninn6 kuan3	2000
+牛屎	gu5 sai2	2000
+牛擔彎	gu5 tann uan	2000
+牛皮	gu5 phue5	2000
+牛羊	gu5 ienn5	2000
+牛角	gu5 kak	2000
+牛黃	gu5 ng5	2000
 牡丹	bou2 tuann	600
+牧師	mok8 sur	2000
 物	mueh8	5000
 物件	mueh8 kiann6	5000
-物食	mueh8 chiah8	5000
+物儂驚	mueh8 nang5 kiann	2000
+物好	mueh8 ho2	2000
+物彎	mueh8 uan	2000
+物掉	mueh8 tiou3	2000
+物業	mueh8 ngiap8	2000
+物淸潔	mueh8 chheng khih	2000
+物燃	mueh8 hiann5	2000
+物破	mueh8 phua3	2000
+物食	mueh8 chiah8	2000
+牽成	khan seng5	2000
+牽拖	khan thua	2000
 牽罟	khan kou5	600
 牽輓	khan man2	1200
-犯律	huam6 lut8	5000
-狗母	kau2 bo2	5000
+牽馬索	khan be2 soh	2000
+犀牛	sai gu5	2000
+犯人	huam6 jin5	2000
+犯律	huam6 lut8	2000
+犯罪	huam6 tsue6	2000
+狐狸	hou6 lai5	2000
+狗母	kau2 bo2	2000
 狹	oih8	5000
 狼犺	lo7 ho	600
 狼藉	lang5 chia6	2000
@@ -1001,36 +2088,67 @@ use_preset_vocabulary:	false
 獃	ngai5	5000
 獲得	uak8 tit	5000
 率領	tsut niann2	4000
+王后	uang5 hou6	2000
+王宮	uang5 keng	2000
+王寶	uang5 po2	2000
 王帽	uang5 bo7	2000
+玳瑁	tai7 pue7	2000
+玻璃	po li5	2000
+玻璃器	po li5 khi3	2000
+玻璃杯	po li5 pue	2000
 玻璃樽	po li5 tsun	2000
-珊瑚	san hu5	5000
+珊瑚	san hu5	2000
 珠娘	tsur nienn5	4000
-現在	hin7 tsai6	5000
-現錢	hien7 chinn5	5000
+現在	hin7 tsai6	2000
+現錢	hien7 chinn5	2000
+理事	li2 sur7	2000
+琵琶	pi5 pe5	2000
+瓜冊	kue chheh	2000
 瓠𣟵	pu5 hia	1600
 甌	au	5000
 甕	ang3	5000
+甘愿	kam nguan6	2000
 甘癪	kam chek	2000
+甘草	kam tshau2	2000
 甘虫	kam thang5	5000
 甘蜜	kam bit8	2000
+甘蟲	kam thang5	2000
+甜料	tiam5 liou7	2000
 甜糕	tiam5 ko	2000
+生㿗	senn thue5	2000
 生事	senn sur7	5000
+生份儂	chhenn hun7 nang5	2000
 生份儂	chhenn hun7 nang5	4000
 生分儂	chhenn hun7 nang5	5000
-生理	seng li2	5000
-生理儂	seng li2 nang5	5000
+生囝	senn kiann2	2000
+生囝母	senn kiann bo2	2000
+生成	senn seng5	2000
+生日	senn jit8	2000
+生物	senn mueh8	2000
+生理	seng li2	2000
+生理儂	seng li2 nang5	2000
 生疑	chhi gi5	5000
 生瘋	senn huang	2000
 生矾	chhenn huan5	5000
-生菜	chhenn tshai3	5000
+生礬	chhenn huan5	2000
+生膿	pu6 lang5	2000
+生菜	chhenn tshai3	2000
 生鉎	senn san	5000
+生銹	senn san	2000
+生鐵	chhenn thih	2000
 生𥐥	chhenn huan5	4000
+產業	suann2 ngiap8	2000
 甦醒	sou chhenn2	2000
 用盡	eng7 chin6	2000
+田主	tshan5 tsu2	2000
+田園	tshan5 hng5	2000
 畏	ui3	5000
-畏凊	ui3 chhin3	5000
+畏凊	ui3 chhin3	2000
+畏死	ui3 si2	2000
+畏羞恥	ui3 siou2 li2	2000
 留辮	lau5 pinn	600
 畧好	iau2 ho2	100
+畧好	iou2 ho2	2000
 畨人	huan nang5	80
 畨梘	huan kang2	1600
 畨梨	huan lai5	4000
@@ -1038,15 +2156,23 @@ use_preset_vocabulary:	false
 畨葛	huan kuah	1600
 畨薯	huan tsur5	4000
 番人	huan nang5	100
+番儂	huan nang5	2000
+番布	huan pou3	2000
 番梘	huan kang2	2000
+番梨	huan lai5	2000
 番梨	huan lai5	5000
+番爿	huan poinn5	2000
 番瓜	huan kue	2000
 番葛	huan kuah	2000
+番薯	huan tsur5	2000
 番薯	huan tsur5	5000
+畫像	ue7 sienn3	2000
+畫尪囝	ue7 ang kiann2	2000
 當	tng3	2000
-當主	tng3 tsu2	100
+當主	tng3 tsu2	2000
 當初	tng tsho	5000
 當家	tng ke	4000
+當舖	tng3 phou3	2000
 疥	koi3	5000
 痀腰	ku ie	4000
 病癒	penn7 zu2	2000
@@ -1054,367 +2180,735 @@ use_preset_vocabulary:	false
 痒癲	kuan3 pien	2000
 痔	thi6	5000
 痞囝	phai2 kiann2	5000
-痢疾	li6 chit	5000
+痢疾	li6 chit	2000
 痱	bui3	5000
 痲瘋	mua5 huang	600
 瘋痛	huang thiann3	2000
-瘟瘴	un chiang3	5000
+瘟疫	un chiang3	2000
+瘟瘴	un chiang3	2000
 瘡	tshng	5000
 瘤	liu5	5000
 癡呆	chhi ngai5	600
 癥結	teng kat	1200
 癩瘑	thai2 ko	600
+癩瘑寮	thai2 ko liou5	2000
 癬	sien2	5000
+癱瘓	kuan3 pien	2000
 癲	siau2	5000
-發燒	huat sie	5000
+登位	teng ui7	2000
+登基	teng ki	2000
+發燒	huat sie	2000
 發現	huat hin7	5000
+白呢	peh8 ninn5	2000
+白布	peh8 pou3	2000
+白油	peh8 iu5	2000
+白發	peh8 huat	2000
 白發其	peh8 huat kai5	2000
 白矾	peh8 huan5	5000
+白礬	peh8 huan5	2000
+白竹紙	peh8 tek tsua2	2000
+白糖	peh8 thng5	2000
 白肉	peh8 nek8	5000
+白菜	peh8 tshai3	2000
+白蜡	peh8 lah8	2000
+白話	peh8 ue7	2000
+白鉛	peh8 in5	2000
+白鐵	peh8 thih	2000
+白鐵㼦	peh8 thih kong2	2000
+白鐵盒	peh8 thih ap8	2000
 白𥐥	peh8 huan5	4000
+百姓	peh senn3	2000
+皇上	uang2 siang6	2000
 皇后	huang5 hou6	600
+皇帝	huang5 ti3	2000
+皮箱	phue5 sienn	2000
 皺紗	jiau3 se	5000
+皺紗	jiou3 se	2000
 盎司	ong3 si	600
 盎然	ang3 jien5	600
-盤囝	puann5 kiann2	5000
+盜取	thau khieh8	2000
+盤囝	puann5 kiann2	2000
 盤數	puann5 siau3	100
+盤數	puann5 siou3	2000
+盤碗	puann5 uann2	2000
 盪喙	tng6 chhui3	2000
-目仁	mak8 jin5	5000
-目實	mak8 sit8	5000
-目汁	mak8 tsap	5000
+目仁	mak8 jin5	2000
+目實	mak8 sit8	2000
+目毛	mak8 chhi3 monn5	2000
+目汁	mak8 tsap	2000
+目澀	mak8 siap	2000
 目澀	mak8 siap	4000
 目澁	mak8 siap	5000
+目痛	mak8 thiann3	2000
 目的	mak8 tek8	2000
-目眉	mak8 bai5	5000
+目皮	mak8 chiu phue5	2000
+目眉	mak8 bai5	2000
 目眥毛	mak8 chhi3 mo5	2000
 目睭	mak8 chiu	2000
+目睭澀	mak8 chiu siap	2000
 目睭皮	mak8 chiu phue5	100
-目鏡	mak8 kiann3	5000
+目睭花	mak8 chiu hue	2000
+目鏡	mak8 kiann3	2000
 目𥍆	mak8 siap	3200
-盯綴	teng tue3	5000
+盯綴	teng tue3	2000
+盯綴的儂	teng tue3 kai5 nang5	2000
 直腸	tit8 chhiang5	600
-直透	tit8 thau3	5000
+直透	tit8 thau3	2000
 相䛩	sie a3	5000
-相借問	sie chieh mng7	5000
-相刣	sie thai5	5000
+相争	sie chenn	2000
+相代	sie thoi3	2000
+相借問	sie chieh mng7	2000
+相刣	sie thai5	2000
+相别	siang piet8	2000
 相剋	siang khiok	2000
+相同	siang tang5	5000
 相同	sie tang5	5000
-相拍	sie phah	5000
-相接	sie chiap	5000
+相告	sie ko3	2000
+相對	sie tui3	2000
+相幫	siang pang	2000
+相拍	sie phah	2000
+相接	sie chiap	2000
+相接	sie sua3	2000
+相撞着	sie tsuang6 tieh8	2000
+相擠	sie chinn3	2000
 相沖	siang tshong	2000
+相熟的儂	siang sek8 kai5 nang5	2000
+相爭	sie chenn	2000
 相等	siang teng2	5000
-相罵	sie menn7	5000
+相罵	sie menn7	2000
+相見	sie kinn3	2000
+相詏	sie a3	2000
 相輔	sie hu6	2000
-相輸	sie su	5000
+相輪	sie lun5	2000
+相輸	sie su	2000
+相鬥	sie tau3	2000
+眞實	chin sit8	2000
 眠床	min5 tshng5	5000
+眠牀	min5 tshng5	2000
 眠起	meng5 khi2	5000
-眩船	hin5 tsun5	5000
-眼在	ngan2 tsai6	5000
+眩船	hin5 tsun5	2000
+眼在	ngan2 tsai6	2000
+眾儂	cheng3 nang5	2000
+眾牲	cheng senn	2000
 眾生	cheng senn	5000
 着	tieh8	5000
+着力	tih8 lat8	2000
+着命	tieh8 miann7	2000
+着火	toh8 hue2	2000
+着火燒	tieh8 hue2 sie	2000
 着痧	tieh8 sua	2000
 睇	thoinn2	5000
+睇書	thoinn2 tsur	2000
 睇書房	thoinn2 tsur pang5	2000
+睇毋上	thoinn2 m6 chienn6	2000
+睇無目	thoinn2 bo5 mak8	2000
+睇聖婆	thoinn2 siann3 phua5	2000
+睇輕	thoinn2 khin	2000
+睇重	thoinn2 tong6	2000
 督工	tok kang	2000
+瞑起	meng5 khi2	2000
+瞑起早旰	meng5 khi2 tsa2 kua3	2000
 瞭望	liau5 mo7	600
 瞭解	liau2 koi3	2000
 矇矓	mong5 long5	600
 矇騙	mong5 phien3	600
+知亞	tsai a	2000
+知儂情	tsai nang5 chheng5	2000
+知府	ti hu2	2000
 知觀	tsai kuan	2000
+石亭	chieh8 teng5	2000
 石榴	sieh8 liu5	5000
-石部	chieh8 pou6	5000
+石灰	chieh8 hue	2000
+石膏	chieh8 ko	2000
+石路	chieh8 lou7	2000
+石部	chieh8 pou6	2000
+石鼠	chieh8 tshur2	2000
 研平	ngoinn2 penn5	600
 砧	tiam	5000
 砲彈	phau3 than5	2000
-破家囝	phua3 ke kiann2	5000
-破病	phua3 penn7	5000
+破家囝	phua3 ke kiann2	2000
+破布	phua3 pou3	2000
+破掉	phua3 tiou3	2000
+破病	phua3 penn7	2000
+破相	phua3 sienn3	2000
 破相	pua3 sienn3	5000
+破碎碎	phua3 tshui3 tshui3	2000
 破錢	phua3 chinn5	5000
+破鏡	phua3 kiann3	2000
+硃砂	tsu sa	2000
 硝	siau	5000
-碗公	uann2 kong	5000
+硫磺	liu5 ng5	2000
+硬掠	nge6 liah8	2000
+硬欲	nge6 ainn3	2000
+硬腳	nge6 kioh	2000
+碗公	uann2 kong	2000
+碟囝	tih8 kiann2	2000
+碰着	tiann tieh5	2000
+碰着	tiann tieh8	2000
 碰鰾	phong3 phie6	2000
+碼囝	be2 kiann2	2000
+碼子	be2 chi2	2000
+碼頭	be2 thau5	2000
 磅礴	phang5 poh8	600
+磚窯	tsng ie5	2000
+磨刀石	bua5 to chieh8	2000
+磨石	bo7 chieh2	2000
 磽	khiau	5000
+祈禱	khi5 tau2	2000
+祖公	tsou2 kong	2000
+祖家信	tsou2 ke sin3	2000
+祖母	tsou2 bo2	2000
+祖父	tsou2 pe6	2000
+神明	sin5 meng5	2000
+神父	sin5 hu6	2000
+神詩	sin5 si	2000
 神采	sin5 tshai2	2000
+神龕	sin5 kham	2000
+祠堂	sur5 tng5	2000
 禁口	kim3 khau2	2000
+禁子	kim3 chi2	2000
 禁港	kim2 kang2	5000
+禁港	kim3 kang2	2000
+禁監	kim3 kam	2000
+福氣	hok khi3	2000
 禮拜	loi2 pai3	2000
 禮拜堂	loi2 pai3 tng5	2000
-禽獸	khim5 siu3	5000
+禮數	loi2 siou3	2000
+禽獸	khim5 siu3	2000
 禿掌	thok chiann2	5000
 秀才	siu3 tsai5	600
+私下	sai e6	2000
+私事	sai sur7	2000
 私家	sai khia	2000
 私家	sai khia	5000
 私家錢	sai khia chinn5	5000
+私心	sai sim	2000
 秋分	chhiu hun	5000
+租船	tsou tsun5	2000
+秤錘	chhin3 thui5	2000
 稅	sue3	5000
-稅務司	sue3 bu6 si	100
+稅務司	sue3 bu6 si	2000
+稅糧	lap8 nienn5	2000
+種作	cheng3 tsoh	2000
 種珠	cheng3 tsu	2000
+種豆	cheng3 tau7	2000
 稱呼	chheng hu	5000
 稱職	chheng3 cheh	1200
 稱誦	o lo2	5000
+穀倉	chhek tshng	2000
+積惡	chek ak	2000
 穢	ue3	5000
+穢褻	nah sap	2000
 穩當	un2 tng3	5000
+空壳	khang khak	2000
 空肚	khang tou2	5000
 穿耳	tshng hinn6	600
 穿衫褲	chheng7 sann khou3	5000
 穿鑿	tshuan tshak8	2000
 窓	theng	4000
 窗	theng	5000
+窸窣	sih8 suh8	2000
+立約	lip8 ieh	2000
+童乩	tang5 ki	2000
+童生	thong5 seng	2000
+童身	tang5 sin	2000
+竹器	tek khi3	2000
 竹排	tek pai5	5000
+竹椅	tek inn2	2000
+竹炮	tek phau3	2000
+竹牌	tek pai5	2000
 竹牌	tek pai5	4000
-竹蔗	tek chia3	5000
+竹笋	tek sun2	2000
+竹篙	tek ko	2000
+竹篙噠	tek ko that	2000
+竹蔗	tek chia3	2000
+第一	toinn6 it	2000
+第一好	toinn6 it ho2	2000
+第二	toinn6 ji7	2000
 筅	tshoinn2	5000
 筅塵	tshoinn2 thun5	600
+筆架	pit ke3	2000
 筆桿	pit kuann	600
 等待	tan2 thai6	2000
 等我	theng6 ua2	600
 筋	kurn	5000
-答背	tah pue3	5000
+筒架	tang6 ke3	2000
+答背	tah pue3	2000
+箍數	khou siou3	2000
+箍桶	khou thang2	2000
 算摩	sng3 bua5	2000
 算數	sng2 siau3	5000
+算數	sng2 siou3	2000
+算歇	sng3 hiah	2000
+算盤	sng3 puann5	2000
+管藥機的儂	kuan2 ieh8 kui2 kai5 nang5	2000
 箸	tur7	5000
+節度	tsat tou7	2000
 簥	kie5	5000
+簸箕	pua3 ki	2000
 簽名	chhiam miann5	5000
 簾簾	liam5 liam5	600
-簿囝	phou6 kiann2	5000
+簿囝	phou6 kiann2	2000
 籐牌	tin pai5	5000
 籤詩	chhiam si	600
+米篩	bi2 thai	2000
+米籮	bi2 lo5	2000
 粉鳥	hun2 chiau2	5000
+粉鳥	hun2 chiou2	2000
 粗	tshou	5000
+粗略	tsho2 liak8	2000
 粗笨	tshou pun6	2000
 粗笨	tshou pun6	5000
+粗糠	tshou khng	2000
 粟倉	chhek tshng	2000
+粮差	nienn5 chhe	2000
 粿	kue2	5000
 糊塗	hu5 thu5	2000
+糖扣	thng5 kha3	2000
+糖料	thng5 liou7	2000
+糖水	thng5 tsui2	2000
+糖罐	thng5 kuan3	2000
 糜	muenn5	5000
-糞斗	pun3 tau2	5000
-糞箕	pun3 ki	5000
+糜腳	minn5 kha	2000
+糞斗	pun3 tau2	2000
+糞箕	pun3 ki	2000
+糞耙	pun3 pe5	2000
 系統	hi6 thong2	5000
+紀念	ki3 liam6	2000
 約	ieh	5000
+約字	ieh ji7	2000
 約量	iak liang6	2000
-紅藥	ang5 ieh8	5000
+紅心	ang5 sim	2000
+紅磚	ang5 tsng	2000
+紅花女	ang5 hue nng2	2000
+紅藥	ang5 ieh8	2000
 紅銅	ang5 tang5	2000
 紅頭船	ang5 thau5 tsun5	2000
+紅鰽	ang5 tso5	2000
 納餉	lap8 hiang3	2000
-紙字	tsua2 ji7	5000
+紙字	tsua2 ji7	2000
 紙扇	tsua2 sinn3	2000
-紙煤	tsua2 bue5	5000
-紙花	tsua2 hue	5000
+紙煤	tsua2 bue5	2000
+紙牌	tsua2 pai5	2000
+紙花	tsua2 hue	2000
+紙輦燈	chua2 luan2 teng	2000
+紜紜	un5 un5	2000
 紡	phang2	5000
 索	soh	5000
-索囝	soh kiann2	5000
+索囝	soh kiann2	2000
+累汝	lui7 lur2	2000
 累積	lui2 cheh	600
 細	soi3	5000
-細字	soi3 ji7	5000
+細囝	soi3 kiann2	2000
+細姑	soi3 kou	2000
+細姨	soi3 i5	2000
+細字	soi3 ji7	2000
+細官	soi3 kuann	2000
 細緻	soi3 ti3	2000
-終久	tsong ku2	5000
-結凍	kit tang3	5000
+細舅	soi3 ku6	2000
+細詳	soi3 siang5	2000
+終久	tsong ku2	2000
+絆着	kue5 tieh8	2000
+絆鞭	phuan5 pinn	2000
+結凍	kit tang3	2000
 結疕	kit phi2	5000
+絞死	liu5 si2	2000
 絨	zong5	5000
+絲線	si suann3	2000
+綁腳䥥	pang2 kha liam5	2000
+綉花	siu3 hue	2000
+綑條	kun2 tiou5	2000
+經布	kenn pou3	2000
 經歷	keng leh8	2000
 綱膠	mang7 ka	2000
 綱黑	mang7 hek	2000
-緣故	uan5 ku3	5000
+線索	suann3 soh	2000
+緞鞋	tng7 oi5	2000
+緣故	uan5 ku3	2000
 縛	pak8	5000
+縛船	pak8 tsun5	2000
+縣官	kuinn7 kuann	2000
 縫	thinn7	5000
 縻	minn5	5000
+總督	tsong2 tok	2000
 總簿	tsong2 phou6	2000
+繡花	siu3 hue	2000
+繼母	ki3 bo2	2000
+繼父	ki3 pe6	2000
+纏腳	tinn5 kha	2000
+缺喙	khih tshui3	2000
 缺嘴	khih tshui3	5000
 罕得	han2 tit	2000
 罪惡	tsue6 ak	5000
 罪惡纍纍	tsue6 ak lui2 lui2	1200
 置營	ti3 iann5	2000
-羅經	lo5 kenn	5000
+罰銀	huat8 ngurn5	2000
+罷職	pa6 cheh	2000
+羅絲轉	lo5 si zuan2	2000
+羅絲釘	lo5 si teng	2000
+羅經	lo5 kenn	2000
+羅網	lo5 mang7	2000
+羊毛	ienn5 monn5	2000
 羔丕	ko pi5	2000
 羔丕磨	ko pi5 bo7	2000
+羔丕罐	ko pi5 kuan3	2000
 義塚	ngi6 thong2	600
 羼隊	tshan6 tui7	2000
+羽毛	u2 monn5	2000
+羽紗	u2 se	2000
+羽綾	u2 leng5	2000
 翁姐	ang chia2	5000
 翁姐	ang chia2	600
 翁姐囝	ang chia2 kiann2	5000
 翕	hip	5000
+翕死	hip si2	2000
 翹楚	khiau5 tsho2	5000
+翹楚	khiou5 tsho2	2000
+翹頭絲	khiou3 thau5 si	2000
 老人柺	lau6 nang5 kuai2	2000
+老伯	lau6 peh	2000
+老公	lau6 kong	2000
+老叔	lau6 chek	2000
+老姑	lau6 kou	2000
+老媽	lau6 mann2	2000
+老實	lau2 sit8	2000
+老爺	lau6 ia5	2000
+老爺宮	lau6 ia5 keng	2000
 老蚌生珠	lau6 hong2 senn tsu	2000
 老闆	lau6 pan2	5000
+老鼠	ngiou2 tshur2	2000
+老鼠觸	ngiou2 tshur2 tak	2000
 考	khau2	5000
+考問	khau2 mng7	2000
 耍	sng2	5000
-耳鈎	hinn6 kau	5000
+耐毋去	nainn6 m6 khur3	2000
+耕作	kenn tsoh	2000
+耳環	hinn6 huann5	2000
+耳空	hinn6 khang	2000
+耳聾	hinn6 lang5	2000
+耳鈎	hinn6 kau	2000
+耶穌	ia5 sou	2000
+耶穌教	ia5 sou ka3	2000
+聖堂	seng3 tng5	2000
+聖書	siann3 tsur	2000
+聖會	siann3 hue6	2000
+聖神	siann3 sin5	2000
+聘金	phiann3 kim	2000
 聯繫	lien5 hi6	2000
 聲調	siann tiau7	600
 職任	cheh jim6	2000
 職銜	cheh ham5	2000
+聽造化	theng3 tsau6 hue3	2000
+肉桂	nek8 kui3	2000
 肉脞	nek8 tsho7	5000
 肚困	tou2 khun3	5000
 肚漏	tou2 lau3	2000
+肚澀	tou2 siap	2000
 肚澁	tou2 siap	5000
-肚痛	tou2 thiann3	5000
+肚痛	tou2 thiann3	2000
+肚腰	toi2 ie	2000
+肚臍	tou2 tsai5	2000
 肝	kuann	5000
 肨	phong3	5000
 肩膀	koinn pang2	2000
-肩頭	koinn thau5	5000
+肩頭	koinn thau5	2000
 背包	pi3 pau	1200
 背誦	pue3 song6	2000
 胕腫	pu6 cheng2	5000
-胡椒	hu5 chie	2000
+胡椒	hou5 chie	600
 胡說	hu5 sueh	2000
 胡適	ou5 sek	600
-胳胴下	koh lang5 e6	100
+胭泥	in ninn5	2000
+胭脂	in chi	2000
+胳胴下	koh lang5 e6	2000
 能爲	leng5 ui5	5000
 脉	mehnn2	5000
 脢肉	bue5 nek8	5000
 脧	tsui6	5000
-脫孝	thut ha3	5000
+脫去	lut khur3	2000
+脫孝	thut ha3	2000
 脹肚	tienn3 tou2	5000
 腈肉	chiann nek8	5000
-腎子	sienn6 chi2	5000
+腎子	sienn6 chi2	2000
 腡	lo5	5000
 腥	chhenn	5000
 腰佝	ie ku	5000
 腰痀	ie ku	4000
-腰骨	ie kut	5000
+腰脊骨	ie chiah kut	2000
+腰骨	ie kut	2000
+腰龜	ie ku	2000
 腳	kha	4000
+腳底	kha toi2	2000
+腳廉	kha liam5	2000
+腳後跟	kha au6 tenn	2000
+腳拷	kha khau3	2000
+腳桶	kha thang2	2000
 腳桶	kha thang2	4000
+腳目	kha mak8	2000
 腳目	kha mak8	4000
 腳腸肚	kha tng5 tou2	4000
+腳腿	kha thui2	2000
 腳腿	kha thui2	4000
 腳臁	kha niam5	4000
+腳趾	kha tsoinn2	2000
 腳趾	kha tsoinn2	4000
 腳踏椅	kha tah8 inn2	1600
+腳踏椅	kha tah8 inn2	2000
 腳蹯	kha puann5	4000
+腳頭趺	kha thau5 u	2000
 腳頭趺	kha thau5 u	4000
 腳𢅎	kha kiau2	80
 腸粉	tng5 hun2	2000
 膀胱	phang5 kuang	600
+膏藥	ko ieh8	2000
 膠離	ka li5	4000
+膠𤿤	ka pua3	2000
 臊	tsho	5000
 臟器	tsang6 khi3	2000
 臥房	ut8 pang5	2000
+臨時	lin5 si5	2000
 自來火	tsur6 lai5 hue2	2000
 自怨自艾	tsur6 uan3 tsur6 ngai6	600
-自盡	tsur6 chin6	5000
-臭儂	tshau3 nang5	5000
+自然	tsur6 jien5	2000
+自盡	tsur6 chin6	2000
+自誇	la ke3	2000
+臭儂	tshau3 nang5	2000
+臭臊	tshau3 tsho	2000
+臭頭	tshau3 thau5	2000
 致使	ti3 sai3	5000
 臺灣	thai5 uan	600
+臼囝	khu6 kiann2	2000
+舀掉水	ie2 tiou7 tsui2	2000
+興旺	heng uang6	2000
+興盛	heng seng6	2000
+舉荐	kur2 chin3	2000
+舊約	ku7 ieh	2000
 舖	phou3	5000
+舖櫃	phou3 kuinn7	2000
 舖面	phou3 min7	2000
+舖頭	phou3 thau5	2000
 舢板	sam pan2	600
 舵	tua6	5000
 舵工	tai6 kong	2000
-船主	tsun5 tsu2	5000
-船囝	tsun5 kiann2	5000
+舵舡	tai6 kong	2000
+船主	tsun5 tsu2	2000
+船囝	tsun5 kiann2	2000
+船尾	tsun5 bue2	2000
+船尾樓	tsun5 bue2 lau5	2000
 船租	tsun5 tsou	2000
+船鎮中	tsun5 tin3 tang	2000
+船頂	tsun5 teng2	2000
+船頭	tsun5 thau5	2000
+艱苦	kan khou2	2000
 色料	sek liau7	5000
+色料	sek liou7	2000
 艾滋病	ainn3 tsur penn7	600
-芎蕉	keng chie	5000
+芎蕉	keng chie	2000
 芥辣	kai3 luah8	2000
 芥辣	kai3 luah8	5000
 花嘴	hue tshui3	2000
+花園	hue hng5	2000
 花娘	hue nienn5	100
-花布	hue pou3	5000
-花干	hue kan	100
+花布	hue pou3	2000
+花干	hue kan	2000
 花旦	hue tuann3	600
+花會	hue hue6	2000
 花貓	hue niaunn	2000
+花貓	hue niounn	2000
+花露水	hue lou7 tsui2	2000
+花鞋	hue oi5	2000
 芳	phang	5000
-芳水	phang tsui2	5000
-苡米	iunn3 bi2	5000
+芳水	phang tsui2	2000
+芳菜	phang tshai3	2000
+芳葉	phang hieh8	2000
+芹菜	khurn5 tshai3	2000
+苡米	iunn3 bi2	2000
 若㩼	jieh8 tsoi7	5000
-若是	nann7 si6	5000
+若是	nann7 si6	2000
+苦命	khou2 miann7	2000
+苦瓜	khou2 kue	2000
 范仲淹	huam6 tong6 im	600
 茅	mo	2000
 茅草	mo tshau2	2000
+茉莉	bak8 li6	2000
+茘果	noinn5 kue2	2000
 茶几	te5 ki2	2000
+茶匙	te5 si5	2000
+茶枳枯	te5 chi2 khou	2000
 茶盅	te6 cheng	5000
 茶礶	te5 kuan3	5000
-茶米	te5 bi2	5000
+茶米	te5 bi2	2000
+茶罐	te5 kuan3	2000
+茶花	te5 hue	2000
+茶鍾	te6 cheng	2000
 茹	zur5	5000
-草埔	tshau2 pou	5000
+草埔	tshau2 pou	2000
+草場	tshau2 tienn5	2000
+草字	tsho2 ji7	2000
+草寮	tshau2 liou2	2000
+草帽	tshau2 bo7	2000
 草木	tshau2 bak8	3000
+草眼	tshau2 ngan2	2000
 草稿	tsho2 ko2	2000
+草蓆	tshau2 chhieh8	2000
+草蟒	tshau2 menn2	2000
+草鞋	tshau2 oi5	2000
 荒喪	tak nng7	5000
+荒拉無歇	hng lah8 bo2 heh	2000
 荒險	hong hiam2	5000
 荔果	noinn5 kue2	5000
 荔菓	noinn5 kue2	4000
 荖枳	lau2 chi2	2000
 荖葉	lau2 hieh8	2000
+荷包	ho5 pau	2000
 荷蘭荳	ho5 lan tau7	5000
-荷蘭薯	ho5 lan tsur5	100
-莞荽	uan5 sui	5000
+荷蘭薯	ho5 lan tsur5	2000
+荷蘭豆	ho5 lan tau7	2000
+莞荽	uan5 sui	2000
+菊花	kek hue	2000
 菓子	kue2 chi2	4000
+菜脯	tshai3 pou2	2000
 菜荳	tshai3 tau7	5000
-菜頭	tshai3 thau5	5000
+菜豆	tshai3 tau7	2000
+菜頭	tshai3 thau5	2000
 菜頭槁	tshai3 thau5 khau2	5000
+菝囝	pat8 kiann2	2000
 菰	kou	5000
+菱角	noinn2 kak	2000
+萄葡	phu5 tho5	2000
 萬世	buan7 si3	2000
 落	loh8	5000
-落價	loh8 ke3	5000
-落本	loh8 png2	5000
-落產	loh8 suann2	5000
+落價	loh8 ke3	2000
+落本	loh8 png2	2000
+落產	loh8 suann2	2000
 落神婆	loh8 sin5 phua5	2000
-落船	loh8 tsun5	5000
-落色	loh8 sek	5000
+落船	loh8 tsun5	2000
+落色	loh8 sek	2000
 落雹	loh8 phak8	5000
+落馬	loh8 be2	2000
+葉鍱	hiap8 tiap8	2000
+著書	tu3 tsur	2000
+葡萄干	phu5 tho5 kuann	2000
+葱頭	tshang thau5	2000
+葵扇	kue5 sinn5	2000
 葵笠	koih8 loih8	2000
 蒙古	mong5 kou2	2000
 蒙難	mong5 lan7	2000
+蒜頭	sng3 thau5	2000
+蒼白	tshang peh8	2000
+蓋印	khap in3	2000
+蓮子	noinn5 chi2	2000
+蓮花	noinn5 hue	2000
 蓮茭	noinn5 kau6	600
 蓮角	noinn5 kak	5000
 蔗粕	chia3 phoh	5000
 蔫	iang	5000
 薄	poh8	5000
 薄荷	po5 ho3	600
+薄荷油	po5 ho3 iu5	2000
 薄近	pek kurn6	600
 薑薯	kienn tsur5	600
-薟椒	hiam chie	5000
+薟椒	hiam chie	2000
+薰屎	hun sai2	2000
+薰筒	hun tang2	2000
+薰筒	in tang5	2000
+薺葱	chinn5 tshang	2000
 薺蔥	chinn5 tshang	5000
 藉口	chia6 khau2	2000
+藕粉	ngou2 hun2	2000
+藤牌	tin5 pai5	2000
+藥丸	ieh8 inn2	2000
+藥單	ieh8 tuann	2000
+藥方	ieh8 hng	2000
+藥末	ieh8 buah8	2000
+藥機	ieh8 kui2	2000
+藥粉	ieh8 hun2	2000
 藥鬼	ieh8 kui2	100
 蘇州	sou chiu	1200
 蘊藏	un2 tshang5	2000
 蘿蔔	lo5 pok8	600
+虎牢	hounn2 lo5	2000
 處理	tshu2 li2	5000
+虱箆	sat pin3	2000
 虹	kheng6	5000
+虼蚤	ka tsau2	2000
+虼蚻	ka tsuah8	2000
+蛤婆	kap po5	2000
 蛺蝶	hiap8 tiap8	2000
 蜂岫	phang siu7	5000
-蜈蜞	hou5 khi5	5000
-蝕本	sih8 png2	5000
-蠔壳鏡	o5 khak kiann3	5000
-蠔珠	o5 tsu	5000
-蠟蔗	lah8 chia3	5000
+蜂巢	phang siu7	2000
+蜈蚣	ge5 kang	2000
+蜈蜞	hou5 khi5	2000
+蜘蛛	ti tu	2000
+蜘蛛絲	ti tu si	2000
+蝎囝	hiet kiann2	2000
+蝕本	sih8 png2	2000
+蝦米	he5 bi2	2000
+蝴蠅	hou5 sin5	2000
+蠐龍	chinn5 leng5	2000
+蠓帳	mang2 tiann3	2000
+蠓帳鈎	mang2 tiann3 kau	2000
+蠔壳鏡	o5 khak kiann3	2000
+蠔珠	o5 tsu	2000
+蠟蔗	lah8 chia3	2000
+血脈	hueh mehnn8	2000
 血脉	hueh mehnn2	5000
 衊着	mak tieh8	2000
+衊着垃圾	mak tieh8 nah sap	2000
 衋心	kek sim	5000
 行	kiann5	10000
-行孝	kiann5 hau3	5000
+行和	kiann5 hua5	2000
+行孝	kiann5 hau3	2000
 行差路	kiann5 tann7 lou7	2000
+行情	hang5 chheng5	2000
+行摩	kiann5 bua5	2000
+行李	heng5 li2	2000
 行止	heng6 chi2	5000
+行爲	kiann5 ui5	2000
+行猛在	kiann5 menn2 tsai6	2000
+行禮	kiann5 loi2	2000
 行船人	kiann5 tsun5 nang5	5000
+行船儂	kiann5 tsun5 nang5	2000
+行走	kiann5 tsau2	2000
 行踏	kiann5 tah8	5000
-街市	koi chhi6	5000
+街市	koi chhi6	2000
+衙門	ge5 mng5	2000
 衚衕	hu5 thong5	600
 衝勁	tshong3 kenn3	1200
 衝性	cheng3 senn5	5000
 衝擊	tshong khek	2000
 衣襬	i pai2	600
+表伯	pie3 peh	2000
 表兄	pie2 hiann	4000
+表兄弟	pie2 hiann ti6	2000
+表叔	pie3 chek	2000
+表姊妹	pie2 chi2 muenn7	2000
+表姐妹	pie2 che2 muenn7	2000
+表明	piou2 meng5	2000
 表示	piau2 si7	5000
-衫䘼	sann ng2	5000
+衫䘼	sann ng2	2000
 衫吊	sann tiau3	2000
-衫袋	sann to7	5000
+衫吊	sann tiou3	2000
+衫袋	sann to7	2000
 衫裾	sann kur	2000
-衫褲	sann khou3	5000
+衫褲	sann khou3	2000
 衰疲	sue phi5	5000
 衰颯	sue sap	5000
 袂	boi6	10000
+袂使	boi6 sai2	2000
 袂孬	boi6 mo2	5000
-被告	pi6 kau3	5000
+袂消	boi6 siou	2000
+袂無班母	boi6 bo5 pan bo2	2000
+袂過分	boi6 kue3 hun7	2000
+袂食	boi6 chiah8	2000
 被告	pi6 ko3	5000
 被席	phue6 chhieh8	2000
-袷囝	kah kiann2	5000
+袷囝	kah kiann2	2000
+裁縫	tshai5 hong5	2000
 裏底	lai6 toi2	5000
 裏衣	lai6 i	4000
 裘	hiunn5	5000
+補鞋	pou2 oi5	2000
 裝奩	tsng liam5	600
 裡底	lai6 toi2	5000
 裡衣	lai6 i	4000
@@ -1422,29 +2916,58 @@ use_preset_vocabulary:	false
 複雜	hok tsap8	5000
 褥	zok8	5000
 褪	thng3	5000
+褪色	tho3 sek	2000
+褪赤腳	thng3 chiah kha	2000
+褪赤赤	thng3 theh theh	2000
+褲吊	khou3 tiou3	2000
 褲帶	khou3 tua7	5000
 褲橛	khou3 kueh8	5000
 褲橛	khou3 kueh8	600
 褲腳	khou3 kha	4000
+褲腿	khou3 thui2	2000
+褲頭帶	khou3 thau5 tua7	2000
+褲頭綾	khou3 thau5 leng2	2000
 褲骹	khou3 kha	5000
 褻讀	siet tok8	600
 襇	koinn2	2000
 襊	tsue7	2000
+西國紙	sai kok tsua2	2000
+西瓜	si kue	2000
 要衝	iau3 tshong	2000
 覆蓋	hok8 khoinn3	4000
 見笑	kien3 siau3	5000
-規矩	kui kur2	5000
+見笑	kien3 siou3	2000
+規條	kui tiou5	2000
+規矩	kui kur2	2000
 規範	kui huam6	2000
+覓着	tshue7 tieh8	2000
 覔	tshue7	5000
-親像	chhin chhienn6	5000
+親像	chhin chhienn6	2000
+親儂	chhin nang5	2000
+親姆	chhenn m2	2000
+親家	chhin ke	2000
+親情	chhin chiann5	2000
 親情	chhin chiann6	5000
+親戚	chhin chek	2000
+親戚	chhin chhek	2000
 觀顧	kuan ku3	2000
-角瓜	kak kue	5000
+角瓜	kak kue	2000
+解藥	koi2 ieh8	2000
 解說	koi2 sueh	5000
-計共	koi3 kang7	5000
+計共	koi3 kang7	2000
 計劃	koi3 ueh8	2000
+計謀	koi3 mong5	2000
+記口供	ki3 khau2 keng	2000
+記名	ki3 miann5	2000
+記得	ki3 tit	2000
+記得	kinn3 tit	2000
 記數	ki3 siau3	5000
+記數	ki3 siou3	2000
 訟師	song6 sur	2000
+設出	siet tshut	2000
+設圈套	tienn khuan2 thau3	2000
+設立	siet lip8	2000
+訴來	su2 lai5	2000
 診斷	chien2 tuan3	2000
 註冊	tsu3 chheh	2000
 註解	tsu3 koi2	2000
@@ -1455,294 +2978,591 @@ use_preset_vocabulary:	false
 詞彙	sur5 hue6	2000
 試	chhi3	5000
 試卷	chhi3 kng2	2000
+該算	long2 tsong2 sng3	2000
 誇張	khua chiang	600
+認罪	jin7 tsue6	2000
+認錯	jin7 tsho3	2000
 誑	kuang	2000
+誠實	seng5 sit8	2000
+誣賴	bu7 lua7	2000
 調整	thiau5 chiann2	5000
+請安	chhiann2 uann	2000
 請待	chhiann2 tann2	2000
 諑	tok	5000
 諠嘩	suan hua	600
 諠譁	suan hua	600
 諷刺	hong3 tshng3	600
+諸娘	tsur nienn5	2000
 諸娘	tsur nienn5	5000
+諸娘囝	tsur nienn5 kiann2	2000
 諸母	tsa bou2	600
+諸𡚸	tsa bou2	2000
+諸𡚸館	tsa bou2 kuan2	2000
+講究	kang2 kiu3	2000
 講論	kang2 lun6	2000
+謠言	iou5 ngan5	2000
+謹心	kurn sim	2000
+證據	cheng3 kur6	2000
 譗𧫡	tah8 tih8	5000
 識	pat	4000
-讀經	thak8 keng	5000
+譬相	phi3 sienn3	2000
+議罪	ngi2 tsue6	2000
+讀大書	thak8 tua7 tsur	2000
+讀書儂	thak8 tsur nang5	2000
+讀深書	thak8 chhim tsur	2000
+讀經	thak8 keng	2000
 變化	pien3 hue3	5000
 變面	pinn3 min7	3000
 讓	jiang2	4000
 讚嘆	tsan3 tham3	2000
+豆油	tau7 iu5	2000
 豈	khah	5000
-豉油	si7 iu5	5000
+豉油	si7 iu5	2000
+豉油架	si7 iu5 ke3	2000
 豐盛	hong seng6	2000
-豬哥	tur ko	5000
+象牙	chhienn6 ge5	2000
+豬哥	tur ko	2000
+豬母	tur bo2	2000
+豬牢	tur lo5	2000
+豬肝色	tur kuann sek	2000
 豺狗	sai5 kau2	600
 豺狼	tshai5 lang5	600
+貓呅笑	ba bun chhie3	2000
 貓頭鳥	ngiau thau5 chiau2	2000
+貓頭鳥	ngiou thau5 chiou2	2000
 負	pi3	5000
-財副	tshai5 hu3	100
-財氣	tshai5 khi3	5000
+財主	tshai5 tsu2	2000
+財副	tshai5 hu3	2000
+財氣	tshai5 khi3	2000
+貢皇帝	kong3 huang5 ti3	2000
 貨	hue3	5000
 貨單	hue3 tuann	2000
+貪心	tham sim	2000
+貪食	tham chiah8	2000
 責罪	cheh tsue7	5000
 貯貨房	tun hue3 pang5	100
 貴	kui3	5000
-買上盤	boi2 chienn7 puann5	100
+貴在	kui3 tsai6	2000
+貴氣	kui3 khi3	2000
+買上盤	boi2 chienn7 puann5	2000
 買客	boi2 kheh	2000
+買無	boi2 bo5	2000
+買賣	boi2 boi7	2000
 買配	bue2 phue3	5000
 賒	chhia	5000
-賜福	sur3 hok	5000
+賜福	sur3 hok	2000
 賞格	sienn2 keh	2000
+賠還	pue5 hoinn5	2000
 賢	gau5	4000
 賢亞娘	gau5 a nienn5	2000
-賣上盤	boi7 chienn7 puann5	100
+賢儂	gau5 nang5	2000
+賢阿娘	gau5 a nienn5	2000
+賣上盤	boi7 chienn7 puann5	2000
+賣平儂	boi7 phinn nang5	2000
 賰	tshun5	5000
 賻錢	puah8 chinn5	5000
 贃	than3	4000
 贊同	tsan3 tang5	1200
-赤糖	chhiah thng5	5000
+贏過	iann5 kue3	2000
+贖罪	sok8 tsue6	2000
+赤糖	chhiah thng5	2000
 赤肉	chhiah nek8	5000
+赤腳	chhiah kha	2000
+赦罪	sia3 tsue6	2000
 走	tsau2	5000
+走去坫	tsau2 khur3 tiam3	2000
+走囝	tsau2 kiann2	2000
+走孫	tsau2 sun	2000
+走文書	tsau2 bun5 tsur	2000
 走餉	tsau2 hiang3	2000
+走馬樓	tsau2 be2 lau5	2000
+走鬼	tsau2 kui2	2000
 起	khi2	10000
-起價	khi2 ke3	5000
+起來	khi2 lai5	2000
+起價	khi2 ke3	2000
+起厝	khi2 tshu3	2000
+起泡	phok pha6	2000
+起火	khi2 hue2	2000
 起程	khi2 thiann5	600
-起頭	khi2 thau5	5000
+起行	khi2 kiann5	2000
+起貨	khi2 hue3	2000
+起身	khi2 sin	2000
+起頭	khi2 thau5	2000
 起鬨	khi2 hong3	600
 趁	than3	5000
 趁機	chien2 ki	1200
 趁錢	than3 chinn5	3000
-趣味	tshu3 bi7	5000
+趣味	tshu3 bi7	2000
 跋涉	puat8 siap8	600
+跋筊	puah8 kiou2	2000
+跋紙牌	puah8 tsua2 pai5	2000
+跋錢	puah8 chinn5	2000
 跌落	ka lauh8	5000
+跟隨	kurn sui5	2000
+跪落去	kui6 loh8 khur3	2000
 路徑	lou7 kenn3	600
 路票	lou7 phie3	2000
 跳脫	thiau3 thut	5000
+踏布	tah8 pou3	2000
+踢球	that kiu5	2000
 踰越	zu5 uat8	600
+蹊𨄅	khi khu	2000
 身分	sin hun7	2000
 身尸	sin si	5000
 身屍	sin si	5000
-身底衫	sin toi2 sann	5000
+身底衫	sin toi2 sann	2000
+身穿	sin chheng3	2000
 車租	chia tsou	5000
+車稅	chhia sue3	2000
 車馬炮	kur be2 phau5	600
+軍火	ke hue2	2000
 軟疕	nng2 ninn5	2000
+較狹	khah oih8	2000
+較緊	khah kin	2000
+較闊	khah khuah	2000
+載貨	tsai3 hue3	2000
 輓聯	man2 lien5	1200
 輕蔑	khin mit8	600
 輕鬆	khin song	5000
 輪	lin2	5000
+輪着底誰	lun5 tieh8 ti5 tiang5	2000
 輸贏	su iann5	5000
 轉	tng2	5000
+辦事	phoinn7 sur7	2000
 辭典	sur5 tien2	5000
+辭掉	si5 tiou3	2000
 辭職	si5 cheh	5000
 辮辮	pinn6 pinn	600
+辯論	pien6 lun6	2000
+辯駁	pien6 poh	2000
 農曆	long5 leh8	1200
 迎老爺	iann5 lau6 ia5	2000
-近覷	kurn6 tshur3	5000
+近視	kurn6 si7	2000
+近覷	kurn6 tshur3	2000
+返轉	huan2 tng2	2000
 迴轉	hue5 tng2	600
 追	jiau7	5000
+退堂	tho2 tng5	2000
+退色	tho3 sek	2000
 送喪	sang3 sng	2000
+送聘	sang3 phiann3	2000
+逃走	thau tsau2	2000
 逃難	to5 lan7	4000
+逆律	ngek8 lut8	2000
+逆流	ngek8 lau5	2000
+逆着	kenn2 tieh8	2000
+逆着喉	kenn2 tieh8 au5	2000
+逆風	ngek8 huang	2000
+透大風	thau3 tua7 huang	2000
 逕入	kenn3 jip8	600
+通事	thong sur7	2000
 通日	thang3 jit8	5000
 通暝	thang3 menn5	5000
+通知	thong tsai	2000
 通身	thong sin	5000
+通風	thong huang	2000
 逝逝	tsua7 tsua7	5000
 速率	sok lut8	5000
+造化	tsau6 hue3	2000
+造船	tso6 tsun5	2000
 週期	chiu khi5	2000
 週末	chiu muat8	2000
-週流	chiu liu5	5000
+週流	chiu liu5	2000
 逾越	zu5 uat8	600
 遊戲	iu5 hi3	2000
 遊蕩	iu5 tang6	2000
+過世	kue3 si3	2000
+過去	kue3 khur3	2000
+過帆	kue3 phang5	2000
+過意	kue3 i3	2000
+過樟	kue3 chienn	2000
 過責	kue3 cheh	5000
+過限	kue3 han6	2000
 過限	kue3 hang6	5000
+道理	to6 li2	2000
+道臺	tau6 thai5	2000
 適意	sek i5	5000
 適當	sek tang3	5000
+遭塌	tak nng7	2000
 選拔	suan2 puat8	600
+邀走	kiou tsau6	2000
+還了	huan5 liou2	2000
 邋遢	lap thap	5000
+邪術	sia5 sut8	2000
 郁達夫	hiok tak8 hu	600
+鄉下儂	hienn e6 nang5	2000
+鄉里	hienn li2	2000
 鄕里	hienn li2	5000
+鄰近	lin5 kurn6	2000
 鄰里	lin5 li2	2000
+配分儂	tso3 pun nang5	2000
 酒帘	chiu2 liam5	600
+酒杯	chiu2 pue	2000
+酒機	chiu2 kui2	2000
 酒罈	chiu2 tham5	600
-酒錢	chiu2 chinn5	5000
+酒錢	chiu2 chinn5	2000
+酒鍾	chiu2 cheng	2000
 酒開	chiu2 khui	5000
 酒麴	chiu2 khek	600
 酥	sou	5000
+酸柑	sng kann	2000
+酸菜	sng tshai3	2000
+醃雞	iam koi	2000
 醜陋	chhiu2 lou6	2000
 醜陋	ia2 ienn7	4000
 醪	lo5	5000
-醫館	ui kuan2	100
-重利	tang6 lai7	5000
+醫生	ui seng	2000
+醫館	ui kuan2	2000
+重傷	tang6 sienn	2000
+重利	tang6 lai7	2000
+重擔	tang6 tann3	2000
+重病	tang7 penn7	2000
 重複	teng5 hok	5000
+重重光	tang6 tang6 kng	2000
+野樣	ia2 ienn7	2000
 野樣	ia2 ienn7	5000
+量地	nienn5 ti7	2000
 金器	kim khui3	2000
+金橄欖	kim kann nann2	2000
+金沙	kim sua	2000
+金鑾殿	kim luan5 toinn7	2000
 釘咬	teng ka6	5000
+釘鉸	teng ka6	2000
 鈕	liu2	5000
 鈕縫	liu2 phang7	5000
 鈕釦	niu2 khau3	600
-鉸刀	ka to	5000
+鈕鈸	liu2 phang7	2000
+鉛子	in5 chi2	2000
+鉛筆	in5 pit	2000
+鉸刀	ka to	2000
+鉸布	ka pou3	2000
+鉸衫褲	ka sann khou3	2000
 銀單	ngurn5 tuann	2000
+銀庫	ngurn5 khou3	2000
+銀水	ngurn5 tsui2	2000
+銀硃	ngurn5 tsu	2000
+銀行	ngurn5 hang5	2000
+銀錠	ngurn5 tiann6	2000
 銃	chheng3	2000
 銃子	chheng3 chi2	2000
 銃空	chheng3 khang	2000
+銃藥	chheng3 ieh8	2000
 銅指	tang5 tsoinn2	2000
+銅線	tang5 suann3	2000
 銅薄	tang5 poh8	2000
 銅薄	tang5 poh8	5000
+銅銀	tang5 ngurn5	2000
+銅鍋	tang5 ue	2000
+銜瓏術	ham5 lam2 sut8	2000
 鋤頭	tur5 thau5	600
+鋪石	phou chieh8	2000
 鋪路	phou lou7	5000
 鋪陳	phou tin5	5000
 鋪陳	phou tin5	600
 鋪頭	phou3 thau5	5000
+鋯絲	kho3 si	2000
+鋸銊	kur3 sut	2000
 錘鍊	tui5 lien7	600
-錫薄	siah poh8	5000
+錢紙	chinn5 tsua2	2000
+錫薄	siah poh8	2000
 錯	tshoh	5000
 錯喉	tshoh au5	600
 錯誤	tsho3 gou7	5000
 錯雜	tshak tsap8	600
 鍋	ue	5000
+鍋囝	ue kiann2	2000
+鍍金	liu7 kim	2000
+鍟鍋	senn ue	2000
 鍾愛	cheng ainn3	2000
+鎏金器	liu7 kim khi3	2000
+鎏銀器	liu7 ngurn5 khi3	2000
 鎖	so2	5000
-鎖匙	so2 si5	5000
+鎖匙	so2 si5	2000
+鎖頭	so2 thau5	2000
 鎦金器	liu7 kim khi3	5000
+鎭中	tin3 tang	2000
+鎭中	tin5 tang	2000
+鎭路	tin3 lou7	2000
 鏇	suan7	100
 鏟平	tshan2 penn5	600
 鏟草	thuann2 tshau2	600
 鐘頭	cheng thau5	5000
-鐵棍	thih kun3	5000
-鐵碎	thih tshui3	5000
-鐵筆	thih pit	100
+鐵匙	thih si5	2000
+鐵棍	thih kun3	2000
+鐵槌	thih thui5	2000
+鐵甲萬	thih kap buan7	2000
+鐵碎	thih tshui3	2000
+鐵筆	thih pit	2000
+鐵貓	thih ngiou	2000
+鐵釘	thih teng	2000
+鐵鈀	thih pe5	2000
+鐵鉗	thih kinn5	2000
 鐵錘	thih thui5	600
+鐵鍊	thih lien7	2000
+鐵鑽	thih chhiam5	2000
 鑤	pau3	100
 鑽囝	tshak8 kiann2	5000
-鑿囝	tshak8 kiann2	5000
+鑽囝	tsng3 kiann2	2000
+鑽空	tsng3 khang	2000
+鑿囝	tshak8 kiann2	2000
 長吁短嘆	chhiang5 u to2 tham3	600
+長命	tng6 miann7	2000
 長大	chiang2 tai6	2000
 長度	chhiang5 tou7	2000
 長短	tng5 to2	2000
+長衫	tng5 sann	2000
 門扇後	mng5 sinn3 au6	5000
-開單	khui tuann	5000
-開帆	khui phang5	5000
+門拴	mng5 chheng7	2000
+門閂	mng5 tshuann3	2000
+閂門	tshuann3 mng5	2000
+開單	khui tuann	2000
+開帆	khui phang5	2000
 開採	khai tshai2	5000
+開放	khai pang3	2000
+開花	khui hue	2000
 開闢	khai phek	2000
+閏月	zun7 gueh8	2000
 閑遊	oinn5 iu5	4000
+閒遊	oinn5 iu5	2000
 閒遊	oinn5 iu5	5000
 間隔	koinn3keh	2000
+閘路	tsah8 lou7	2000
 闊	khuah	5000
 闊達	khuah tak8	5000
 關係	kuan hi6	5000
 關注	kuan tsu3	5000
 阮	un2	10000
 阿㜷	a ni	1600
-阿公	a kong	5000
-阿妗	a kim6	5000
+阿丈	a tienn6	2000
+阿伯	a peh	2000
+阿兄	a hiann	2000
+阿公	a kong	2000
+阿叔	a chek	2000
+阿奴	a nounn	2000
+阿奶	a nainn2	2000
+阿妗	a kim6	2000
+阿妮	a nenn	2000
+阿妹	a muenn7	2000
+阿姆	a m2	2000
+阿姊	a che2	2000
+阿姑	a kou	2000
 阿姨	a ai5	5000
+阿姨	a i5	2000
 阿娘	a nienn5	2000
 阿娘囝	a nienn5 kiann2	2000
 阿媽	a ma2	5000
+阿媽	a mann2	2000
+阿嫂	a so2	2000
 阿嬭	a ni	2000
+阿嬸	a sim2	2000
+阿孥	a nounn5	2000
+阿弟	a ti6	2000
+阿旦	a tuann3	2000
+阿母	a bo2	2000
+阿父	a pe6	2000
+阿爸	a pa	2000
+阿爹	a tia	2000
 阿爺	a ia5	5000
 阿爺阿舍	a ia5 a sia3	2000
+阿總	a tsong2	2000
+阿舅	a ku6	2000
 阿舍	a sia3	100
+阿郞	a nng5	2000
 阿𡟓	a ai5	4000
 陂	pi	5000
+降級	kang3 khip	2000
 除	tur5	5000
+除掉	tur5 tiou3	2000
+除法	tur5 huap	2000
 陳列	thin5 liet8	2000
 陳皮	chhin5 phue5	600
 陸續	lok8 sok8	2000
 陸路	lek8 lou7	2000
 陽車火船	iang5 chhia hue2 tsun5	100
-隔乳	keh ninn6	5000
+隔乳	keh ninn6	2000
 隨便	chhin3 tshai2	5000
+隨時	sui5 si5	2000
+險險	hiam2 hiam2	2000
 雀暝	chiau2 menn5	5000
 雄	hiong5	5000
 雅	ngia2	5000
 雅在	ngia2 tsai6	5000
+雖然	sui jien5	2000
+雙生	sang senn	2000
+雜物	tsap8 mueh8	2000
 雜疾	tsap8 chip8	4000
 雜集	tsap8 chip8	5000
+雞卵粿	koi nng6 kue2	2000
+雞囝	koi kiann2	2000
 雞毛筅	koi mo5 tshoinn2	5000
-雞翁	koi ang	5000
+雞毛筅	koi monn5 tshoinn2	2000
+雞翁	koi ang	2000
+雞鴨	koi ah	2000
+離別	li5 piet5	2000
+離經	li5 keng	2000
 難	oh	5000
+難趁	oh than3	2000
+難醫	oh ui	2000
+雨傘	hou6 suann3	2000
+雨囝	hou6 kiann2	2000
 雨露均霑	hou6 lou7 kurn tiam	600
+雪帽	soh bo7	2000
+雪柑	soh kann	2000
+雪雪白	soh soh peh8	2000
 雲雨	hun5 hou6	5000
 零些	lan5 lo2	2000
+零些	lan5 san	2000
 零些賣	lan5 san boi7	2000
+零碎	tsham3 tshui3	2000
+零須	lan5 lo2	2000
+雷公	lui5 kong	2000
 雹	phak8	5000
+電報	tien6 po3	2000
+電報線	tien6 po3 suann3	2000
 電塗	tien6 thou5	2000
 震盪	chin2 tang6	2000
+霧水	bu7 tsui2	2000
+露水	lou7 tsui2	2000
 霶霈	phang5 phai3	4000
-靈精	leng5 cheng	5000
+靈精	leng5 cheng	2000
+靈魂	leng5 hun5	2000
+靑天	chhenn thinn	2000
+靑布	chhinn2 pou3	2000
+靑盲	chhenn menn5	2000
+靑靑	chhenn chhenn	2000
 青盲	chhenn menn5	5000
+靜靜	chenn6 chenn6	2000
 面	min7	5000
 面䩍䩍青	min7 liau liau chenn	5000
 面子	min7 tsur2	5000
-面布	min7 pou3	5000
-面會	min7 hue6	5000
+面布	min7 pou3	2000
+面會	min7 hue6	2000
+面桶	min7 thang2	2000
+面桶架	min7 thang2 ke3	2000
 面皮	min7 phue5	5000
-面盆	min7 phun5	5000
+面盆	min7 phun5	2000
+面色	min7 sek	2000
 靴楦	hia hun3	600
-鞋拖	oi5 thua	5000
+鞋刷	oi5 sueh	2000
+鞋帶	oi5 tua3	2000
+鞋底	oi5 toi2	2000
+鞋拖	oi5 thua	2000
 鞦韆	chhiu chhien	2000
 鞦韆	chhiu chhien	600
 鞭策	pien chheh	2000
+頃囝	khun3 kiann2	2000
+順流	sun6 lau5	2000
+順風	sun6 huang	2000
 預	ur6	5000
+頓手	tun3 chhiu2	2000
+領事官	niann2 sur7 kuann	2000
+領事府	niann2 sur7 hu2	2000
 頭儂	thau5 nang5	2000
+頭壳碗	thau5 khak uann2	2000
+頭壳髓	thau5 khak tshue2	2000
 頭家	thau5 ke	5000
-頭布	thau2 pou3	5000
+頭布	thau2 pou3	2000
+頭彩	thau5 tshai2	2000
+頭拒	thau5 kur5	2000
 頭毛	thau5 mo5	5000
+頭毛	thau5 monn5	2000
 頭眩	thau5 hin5	5000
 頭路	thau5 lou7	5000
-頰溝	kih kau	5000
+頰溝	kih kau	2000
 頷	am6	5000
 頷幋	am6 phuan5	2000
 頷幔	am6 muann	2000
-頷領	am6 niann2	5000
+頷領	am6 niann2	2000
+題錢	toi5 chinn5	2000
 額囟	hiah8 sin3	5000
+額門神	hiah8 mng5 sin5	2000
 額頭	hiah8 thau5	5000
 願食	ngien3 chiah8	600
+顚倒	tin to3	2000
+顚倒倒	tin to3 tau2	2000
+顚倒頭	tin to3 thau5	2000
 顛倒	tien tau2	600
-顛倒	tin to2	600
+顛倒	tin to3	600
 顛簸	tien pua3	600
+顯微鏡	hien2 muinn5 kiann3	2000
 風塵僕僕	huang tin5 pok8 pok8	600
-風爐	huang lou5	5000
-風禽	huang khim5	5000
+風扇	huang sinn6	2000
+風爐	huang lou5	2000
+風禽	huang khim5	2000
+風聲	hong siann	2000
+風險	hong hiam2	2000
 風雨針	huang hou7 tsam	2000
+風颱	huang thai	2000
 風颱	huang thai	5000
-風颱	huang thai5	2000
 颳風	kuat huang	2000
 食	chiah8	10000
+食凉	chiah8 liang5	2000
+食夜昏	chiah8 menn5 hng	2000
 食床	chiah8 tshng5	2000
 食房	chiah8 pang5	2000
+食桌	chiah8 toh	2000
 食槅	chiah8 keh	2000
+食櫥	chiah8 tu5	2000
+食死儂	chiah8 si2 nang5	2000
+食毋落	chiah8 m6 loh8	2000
+食瀉	chiah8 sia3	2000
+食牀	chiah8 tshng5	2000
 食痘	chiah8 tau7	2000
+食瞑起	chiah8 meng3 khi2	2000
 食積	chiah8 chek	5000
+食粥	chiah8 muenn5	2000
 食臊	chiah8 tsho	5000
-食薰	chiah8 hun	5000
-食錢	chiah8 chinn5	5000
+食草	chiah8 tshau2	2000
+食薰	chiah8 hun	2000
+食藥	chiah8 ieh8	2000
+食補	chiah8 pou2	2000
+食酒醉	chiah8 chiu2 tsui3	2000
+食錢	chiah8 chinn5	2000
+食齋	chiah8 che	2000
 飯床	png7 tshng5	5000
 飯硬	png7 khiu7	600
+飯粒	png7 liap8	2000
 飯糰	png7 thuan5	600
 飲	am2	5000
 餅乾	piann2 kuaⁿ	2000
 餅藥	piann2 ieh8	2000
 餉	hiang3	2000
+餉牌	hiang3 pai5	2000
 餉關	hiang3 kuan	2000
-餘數	ur5 siau3	5000
+養囝	iang2 kiann2	2000
+養育	iang2 iok8	2000
+餘數	ur5 siou3	5000
 餜	kue2	4000
+饑荒	ki hng	2000
+香料	hienn liou7	2000
 香柴	hionn tsha5	2000
-香菰	hienn kou	5000
-馬房	be2 pang5	5000
+香爐	hienn lou	2000
+香菰	hienn kou	2000
+馬兵	be2 piann	2000
+馬房	be2 pang5	2000
 馬索	be2 soh	2000
 馬踏䟓	be2 tah8 teng3	2000
+馬車	be2 chhia	2000
+馬鞍	be2 uann	2000
 馬鞭	be2 pinn	1200
+馬頭	be2 thau5	2000
+馬鮫	be2 ka	2000
+馬龍騎	be2 leng5 khia5	2000
 駁	poh	5000
 駐紮	tsu6 tsak	600
 駛	sai2	5000
+駭異	hai7 i6	2000
+駱駝	loh8 thoh8	2000
+騎馬	khia5 be2	2000
+騙儂	phien3 nang5	2000
+騙儂驚	phien3 nang5 kiann	2000
 騷館	sau kuan2	100
 驚	kiann	5000
+驚到戇去	kiann kau3 kong5 khur3	2000
 驚愕	kiann ngoh8	2000
 骨殖	kuk sik8	5000
+骨牌	kut pai5	2000
+骨頭	kut thau5	2000
 骯髒	ang tsang	2000
 骸	tau5	5000
 骹	kha	5000
@@ -1756,54 +3576,110 @@ use_preset_vocabulary:	false
 骹蹯	kha puann5	5000
 骹頭趺	kha thau5 u	5000
 骹𢅎	kha kiau2	100
-高麗菜	ko le6 tshai3	5000
+體貼	thoi2 thiap	2000
+高升	kau seng	2000
+高椅	kau inn2	2000
+高麗	kau li5	2000
+高麗菜	ko le6 tshai3	2000
 髮型	huat heng5	2000
 鬃	tsang	5000
 鬍鬚	hou5 chhiu	600
 鬚	chhiu	5000
+鬥仇	tou3 chhiu5	2000
+鬥恨	tou3 huru6	2000
 鬥陣	tau3 tin7	2000
+鬧熱	lau6 jiet 8	2000
+魔鬼	monn3 kui2	2000
 魚刺	hur5 chhi3	600
+魚卵	hur5 nng6	2000
+魚囝	hur5 kainn2	2000
 魚子	hur5 chi2	2000
-魚春	hur5 tshun	5000
-魚翼	hur5 sit8	5000
-魚腮	hur5 chhi	5000
+魚干	hur5 kuann	2000
+魚春	hur5 tshun	2000
+魚翼	hur5 sit8	2000
+魚肚	hur5 tou6	2000
+魚脯	hur5 pou2	2000
+魚腮	hur5 chhi	2000
+魚膘	hur5 phie6	2000
+魚膠	hur5 ka	2000
+魚鮭	hur5 koi5	2000
+魚鱗	hur5 lan5	2000
 魴龜	hang ku	2000
 鮡	thiau5	5000
-鱟伯策	hau7 peh chheh	100
+鯊魚	sua hur5	2000
+鯧魚	chhienn hur5	2000
+鱟伯策	hau7 peh chheh	2000
+鱟壳扇	hau5 khak sinn5	2000
+鱷魚	ngak8 hu5	2000
+鳥喙	chiou2 tshui3	2000
+鴨攝	ah nih	2000
 鵪鶉	ang tshun	2000
 鷸蚌相持漁翁得利	lut8 hong2 siang thi5 hur5 ong tit li6	2000
 鷹架	in ke3	2000
+鸚哥	eng ko	2000
+鸚婆	eng po5	2000
 鹵鹽	lou2 iam5	600
 鹹水魚	kiam5 tsui2 hur5	2000
+鹹澀	kiam5 siap	2000
+鹹菜	kiam5 tshai3	2000
+鹹酸	kiam5 sng	2000
+鹹魚	kiam5 hur5	2000
 鹽硝	iam2 siau	5000
+鹽硝	iam2 siou	2000
+鹽碟	iam5 tih8	2000
 鹿牡	tek8 kou2	600
+鹿茸	tek8 zong5	2000
+麥粉粿	beh8 hun2 kue2	2000
 麥麩	beh8 phou	600
 麫包	minn7 pau	600
 麵粉	minn7 hun2	2000
 麵線餬	minn7 suann3 kou5	600
+麻布	muann5 pou3	2000
 麻煩	mua5 huan5	5000
+麻皮	muann5 phue5	2000
 麻醉	mua5 tsui3	5000
+麻雀鳥	muann5 chiah chiou2	2000
+黃昏	hann2 hun	2000
+黃蜡	ng5 lah8	2000
+黃酸	ng5 sng	2000
 黃𦅇瘦㾪	ng5 sng sou2 san2	2000
+黏昵	niam ninn5	2000
 黑旋風	hek suan5 huang	5000
+黜掉	lut tiou7	2000
+黜職	thut cheh	2000
 點卯	tiam2 bau2	2000
+點囝	tiam2 kiann2	2000
+點心	tiam2 sim	2000
 點讚	tiam2 tsan3	2000
+點鐘	tiam2 cheng	2000
+點頭	tak thau5	2000
 鼎	iann2	5000
 鼠麴草	tshur2 khak tshau2	600
 鼻	phinn7	5000
+鼻孔	phinn7 khang	2000
 鼻空	phinn7 khang	5000
-齒刷	khi2 chhiu3	5000
+鼻薰	phinn7 hun	2000
+齒刷	khi2 chhiu3	2000
 齒漱	khi2 chhiu3	4000
-齒痛	khi2 thiann3	5000
-齒齦	khi2 ngurn5	5000
-龍位	leng5 ui7	5000
-龍眼	nek8 oinn2	5000
+齒痛	khi2 thiann3	2000
+齒齦	khi2 ngurn5	2000
+龍位	leng5 ui7	2000
+龍眼	nek8 oinn2	2000
+龍眼干	nek8 oinn2 kuann	2000
+龍蝦	leng5 he5	2000
+龕小影	hoh siou2 iann2	2000
 𠀾孬	boi6 mo2	4000
 𠁞	boi6	4000
 𠁞孬	boi6 mo2	3200
 𠕆	toinn7	5000
+𠕆柴	toinn7 tsha5	2000
 𠢕	gau5	5000
+𠱀古	phueh8 kou2	2000
+𠱀話	phueh8 ue7	2000
+𠱀閒話	phueh8 oinn5 ue7	2000
 𡚸	bou2	4000
 𡜿	bou2	3200
+𢭪餉	khieh hiang3	2000
 𣴨	phinn7	5000
 𤇢	pek	5000
 𤞚	siau2	5000
@@ -1814,5 +3690,6 @@ use_preset_vocabulary:	false
 𦮴	ninn5	4000
 𨫋	kong3	2000
 𩛌	chi3	2000
-𩩍籬	phiann li5	5000
-𩩍籬骨	phiann li5 kut	5000
+𩩍籬	phiann li5	2000
+𩩍籬骨	phiann li5 kut	2000
+𩵱魚	ngou2 hur5	2000
