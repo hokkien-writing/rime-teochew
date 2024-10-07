@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.10.06"
+version:	"2024.10.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -2967,6 +2967,7 @@ use_preset_vocabulary:	false
 設出	siet tshut	2000
 設圈套	tienn khuan2 thau3	2000
 設立	siet lip8	2000
+許願	he6 nguan6	600
 訴來	su2 lai5	2000
 診斷	chien2 tuan3	2000
 註冊	tsu3 chheh	2000

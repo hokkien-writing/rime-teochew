@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.10.06"
+version:	"2024.10.07"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -20,6 +20,8 @@ import_tables:
 亞	a	4000
 拗	a2	600
 亞	a3	5000
+詏	a3	600
+啊	a6	600
 啊	a7	10000
 押	ah	2000
 鴨	ah	2000
@@ -79,6 +81,8 @@ import_tables:
 漚	au3	600
 喉	au5	600
 後	au6	5000
+齙	ba3	600
+峇	ba7	600
 眉	bai5	2000
 嵋	bai5	600
 墨	bak8	600
@@ -96,6 +100,7 @@ import_tables:
 瞄	bie5	600
 廟	bie7	600
 癟	bih	600
+覕	bih	600
 蜜	bit8	2000
 拇	bo2	600
 母	bo2	5000
@@ -209,6 +214,7 @@ import_tables:
 政	cheng3	2000
 證	cheng3	5000
 種	cheng3	4000
+眾	cheng3	2000
 衆	cheng3	2000
 症	cheng3	2000
 曾	cheng5	600
@@ -425,6 +431,7 @@ import_tables:
 謝	chia7	600
 跡	chiah	2000
 脊	chiah	600
+雀	chiah	600
 隻	chiah	5000
 食	chiah8	10000
 嚼	chiak	600
@@ -737,6 +744,8 @@ import_tables:
 蝦	he5	2000
 暇	he6	600
 下	he6	600
+許	he6	600
+吓	he6	600
 廈	he7	600
 夏	he7	2000
 嚇	heh	600
@@ -1133,6 +1142,7 @@ import_tables:
 翡	hui	600
 霏	hui	600
 麾	hui	600
+回	hui	600
 菲	hui2	600
 誹	hui2	600
 卉	hui2	600
@@ -1801,6 +1811,7 @@ import_tables:
 騎	khia5	2000
 擎	khia5	600
 企	khia6	5000
+徛	khia6	600
 隙	khiah	600
 攫	khiak	600
 怯	khiak	600
@@ -1870,6 +1881,7 @@ import_tables:
 硬	khiu7	600
 糠	khng	600
 勸	khng3	5000
+囥	khng3	600
 戈	kho	600
 坷	kho	600
 苛	kho	600
@@ -1883,6 +1895,7 @@ import_tables:
 揩	khoi	600
 溪	khoi	2000
 契	khoi3	2000
+乞	khoih	600
 軋	khoih	600
 蓋	khoinn3	600
 哭	khok	600
@@ -2075,6 +2088,7 @@ import_tables:
 潔	kiap	600
 峽	kiap	600
 愜	kiap	600
+篋	kiap	600
 夾	kiap8	2000
 澆	kiau	600
 驕	kiau	600
@@ -2310,6 +2324,7 @@ import_tables:
 觥	kuang	600
 誑	kuang	600
 鰥	kuang	600
+誆	kuang	600
 耿	kuang2	600
 廣	kuang2	5000
 炯	kuang2	600
@@ -2363,6 +2378,7 @@ import_tables:
 鮭	kui	600
 鬼	kui2	2000
 詭	kui2	600
+機	kui2	600
 傀	kui2	600
 幾	kui2	4000
 瑰	kui3	600
@@ -2422,6 +2438,7 @@ import_tables:
 喇	la	600
 啦	la	5000
 朥	la5	600
+𤰉	la6	600
 拉	lah8	70
 蠟	lah8	600
 臘	lah8	600
@@ -2516,6 +2533,7 @@ import_tables:
 綠	lek8	5000
 癧	lek8	600
 鈴	leng	600
+冷	leng2	600
 壟	leng2	600
 隴	leng2	600
 攆	leng2	600
@@ -2543,6 +2561,7 @@ import_tables:
 濘	leng5	600
 瓴	leng5	600
 聆	leng5	600
+綾	leng5	600
 令	leng6	5000
 理	li2	5000
 李	li2	2000
@@ -3248,6 +3267,7 @@ import_tables:
 二	no6	5000
 貳	no6	600
 兩	no6	4000
+哪	no7	4000
 怒	no7	2000
 蓮	noinn5	600
 奴	nou	600
@@ -3804,6 +3824,7 @@ import_tables:
 糞	pun3	600
 夯	pun3	600
 畚	pun3	600
+歕	pun5	600
 笨	pun6	2000
 不	put	600
 抄	sa	600
@@ -4133,6 +4154,7 @@ import_tables:
 汛	sin3	600
 訊	sin3	600
 迅	sin3	2000
+囟	sin3	600
 辰	sin5	600
 晨	sin5	5000
 承	sin5	600
@@ -4146,6 +4168,7 @@ import_tables:
 硝	siou	600
 癲	siou2	600
 數	siou3	5000
+濕	sip	600
 溼	sip	600
 拾	sip8	600
 什	sip8	600
@@ -4679,6 +4702,7 @@ import_tables:
 澈	thiet	600
 轍	thiet	600
 鐵	thih	2000
+佚	thih	600
 忒	thih	600
 陳	thin5	2000
 天	thinn	5000
@@ -4713,6 +4737,7 @@ import_tables:
 鴕	tho5	600
 陀	tho5	600
 馱	tho5	600
+佗	tho5	600
 唾	tho6	600
 魄	thoh	600
 托	thoh	1200
@@ -4819,6 +4844,7 @@ import_tables:
 點	tiam2	5000
 店	tiam3	5000
 惦	tiam3	600
+坫	tiam3	600
 甜	tiam5	5000
 恬	tiam5	600
 恬	tiam7	600
@@ -5107,6 +5133,7 @@ import_tables:
 搽	tsha5	600
 柴	tsha5	600
 插	tshah	2000
+挿	tshah	2000
 歃	tshah	600
 猜	tshai	5000
 睬	tshai2	600
@@ -5147,6 +5174,8 @@ import_tables:
 蹌	tshang	600
 創	tshang3	600
 藏	tshang5	2000
+插	tshap	600
+挿	tshap	600
 察	tshat	2000
 漆	tshat	600
 賊	tshat8	600
@@ -5174,6 +5203,7 @@ import_tables:
 村	tshng	5000
 刺	tshng3	600
 牀	tshng5	5000
+床	tshng5	5000
 初	tsho	5000
 搓	tsho	600
 臊	tsho	600
@@ -5186,6 +5216,7 @@ import_tables:
 鋤	tsho5	600
 磋	tsho5	600
 挫	tsho5	600
+貯	tsho7	600
 撮	tshoh	600
 錯	tshoh	600
 亍	tshoh8	600
@@ -5236,6 +5267,7 @@ import_tables:
 蔡	tshua3	600
 娶	tshua7	2000
 𤆬	tshua7	600
+掇	tshuah	600
 川	tshuan	2000
 穿	tshuan	2000
 皴	tshuan	600
@@ -5261,6 +5293,7 @@ import_tables:
 吹	tshue	2000
 炊	tshue	600
 髓	tshue2	600
+箠	tshue5	600
 覓	tshue7	5000
 啜	tshueh	2000
 摧	tshui	600
@@ -5284,6 +5317,7 @@ import_tables:
 淳	tshun5	600
 存	tshun5	5000
 蛆	tshur	600
+舒	tshur	600
 此	tshur2	5000
 鼠	tshur2	5000
 次	tshur3	5000
@@ -5314,6 +5348,7 @@ import_tables:
 左	tso2	5000
 佐	tso2	2000
 俎	tso2	600
+怎	tso3	600
 做	tso3	5000
 槽	tso5	600
 造	tso6	600
@@ -5343,6 +5378,7 @@ import_tables:
 綜	tsong	5000
 種	tsong2	600
 總	tsong2	5000
+眾	tsong3	600
 衆	tsong3	600
 縱	tsong3	2000
 狀	tsong7	600
@@ -5421,6 +5457,7 @@ import_tables:
 浚	tsun3	600
 駿	tsun3	600
 船	tsun5	2000
+捘	tsun6	600
 陣	tsun7	4000
 書	tsur	5000
 芝	tsur	600
@@ -5695,6 +5732,7 @@ import_tables:
 熱	zuah8	4000
 轉	zuan2	70
 纂	zuan2	600
+任	zuan6	600
 說	zuat8	600
 悅	zuat8	600
 挼	zue5	600

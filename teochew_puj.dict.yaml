@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2024.10.06"
+version:	"2024.10.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -120,6 +120,18 @@ Au	Au
 Ãu	Au6
 āu	au7
 Āu	Au7
+ba	ba
+Ba	Ba
+bá	ba2
+Bá	Ba2
+bà	ba3
+Bà	Ba3
+bâ	ba5
+Bâ	Ba5
+bã	ba6
+Bã	Ba6
+bā	ba7
+Bā	Ba7
 bai	bai
 Bai	Bai
 bái	bai2
@@ -6928,6 +6940,10 @@ tshãng	tshang6
 Tshãng	Tshang6
 tshāng	tshang7
 Tshāng	Tshang7
+tshap	tshap
+Tshap	Tshap
+tsha̍p	tshap8
+Tsha̍p	Tshap8
 tshat	tshat
 Tshat	Tshat
 tsha̍t	tshat8
@@ -7036,6 +7052,10 @@ tshuã	tshua6
 Tshuã	Tshua6
 tshuā	tshua7
 Tshuā	Tshua7
+tshuah	tshuah
+Tshuah	Tshuah
+tshua̍h	tshuah8
+Tshua̍h	Tshuah8
 tshuan	tshuan
 Tshuan	Tshuan
 tshuán	tshuan2

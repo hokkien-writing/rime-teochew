@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.10.06"
+version:	"2024.10.07"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -365,6 +365,7 @@ hṳ̂-chhì	hur5 chhi3	600
 hṳ̂-chí	hur5 chi2	1999
 hṳ̂-si̍t	hur5 sit8	4999
 hṳ̂-tshun	hur5 tshun	4999
+hẽ-nguãn	he6 nguan6	600
 hẽng-chí	heng6 chi2	4999
 hẽng-tsai-la̍k-huã	heng6 tsai lak8 hua6	5000
 hẽng-tshûn	heng6 tshun5	2000
