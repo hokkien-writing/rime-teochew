@@ -16,7 +16,7 @@ schema:
 engine:
   processors:
 #    - ascii_composer
-#    - key_binder
+    - key_binder
     - speller
 #    - punctuator
     - selector
@@ -77,5 +77,14 @@ style:
 #punctuator:
 #  import_preset: symbols
 #
-#key_binder:
+
+key_binder:
 #  import_preset: default
+  bindings:
+    - when: paging    # 僅當已發生向後換頁時，
+      accept: bracketleft
+      send: Page_Up
+
+    - when: has_menu  # 只要有候選字即滿足條件
+      accept: bracketright
+      send: Page_Down
