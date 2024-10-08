@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.10.07"
+version:	"2024.10.09"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -1836,6 +1836,7 @@ import_tables:
 僑	khiau5	600
 翹	khiau5	600
 蕎	khiau5	600
+𢭪	khieh	600
 挈	khieh8	600
 虔	khien	600
 遣	khien2	600
@@ -2485,6 +2486,7 @@ import_tables:
 零	lan5	600
 難	lan5	5000
 爛	lan6	600
+卵	lan6	600
 難	lan7	4000
 囊	lang2	600
 琅	lang5	600
@@ -2500,7 +2502,6 @@ import_tables:
 踉	lang5	600
 朗	lang6	2000
 浪	lang6	5000
-卵	lang6	600
 踉	lang6	600
 力	lat8	5000
 撈	lau	600
@@ -2700,6 +2701,8 @@ import_tables:
 瘤	liu5	600
 流	liu5	5000
 六	liu5	600
+鎏	liu7	600
+鎦	liu7	600
 裹	lo2	600
 顆	lo2	600
 潦	lo2	600
@@ -2719,6 +2722,7 @@ import_tables:
 榔	lo5	600
 咯	lo7	600
 狼	lo7	600
+了	lo7	600
 落	loh8	5000
 駱	loh8	600
 禮	loi2	5000
@@ -3511,6 +3515,7 @@ import_tables:
 否	phi2	600
 痞	phi2	600
 丕	phi2	600
+疕	phi2	600
 鄙	phi3	600
 譬	phi3	2000
 脾	phi5	600
@@ -4200,6 +4205,7 @@ import_tables:
 授	siu6	600
 受	siu6	5000
 壽	siu7	600
+岫	siu7	600
 桑	sng	600
 喪	sng	600
 霜	sng	600
@@ -4259,6 +4265,7 @@ import_tables:
 瘦	sou2	600
 艘	sou2	600
 擻	sou2	600
+素	sou7	600
 抒	su	600
 輸	su	2000
 舒	su	2000
