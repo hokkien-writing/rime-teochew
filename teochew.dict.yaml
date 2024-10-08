@@ -1544,6 +1544,7 @@ import_tables:
 蚧	kai3	600
 的	kai5	5000
 個	kai5	10000
+个	kai5	10000
 其	kai5	10000
 个	kai5	10000
 鉻	kak	600
@@ -2190,6 +2191,7 @@ import_tables:
 划	ko3	600
 撾	ko5	600
 個	ko6	600
+个	ko6	600
 擱	koh	600
 胳	koh	600
 閣	koh	600
@@ -4230,6 +4232,7 @@ import_tables:
 灑	soi2	600
 洗	soi2	5000
 細	soi3	5000
+細	soih	600
 襭	soih	600
 嘶	soinn	600
 先	soinn	5000
