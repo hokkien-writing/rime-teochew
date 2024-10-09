@@ -12,6 +12,7 @@ use_preset_vocabulary:	false
 import_tables:
   - teochew_puj_phrase
 ...
+-	-
 a	a
 A	A
 á	a2

@@ -30,11 +30,11 @@ engine:
     - fallback_segmentor
   translators:
 #    - punct_translator
-#    - script_translator
-    - table_translator
+    - script_translator
+#    - table_translator
   filters:
     - uniquifier
-    - lua_filter@puj_spacer
+#    - lua_filter@puj_spacer
 
 speller:
   alphabet: "pbmtnlkghzcsjPBMTNLKGHZCSJaoeiurAOEIUR-"
