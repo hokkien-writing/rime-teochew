@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.10.09"
+version:	"2024.10.23"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -228,7 +228,6 @@ chheⁿ-huan	chhennhuan	1999
 chheⁿ-huân	chhennhuan5	4999
 chheⁿ-hūn-nâng	chhennhun7nang5	1999
 chheⁿ-hūn-nâng	chhennhun7nang5	4999
-chheⁿ-mêⁿ	chhennmenn5	1999
 chheⁿ-mêⁿ	chhennmenn5	4999
 chheⁿ-thih	chhennthih	1999
 chheⁿ-thiⁿ	chhennthinn	1999
@@ -1595,7 +1594,6 @@ mêⁿ-nîⁿ	menn5ninn5	4999
 mêⁿ-tsha̍t	menn5tshat8	1999
 mín-ēng	min2eng7	1999
 mîn--ke	min5ke	1999
-mîn-tshn̂g	min5tshng5	1999
 mîn-tshn̂g	min5tshng5	4999
 mîⁿ-hiûⁿ	minn5hiunn5	4999
 mîⁿ-iêⁿ	minn5ienn5	1999
@@ -1834,7 +1832,6 @@ phah-la̍h	phahlah8	1999
 phah-nâng	phahnang5	1999
 phah-oh	phahoh	1999
 phah-phok	phahphok	1999
-phah-pho̍k	phahphok8	4999
 phah-phòu	phahphou3	1999
 phah-piàⁿ	phahpiann3	5000
 phah-sǹg	phahsng3	1999
@@ -2749,6 +2746,7 @@ tong-pān	tongpan7	1999
 tong-sim	tongsim	1999
 tong-ti̍t	tongtit8	1999
 to̍h-húe	toh8hue2	1999
+tsa-bóu	tsabou2	1200
 tsa-bóu	tsabou2	1999
 tsa-bóu	tsabou2	600
 tsa-bóu-kuán	tsabou2kuan2	1999
