@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.10.23"
+version:	"2024.10.24"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -186,8 +186,10 @@ use_preset_vocabulary:	false
 代職	thoih cheh	600
 任意	jim6 i3	2000
 仿似	huang2 sur6	2000
+伊个	i kai5	4000
 伊人	i nang5	4000
 伊儂	i nang5	10000
+伊嘅	i kai5	5000
 伍星	ngou2 chhenn	2000
 伍牲	ngou2 senn	2000
 伙長	hue2 tienn2	100
@@ -212,6 +214,7 @@ use_preset_vocabulary:	false
 作田人	tsoh tshan5 nang5	1600
 作田儂	tsoh tshan5 nang5	2000
 佝腰	ku ie	5000
+你个	lur2 kai5	4000
 佣金	iong5 kim	2000
 使油	sai2 iu5	2000
 使牛	sai2 gu5	2000
@@ -1245,6 +1248,8 @@ use_preset_vocabulary:	false
 戇	kong5	5000
 戇去	kong5 khur3	2000
 成功	seng5 kong	5000
+我个	ua2 kai5	4000
+我嘅	ua2 kai5	5000
 戒薰丸	koi2 hun inn5	2000
 或者	pa lak	2000
 戥減	teng2 siam2	2000
@@ -1845,6 +1850,7 @@ use_preset_vocabulary:	false
 水雞	tsui2 koi	2000
 水鼓	tsui2 kou2	2000
 求乞	khiu5 khurt	2000
+汝嘅	lur2 kai5	5000
 江魚	kang hur5	2000
 污糟	o tso	5000
 污衊	u mit8	600

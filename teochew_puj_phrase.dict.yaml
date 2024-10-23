@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.10.23"
+version:	"2024.10.24"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -767,6 +767,7 @@ hẽ-nguān	he6nguan7	1999
 hẽng-chí	heng6chi2	4999
 hẽng-tsai-la̍k-huã	heng6tsailak8hua6	5000
 hẽng-tshûn	heng6tshun5	2000
+i--kâi	ikai5	5000
 i-nguân	inguan5	1999
 i-nâng	inang5	10000
 i-pái	ipai2	600
@@ -1515,6 +1516,7 @@ lōu-phiè	lou7phie3	1999
 lōu-tsúi	lou7tsui2	1999
 lūi--lṳ́	lui7lur2	1999
 lūn-ta̍h	lun7tah8	1999
+lṳ́--kâi	lur2kai5	5000
 lṳ̃-sòng-hun	lur6song3hun	1999
 lṳ̃-sóng-pie	lur6song2pie	1999
 mak--tie̍h	maktieh8	2000
@@ -3254,6 +3256,7 @@ un-chiàng	unchiang3	4999
 ut-tńg-thâu	uttng2thau5	1999
 uàⁿ-kiãⁿ	uann3kiann6	1999
 uàⁿ-tshǹg	uann3tshng3	1999
+uá--kâi	ua2kai5	5000
 uá-tsûn-piⁿ	ua2tsun5pinn	1999
 uáng-khut	uang2khut	1999
 uáng-siãng	uang2siang6	1999

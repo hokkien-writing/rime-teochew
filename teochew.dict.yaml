@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.10.23"
+version:	"2024.10.24"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -1564,7 +1564,7 @@ import_tables:
 个	kai5	10000
 其	kai5	10000
 个	kai5	10000
-嘅	kai5	600
+嘅	kai5	5000
 鉻	kak	600
 各	kak	5000
 角	kak	5000
