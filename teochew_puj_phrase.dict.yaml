@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2024.10.24"
+version:	"2025.04.26"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -3147,6 +3147,7 @@ tí-gṳ̃	ti2gur6	2000
 tí-tàng	ti2tang3	600
 tî-che̍k-kâi	ti5chek8kai5	1999
 tî-kâi	ti5kai5	10000
+tî-kâi	ti5kai5	5000
 tî-kò	ti5ko3	10000
 tî-nâng	ti5nang5	10000
 tî-pôiⁿ	ti5poinn5	5000

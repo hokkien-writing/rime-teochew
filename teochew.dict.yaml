@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2024.10.24"
+version:	"2025.04.26"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -1559,12 +1559,7 @@ import_tables:
 丐	kai3	600
 尬	kai3	600
 蚧	kai3	600
-的	kai5	1200
-個	kai5	10000
 个	kai5	10000
-其	kai5	10000
-个	kai5	10000
-嘅	kai5	5000
 鉻	kak	600
 各	kak	5000
 角	kak	5000
@@ -2215,7 +2210,6 @@ import_tables:
 划	ko3	600
 撾	ko5	600
 個	ko6	600
-个	ko6	600
 擱	koh	600
 胳	koh	600
 閣	koh	600

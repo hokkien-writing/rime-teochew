@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2024.10.24"
+version:	"2025.04.26"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -155,7 +155,7 @@ use_preset_vocabulary:	false
 交椅	kau inn2	5000
 交落	ka lauh8	5000
 交關	kau kuan	2000
-交關个人	kau kuan kai5 nang5	1600
+交關嘅人	kau kuan kai5 nang5	1600
 交關嘅儂	kau kuan kai5 nang5	2000
 京城	kiann siann5	2000
 人事	nang5 sur7	4000
@@ -186,10 +186,9 @@ use_preset_vocabulary:	false
 代職	thoih cheh	600
 任意	jim6 i3	2000
 仿似	huang2 sur6	2000
-伊个	i kai5	4000
+伊个	i kai5	5000
 伊人	i nang5	4000
 伊儂	i nang5	10000
-伊嘅	i kai5	5000
 伍星	ngou2 chhenn	2000
 伍牲	ngou2 senn	2000
 伙長	hue2 tienn2	100
@@ -308,7 +307,7 @@ use_preset_vocabulary:	false
 傭人	iong5 nang5	600
 傳授	thuan5 siu6	2000
 傳道理	thuan5 to6 li2	2000
-傳道理个人	thuan5 to6 li2 kai5 nang5	1600
+傳道理嘅人	thuan5 to6 li2 kai5 nang5	1600
 傳道理嘅儂	thuan5 to6 li2 kai5 nang5	2000
 債主	che3 tsu2	5000
 傷人	sienn nang5	1600
@@ -922,7 +921,7 @@ use_preset_vocabulary:	false
 好是是	ho2 si6 si6	2000
 好看	ho2 thoinn2	1600
 好睇	ho2 thoinn2	2000
-好赫个人	haunn3 hehnn8 kai5 nang5	1600
+好赫嘅人	haunn3 hehnn8 kai5 nang5	1600
 好赫嘅儂	haunn3 hehnn8 kai5 nang5	2000
 好趁	ho2 than3	2000
 好過	ho2 kue3	2000
@@ -1139,14 +1138,15 @@ use_preset_vocabulary:	false
 幸災樂禍	heng6 tsai lak8 hua6	5000
 幹部	kan3 pou6	1200
 幼幼	iunn3 iunn3	2000
+幾个人	kui2 kai5 nang5	4000
 幾乎	ki hu	5000
 幾何	ki ho5	5000
-幾個人	kui2 kai5 nang5	4000
 庇佑	pi3 iu6	2000
 床布	tshng5 pou3	2000
 床櫃	tshng5 kuinn7	2000
 床頂	tshng5 teng2	2000
 底一個	ti5 chek8 kai5	2000
+底个	ti5 kai5	5000
 底人	ti5 nang5	4000
 底個	ti5 kai5	10000
 底儂	ti5 nang5	10000
@@ -1157,7 +1157,6 @@ use_preset_vocabulary:	false
 底畔	ti5 poinn5	4000
 底當時	tiang si5	10000
 底誰	ti5 tiang5	2000
-底誰个	ti5 tiang5 kai5	1600
 底誰嘅	ti5 tiang5 kai5	2000
 店舖	tiam3 phou3	2000
 府太爺	hu2 thai3 ia5	2000
@@ -1194,7 +1193,7 @@ use_preset_vocabulary:	false
 得罪着人	tit tsue6 tieh8 nang5	1600
 得罪着儂	tit tsue6 tieh8 nang5	2000
 得飯	tit png7	2000
-徛在腳頭个人	khia6 to6 kha thau7 kai5 nang5	1600
+徛在腳頭嘅人	khia6 to6 kha thau7 kai5 nang5	1600
 徛在骹頭嘅儂	khia6 to6 kha thau7 kai5 nang5	2000
 徛起	khia6 khi2	2000
 徛起來	khia6 khi2 lai5	2000
@@ -1248,8 +1247,7 @@ use_preset_vocabulary:	false
 戇	kong5	5000
 戇去	kong5 khur3	2000
 成功	seng5 kong	5000
-我个	ua2 kai5	4000
-我嘅	ua2 kai5	5000
+我个	ua2 kai5	5000
 戒薰丸	koi2 hun inn5	2000
 或者	pa lak	2000
 戥減	teng2 siam2	2000
@@ -1382,7 +1380,7 @@ use_preset_vocabulary:	false
 拜老爺	pai3 lau6 ia5	5000
 拜託	pai3 thoh	2000
 拜阿公	pai3 a kong	2000
-拭腳个蓑	chhit kha kai5 sui	80
+拭腳嘅蓑	chhit kha kai5 sui	80
 拭骹嘅蓑	chhit kha kai5 sui	100
 拮据	khiet kur5	600
 拳頭	khun5 thau5	2000
@@ -1415,7 +1413,7 @@ use_preset_vocabulary:	false
 掌更儂	chienn2 kenn nang5	5000
 掌櫃	chiang2 kuinn7	100
 掌管	chiang2 kuan2	2000
-掌羊个人	chienn2 ienn5 kai5 nang5	1600
+掌羊嘅人	chienn2 ienn5 kai5 nang5	1600
 掌羊嘅儂	chienn2 ienn5 kai5 nang5	2000
 排回	pai5 hue5	2000
 排場	pai5 chhiang5	2000
@@ -1437,14 +1435,14 @@ use_preset_vocabulary:	false
 採納	tshai2 nap8	5000
 探問	tham3 mng7	5000
 探囝	tham3 kiann2	2000
-插人个事	tshap nang5 kai5 sur7	1600
+插人嘅事	tshap nang5 kai5 sur7	1600
 插儂嘅事	tshap nang5 kai5 sur7	2000
 插會	tshap hue6	2000
 插羼	tshah tshan6	2000
 揖早	ip tsa6	2000
 換衫褲	uann7 sann khou3	2000
 揭算盤	kiah sng3 puann5	2000
-揹個衫包	pi3 kai5 sann pau	2000
+揹个衫包	pi3 kai5 sann pau	2000
 損病	sun3 penn7	2000
 搖掉	hinn3 tiou3	2000
 搖搖欲墜	ie5 ie5 iok8 tui6	2000
@@ -1681,7 +1679,6 @@ use_preset_vocabulary:	false
 果子	kue2 chi2	2000
 果子園	kue2 chi2 hng5	2000
 枵	iau	5000
-染个布	ninn2 kai5 pou3	1600
 染嘅布	ninn2 kai5 pou3	2000
 查看	chhe5 thoinn2	1600
 查睇	chhe5 thoinn2	2000
@@ -1746,14 +1743,13 @@ use_preset_vocabulary:	false
 橫桅	huenn5 ui5	2000
 欄杆	lan5 kan	2000
 欄杆	lan5 kan	600
-欠人个債	khiam3 nang5 kai5 che3	1600
-欠人个錢	khiam3 nang5 kai5 chinn5	1600
+欠人嘅債	khiam3 nang5 kai5 che3	1600
+欠人嘅錢	khiam3 nang5 kai5 chinn5	1600
 欠儂嘅債	khiam3 nang5 kai5 che3	2000
 欠儂嘅錢	khiam3 nang5 kai5 chinn5	2000
 次次	tsua7 tsua7	5000
 欲吐	ainn3 thou3	2000
 欲訴	ainn3 su3	2000
-欲賣个	ainn5 boi7 kai5	1600
 欲賣嘅	ainn5 boi7 kai5	2000
 欲退堂了	ainn3 tho3 tng5 lo7	2000
 欲食	ainn3 chiah8	5000
@@ -1850,7 +1846,7 @@ use_preset_vocabulary:	false
 水雞	tsui2 koi	2000
 水鼓	tsui2 kou2	2000
 求乞	khiu5 khurt	2000
-汝嘅	lur2 kai5	5000
+汝个	lur2 kai5	5000
 江魚	kang hur5	2000
 污糟	o tso	5000
 污衊	u mit8	600
@@ -1890,7 +1886,7 @@ use_preset_vocabulary:	false
 流漲	lau5 tinn6	100
 流目汁	lau5 mak8 tsap	2000
 流血	lau5 hueh	2000
-浪蕩个人	lo2 tong7 kai5 nang5	80
+浪蕩嘅人	lo2 tong7 kai5 nang5	80
 浪蕩嘅儂	lo2 tong7 kai5 nang5	100
 浮大風	phu5 tua7 huang	2000
 浮沈	phu5 tim5	600
@@ -2008,7 +2004,6 @@ use_preset_vocabulary:	false
 無仁義	bo5 jin5 ngi6	2000
 無仔細	bo5 tsur2 soi3	2000
 無位次	bo5 ui7 tshur3	2000
-無假个	bo5 ke2 kai5	1600
 無假嘅	bo5 ke2 kai5	2000
 無儂情	bo5 nang5 chheng2	2000
 無力	bo5 lat8	2000
@@ -2066,7 +2061,7 @@ use_preset_vocabulary:	false
 熻	hip	2000
 燃塗炭	hiann5 thou5 thuann3	2000
 燃柴	hiann5 tsha5	2000
-燃火个人	hiann5 hue2 kai5 nang5	1600
+燃火嘅人	hiann5 hue2 kai5 nang5	1600
 燃火嘅儂	hiann5 hue2 kai5 nang5	2000
 燃火食	hiann5 hue2 sit8	2000
 燈心	teng sim	2000
@@ -2272,7 +2267,7 @@ use_preset_vocabulary:	false
 目鏡	mak8 kiann3	5000
 目𥍆	mak8 siap	3200
 盯綴	teng tue3	5000
-盯綴个人	teng tue3 kai5 nang5	1600
+盯綴嘅人	teng tue3 kai5 nang5	1600
 盯綴嘅儂	teng tue3 kai5 nang5	2000
 直腸	tit8 chhiang5	600
 直透	tit8 thau3	5000
@@ -2299,7 +2294,7 @@ use_preset_vocabulary:	false
 相撞着	sie tsuang6 tieh8	2000
 相擠	sie chinn3	2000
 相沖	siang tshong	2000
-相熟个人	siang sek8 kai5 nang5	1600
+相熟嘅人	siang sek8 kai5 nang5	1600
 相熟嘅儂	siang sek8 kai5 nang5	2000
 相爭	sie chenn	2000
 相等	siang teng2	5000
@@ -2465,7 +2460,7 @@ use_preset_vocabulary:	false
 算歇	sng3 hiah	2000
 算盤	sng3 puann5	2000
 管理	kuan2 li2	2000
-管藥機个人	kuan2 ieh8 kui2 kai5 nang5	1600
+管藥機嘅人	kuan2 ieh8 kui2 kai5 nang5	1600
 管藥機嘅儂	kuan2 ieh8 kui2 kai5 nang5	2000
 箭靶	chinn3 pa2	2000
 節度	tsat tou7	2000

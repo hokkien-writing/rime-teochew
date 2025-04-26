@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2024.10.24"
+version:	"2025.04.26"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -320,7 +320,6 @@ chiàⁿ-ti̍t(正直)	zheng zhi	1999
 chiáng-kuán(掌管)	zhang guan	1999
 chiáng-kūiⁿ(收銀員)	shou yin yuan	99
 chiáu-mêⁿ(夜盲)	ye mang	4999
-chiáⁿ()		4999
 chiáⁿ-lí(整理)	zheng li	1999
 chiãm-chiãm(漸漸)	jian jian	1999
 chiè-lu̍t(依法)	yi fa	1999
@@ -355,7 +354,6 @@ chèng-tsoh(耕作)	geng zuo	1999
 chèng-tsu(打疫苗)	da yi miao	1999
 chèng-tāu(打疫苗)	da yi miao	1999
 ché-mūeⁿ-kiáⁿ(姐妹)	jie mei	1999
-chì()		1999
 chì-phîn(濟貧)	ji pin	1999
 chìⁿ-pá(箭靶)	jian ba	1999
 chí-chuàⁿ-kâi(這些個)	zhe xie ge	1999
@@ -374,7 +372,6 @@ eng-kai-tit(應該得)	ying gai de	1999
 eng-ko(鸚鵡)	ying wu	1999
 eng-pô(鸚婆)	ying po	1999
 eng-têng(煙塵)	yan chen	1999
-e̍k-pòu()		4999
 guā-ke(娘家)	niang jia	4999
 guā-kok-nâng(外國人)	wai guo ren	1999
 guā-kong(外公)	wai gong	1999
@@ -636,7 +633,6 @@ i-nâng(他們)	ta men	4999
 i-nâng(她們)	ta men	4999
 iak-liãng(大約)	da yue	1999
 iam-koi(醃雞)	yan ji	1999
-iang()		4999
 iau(飢餓)	ji e	4999
 ia̍h-chhiú(招手)	zhao shou	4999
 ie-chiah-kut(脊骨)	ji gu	1999
@@ -858,7 +854,6 @@ khou-siòu(箍數)	gu shu	1999
 khou-tháng(箍桶)	gu tong	1999
 khou-tiòu(圈掉)	quan diao	1999
 kho̍h-kôu(打漿糊)	da jiang hu	1999
-khuah-ta̍k()		4999
 khuaⁿ-khuaⁿ(漸漸)	jian jian	4999
 khui-hue(開花)	kai hua	1999
 khui-phâng(揚帆)	yang fan	4999
@@ -1345,7 +1340,6 @@ mīn-hũe(會面)	hui mian	4999
 mīn-liau-liau-cheⁿ(臉色蒼白)	lian se cang bai	4999
 mīn-phûe(臉皮)	lian pi	4999
 mīn-phûn(臉盆)	lian pen	4999
-mīn-pòu()		4999
 mīn-sek(面色)	mian se	1999
 mīn-tháng(面桶)	mian tong	1999
 mīn-tháng-kè(面桶架)	mian tong jia	1999
@@ -1485,7 +1479,6 @@ ou-pòu-ôi(黑布鞋)	hei bu xie	1999
 ou-thn̂g(黑糖)	hei tang	4999
 ou-àm(黑暗)	hei an	4999
 o̍h-kóu(談古)	tan gu	1999
-o̍ih-soih()		4999
 pa-lak(或者)	huo zhe	1999
 pa-lói(戲弄)	xi nong	1999
 pa-lói-hó(修理好)	xiu li hao	1999
@@ -1613,7 +1606,6 @@ pik-li̍h(龜裂)	gui lie	4999
 pin-tǹg(嘲笑)	chao xiao	1999
 pit-kè(筆架)	bi jia	1999
 piàng-tiòu(爆掉)	bao diao	1999
-piáⁿ-ie̍h()		1999
 piè-chek(表叔)	biao shu	1999
 piè-peh(表伯)	biao bo	1999
 piè-pe̍h(漂白)	piao bai	1999
@@ -1630,7 +1622,6 @@ po-lî-khì(玻璃器)	bo li qi	1999
 po-lî-pue(玻璃杯)	bo li bei	1999
 po-lî-tsun(玻璃瓶)	bo li ping	1999
 pou-thau(城鎮)	cheng zhen	1999
-po̍h()		4999
 pua̍h-chîⁿ(賭錢)	du qian	4999
 pua̍h-kióu(賭博)	du bo	1999
 pua̍h-pue(占卜)	zhan bu	1999
@@ -2348,7 +2339,6 @@ tshuā-tsáu(娶走)	qu zou	1999
 tshuā-tsúi(領港員)	ling gang yuan	99
 tshài-póu(菜脯)	cai pu	1999
 tshài-thâu(白蘿蔔)	bai luo bo	4999
-tshài-thâu-kháu()		4999
 tshài-tāu(豆角)	dou jiao	4999
 tshàm-tshùi(零碎)	ling sui	1999
 tshàng-iâⁿ(露營)	lu ying	1999
@@ -2496,8 +2486,6 @@ tsûn-tsú(船長)	chuan zhang	4999
 tsûn-téng(船頂)	chuan ding	1999
 tsûn-tìn-tang(船鎮中)	chuan zhen zhong	1999
 tsńg-kah(指甲)	zhi jia	1999
-tsũi()		4999
-tsũn-chia̍h()		1999
 tsũn-tiòu(扭去)	niu qu	1999
 tsūe(褶皺)	zhe zhou	1999
 tsǹg-khang(鑽空)	zuan kong	1999
@@ -2639,7 +2627,6 @@ tùi-te̍k(對敵)	dui di	1999
 tùi-thâu(對頭)	dui tou	1999
 tùi-tuaⁿ(匯票)	hui piao	1999
 tùn-chhiú(握手)	wo shou	1999
-túi-huang()		1999
 túi-ân(拉緊)	la jin	1999
 tûi-ie(捶背)	chui bei	1999
 tāi-chhîn(大臣)	da chen	1999
@@ -2813,8 +2800,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 䘼(袖子)	xiu zi	5000
 䛩(爭辯)	zheng bian	5000
 䨀米(買米)	mai mi	2000
-䭄()		1600
-䭕()		5000
 䶕牙(齙牙)	bao ya	2000
 一㮣(一概)	yi gai	2000
 一儎(一儎)	yi zai	2000
@@ -3309,7 +3294,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 單丁(獨生子)	du sheng zi	5000
 單儂(單身)	dan shen	2000
 單重(單折)	dan zhe	2000
-嗜()		1280
 嗡嗡叫(嗡嗡叫)	weng weng jiao	2000
 嘀嗒(嘀嗒)	di da	2000
 嘆氣(嘆氣)	tan qi	2000
@@ -3775,7 +3759,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 拔斗(汲斗)	ji dou	2000
 拔杯(占卜)	zhan bu	2000
 拔桶(汲桶)	ji tong	2000
-拖風()		2000
 拗彎(折彎)	zhe wan	2000
 招呼(招呼)	zhao hu	2000
 招柑(橘子)	ju zi	2000
@@ -3853,7 +3836,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 撞枳(桌球)	zhuo qiu	100
 撫院(撫院)	fu yuan	2000
 播種(播種)	bo zhong	2000
-撰食()		2000
 撼掉(扔掉)	reng diao	2000
 擂腰(捶背)	chui bei	2000
 擋毋條(受不了)	shou bu liao	2000
@@ -4210,7 +4192,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 浪蕩嘅儂(流浪的人)	liu lang de ren	100
 浮大風(起大風)	qi da feng	2000
 浮起來(浮起來)	fu qi lai	2000
-浴布()		5000
 海圖(海圖)	hai tu	2000
 海墘(海邊)	hai bian	5000
 海嶼(島嶼)	dao yu	5000
@@ -4389,7 +4370,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 犯罪(犯罪)	fan zui	2000
 狐狸(狐狸)	hu li	2000
 狗母(母狗)	mu gou	5000
-狹細()		5000
 獃(呆)	dai	5000
 王后(王后)	wang hou	2000
 王宮(王宮)	wang gong	2000
@@ -4817,7 +4797,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 胳胴下(腋窩)	ye wo	100
 能爲(能力)	neng li	5000
 脢肉(裏脊肉)	li ji rou	5000
-脧()		5000
 脧核(睪丸)	yi wan	5000
 脫去(脫下)	tuo xia	2000
 脫孝(脫孝)	tuo xiao	5000
@@ -4918,7 +4897,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 菜脯(菜脯)	cai pu	2000
 菜豆(豆角)	dou jiao	5000
 菜頭(白蘿蔔)	bai luo bo	5000
-菜頭槁()		5000
 菝囝(菝囝)	ba jian	2000
 萄葡(萄葡)	tao pu	2000
 萬世(永恆)	yong heng	2000
@@ -4943,8 +4921,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 蓮角(菱角)	ling jiao	5000
 蔗粕(甘蔗渣)	gan zhe zha	5000
 蔥頭(蔥頭)	cong tou	2000
-蔫()		5000
-薄()		5000
 薄荷(薄荷)	bo he	2000
 薄荷油(薄荷油)	bo he you	2000
 薟椒(辣椒)	la jiao	5000
@@ -5345,7 +5321,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 閏月(閏月)	run yue	2000
 閒遊(閒遊)	xian you	2000
 閘路(閘路)	zha lu	2000
-闊達()		5000
 阿㜷(奶媽)	nai ma	1600
 阿丈(阿丈)	a zhang	2000
 阿伯(阿伯)	a bo	2000
@@ -5436,7 +5411,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 青青(青青)	qing qing	2000
 靜靜(靜靜)	jing jing	2000
 面䩍䩍青(臉色蒼白)	lian se cang bai	5000
-面布()		5000
 面會(會面)	hui mian	5000
 面桶(面桶)	mian tong	2000
 面桶架(面桶架)	mian tong jia	2000
@@ -5512,7 +5486,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 飯床(飯桌)	fan zhuo	5000
 飯粒(飯粒)	fan li	2000
 飲(米湯)	mi tang	5000
-餅藥()		2000
 餉牌(餉牌)	xiang pai	2000
 餉粮(餉粮)	xiang liang	2000
 餉關(海關)	hai guan	2000
@@ -5642,7 +5615,6 @@ zṳ̂-zṳ̂(混亂)	hun luan	1999
 𤞚(狂)	kuang	5000
 𤞚狗(狂犬)	kuang quan	5000
 𤷗裂(龜裂)	gui lie	5000
-𩛌()		2000
 𩩍籬(脇)	xie	2000
 𩩍籬(脇骨)	xie gu	5000
 𩩍籬骨(脇骨)	xie gu	5000
