@@ -2390,6 +2390,7 @@ import_tables:
 郭	kueh	600
 刮	kueh	600
 橛	kueh8	600
+𰉗	kueh8	600
 關	kuenn	4000
 𨵿	kuenn	4000
 規	kui	2000
@@ -3390,8 +3391,10 @@ import_tables:
 幅	pak	5000
 腹	pak	600
 亳	pak	70
-別	pak	4000
+別	pak	3000
+𧧸	pak	3000
 縛	pak8	600
+別	pak8	4000
 斑	pan	600
 班	pan	2000
 頒	pan	600
@@ -5058,6 +5061,7 @@ import_tables:
 靛	toinn7	600
 殿	toinn7	600
 𠕆	toinn7	600
+𠕇	toinn7	600
 督	tok	600
 築	tok	2000
 斫	tok	600
