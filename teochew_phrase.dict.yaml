@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2025.04.26"
+version:	"2025.04.30"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
