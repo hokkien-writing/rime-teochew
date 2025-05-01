@@ -10,8 +10,8 @@ version:	"2025.05.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
-阿𡟓(U+217D3)	a ai5	5000
-亞𡟓(U+217D3)	a ai5	2500
+阿𡟓	a ai5	5000
+亞𡟓	a ai5	2500
 阿母	a bo2	2000
 亞母	a bo2	1000
 亞無	a bo5	2000
@@ -143,7 +143,7 @@ use_preset_vocabulary:	false
 後父	au6 pe6	2000
 後壁	au6 piah	5000
 貓呅笑	ba bun chhie3	2000
-䶕(U+4D95)牙	ba3 ge5	2000
+䶕牙	ba3 ge5	2000
 峇囝	ba7 kiann2	2000
 峇仔	ba7 kiann2	1000
 峇厘	ba7 li5	2000
@@ -503,7 +503,7 @@ use_preset_vocabulary:	false
 只是	chi2 si6	5000
 此搭	chi2 tah	5000
 此陣	chi2 tsun5	5000
-𩛌(U+296CC)	chi3	2000
+𩛌	chi3	2000
 志向	chi3 hiang3	5000
 濟貧	chi3 phin5	2000
 制度	chi3 tou7	5000
@@ -656,7 +656,7 @@ use_preset_vocabulary:	false
 烟塵	eng teng5	300
 延遲	eng5 ti	5000
 用盡	eng7 chin6	2000
-𠢕(U+20895)	gau5	5000
+𠢕	gau5	5000
 賢阿娘	gau5 a nienn5	2000
 賢亞娘	gau5 a nienn5	1000
 賢儂	gau5 nang5	2000
@@ -1322,8 +1322,8 @@ use_preset_vocabulary:	false
 腳後跟	kha au6 tenn	1000
 骹拷	kha khau3	2000
 腳拷	kha khau3	1000
-骹𢅎(U+2214E)	kha kiau2	100
-腳𢅎(U+2214E)	kha kiau2	50
+骹𢅎	kha kiau2	100
+腳𢅎	kha kiau2	50
 骹臁	kha liam5	2000
 腳臁	kha liam5	1000
 骹目	kha mak8	5000
@@ -2131,8 +2131,8 @@ use_preset_vocabulary:	false
 眠牀	min5 tshng5	5000
 面	min7	5000
 面會	min7 hue6	5000
-面䩍(U+4A4D)䩍青	min7 liau liau chenn	5000
-面䩍(U+4A4D)䩍靑	min7 liau liau chenn	2500
+面䩍䩍青	min7 liau liau chenn	5000
+面䩍䩍靑	min7 liau liau chenn	2500
 面皮	min7 phue5	5000
 面盆	min7 phun5	5000
 面布	min7 pou3	5000
@@ -2234,7 +2234,7 @@ use_preset_vocabulary:	false
 䘼	ng2	5000
 黃蜡	ng5 lah8	2000
 黃酸	ng5 sng	2000
-黃𦅇(U+26147)瘦㾪	ng5 sng sou2 san2	2000
+黃𦅇瘦㾪	ng5 sng sou2 san2	2000
 黃銅	ng5 tang5	2000
 㦙	nga3	5000
 獃	ngai5	5000
@@ -2561,7 +2561,7 @@ use_preset_vocabulary:	false
 摒掉	phin5 tiou3	2000
 便	phinn	5000
 鼻	phinn7	5000
-𣴨(U+23D28)	phinn7	5000
+𣴨	phinn7	5000
 鼻薰	phinn7 hun	2000
 鼻空	phinn7 khang	5000
 匹配	phit phue3	5000
@@ -2657,7 +2657,7 @@ use_preset_vocabulary:	false
 便利	pien6 li6	5000
 辯論	pien6 lun6	2000
 辯駁	pien6 poh	2000
-𤷗(U+24DD7)裂	pik lih8	5000
+𤷗裂	pik lih8	5000
 摒擋	pin tng3	2000
 品嘗	pin2 sienn5	2000
 品嚐	pin2 sienn5	2000
@@ -2783,7 +2783,6 @@ use_preset_vocabulary:	false
 私心	sai sim	2000
 私事	sai sur7	2000
 使	sai2	5000
-使(錢)	sai2	5000
 駛	sai2	5000
 使錢	sai2 chinn5	5000
 使用	sai2 eng7	2000
@@ -2928,9 +2927,9 @@ use_preset_vocabulary:	false
 城門	siann5 mng5	2000
 硝	siau	5000
 癲	siau2	5000
-𤞚(U+2479A)	siau2	5000
+𤞚	siau2	5000
 小影	siau2 iann2	2000
-𤞚(U+2479A)狗	siau2 kau2	5000
+𤞚狗	siau2 kau2	5000
 少禮	siau2 li2	5000
 小丑	siau2 thiu2	600
 相䛩	sie a3	5000
@@ -3172,7 +3171,7 @@ use_preset_vocabulary:	false
 搭布帆	tah pou3 phang5	2000
 答背	tah pue3	5000
 踏布	tah8 pou3	2000
-譗𧫡(U+27AE1)	tah8 tih8	5000
+譗𧫡	tah8 tih8	5000
 太臣	tai6 chhin	2000
 大約	tai6 ieh	5000
 大人	tai6 jin5	5000
@@ -4119,7 +4118,7 @@ use_preset_vocabulary:	false
 彈琴	tuann7 khim5	600
 挽	tui2	2000
 挽緊	tui2 an5	2000
-拖風	tui2 huang	2000
+挽風	tui2 huang	2000
 對聯	tui3 lien5	2000
 對面	tui3 min7	2000
 對敵	tui3 tek8	2000
