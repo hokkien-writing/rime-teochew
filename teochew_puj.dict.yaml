@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj
-version:	"2025.04.30"
+version:	"2025.05.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 import_tables:
@@ -1969,6 +1969,18 @@ jiõng	jiong6
 Jiõng	Jiong6
 jiōng	jiong7
 Jiōng	Jiong7
+jiou	jiou
+Jiou	Jiou
+jióu	jiou2
+Jióu	Jiou2
+jiòu	jiou3
+Jiòu	Jiou3
+jiôu	jiou5
+Jiôu	Jiou5
+jiõu	jiou6
+Jiõu	Jiou6
+jiōu	jiou7
+Jiōu	Jiou7
 jip	jip
 Jip	Jip
 ji̍p	jip8
@@ -4617,6 +4629,10 @@ pãng	pang6
 Pãng	Pang6
 pāng	pang7
 Pāng	Pang7
+pat	pat
+Pat	Pat
+pa̍t	pat8
+Pa̍t	Pat8
 pau	pau
 Pau	Pau
 páu	pau2
