@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2025.05.01"
+version:	"2025.05.02"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -323,6 +323,7 @@ import_tables:
 成	chhiann5	600
 悄	chhiau	600
 鍬	chhiau	600
+𢲵	chhiau	600
 悄	chhiau2	2000
 俏	chhiau2	600
 嘲	chhiau2	600
@@ -370,7 +371,6 @@ import_tables:
 陳	chhin5	600
 鮮	chhinn	5000
 尋	chhinn5	600
-𢲵	chhiou	600
 緝	chhip	600
 輯	chhip	600
 七	chhit	5000
@@ -1497,6 +1497,7 @@ import_tables:
 擾	jiau2	2000
 爪	jiau2	2000
 沼	jiau3	600
+皺	jiau3	600
 繞	jiau3	600
 饒	jiau5	600
 尿	jie7	2000
@@ -1522,7 +1523,6 @@ import_tables:
 仁	jin5	2000
 認	jin7	5000
 仍	jiong5	600
-皺	jiou3	600
 入	jip8	5000
 日	jit8	5000
 柔	jiu5	5000
@@ -2678,7 +2678,9 @@ import_tables:
 諒	liang6	2000
 晾	liang6	600
 粒	liap8	5000
+了	liau2	2000
 瞭	liau2	2000
+了	liau3	5000
 聊	liau5	5000
 僚	liau5	600
 寥	liau5	600
@@ -2726,8 +2728,6 @@ import_tables:
 鄰	lin5	600
 鱗	lin5	600
 麟	lin5	600
-了	liou2	2000
-了	liou3	5000
 立	lip8	5000
 溜	liu	600
 㧕	liu2	600
@@ -4136,6 +4136,7 @@ import_tables:
 宿	siau	600
 捎	siau	600
 消	siau	600
+硝	siau	600
 稍	siau	600
 肖	siau	600
 蕭	siau	600
@@ -4143,7 +4144,9 @@ import_tables:
 霄	siau	600
 鞘	siau	600
 小	siau2	5000
+癲	siau2	600
 少	siau3	5000
+數	siau3	5000
 紹	siau6	600
 肇	siau6	600
 肖	siau6	600
@@ -4239,9 +4242,6 @@ import_tables:
 辰	sin5	600
 剩	sin7	600
 扇	sinn3	2000
-硝	siou	600
-癲	siou2	600
-數	siou3	5000
 濕	sip	600
 溼	sip	300
 習	sip8	2000
@@ -4781,6 +4781,8 @@ import_tables:
 跳	thiau3	5000
 超	thiau3	2000
 調	thiau5	5000
+鮡	thiau5	600
+柱	thiau6	600
 挑	thie	600
 糶	thie3	600
 天	thien	600
@@ -4800,8 +4802,6 @@ import_tables:
 縫	thinn7	600
 畜	thiok	600
 蓄	thiok	600
-鮡	thiou5	600
-柱	thiou6	600
 抽	thiu	600
 丑	thiu2	600
 儔	thiu5	600
@@ -4957,6 +4957,7 @@ import_tables:
 貂	tiau	600
 吊	tiau3	2000
 弔	tiau3	1200
+條	tiau5	5000
 兆	tiau6	2000
 召	tiau6	2000
 掉	tiau7	5000
@@ -5022,7 +5023,6 @@ import_tables:
 陣	tin7	5000
 纏	tinn5	600
 漲	tinn6	600
-條	tiou5	5000
 得	tit	5000
 直	tit8	5000
 丟	tiu	600

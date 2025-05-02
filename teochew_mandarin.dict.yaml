@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2025.05.01"
+version:	"2025.05.02"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -127,7 +127,7 @@ phuà-ke-kiáⁿ(敗家子)	bai jia zi	5000
 白蜡(白蜡)	bai la	2000
 pe̍h-la̍h(白蜡)	bai la	2000
 白鷺絲(白鷺絲)	bai lu si	2000
-pe̍h-liōu-si(白鷺絲)	bai lu si	2000
+pe̍h-liāu-si(白鷺絲)	bai lu si	2000
 菜頭(白蘿蔔)	bai luo bo	5000
 tshài-thâu(白蘿蔔)	bai luo bo	5000
 匏(白南瓜)	bai nan gua	2000
@@ -202,7 +202,7 @@ phãu-put-phêng(抱不平)	bao bu ping	2000
 報仇(報仇)	bao chou	2000
 pò-chhiû(報仇)	bao chou	2000
 爆掉(爆掉)	bao diao	2000
-piàng-tiòu(爆掉)	bao diao	2000
+piàng-tiàu(爆掉)	bao diao	2000
 包領(包管)	bao guan	2000
 pau-niáⁿ(包管)	bao guan	2000
 包裹(包裹)	bao guo	2000
@@ -304,7 +304,7 @@ piè-peh(表伯)	biao bo	2000
 表姐妹(表姐妹)	biao jie mei	2000
 pié-ché-mūeⁿ(表姐妹)	biao jie mei	2000
 表明(表明)	biao ming	2000
-pióu-mêng(表明)	biao ming	2000
+piáu-mêng(表明)	biao ming	2000
 表叔(表叔)	biao shu	2000
 piè-chek(表叔)	biao shu	2000
 表兄弟(表兄弟)	biao xiong di	2000
@@ -375,7 +375,7 @@ bõi-tit(不得)	bu de	2000
 𠁞得(不得)	bu de	500
 𣍐得(不得)	bu de	250
 毋曉(不懂)	bu dong	2000
-m̃-hióu(不懂)	bu dong	2000
+m̃-hiáu(不懂)	bu dong	2000
 唔曉(不懂)	bu dong	1000
 毋對(不對)	bu dui	2000
 m̃-tùi(不對)	bu dui	2000
@@ -504,7 +504,7 @@ bõi-sái(不使)	bu shi	2000
 𠁞使(不使)	bu shi	500
 𣍐使(不使)	bu shi	250
 鐵貓(捕鼠器)	bu shu qi	2000
-thih-ngiou(捕鼠器)	bu shu qi	2000
+thih-ngiau(捕鼠器)	bu shu qi	2000
 雜疾(不舒坦)	bu shu tan	5000
 tsa̍p-chi̍p(不舒坦)	bu shu tan	5000
 毋順(不順)	bu shun	2000
@@ -522,7 +522,7 @@ bô-siang-kau-sṳ̄(不相干的事)	bu xiang gan de shi	2000
 不孝(不孝)	bu xiao	2000
 put-hàu(不孝)	bu xiao	2000
 袂消(不消)	bu xiao	2000
-bõi-siou(不消)	bu xiao	2000
+bõi-siau(不消)	bu xiao	2000
 𠀾消(不消)	bu xiao	1000
 𠁞消(不消)	bu xiao	500
 𣍐消(不消)	bu xiao	250
@@ -617,7 +617,7 @@ tshó-kó(草稿)	cao gao	2000
 操練(操練)	cao lian	2000
 tshau-liēn(操練)	cao lian	2000
 草寮(草寮)	cao liao	2000
-tsháu-lióu(草寮)	cao liao	2000
+tsháu-liáu(草寮)	cao liao	2000
 草蟒(草蟒)	cao mang	2000
 tsháu-méⁿ(草蟒)	cao mang	2000
 草帽(草帽)	cao mao	2000
@@ -718,7 +718,7 @@ uan-ke(吵鬧)	chao nao	5000
 紙字(鈔票)	chao piao	5000
 tsuá-jī(鈔票)	chao piao	5000
 朝廷(朝廷)	chao ting	2000
-chhiôu-thêng(朝廷)	chao ting	2000
+chhiâu-thêng(朝廷)	chao ting	2000
 摒擋(嘲笑)	chao xiao	2000
 pin-tǹg(嘲笑)	chao xiao	2000
 車租(車費)	che fei	5000
@@ -822,9 +822,9 @@ tun-hùe-pâng(儲藏室)	chu cang shi	100
 初頭下(初次)	chu ci	2000
 tsho-thâu-ē(初次)	chu ci	2000
 除掉(除掉)	chu diao	2000
-tṳ̂-tiòu(除掉)	chu diao	2000
+tṳ̂-tiàu(除掉)	chu diao	2000
 黜掉(黜掉)	chu diao	2000
-lut-tiōu(黜掉)	chu diao	2000
+lut-tiāu(黜掉)	chu diao	2000
 除斷(除斷)	chu duan	2000
 tṳ̂-tñg(除斷)	chu duan	2000
 初二(初二)	chu er	2000
@@ -943,7 +943,7 @@ hûi(瓷)	ci	5000
 下下(次次)	ci ci	2000
 ē-ē(次次)	ci ci	2000
 辭掉(辭掉)	ci diao	2000
-sî-tiòu(辭掉)	ci diao	2000
+sî-tiàu(辭掉)	ci diao	2000
 刺藍帕(刺藍帕)	ci lan pa	2000
 chhì-nàⁿ-phè(刺藍帕)	ci lan pa	2000
 莿藍帕(刺藍帕)	ci lan pa	1000
@@ -1170,7 +1170,7 @@ to-ne̍k(刀背)	dao bei	2000
 倒賬(倒閉)	dao bi	5000
 tó-tièⁿ(倒閉)	dao bi	5000
 倒掉(倒掉)	dao diao	2000
-tò-tiòu(倒掉)	dao diao	2000
+tò-tiàu(倒掉)	dao diao	2000
 刀架(刀架)	dao jia	2000
 to-kè(刀架)	dao jia	2000
 倒酒(倒酒)	dao jiu	2000
@@ -1286,7 +1286,7 @@ tiám-cheng(點鐘)	dian zhong	2000
 割花(雕花)	diao hua	2000
 kuah-hue(雕花)	diao hua	2000
 吊頷(吊頸)	diao jing	2000
-tiòu-ãm(吊頸)	diao jing	2000
+tiàu-ãm(吊頸)	diao jing	2000
 交落(掉落)	diao luo	5000
 ka-la̍uh(掉落)	diao luo	5000
 跌落(掉落)	diao luo	5000
@@ -1296,9 +1296,9 @@ tiau-tùn(刁難)	diao nan	2000
 刁厥(刁潑)	diao po	5000
 tiau-khiak(刁潑)	diao po	5000
 吊桶(吊桶)	diao tong	2000
-tiòu-tháng(吊桶)	diao tong	2000
+tiàu-tháng(吊桶)	diao tong	2000
 刁鑽(刁鑽)	diao zuan	2000
-tiõu-tsuan(刁鑽)	diao zuan	2000
+tiãu-tsuan(刁鑽)	diao zuan	2000
 拔(跌)	die	5000
 pua̍h(跌)	die	5000
 盤囝(碟子)	die zi	5000
@@ -1318,9 +1318,9 @@ tâng-tsóiⁿ(頂針)	ding zhen	2000
 定罪(定罪)	ding zui	2000
 tiāⁿ-tsũe(定罪)	ding zui	2000
 捔掉(丟掉)	diu diao	2000
-ka̍k-tiòu(丟掉)	diu diao	2000
+ka̍k-tiàu(丟掉)	diu diao	2000
 摒掉(丟掉)	diu diao	2000
-phîn-tiòu(丟掉)	diu diao	2000
+phîn-tiàu(丟掉)	diu diao	2000
 東爿(東邊)	dong bian	2000
 tang-pôiⁿ(東邊)	dong bian	2000
 東畔(東邊)	dong bian	1000
@@ -1356,7 +1356,7 @@ tshài-tāu(豆角)	dou jiao	5000
 葵笠(斗笠)	dou li	2000
 ko̍ih-lo̍ih(斗笠)	dou li	2000
 跋筊(賭博)	du bo	2000
-pua̍h-kióu(賭博)	du bo	2000
+pua̍h-kiáu(賭博)	du bo	2000
 讀大書(讀大書)	du da shu	2000
 tha̍k-tuā-tsṳ(讀大書)	du da shu	2000
 搭金(鍍金)	du jin	2000
@@ -1472,7 +1472,7 @@ tsang(髮髻)	fa ji	5000
 法律(法律)	fa lv	2000
 huat-lu̍t(法律)	fa lv	2000
 規條(法律)	fa lv	2000
-kui-tiôu(法律)	fa lv	2000
+kui-tiâu(法律)	fa lv	2000
 設出(發明)	fa ming	2000
 siet-tshut(發明)	fa ming	2000
 衝性(發脾氣)	fa pi qi	5000
@@ -1531,7 +1531,7 @@ phang-tshài(芳菜)	fang cai	2000
 方刀(方刀)	fang dao	2000
 pang-to(方刀)	fang dao	2000
 放掉(放掉)	fang diao	2000
-pàng-tiòu(放掉)	fang diao	2000
+pàng-tiàu(放掉)	fang diao	2000
 厝頂(房頂)	fang ding	5000
 tshù-téng(房頂)	fang ding	5000
 厝主(房東)	fang dong	5000
@@ -1554,7 +1554,7 @@ pàng-àng(放血)	fang xue	2000
 放生債(放債人)	fang zhai ren	2000
 pàng-seⁿ-chè(放債人)	fang zhai ren	2000
 放生數(放債人)	fang zhai ren	2000
-pàng-seⁿ-siòu(放債人)	fang zhai ren	2000
+pàng-seⁿ-siàu(放債人)	fang zhai ren	2000
 放此塊(放這裏)	fang zhe li	2000
 pàng--chié(放這裏)	fang zhe li	2000
 四方床(方桌)	fang zhuo	5000
@@ -1567,7 +1567,7 @@ tshu-sùe(房租)	fang zu	5000
 杮餅(杮餅)	fei bing	2000
 sāi-piáⁿ(杮餅)	fei bing	2000
 廢掉(廢掉)	fei diao	2000
-hùi-tiòu(廢掉)	fei diao	2000
+hùi-tiàu(廢掉)	fei diao	2000
 損病(肺癆)	fei lao	2000
 sùn-pēⁿ(肺癆)	fei lao	2000
 白肉(肥肉)	fei rou	5000
@@ -1746,7 +1746,7 @@ kò-sī(告示)	gao shi	2000
 告輸(告輸)	gao shu	2000
 kò-su(告輸)	gao shu	2000
 翹頭絲(鋯絲)	gao si	2000
-khiòu-thâu-si(鋯絲)	gao si	2000
+khiàu-thâu-si(鋯絲)	gao si	2000
 鋯絲(鋯絲)	gao si	2000
 khò-si(鋯絲)	gao si	2000
 歡喜(高興)	gao xing	5000
@@ -1866,7 +1866,7 @@ kut-pâi(骨牌)	gu pai	2000
 kóu-náng(古人)	gu ren	2000
 古人(古人)	gu ren	1000
 箍數(箍數)	gu shu	2000
-khou-siòu(箍數)	gu shu	2000
+khou-siàu(箍數)	gu shu	2000
 篐數(箍數)	gu shu	1000
 箍桶(箍桶)	gu tong	2000
 khou-tháng(箍桶)	gu tong	2000
@@ -1970,13 +1970,13 @@ hái-éng(海浪)	hai lang	5000
 害了(害了)	hai le	2000
 hāi--lō(害了)	hai le	2000
 還了(還了)	hai le	2000
-huân-lióu(還了)	hai le	2000
+huân-liáu(還了)	hai le	2000
 海茸(海綿)	hai mian	2000
 hái-zông(海綿)	hai mian	2000
 海圖(海圖)	hai tu	2000
 hái-tôu(海圖)	hai tu	2000
 畏羞恥(害羞)	hai xiu	2000
-ùi-sióu-lí(害羞)	hai xiu	2000
+ùi-siáu-lí(害羞)	hai xiu	2000
 駭異(駭異)	hai yi	2000
 hāi-ĩ(駭異)	hai yi	2000
 燕菜(海藻)	hai zao	2000
@@ -2167,7 +2167,7 @@ phái(壞)	huai	5000
 𢭪恨(懷恨)	huai hen	2000
 khieh-hṳ̃n(懷恨)	huai hen	2000
 僥心(壞心腸)	huai xin chang	2000
-hiou-sim(壞心腸)	huai xin chang	2000
+hiau-sim(壞心腸)	huai xin chang	2000
 有胎(懷孕)	huai yun	2000
 ũ-tho(懷孕)	huai yun	2000
 有身份(懷孕)	huai yun	2000
@@ -2203,7 +2203,7 @@ tok(毀謗)	hui bang	5000
 應(回答)	hui da	5000
 ìn(回答)	hui da	5000
 毀掉(毀掉)	hui diao	2000
-zṳ́-tiòu(毀掉)	hui diao	2000
+zṳ́-tiàu(毀掉)	hui diao	2000
 復轉(恢復)	hui fu	2000
 ho̍k-tńg(恢復)	hui fu	2000
 財副(會計)	hui ji	100
@@ -2560,7 +2560,7 @@ kói-hun-îⁿ(戒菸藥)	jie yan yao	2000
 解藥(解藥)	jie yao	2000
 kói-ie̍h(解藥)	jie yao	2000
 押數(結賬)	jie zhang	2000
-ap-siòu(結賬)	jie zhang	2000
+ap-siàu(結賬)	jie zhang	2000
 結直(結直)	jie zhi	2000
 kat-ti̍t(結直)	jie zhi	2000
 手指(戒指)	jie zhi	100
@@ -2797,7 +2797,7 @@ thong-sṳ̄(口譯)	kou yi	2000
 歸原(庫存分類賬)	ku cun fen lei zhang	100
 kui-nguân(庫存分類賬)	ku cun fen lei zhang	100
 褲吊(褲吊)	ku diao	2000
-khòu-tiòu(褲吊)	ku diao	2000
+khòu-tiàu(褲吊)	ku diao	2000
 庫房(庫房)	ku fang	2000
 khòu-pâng(庫房)	ku fang	2000
 苦瓜(苦瓜)	ku gua	2000
@@ -2849,7 +2849,7 @@ ma̍k-chiu-siap(困倦)	kun juan	2000
 難(困難)	kun nan	5000
 oh(困難)	kun nan	5000
 綑條(綑條)	kun tiao	2000
-kún-tiôu(綑條)	kun tiao	2000
+kún-tiâu(綑條)	kun tiao	2000
 拖(拉)	la	2000
 thua(拉)	la	2000
 挽(拉)	la	2000
@@ -2913,9 +2913,9 @@ láu-si̍t(老實)	lao shi	2000
 老叔(老叔)	lao shu	2000
 lãu-chek(老叔)	lao shu	2000
 老鼠(老鼠)	lao shu	2000
-ngióu-tshṳ́(老鼠)	lao shu	2000
+ngiáu-tshṳ́(老鼠)	lao shu	2000
 老鼠觸(老鼠觸)	lao shu chu	2000
-ngióu-tshṳ́-tak(老鼠觸)	lao shu chu	2000
+ngiáu-tshṳ́-tak(老鼠觸)	lao shu chu	2000
 老爺(老爺)	lao ye	2000
 lãu-iâ(老爺)	lao ye	2000
 老爺宮(老爺宮)	lao ye gong	2000
@@ -2971,7 +2971,7 @@ kóu-sṳ̄(歷史)	li shi	2000
 理事(理事)	li shi	2000
 lí-sṳ̄(理事)	li shi	2000
 禮數(禮數)	li shu	2000
-lói-siòu(禮數)	li shu	2000
+lói-siàu(禮數)	li shu	2000
 利錢(利益)	li yi	5000
 lāi-chîⁿ(利益)	li yi	5000
 立約(立約)	li yue	2000
@@ -3026,7 +3026,7 @@ saⁿ-tiàu(晾衣架)	liang yi jia	2000
 事理(料理)	liao li	2000
 sṳ̃-lí(料理)	liao li	2000
 料理(料理)	liao li	2000
-liōu-lí(料理)	liao li	2000
+liāu-lí(料理)	liao li	2000
 詖話(聊天)	liao tian	5000
 phu̍eh-ūe(聊天)	liao tian	5000
 沃着雨(淋到雨)	lin dao yu	2000
@@ -3106,7 +3106,7 @@ ne̍k-óiⁿ(龍眼)	long yan	5000
 龍眼干(龍眼干)	long yan gan	2000
 ne̍k-óiⁿ-kuaⁿ(龍眼干)	long yan gan	2000
 漏掉(漏掉)	lou diao	2000
-làng-tiòu(漏掉)	lou diao	2000
+làng-tiàu(漏掉)	lou diao	2000
 樓枋(樓枋)	lou fang	2000
 lâu-pang(樓枋)	lou fang	2000
 樓梯(樓梯)	lou ti	2000
@@ -3176,7 +3176,7 @@ bé-chhia(馬車)	ma che	2000
 馬踏䟓(馬鐙)	ma deng	2000
 bé-ta̍h-tèng(馬鐙)	ma deng	2000
 癩瘑寮(痲瘋病人聚居處)	ma feng bing ren ju ju chu	2000
-thái-ko-liôu(痲瘋病人聚居處)	ma feng bing ren ju ju chu	2000
+thái-ko-liâu(痲瘋病人聚居處)	ma feng bing ren ju ju chu	2000
 袷囝(馬甲)	ma jia	5000
 kah-kiáⁿ(馬甲)	ma jia	5000
 袷仔(馬甲)	ma jia	2500
@@ -3193,7 +3193,7 @@ a-âi(媽媽)	ma ma	5000
 muâⁿ-phûe(麻皮)	ma pi	2000
 蔴皮(麻皮)	ma pi	1000
 麻雀鳥(麻雀鳥)	ma que niao	2000
-muâⁿ-chiah-chióu(麻雀鳥)	ma que niao	2000
+muâⁿ-chiah-chiáu(麻雀鳥)	ma que niao	2000
 蔴雀鳥(麻雀鳥)	ma que niao	1000
 碼頭(碼頭)	ma tou	2000
 bé-thâu(碼頭)	ma tou	2000
@@ -3372,7 +3372,7 @@ pí-hó(瞄準)	miao zhun	2000
 比正(瞄準)	miao zhun	2000
 pí-chiàⁿ(瞄準)	miao zhun	2000
 滅掉(滅掉)	mie diao	2000
-húi-tiòu(滅掉)	mie diao	2000
+húi-tiàu(滅掉)	mie diao	2000
 曉(明白)	ming bai	5000
 hiáu(明白)	ming bai	5000
 明白(明白)	ming bai	2000
@@ -3577,7 +3577,7 @@ kek-chiú(釀酒)	niang jiu	2000
 尿壺(尿壺)	niao hu	2000
 jiē-hû(尿壺)	niao hu	2000
 鳥喙(鳥喙)	niao hui	2000
-chióu-tshùi(鳥喙)	niao hui	2000
+chiáu-tshùi(鳥喙)	niao hui	2000
 鳥嘴(鳥喙)	niao hui	1000
 凝凍(凝結)	ning jie	2000
 kṳ̂n-tàng(凝結)	ning jie	2000
@@ -3598,13 +3598,13 @@ gû-nĩⁿ-kuàn(牛奶罐)	niu nai guan	2000
 牛皮(牛皮)	niu pi	2000
 gû-phûe(牛皮)	niu pi	2000
 捘掉(扭去)	niu qu	2000
-tsũn-tiòu(扭去)	niu qu	2000
+tsũn-tiàu(扭去)	niu qu	2000
 牛屎(牛屎)	niu shi	2000
 gû-sái(牛屎)	niu shi	2000
 牛羊(牛羊)	niu yang	2000
 gû-iêⁿ(牛羊)	niu yang	2000
 物掉(弄掉)	nong diao	2000
-mu̍eh-tiòu(弄掉)	nong diao	2000
+mu̍eh-tiàu(弄掉)	nong diao	2000
 物好(弄好)	nong hao	2000
 mu̍eh-hó(弄好)	nong hao	2000
 作田儂(農民)	nong min	2000
@@ -3746,7 +3746,7 @@ thèng-tsãu-hùe(憑造化)	ping zao hua	2000
 破布(破布)	po bu	2000
 phuà-pòu(破布)	po bu	2000
 破掉(破掉)	po diao	2000
-phuà-tiòu(破掉)	po diao	2000
+phuà-tiàu(破掉)	po diao	2000
 破錢(破費)	po fei	5000
 phuà-chîⁿ(破費)	po fei	5000
 破鏡(破鏡)	po jing	2000
@@ -3889,7 +3889,7 @@ khà-phnà(敲破)	qiao po	2000
 khà-sǹg-puâⁿ(敲算盤)	qiao suan pan	2000
 敲𮅕盤(敲算盤)	qiao suan pan	1000
 翹尾(翹尾巴)	qiao wei ba	2000
-khiòu-búe(翹尾巴)	qiao wei ba	2000
+khiàu-búe(翹尾巴)	qiao wei ba	2000
 割(切)	qie	5000
 kuah(切)	qie	5000
 截(切)	qie	5000
@@ -3968,7 +3968,7 @@ tshuā-chhin(娶親)	qu qin	2000
 娶走(娶走)	qu zou	2000
 tshuā-tsáu(娶走)	qu zou	2000
 圈掉(圈掉)	quan diao	2000
-khou-tiòu(圈掉)	quan diao	2000
+khou-tiàu(圈掉)	quan diao	2000
 勸戒(勸戒)	quan jie	2000
 khǹg-kòi(勸戒)	quan jie	2000
 全權(全權)	quan quan	2000
@@ -4020,9 +4020,9 @@ jĩm-ì(任意)	ren yi	2000
 認罪(認罪)	ren zui	2000
 jīn-tsũe(認罪)	ren zui	2000
 撼掉(扔掉)	reng diao	2000
-hám-tiòu(扔掉)	reng diao	2000
+hám-tiàu(扔掉)	reng diao	2000
 擲掉(扔掉)	reng diao	2000
-sek-tiòu(扔掉)	reng diao	2000
+sek-tiàu(扔掉)	reng diao	2000
 日規(日規)	ri gui	2000
 ji̍t-kui(日規)	ri gui	2000
 日清(日記本)	ri ji ben	100
@@ -4083,9 +4083,9 @@ zú-bó(乳母)	ru mu	2000
 入秀才(入秀才)	ru xiu cai	2000
 ji̍p-siù-tsâi(入秀才)	ru xiu cai	2000
 上數(入賬)	ru zhang	2000
-chiẽⁿ-siòu(入賬)	ru zhang	2000
+chiẽⁿ-siàu(入賬)	ru zhang	2000
 記數(入賬)	ru zhang	2000
-kì-siòu(入賬)	ru zhang	2000
+kì-siàu(入賬)	ru zhang	2000
 冇(軟)	ruan	5000
 phàⁿ(軟)	ruan	5000
 閏月(閏月)	run yue	2000
@@ -4215,7 +4215,7 @@ hiâⁿ-tshâ(燒柴)	shao chai	2000
 請待(稍等)	shao deng	2000
 chhiáⁿ-táⁿ(稍等)	shao deng	2000
 稍好(稍好)	shao hao	2000
-ióu-hó(稍好)	shao hao	2000
+iáu-hó(稍好)	shao hao	2000
 煆火(燒火)	shao huo	5000
 hiâⁿ-húe(燒火)	shao huo	5000
 燃火食(燒火做飯)	shao huo zuo fan	2000
@@ -4223,7 +4223,7 @@ hiâⁿ-húe-si̍t(燒火做飯)	shao huo zuo fan	2000
 煠酒(燒酒)	shao jiu	2000
 sa̍h-chiú(燒酒)	shao jiu	2000
 少年(少年)	shao nian	2000
-siòu-nîⁿ(少年)	shao nian	2000
+siàu-nîⁿ(少年)	shao nian	2000
 做七(燒七)	shao qi	5000
 tsò-chhit(燒七)	shao qi	5000
 燃塗炭(燒炭)	shao tan	2000
@@ -4239,7 +4239,7 @@ siet-li̍p(設立)	she li	2000
 設圈套(設圈套)	she quan tao	2000
 tieⁿ-khuán-thàu(設圈套)	she quan tao	2000
 翕小影(攝影)	she ying	2000
-hoh-sióu-iáⁿ(攝影)	she ying	2000
+hoh-siáu-iáⁿ(攝影)	she ying	2000
 攝囝(攝子)	she zi	2000
 nih-kiáⁿ(攝子)	she zi	2000
 攝仔(攝子)	she zi	1000
@@ -4413,7 +4413,7 @@ sán(瘦)	shou	5000
 時鏢(手錶)	shou biao	2000
 sî-pie(手錶)	shou biao	2000
 擋毋條(受不了)	shou bu liao	2000
-tòng-m̃-tiôu(受不了)	shou bu liao	2000
+tòng-m̃-tiâu(受不了)	shou bu liao	2000
 擋唔條(受不了)	shou bu liao	1000
 手底(手底)	shou di	2000
 chhiú-tói(手底)	shou di	2000
@@ -4472,7 +4472,7 @@ chiéⁿ-keⁿ-nâng(守夜人)	shou ye ren	5000
 掌櫃(收銀員)	shou yin yuan	100
 chiáng-kūiⁿ(收銀員)	shou yin yuan	100
 收數(收賬)	shou zhang	5000
-siu-siòu(收賬)	shou zhang	5000
+siu-siàu(收賬)	shou zhang	5000
 動角(手杖)	shou zhang	2000
 tõng-kak(手杖)	shou zhang	2000
 手指(手指)	shou zhi	2000
@@ -4499,7 +4499,7 @@ khóu-kóng(漱口杯)	shu kou bei	2000
 譬相(數落)	shu luo	2000
 phì-sièⁿ(數落)	shu luo	2000
 數目(數目)	shu mu	2000
-siòu-ba̍k(數目)	shu mu	2000
+siàu-ba̍k(數目)	shu mu	2000
 樹皮(樹皮)	shu pi	2000
 chhiū-phûe(樹皮)	shu pi	2000
 書院(書院)	shu yuan	2000
@@ -4654,7 +4654,7 @@ sǹg-thâu(蒜頭)	suan tou	2000
 sǹg-hiah(算歇)	suan xie	2000
 𮅕歇(算歇)	suan xie	1000
 算數(算賬)	suan zhang	5000
-sńg-siòu(算賬)	suan zhang	5000
+sńg-siàu(算賬)	suan zhang	5000
 𮅕數(算賬)	suan zhang	2500
 凊彩(隨便)	sui bian	5000
 chhìn-tshái(隨便)	sui bian	5000
@@ -4734,7 +4734,7 @@ thn̂g-kuàn(糖罐)	tang guan	2000
 糖敲(糖果)	tang guo	2000
 thn̂g-khà(糖果)	tang guo	2000
 糖料(糖果)	tang guo	2000
-thn̂g-liōu(糖果)	tang guo	2000
+thn̂g-liāu(糖果)	tang guo	2000
 湯匙(湯勺)	tang shao	5000
 thng-sî(湯勺)	tang shao	5000
 糖水(糖水)	tang shui	2000
@@ -4789,7 +4789,7 @@ gâu-a-niêⁿ(天花)	tian hua	2000
 天光(天亮)	tian liang	2000
 thiⁿ-kng(天亮)	tian liang	2000
 甜料(甜料)	tian liao	2000
-tiâm-liōu(甜料)	tian liao	2000
+tiâm-liāu(甜料)	tian liao	2000
 田螺(田螺)	tian luo	2000
 tshân-lô(田螺)	tian luo	2000
 天平(天平)	tian ping	2000
@@ -4871,7 +4871,7 @@ tãng-kè(筒架)	tong jia	2000
 世情(通情達理)	tong qing da li	5000
 sì-chhêng(通情達理)	tong qing da li	5000
 曉情理(通情達理)	tong qing da li	2000
-hióu-chhêng-lí(通情達理)	tong qing da li	2000
+hiáu-chhêng-lí(通情達理)	tong qing da li	2000
 童生(童生)	tong sheng	2000
 thông-seng(童生)	tong sheng	2000
 銅線(銅線)	tong xian	2000
@@ -5353,7 +5353,7 @@ liū-kim-khì(鑲金器)	xiang jin qi	5000
 餉粮(餉粮)	xiang liang	2000
 hiàng-niêⁿ(餉粮)	xiang liang	2000
 香料(香料)	xiang liao	2000
-hieⁿ-liōu(香料)	xiang liao	2000
+hieⁿ-liāu(香料)	xiang liao	2000
 香爐(香爐)	xiang lu	2000
 hieⁿ-lou(香爐)	xiang lu	2000
 餉牌(餉牌)	xiang pai	2000
@@ -5427,7 +5427,7 @@ siau(硝石)	xiao shi	5000
 小可事(小事)	xiao shi	2000
 sié-khuá-sṳ̄(小事)	xiao shi	2000
 鹽硝(硝石)	xiao shi	2000
-iám-siou(硝石)	xiao shi	2000
+iám-siau(硝石)	xiao shi	2000
 小郎(小叔子)	xiao shu zi	100
 sié-nn̂g(小叔子)	xiao shu zi	100
 行孝(孝順)	xiao shun	5000
@@ -5450,7 +5450,7 @@ phiaⁿ-lî(脇骨)	xie gu	5000
 𩩍籬骨(脇骨)	xie gu	5000
 phiaⁿ-lî-kut(脇骨)	xie gu	5000
 斜目鳥(斜視眼)	xie shi yan	2000
-siâ-ma̍k-chióu(斜視眼)	xie shi yan	2000
+siâ-ma̍k-chiáu(斜視眼)	xie shi yan	2000
 邪術(邪術)	xie shu	2000
 siâ-su̍t(邪術)	xie shu	2000
 鞋刷(鞋刷)	xie shua	2000
@@ -5691,9 +5691,9 @@ khòu-thâu-tuā(腰帶)	yao dai	5000
 藥單(藥單)	yao dan	2000
 ie̍h-tuaⁿ(藥單)	yao dan	2000
 搖掉(搖掉)	yao diao	2000
-hìⁿ-tiòu(搖掉)	yao diao	2000
+hìⁿ-tiàu(搖掉)	yao diao	2000
 舀掉水(舀掉水)	yao diao shui	2000
-ié-tiōu-tsúi(舀掉水)	yao diao shui	2000
+ié-tiāu-tsúi(舀掉水)	yao diao shui	2000
 藥方(藥方)	yao fang	2000
 ie̍h-hng(藥方)	yao fang	2000
 藥粉(藥粉)	yao fen	2000
@@ -5725,7 +5725,7 @@ só-sî(鑰匙)	yao shi	5000
 藥丸(藥丸)	yao wan	2000
 ie̍h-íⁿ(藥丸)	yao wan	2000
 謠言(謠言)	yao yan	2000
-iôu-ngân(謠言)	yao yan	2000
+iâu-ngân(謠言)	yao yan	2000
 搖鐘(搖鐘)	yao zhong	2000
 iẽ-cheng(搖鐘)	yao zhong	2000
 亦(也)	ye	5000
@@ -5841,7 +5841,7 @@ che̍k-sang(一雙)	yi shuang	2000
 一尾(一條)	yi tiao	5000
 che̍k-búe(一條)	yi tiao	5000
 一條(一條)	yi tiao	2000
-chek-tiôu(一條)	yi tiao	2000
+chek-tiâu(一條)	yi tiao	2000
 一尾魚(一條魚)	yi tiao yu	5000
 che̍k-búe hṳ̂(一條魚)	yi tiao yu	5000
 一帖(一帖)	yi tie	2000
@@ -5989,7 +5989,7 @@ siû-tsui(游泳)	you yong	5000
 油紙(油紙)	you zhi	2000
 iû-tsuá(油紙)	you zhi	2000
 邀走(誘走)	you zou	2000
-kiou-tsãu(誘走)	you zou	2000
+kiau-tsãu(誘走)	you zou	2000
 有罪(有罪)	you zui	2000
 ũ-tsũe(有罪)	you zui	2000
 鷸蚌相持漁翁得利(鷸蚌相持漁翁得利)	yu bang xiang chi yu weng de li	2000
@@ -6211,7 +6211,7 @@ tsám-thâu(斬頭)	zhan tou	2000
 肨(脹)	zhang	5000
 phòng(脹)	zhang	5000
 數簿(賬本)	zhang ben	2000
-siòu-phõu(賬本)	zhang ben	2000
+siàu-phõu(賬本)	zhang ben	2000
 流漲(漲潮)	zhang chao	100
 lâu tĩⁿ(漲潮)	zhang chao	100
 丈地(丈地)	zhang di	2000
@@ -6250,7 +6250,7 @@ tshūe--tie̍h(找到)	zhao dao	2000
 觀顧(照顧)	zhao gu	2000
 kuan-kù(照顧)	zhao gu	2000
 招呼(招呼)	zhao hu	2000
-chiou-hu(招呼)	zhao hu	2000
+chiau-hu(招呼)	zhao hu	2000
 倒桌櫃(找換店)	zhao huan dian	2000
 táu-toh-kūiⁿ(找換店)	zhao huan dian	2000
 倒棹櫃(找換店)	zhao huan dian	1000
@@ -6454,7 +6454,7 @@ tong-ti̍t(忠直)	zhong zhi	2000
 糜(粥)	zhou	5000
 mûeⁿ(粥)	zhou	5000
 皺紗(皺紗)	zhou sha	2000
-jiòu-se(皺紗)	zhou sha	2000
+jiàu-se(皺紗)	zhou sha	2000
 朱布(朱布)	zhu bu	2000
 tsu-pòu(朱布)	zhu bu	2000
 生囝母(助產士)	zhu chan shi	2000
@@ -6514,7 +6514,7 @@ tsuan-sim(專心)	zhuan xin	2000
 tsng-iê(磚窯)	zhuan yao	2000
 磚窰(磚窯)	zhuan yao	1000
 盤數(轉賬)	zhuan zhang	2000
-puâⁿ-siòu(轉賬)	zhuan zhang	2000
+puâⁿ-siàu(轉賬)	zhuan zhang	2000
 桩家(莊家)	zhuang jia	5000
 tsng-ke(莊家)	zhuang jia	5000
 追(追趕)	zhui gan	5000
