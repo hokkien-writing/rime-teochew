@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2025.05.02"
+version:	"2025.05.05"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -2920,7 +2920,6 @@ import_tables:
 網	mang6	5000
 幕	mang6	600
 夢	mang7	5000
-媽	mann2	600
 貓	mau	70
 耄	mau3	600
 毛	mau5	600
@@ -2930,7 +2929,12 @@ import_tables:
 髦	mau5	600
 貌	mau6	5000
 冒	mau6	2000
-夜	me5	600
+猛	me2	1200
+暝	me5	5000
+盲	me5	5000
+夜	me5	2500
+冥	me5	600
+芒	me5	600
 嗎	me7	5000
 罵	me7	600
 咩	meh	600
@@ -2956,19 +2960,15 @@ import_tables:
 夜	meng5	300
 命	meng6	5000
 孟	meng6	600
-猛	menn2	1200
-暝	menn5	5000
-盲	menn5	5000
-夜	menn5	2500
-冥	menn5	600
-芒	menn5	600
 乜	mi	600
 咪	mi	600
 眯	mi	600
 美	mi2	4000
 靡	mi2	600
 迷	mi5	5000
+棉	mi5	2000
 糜	mi5	600
+綿	mi5	600
 醚	mi5	600
 眯	mi5	70
 媚	mi6	600
@@ -2977,6 +2977,8 @@ import_tables:
 𠀾	mi6	300
 𠁞	mi6	150
 𣍐	mi6	75
+麵	mi7	2000
+麫	mi7	600
 名	miann5	5000
 命	miann7	4000
 渺	miau2	2000
@@ -3007,11 +3009,6 @@ import_tables:
 氓	min5	600
 泯	min5	600
 面	min7	5000
-棉	minn5	2000
-糜	minn5	600
-綿	minn5	600
-麵	minn7	2000
-麫	minn7	600
 密	mit8	2000
 滅	mit8	2000
 默	mit8	2000
@@ -3029,10 +3026,10 @@ import_tables:
 孬	mo2	10000
 𪥸	mo2	5000
 模	mo5	5000
-毛	mo5	5000
 摩	mo5	600
 摸	mo5	600
 摹	mo5	600
+毛	mo5	600
 蘑	mo5	600
 魔	mo5	600
 埋	mo5	300
@@ -3071,8 +3068,6 @@ import_tables:
 蚊	mong5	300
 舞	mong6	600
 茂	mong6	600
-茅	monn	600
-毛	monn5	600
 瞀	mou3	600
 牟	mou5	600
 謀	mou5	600
@@ -3089,12 +3084,12 @@ import_tables:
 瞞	muann5	600
 末	muat8	2000
 每	mue2	5000
+糜	mue5	5000
 妹	mue6	5000
 寐	mue6	600
 昧	mue6	600
 魅	mue6	600
 物	mueh8	5000
-糜	muenn5	5000
 美	mui2	5000
 鎂	mui2	600
 微	mui5	5000
@@ -3278,7 +3273,7 @@ import_tables:
 妮	ni5	600
 尼	ni5	600
 泥	ni5	600
-𦮴	ni5	300
+𦮴	ni5	600
 奶	ni6	600
 泥	ni6	600
 膩	ni6	600
@@ -3306,8 +3301,6 @@ import_tables:
 讓	nienn7	600
 𥍉	nih	600
 恁	nin2	10000
-呢	ninn5	600
-𦮴	ninn5	600
 妞	niu2	600
 扭	niu2	600
 紐	niu2	600
