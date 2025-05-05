@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2025.05.05"
+version:	"2025.05.06"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -441,7 +441,6 @@ import_tables:
 隻	chiah	5000
 跡	chiah	2000
 脊	chiah	600
-雀	chiah	600
 食	chiah8	10000
 勺	chiak	600
 嚼	chiak	600
@@ -2486,7 +2485,6 @@ import_tables:
 蠟	lah8	600
 辣	lah8	600
 拉	lah8	70
-來	lai3	600
 賚	lai3	600
 來	lai5	10000
 梨	lai5	2000
@@ -2495,7 +2493,6 @@ import_tables:
 內	lai6	10000
 裏	lai6	5000
 裡	lai6	2500
-來	lai7	600
 碌	lak	600
 落	lak	600
 六	lak8	5000
@@ -2561,7 +2558,6 @@ import_tables:
 醪	lau5	600
 老	lau6	5000
 漏	lau7	600
-鬧	lau7	600
 落	lauh8	4000
 歷	leh8	2000
 曆	leh8	1200
@@ -2650,7 +2646,6 @@ import_tables:
 撂	liak8	600
 拈	liam	600
 粘	liam	600
-黏	liam	600
 斂	liam2	600
 殮	liam2	600
 奩	liam5	600
@@ -2658,7 +2653,6 @@ import_tables:
 廉	liam5	600
 簾	liam5	600
 鐮	liam5	600
-黏	liam5	600
 念	liam6	5000
 廿	liam6	600
 唸	liam7	2000
@@ -2895,11 +2889,10 @@ import_tables:
 馬	ma2	600
 嗎	ma2	70
 嘛	ma7	600
-勿	mai3	5000
+勿	mai3	600
 埋	mai5	600
 霾	mai5	600
 邁	mai6	600
-勿	mainn3	600
 衊	mak	2000
 目	mak8	5000
 挽	man2	2000
@@ -3074,14 +3067,14 @@ import_tables:
 茂	mou6	2000
 瞀	mou6	600
 袤	mou6	600
+滿	mua2	5000
 麻	mua5	5000
 蔴	mua5	2500
+鰻	mua5	2000
 摩	mua5	600
 痲	mua5	600
+瞞	mua5	600
 埋	mua5	300
-滿	muann2	5000
-鰻	muann5	2000
-瞞	muann5	600
 末	muat8	2000
 每	mue2	5000
 糜	mue5	5000
@@ -3134,7 +3127,6 @@ import_tables:
 撓	nau5	600
 鬧	nau6	5000
 扭	nau6	600
-鬧	nau7	600
 冷	ne2	600
 呢	ne7	600
 𦮴	ne7	300
@@ -3277,6 +3269,8 @@ import_tables:
 奶	ni6	600
 泥	ni6	600
 膩	ni6	600
+黏	niam	600
+黏	niam5	600
 娘	niang5	600
 嶺	niann2	600
 領	niann2	600
@@ -3331,9 +3325,9 @@ import_tables:
 奴	nou	600
 奴	nou5	5000
 孥	nou5	5000
-欄	nuann5	600
-涎	nuann6	600
-爛	nuann7	600
+欄	nua5	600
+涎	nua6	600
+爛	nua7	600
 餒	nui2	600
 呵	o	600
 噢	o	600
@@ -4484,8 +4478,6 @@ import_tables:
 逮	tai6	600
 事	tai7	2000
 韃	tak	600
-值	tak8	5000
-値	tak8	2500
 毒	tak8	2000
 度	tak8	600
 獨	tak8	600
@@ -4546,7 +4538,9 @@ import_tables:
 賺	tann7	600
 答	tap	5000
 瘩	tap	600
+值	tat8	5000
 達	tat8	5000
+値	tat8	2500
 兜	tau	600
 逗	tau	600
 倒	tau2	5000
@@ -4581,7 +4575,6 @@ import_tables:
 特	tek8	5000
 敵	tek8	2000
 的	tek8	2000
-值	tek8	600
 滌	tek8	600
 狄	tek8	600
 笛	tek8	600
@@ -4590,7 +4583,6 @@ import_tables:
 軸	tek8	600
 迪	tek8	600
 鹿	tek8	600
-値	tek8	300
 丁	teng	5000
 登	teng	5000
 徵	teng	2000
