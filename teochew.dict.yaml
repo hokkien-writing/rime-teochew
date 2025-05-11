@@ -239,7 +239,6 @@ import_tables:
 症	cheng3	2000
 眾	cheng3	2000
 衆	cheng3	1000
-衝	cheng3	600
 証	cheng3	600
 蹭	cheng3	600
 曾	cheng5	600
@@ -273,6 +272,7 @@ import_tables:
 稱	chheng	5000
 淸	chheng	2500
 稱	chheng3	1200
+衝	chheng3	600
 襯	chheng3	600
 銃	chheng3	600
 情	chheng5	5000
