@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2025.05.06"
+version:	"2025.05.11"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -25,15 +25,15 @@ a-kou	a kou	2000
 a-kũ	a ku6	2000
 a-ḿ	a m2	2000
 a-má	a ma2	5000
-a-mūe	a mue7	2000
+a-mūe	a mue7	600
 a-nái	a nai2	2000
-a-neⁿ	a nenn	2000
+a-ne	a ne	600
 a-ni	a ni	600
 a-niêⁿ	a nienn5	2000
 a-niêⁿ-kiáⁿ	a nienn5 kiann2	2000
 a-nn̂g	a nng5	2000
-a-nouⁿ	a nounn	2000
-a-nôuⁿ	a nounn5	2000
+a-nou	a nou	2000
+a-nôu	a nou5	2000
 a-pa	a pa	2000
 a-pẽ	a pe6	2000
 a-peh	a peh	2000
@@ -50,15 +50,15 @@ a-tuàⁿ	a tuann3	2000
 á-chi̍h	a2 chih8	600
 á-uan	a2 uan	2000
 à	a3	5000
-ah-nih	ah nih	2000
+ah-nih	ah nih	600
 ai-tá	ai ta2	600
-āi--ā	ai7 a7	2000
+āi--ā	ai7 a7	600
 àiⁿ chia̍h	ainn3 chiah8	5000
+àiⁿ-bōi--kâi	ainn3 boi7 kai5	2000
 àiⁿ-sù	ainn3 su3	2000
 àiⁿ-thò-tn̂g--lō	ainn3 tho3 tng5 lo7	2000
 àiⁿ-thòu	ainn3 thou3	2000
 àiⁿ-tsṳ-pēⁿ	ainn3 tsur penn7	600
-âiⁿ-bōi--kâi	ainn5 boi7 kai5	2000
 ak	ak	5000
 ak-tie̍h-hõu	ak tieh8 hou6	2000
 ak-tsúi	ak tsui2	2000
@@ -69,7 +69,7 @@ ak-ut	ak ut	2000
 àm-hō	am3 ho7	2000
 ãm	am6	5000
 ãm-mua	am6 mua	600
-ãm-niáⁿ	am6 niann2	5000
+ãm-niá	am6 nia2	5000
 ãm-phuân	am6 phuan5	600
 an-keⁿ	an kenn	2000
 an-pōu-tǹg-chhia	an pou7 tng3 chhia	600
@@ -93,7 +93,7 @@ ap-ūn	ap un7	600
 au	au	5000
 áu-ueh	au2 ueh	600
 àu-nâng	au3 nang5	2000
-âu-lèng	au5 leng3	5000
+âu-lêng	au5 leng5	5000
 ãu--ji̍t	au6 jit8	2000
 ãu-ĩ	au6 i6	2000
 ãu-pẽ	au6 pe6	2000
@@ -102,7 +102,7 @@ ba-bun-chhiè	ba bun chhie3	600
 bà-gê	ba3 ge5	600
 bā-kiáⁿ	ba7 kiann2	2000
 bā-lî	ba7 li5	600
-ba̍k-ìⁿ	bak8 inn3	2000
+ba̍k-īⁿ	bak8 inn7	2000
 ba̍k-lĩ	bak8 li6	600
 ba̍k-pán	bak8 pan2	2000
 ba̍k-sat	bak8 sat	5000
@@ -129,7 +129,6 @@ bí-niêⁿ	bi2 nienn5	2000
 bí-thai	bi2 thai	2000
 bī-sōu	bi7 sou7	5000
 bó-kũ	bo2 ku6	2000
-bò-nãi-hô	bo3 nai6 ho5	2000
 bô	bo5	10000
 bô tiāⁿ-tie̍h	bo5 tiann7 tieh8	5000
 bô--khṳ̀	bo5 khur3	2000
@@ -149,11 +148,12 @@ bô-kiù--lō	bo5 kiu3 lo7	2000
 bô-kui-kṳ́	bo5 kui kur2	2000
 bô-la̍t	bo5 lat8	2000
 bô-mō	bo5 mo7	2000
+bô-nãi-hô	bo5 nai6 ho5	2000
 bô-nâng-chhêng	bo5 nang5 chheng5	2000
 bô-pan-bó	bo5 pan bo2	2000
 bô-pẽ-bô-bó	bo5 pe6 bo5 bo2	2000
 bô-pien	bo5 pien	2000
-bô-pún-niáⁿ	bo5 pun2 niann2	2000
+bô-pún-niá	bo5 pun2 nia2	2000
 bô-pún-sṳ̄	bo5 pun2 sur7	2000
 bô-seng-lí	bo5 seng li2	2000
 bô-siang-kan	bo5 siang kan	2000
@@ -162,7 +162,7 @@ bô-sim	bo5 sim	2000
 bô-táⁿ	bo5 tann2	600
 bô-tèng-ēng	bo5 teng3 eng7	5000
 bô-thua-khiàm	bo5 thua khiam3	2000
-bô-tshài-chhêng	bo5 tshai3 chheng5	2000
+bô-tshâi-chhêng	bo5 tshai5 chheng5	2000
 bô-tshò	bo5 tsho3	2000
 bô-tsũe	bo5 tsue6	2000
 bô-tsṳ́-sòi	bo5 tsur2 soi3	2000
@@ -186,12 +186,12 @@ bõi-sái	boi6 sai2	2000
 bõi-siau	boi6 siau	2000
 bõi-tit	boi6 tit	2000
 bōi-chiẽⁿ-puâⁿ	boi7 chienn6 puann5	100
-bōi-phiⁿ--nâng	boi7 phinn nang5	2000
+bōi-phiⁿ--nâng	boi7 phinn nang5	600
 bóu	bou2	5000
 bóu-tuaⁿ	bou2 tuann	600
 bú-īⁿ	bu2 inn7	2000
 bú-kuaⁿ	bu2 kuann	2000
-bū-luā	bu7 lua7	2000
+bû-luā	bu5 lua7	2000
 bū-tsúi	bu7 tsui2	2000
 buâ-khóu	bua5 khou2	2000
 buâ-to-chie̍h	bua5 to chieh8	2000
@@ -200,15 +200,15 @@ buān-sì	buan7 si3	2000
 buâng-ieh	buang5 ieh	2000
 buâng-ṳn	buang5 urn	2000
 búe-búe	bue2 bue2	2000
-búe-ia̍h	bue2 iah8	2000
+búe-ia̍h	bue2 iah8	600
 bûe-nâng	bue5 nang5	2000
 bûe-ne̍k	bue5 nek8	600
 būe	bue7	10000
 bùi	bui3	600
+bûn-chieⁿ	bun5 chienn	2000
 bûn-kuaⁿ	bun5 kuann	2000
 bûn-thâm	bun5 tham5	600
 bûn-tshái-hiok-hiok	bun5 tshai2 hiok hiok	600
-bũn-chieⁿ	bun6 chienn	2000
 ché-mūe-kiáⁿ	che2 mue7 kiann2	2000
 chè-tsú	che3 tsu2	5000
 cheh-hâm	cheh ham5	2000
@@ -216,7 +216,7 @@ cheh-jĩm	cheh jim6	2000
 cheh-tsũe	cheh tsue6	5000
 chek-ak	chek ak	2000
 chek-lī	chek li7	2000
-chek-tâi	chek tai5	2000
+chek-tâi	chek tai5	600
 che̍k-búe	chek8 bue2	5000
 che̍k-búe hṳ̂	chek8 bue2 hur5	5000
 che̍k-chiah chiáu	chek8 chiah chiau2	5000
@@ -232,7 +232,6 @@ che̍k-pé-hue	chek8 pe2 hue	2000
 che̍k-phit	chek8 phit	2000
 che̍k-sang	chek8 sang	2000
 che̍k-siu	chek8 siu	2000
-che̍k-siū	chek8 siu7	2000
 che̍k-tàn	chek8 tan3	5000
 che̍k-tàⁿ	chek8 tann3	600
 che̍k-táu chiú	chek8 tau2 chiu2	600
@@ -248,14 +247,14 @@ che̍k-tùi	chek8 tui3	2000
 che̍k-tun	chek8 tun	2000
 cheng-àiⁿ	cheng ainn3	2000
 cheng-ho̍k	cheng hok8	1200
-cheng-seⁿ	cheng senn	5000
+cheng-seⁿ	cheng senn	600
 cheng-sun	cheng sun	2000
 cheng-thâu	cheng thau5	5000
 cheng-tsak	cheng tsak	600
 cheng-tsáu-sun	cheng tsau2 sun	2000
 chèng-kṳ̃	cheng3 kur6	2000
 chèng-nâng	cheng3 nang5	2000
-chèng-sêⁿ	cheng3 senn5	5000
+chèng-sèⁿ	cheng3 senn3	600
 chèng-tāu	cheng3 tau7	2000
 chèng-tsoh	cheng3 tsoh	2000
 chèng-tsu	cheng3 tsu	2000
@@ -285,23 +284,22 @@ chheⁿ-chheⁿ	chhenn chhenn	2000
 chheⁿ-huan	chhenn huan	2000
 chheⁿ-huân	chhenn huan5	5000
 chheⁿ-hūn-nâng	chhenn hun7 nang5	5000
-chheⁿ-ḿ	chhenn m2	2000
+chheⁿ-ḿ	chhenn m2	600
 chheⁿ-mê	chhenn me5	5000
 chheⁿ-pòu	chhenn pou3	2000
 chheⁿ-thih	chhenn thih	2000
 chheⁿ-thiⁿ	chhenn thinn	2000
 chheⁿ-tshài	chhenn tshai3	5000
 chhéⁿ--khí-lâi	chhenn2 khi2 lai5	2000
-chhi-gî	chhi gi5	5000
 chhi-kũ	chhi ku6	2000
 chhi-liâng	chhi liang5	600
 chhi-ngâi	chhi ngai5	600
 chhi-tshám	chhi tsham2	600
 chhì	chhi3	5000
+chhì-khak	chhi3 khak	2000
 chhì-kńg	chhi3 kng2	2000
-chhì-nà-phè	chhi3 na3 phe3	2000
+chhì-nâ-phè	chhi3 na5 phe3	2000
 chhì-thóiⁿ	chhi3 thoinn2	2000
-chhî-khak	chhi5 khak	2000
 chhĩ	chhi6	5000
 chhia	chhia	5000
 chhia-sùe	chhia sue3	2000
@@ -316,7 +314,7 @@ chhiam-si	chhiam si	600
 chhiàng-huâ	chhiang3 hua5	600
 chhiâng-tōu	chhiang5 tou7	2000
 chhiâng-u-tó-thàm	chhiang5 u to2 tham3	600
-chhiáⁿ-táⁿ	chhiann2 tann2	2000
+chhiáⁿ-tán	chhiann2 tan2	2000
 chhiáⁿ-uaⁿ	chhiann2 uann	2000
 chhiâu-thêng	chhiau5 theng5	2000
 chhiâu-tō	chhiau5 to7	600
@@ -352,7 +350,6 @@ chhiú-chí	chhiu2 chi2	100
 chhiú-ẽ	chhiu2 e6	2000
 chhiú-huân	chhiu2 huan5	2000
 chhiú-kṳn	chhiu2 kurn	5000
-chhiú-lap	chhiu2 lap	5000
 chhiú-lõu	chhiu2 lou6	2000
 chhiú-pie	chhiu2 pie	600
 chhiú-pòu	chhiu2 pou3	5000
@@ -394,8 +391,9 @@ chia̍h-ie̍h	chiah8 ieh8	2000
 chia̍h-keh	chiah8 keh	600
 chia̍h-liâng	chiah8 liang5	600
 chia̍h-m̃-lo̍h	chiah8 m6 loh8	2000
-chia̍h-mê-hng	chiah8 me5 hng	2000
-chia̍h-mèng-khí	chiah8 meng3 khi2	2000
+chia̍h-mê-hng	chiah8 me5 hng	600
+chia̍h-mèng-khí	chiah8 meng3 khi2	600
+chia̍h-mêng-khí	chiah8 meng5 khi2	600
 chia̍h-mûe	chiah8 mue5	2000
 chia̍h-pâng	chiah8 pang5	2000
 chia̍h-póu	chiah8 pou2	2000
@@ -409,11 +407,11 @@ chia̍h-tsho	chiah8 tsho	5000
 chia̍h-tû	chiah8 tu5	2000
 chiam-pok	chiam pok	600
 chiàm-kùe	chiam3 kue3	2000
-chiàm-niáⁿ	chiam3 niann2	2000
+chiàm-niá	chiam3 nia2	2000
 chiãm-chiãm	chiam6 chiam6	2000
-chiām-sí	chiam7 si2	2000
+chiãm-sî	chiam6 si5	2000
 chiang-lâi	chiang lai5	2000
-chiáng-kuán	chiang2 kuan2	2000
+chiáng-kuán	chiang2 kuan2	600
 chiáng-kūiⁿ	chiang2 kuinn7	100
 chiáng-tãi	chiang2 tai6	2000
 chiàng-kun	chiang3 kun	2000
@@ -427,8 +425,8 @@ chiàⁿ-keng	chiann3 keng	2000
 chiàⁿ-siêⁿ	chiann3 sienn5	2000
 chiàⁿ-ti̍t	chiann3 tit8	2000
 chiau-hu	chiau hu	2000
-chiáu-mê	chiau2 me5	5000
 chiáu-tshùi	chiau2 tshui3	2000
+chiauh-mê	chiauh me5	5000
 chie-kaⁿ	chie kann	2000
 chie-pâi	chie pai5	2000
 chié	chie2	5000
@@ -445,7 +443,6 @@ chie̍h-pi	chieh8 pi	2000
 chie̍h-põu	chieh8 pou6	5000
 chie̍h-têng	chieh8 teng5	2000
 chie̍h-tshṳ́	chieh8 tshur2	2000
-chién	chien2	5000
 chién ki	chien2 ki	1200
 chién-tuàn	chien2 tuan3	2000
 chièn-iâⁿ	chien3 iann5	2000
@@ -477,7 +474,7 @@ chiⁿ-bō	chinn bo7	2000
 chiⁿ-thî	chinn thi5	5000
 chìⁿ-pá	chinn3 pa2	2000
 chîⁿ-lêng	chinn5 leng5	600
-chîⁿ-ngṳ̂u	chinn5 nguru5	2000
+chîⁿ-ngṳ̂n	chinn5 ngurn5	2000
 chîⁿ-tshang	chinn5 tshang	5000
 chîⁿ-tsuá	chinn5 tsua2	2000
 chip-ì	chip i3	2000
@@ -494,9 +491,8 @@ chiú-liâm	chiu2 liam5	600
 chiú-piáⁿ	chiu2 piann2	2000
 chiú-pue	chiu2 pue	2000
 chiú-thâm	chiu2 tham5	600
-chiù-tshuā	chiu3 tshua7	2000
+chiù-tsuā	chiu3 tsua7	600
 chiũ-sĩ	chiu6 si6	2000
-chuá-luán-teng	chua2 luan2 teng	2000
 é	e2	5000
 ẽ-hâi	e6 hai5	600
 ẽ-ji̍t	e6 jit8	5000
@@ -505,12 +501,12 @@ chuá-luán-teng	chua2 luan2 teng	2000
 ẽ-tsúi	e6 tsui2	2000
 ē-ē	e7 e7	2000
 e̍k-pòu	ek8 pou3	5000
-eng-kai	eng kai	2000
 eng-ko	eng ko	2000
 eng-pô	eng po5	2000
 eng-têng	eng teng5	600
+èng-kai	eng3 kai	2000
 èng-kai-tit	eng3 kai tit	2000
-êng-ti	eng5 ti	5000
+êng-ti	eng5 ti	600
 ēng chĩn	eng7 chin6	2000
 gâu	gau5	600
 gâu-a-niêⁿ	gau5 a nienn5	600
@@ -539,8 +535,8 @@ gu̍eh-gu̍eh	gueh8 gueh8	2000
 gu̍eh-kì	gueh8 ki3	5000
 gu̍eh-kiáⁿ	gueh8 kiann2	2000
 gṳ̄-ēng	gur7 eng7	600
-ha̍h-buâ	hah8 bua5	2000
 ha̍h-kńg	hah8 kng2	600
+ha̍h-muâ	hah8 mua5	2000
 ha̍h-pẽng	hah8 peng6	5000
 hái-éng	hai2 eng2	2000
 hái-huang-tiê	hai2 huang tie5	2000
@@ -554,7 +550,7 @@ hãi-ĩ	hai6 i6	2000
 hāi--lō	hai7 lo7	2000
 ha̍k-seng	hak8 seng	2000
 ha̍k-si̍p	hak8 sip8	2000
-hám-tiàu	ham2 tiau3	2000
+hám-tiāu	ham2 tiau7	2000
 hàm	ham3	5000
 hâm-lâm-su̍t	ham5 lam5 sut8	600
 hán-tit	han2 tit	2000
@@ -563,17 +559,15 @@ hang-ku	hang ku	600
 hâng-chhêng	hang5 chheng5	2000
 hâng-ho̍k	hang5 hok8	2000
 hāng-kiáⁿ	hang7 kiann2	2000
-háⁿ-hun	hann2 hun	2000
 ha̍p-ieh	hap8 ieh	2000
 ha̍p-tâng	hap8 tang5	2000
-hâu-khak-sîⁿ	hau5 khak sinn5	2000
 hãu-seⁿ	hau6 senn	4000
+hāu-khak-sìⁿ	hau7 khak sinn3	2000
 hāu-peh-chheh	hau7 peh chheh	100
-hàuⁿ-he̍hⁿ--kâi-nâng	haunn3 hehnn8 kai5 nang5	2000
+hàuⁿ-he̍hⁿ--kâi-nâng	haunn3 hehnn8 kai5 nang5	600
 hê-bí	he5 bi2	2000
 hẽ-hùe	he6 hue3	2000
 hẽ-nguãn	he6 nguan6	600
-hẽ-nguān	he6 nguan7	2000
 hē-chì	he7 chi3	2000
 heh-kiaⁿ	heh kiann	2000
 hehⁿ--chē-kiè	hehnn che7 kie3	2000
@@ -617,22 +611,22 @@ hiau-hẽng	hiau heng6	2000
 hiau-sim	hiau sim	2000
 hiáu	hiau2	5000
 hiáu-chhêng-lí	hiau2 chheng5 li2	2000
-hién-mûiⁿ-kiàⁿ	hien2 muinn5 kiann3	2000
-hiēn-chîⁿ	hien7 chinn5	5000
+hién-mûi-kiàⁿ	hien2 mui5 kiann3	2000
+hiēn-chîⁿ	hien7 chinn5	600
 hieⁿ-ẽ-nâng	hienn e6 nang5	2000
 hieⁿ-kou	hienn kou	5000
 hieⁿ-lí	hienn li2	5000
 hieⁿ-liāu	hienn liau7	2000
-hieⁿ-lou	hienn lou	2000
+hieⁿ-lôu	hienn lou5	2000
 hieⁿ-tshâ	hienn tsha5	2000
 hièⁿ-seⁿ	hienn3 senn	2000
 hiet-kiáⁿ	hiet kiann2	600
 hîn-tsûn	hin5 tsun5	5000
 hīn-tsãi	hin7 tsai6	5000
-hìⁿ-tiàu	hinn3 tiau3	2000
+hìⁿ-tiāu	hinn3 tiau7	2000
 hîⁿ-suàⁿ	hinn5 suann3	2000
 hĩⁿ--lâng	hinn6 lang5	2000
-hĩⁿ-huâⁿ	hinn6 huann5	2000
+hĩⁿ-huân	hinn6 huan5	2000
 hĩⁿ-kau	hinn6 kau	5000
 hĩⁿ-khang	hinn6 khang	2000
 hiok ta̍k-hu	hiok tak8 hu	600
@@ -642,7 +636,6 @@ hiông	hiong5	5000
 hip	hip	600
 hip-sí	hip si2	2000
 hiûⁿ	hiunn5	5000
-hng-la̍h-bó-heh	hng lah8 bo2 heh	2000
 hng-tshan	hng tshan	600
 hn̂g-lî	hng5 li5	2000
 hó--kùe	ho2 kue3	2000
@@ -652,8 +645,9 @@ hó-sĩ-sĩ	ho2 si6 si6	2000
 hó-sim	ho2 sim	2000
 hó-thàn	ho2 than3	5000
 hó-thóiⁿ	ho2 thoinn2	2000
-hô-lan-tāu	ho5 lan tau7	5000
-hô-lan-tsṳ̂	ho5 lan tsur5	100
+hô-lân-se	ho5 lan5 se	600
+hô-lân-tāu	ho5 lan5 tau7	5000
+hô-lân-tsṳ̂	ho5 lan5 tsur5	100
 hô-pau	ho5 pau	2000
 hō-thâu	ho7 thau5	2000
 hoh	hoh	600
@@ -675,15 +669,15 @@ hóng-lo̍k	hong2 lok8	2000
 hóng-phièn	hong2 phien3	600
 hòng-chhiéⁿ	hong3 chhienn2	600
 hòng-tshǹg	hong3 tshng3	600
-hông-kà	hong5 ka3	2000
 hõng-iáng	hong6 iang2	2000
+hõng-kà	hong6 ka3	2000
 hôu-chhiu	hou5 chhiu	600
 hôu-chie	hou5 chie	600
 hôu-khî	hou5 khi5	600
-hôu-sîn	hou5 sin5	2000
+hôu-lâi	hou5 lai5	2000
+hôu-sîn	hou5 sin5	600
 hôu-sîn-sái-kì	hou5 sin5 sai2 ki3	2000
 hõu-kiáⁿ	hou6 kiann2	2000
-hõu-lâi	hou6 lai5	2000
 hõu-lōu-kṳn-tiam	hou6 lou7 kurn tiam	600
 hõu-suàⁿ	hou6 suann3	2000
 hóuⁿ-lô	hounn2 lo5	2000
@@ -697,7 +691,7 @@ hû-thông	hu5 thong5	600
 hû-thû	hu5 thu5	2000
 huâ-ieh	hua5 ieh	2000
 huâ-sǹg	hua5 sng3	2000
-huah-hì	huah hi3	5000
+huah-hì	huah hi3	600
 huãm tõng-im	huam6 tong6 im	600
 huãm-jîn	huam6 jin5	2000
 huãm-lu̍t	huam6 lut8	5000
@@ -744,7 +738,6 @@ hue-hũe	hue hue6	2000
 hue-kan	hue kan	100
 hue-lōu-tsúi	hue lou7 tsui2	2000
 hue-lúi	hue lui2	2000
-hue-niau	hue niau	2000
 hue-niêⁿ	hue nienn5	100
 hue-ôi	hue oi5	2000
 hue-pòu	hue pou3	5000
@@ -756,14 +749,14 @@ húe-chhia	hue2 chhia	2000
 húe-chia̍h	hue2 chiah8	2000
 húe-chie̍h	hue2 chieh8	5000
 húe-chi̍h	hue2 chih8	2000
-húe-hu	hue2 hu	5000
+húe-hu	hue2 hu	600
 húe-hun-tâng	hue2 hun tang5	2000
 húe-iām	hue2 iam7	2000
 húe-ie̍h	hue2 ieh8	2000
 húe-kì	hue2 ki3	2000
 húe-koi	hue2 koi	2000
 húe-lôu	hue2 lou5	2000
-húe-nā	hue2 na7	2000
+húe-nā	hue2 na7	600
 húe-pâi	hue2 pai5	2000
 húe-phuãⁿ	hue2 phuann6	2000
 húe-si̍t-pâng	hue2 sit8 pang5	100
@@ -794,8 +787,9 @@ hûeⁿ-ûi	huenn5 ui5	2000
 huh--chē-kiè	huh che7 kie3	2000
 hui-lìn-tńg	hui lin3 tng2	2000
 hui-tńg--lâi	hui tng2 lai5	2000
-húi-tiàu	hui2 tiau3	2000
-hùi-tiàu	hui3 tiau3	2000
+húi-tiàu	hui2 tiau3	600
+húi-tiāu	hui2 tiau7	2000
+hùi-tiāu	hui3 tiau7	2000
 hûi	hui5	5000
 hun-mêng	hun meng5	2000
 hun-pie̍t	hun piet8	5000
@@ -806,7 +800,7 @@ hûn-hõu	hun5 hou6	5000
 hṳ́	hur2	10000
 hṳ́-chuàⁿ-kâi	hur2 chuann3 kai5	2000
 hṳ́-tiang-sî	hur2 tiang si5	2000
-hṳ̂-chhi	hur5 chhi	5000
+hṳ̂-chhi	hur5 chhi	600
 hṳ̂-chhì	hur5 chhi3	600
 hṳ̂-chí	hur5 chi2	2000
 hṳ̂-jī	hur5 ji7	2000
@@ -829,7 +823,7 @@ i--kâi	i kai5	5000
 i-nâng	i nang5	10000
 i-nguân	i nguan5	2000
 i-pái	i pai2	600
-ì-sṳ̄	i3 sur7	2000
+ì-sṳ̀	i3 sur3	2000
 î-tiẽⁿ	i5 tienn6	2000
 iá-iēⁿ	ia2 ienn7	5000
 iâ-sou	ia5 sou	2000
@@ -841,7 +835,6 @@ iak-liãng	iak liang6	2000
 iam-koi	iam koi	600
 iâm-siau	iam5 siau	2000
 iâm-ti̍h	iam5 tih8	2000
-iang	iang	5000
 iáng-io̍k	iang2 iok8	2000
 iáng-kiáⁿ	iang2 kiann2	2000
 iàng-ma̍k	iang3 mak8	2000
@@ -849,6 +842,7 @@ iâng-chhia húe-tsûn	iang5 chhia hue2 tsun5	100
 iâⁿ-kùe	iann5 kue3	2000
 iâⁿ-lãu-iâ	iann5 lau6 ia5	2000
 iâⁿ-puâⁿ	iann5 puann5	2000
+ia̍p-ia̍p-sih	iap8 iap8 sih	2000
 iau	iau	600
 iáu-hó	iau2 ho2	600
 iàu-tshong	iau3 tshong	2000
@@ -870,17 +864,18 @@ ie̍h-îⁿ	ieh8 inn5	2000
 ie̍h-kúi	ieh8 kui2	100
 ie̍h-kṳn	ieh8 kurn	2000
 ie̍h-tuaⁿ	ieh8 tuann	2000
+ien	ien	5000
 ièn-o	ien3 o	2000
 ièn-tshài	ien3 tshai3	2000
 iêⁿ-bûe	ienn5 bue5	2000
 iêⁿ-mô	ienn5 mo5	2000
-iêⁿ-tô	ienn5 to5	2000
+iêⁿ-tô	ienn5 to5	600
 iêⁿ-tsûn	ienn5 tsun5	2000
 iēⁿ	ienn7	10000
 îm-sṳ̄	im5 sur7	2000
 in-âu	in au5	600
 in-chi	in chi	2000
-in-kè	in ke3	2000
+in-kè	in ke3	600
 in-nî	in ni5	2000
 in-po-hau-miáu	in po hau miau2	600
 in-tâng	in tang5	5000
@@ -907,7 +902,7 @@ iòng-tài	iong3 tai3	1200
 iông-kim	iong5 kim	2000
 iông-nâng	iong5 nang5	600
 iông-sù	iong5 su3	2000
-ip-tsã	ip tsa6	2000
+ip-tsà	ip tsa3	600
 it-hó	it ho2	2000
 it-tit	it tit	5000
 iû-hì	iu5 hi3	2000
@@ -919,8 +914,6 @@ iû-tsuá	iu5 tsua2	2000
 iùⁿ	iunn3	5000
 iùⁿ-bí	iunn3 bi2	600
 iùⁿ-iùⁿ	iunn3 iunn3	2000
-iăp-ia̍p-sih	iăp iap8 sih	2000
-jî-pe̍h	ji5 peh8	2000
 jî-sài	ji5 sai3	2000
 jĩ--gu̍eh	ji6 gueh8	2000
 jĩ-chhiú	ji6 chhiu2	100
@@ -930,6 +923,7 @@ jĩ-keⁿ	ji6 kenn	2000
 jĩ-nâng	ji6 nang5	2000
 jī-bó	ji7 bo2	2000
 jī-hō	ji7 ho7	5000
+jī-pe̍h	ji7 peh8	2000
 jī-póiⁿ	ji7 poinn2	2000
 jī-tién	ji7 tien2	2000
 jiáng	jiang2	5000
@@ -938,7 +932,7 @@ jiāu	jiau7	5000
 jiē-hû	jie7 hu5	2000
 jiē-pha	jie7 pha	5000
 jie̍h-tsōi	jieh8 tsoi7	5000
-ji̍h	jih8	2000
+ji̍h	jih8	600
 jĩm-ì	jim6 i3	2000
 jîn-siam	jin5 siam	600
 jîn-tshṳ̂	jin5 tshur5	2000
@@ -964,7 +958,7 @@ ji̍t-to̍k	jit8 tok8	2000
 ka-chiah	ka chiah	600
 ka-kī	ka ki7	4000
 ka-kī-nâng	ka ki7 nang5	5000
-ka-la̍uh	ka lauh8	5000
+ka-la̍uh	ka lauh8	600
 ka-lî	ka li5	5000
 ka-lî-bua̍h	ka li5 buah8	600
 ka-pòu	ka pou3	2000
@@ -976,7 +970,7 @@ ka-tsáu	ka tsau2	2000
 ka-tsua̍h	ka tsuah8	600
 ká-thiàⁿ	ka2 thiann3	600
 kà-õi-se̍k	ka3 oi6 sek8	2000
-kā-kā-kiè	ka7 ka7 kie3	2000
+kā-kā-kiè	ka7 ka7 kie3	600
 kah	kah	10000
 kah-kiáⁿ	kah kiann2	600
 kài-lua̍h	kai3 luah8	2000
@@ -984,10 +978,11 @@ kak-kue	kak kue	5000
 kak-nâng	kak nang5	2000
 kak-thâu	kak thau5	2000
 ka̍k-tiàu	kak8 tiau3	600
+ka̍k-tiāu	kak8 tiau7	2000
 kam-bi̍t	kam bit8	2000
 kam-chek	kam chek	600
 kam-nguãn	kam nguan6	600
-kam-thâng	kam thang5	2000
+kam-thâng	kam thang5	600
 kam-tsháu	kam tshau2	2000
 kám-siā	kam2 sia7	5000
 kám-ṳn	kam2 urn	2000
@@ -1011,7 +1006,7 @@ kāng	kang7	5000
 kaⁿ	kann	5000
 kaⁿ-ná	kann na2	2000
 kàⁿ-bó	kann3 bo2	2000
-kap-pán	kap pan2	2000
+kap-pán	kap pan2	600
 kap-pô	kap po5	2000
 kap-tsṳ-chheh	kap tsur chheh	2000
 kat-ti̍t	kat tit8	2000
@@ -1034,15 +1029,15 @@ kàu-tói	kau3 toi2	2000
 kàu-tsāi	kau3 tsai7	2000
 kàu-tsúi	kau3 tsui2	2000
 kâu-la̍k	kau5 lak8	600
-kãu-la̍k	kau6 lak8	5000
-kāu-u̍eh	kau7 ueh8	2000
+kãu-la̍k	kau6 lak8	600
+kãu-u̍eh	kau6 ueh8	2000
 ke	ke	5000
 ke-húe	ke hue2	2000
 ke-kuàn	ke kuan3	2000
 ke-lãi	ke lai6	2000
 ke-mê	ke me5	5000
 ke-ngia̍p	ke ngiap8	2000
-ke-nouⁿ	ke nounn	2000
+ke-nou	ke nou	2000
 ke-si	ke si	2000
 ke-sìn	ke sin3	5000
 ke-sîn	ke sin5	2000
@@ -1062,7 +1057,7 @@ kek-hue	kek hue	2000
 kek-sí	kek si2	2000
 kek-sim	kek sim	600
 keng-biē	keng bie7	2000
-keng-chie	keng chie	5000
+keng-chie	keng chie	600
 keng-le̍h	keng leh8	2000
 keng-tōiⁿ	keng toinn7	600
 kèng-hó	keng3 ho2	2000
@@ -1074,8 +1069,8 @@ kéⁿ-it	kenn2 it	600
 kéⁿ-tie̍h-âu	kenn2 tieh8 au5	600
 kèⁿ-ji̍p	kenn3 jip8	600
 kha	kha	5000
-kha-ãu-teⁿ	kha au6 tenn	2000
-kha-khàu	kha khau3	2000
+kha-ãu-teⁿ	kha au6 tenn	600
+kha-khàu	kha khau3	600
 kha-kiáu	kha kiau2	600
 kha-liâm	kha liam5	600
 kha-ma̍k	kha mak8	5000
@@ -1087,11 +1082,10 @@ kha-thúi	kha thui2	5000
 kha-tn̂g-tóu	kha tng5 tou2	5000
 kha-tói	kha toi2	2000
 kha-tshng	kha tshng	600
-kha-tshng-póiⁿ	kha tshng poinn2	2000
+kha-tshng-pôiⁿ	kha tshng poinn5	2000
 kha-tsóiⁿ	kha tsoinn2	5000
 khà-kou	kha3 kou	600
-khà-lōi-long	kha3 loi7 long	2000
-khà-phnà	kha3 phna3	2000
+khà-phuà	kha3 phua3	2000
 khà-sǹg-puâⁿ	kha3 sng3 puann5	2000
 khà-tiẽn-pò	kha3 tien6 po3	2000
 khah	khah	5000
@@ -1112,7 +1106,7 @@ khang-khak	khang khak	2000
 khang-khùe	khang khue3	2000
 khang-tóu	khang tou2	5000
 khàng-tshn̂g	khang3 tshng5	2000
-khâng-khiâ	khang5 khia5	2000
+khâng-khiâ	khang5 khia5	600
 khap-ìn	khap in3	2000
 khat-khóu	khat khou2	2000
 khat-khóu-lún	khat khou2 lun2	2000
@@ -1138,7 +1132,6 @@ khí-kiâⁿ	khi2 kiann5	2000
 khí-mông	khi2 mong5	2000
 khí-ngṳ̂n	khi2 ngurn5	600
 khí-sin	khi2 sin	2000
-khí-si̍t	khi2 sit8	2000
 khí-thâu	khi2 thau5	5000
 khí-thiàⁿ	khi2 thiann3	5000
 khí-thiâⁿ	khi2 thiann5	600
@@ -1150,6 +1143,7 @@ khì-sì-hiong-hiong	khi3 si3 hiong hiong	600
 khî-ĩ	khi5 i6	2000
 khî-khá	khi5 kha2	2000
 khî-khá-mu̍eh	khi5 kha2 mueh8	2000
+khî-si̍t	khi5 sit8	2000
 khî-táu	khi5 tau2	2000
 khî-ṳ̂	khi5 ur5	2000
 khiâ-bé	khia5 be2	2000
@@ -1181,8 +1175,8 @@ khiok-ho̍k	khiok hok8	5000
 khiok-khàu	khiok khau3	2000
 khiû-khṳt	khiu5 khurt	2000
 khǹg	khng3	5000
-khǹg-buâ	khng3 bua5	2000
-khǹg-kòi	khng3 koi3	2000
+khǹg-kòi	khng3 koi3	600
+khǹg-muâ	khng3 mua5	2000
 khó-liên	kho2 lien5	2000
 khó-pí	kho2 pi2	2000
 khó-sieh	kho2 sieh	2000
@@ -1192,22 +1186,22 @@ khò-si	kho3 si	600
 kho̍h-kôu	khoh8 kou5	2000
 khoi-chhiu	khoi chhiu	2000
 khoi-kîⁿ	khoi kinn5	5000
-khòi-tsháu	khoi3 tshau2	2000
+khòi-tsháu	khoi3 tshau2	600
 khoih-pòu	khoih pou3	2000
 khóng-chhiak	khong2 chhiak	600
-khóng-chhieh	khong2 chhieh	2000
+khóng-chhieh	khong2 chhieh	600
 khóng-hu-tsṳ́	khong2 hu tsur2	2000
 khóng-tsṳ́	khong2 tsur2	2000
 khou-siàu	khou siau3	2000
 khou-tháng	khou thang2	2000
-khou-tiàu	khou tiau3	2000
+khou-tiāu	khou tiau7	2000
 khóu-kue	khou2 kue	2000
 khóu-miāⁿ	khou2 miann7	2000
 khòu-kha	khou3 kha	5000
 khòu-ku̍eh	khou3 kueh8	600
 khòu-pâng	khou3 pang5	2000
-khòu-thâu-léng	khou3 thau5 leng2	2000
-khòu-thâu-tuā	khou3 thau5 tua7	5000
+khòu-thâu-lêng	khou3 thau5 leng5	2000
+khòu-thâu-tuā	khou3 thau5 tua7	600
 khòu-thúi	khou3 thui2	2000
 khòu-tiàu	khou3 tiau3	2000
 khòu-tuā	khou3 tua7	5000
@@ -1217,12 +1211,12 @@ khua-hũ	khua hu6	600
 khuà--tie̍h	khua3 tieh8	2000
 khuà-lṳ̃	khua3 lur6	2000
 khuah	khuah	5000
-khuah-ta̍k	khuah tak8	5000
-khuán-thāi	khuan2 thai7	2000
-khuán-thàu	khuan2 thau3	2000
+khuah-ta̍t	khuah tat8	5000
+khuan-thàu	khuan thau3	2000
+khuán-thãi	khuan2 thai6	2000
 khuaⁿ-khuaⁿ	khuann khuann	5000
-khuaⁿ-tiâⁿ	khuann tiann5	5000
-khuàⁿ-ua̍h	khuann3 uah8	5000
+khuàⁿ-tiâⁿ	khuann3 tiann5	5000
+khuàⁿ-ua̍h	khuann3 uah8	600
 khue-ho̍k	khue hok8	2000
 khui-hue	khui hue	2000
 khui-phâng	khui phang5	5000
@@ -1230,8 +1224,9 @@ khui-tuaⁿ	khui tuann	5000
 khùi	khui3	5000
 khun-lûn	khun lun5	600
 khun-thâng	khun thang5	600
-khùn-kiáⁿ	khun3 kiann2	2000
+khùn-kiáⁿ	khun3 kiann2	600
 khùn-lân	khun3 lan5	5000
+khùn-nân	khun3 nan5	5000
 khûn-thâu	khun5 thau5	2000
 khṳ̀--nō	khur3 no7	2000
 khṳ̀-cheh	khur3 cheh	2000
@@ -1253,7 +1248,7 @@ kì-miâⁿ	ki3 miann5	2000
 kì-pẽ	ki3 pe6	2000
 kì-siàu	ki3 siau3	2000
 kì-tit	ki3 tit	2000
-kî-kuaⁿ	ki5 kuann	2000
+kî-kuaⁿ	ki5 kuann	600
 kiá-zû	kia2 zu5	5000
 kià-khṳ̀-bói	kia3 khur3 boi2	2000
 kiah-sǹg-puâⁿ	kiah sng3 puann5	2000
@@ -1276,32 +1271,33 @@ kiáⁿ-ji̍t	kiann2 jit8	5000
 kiáⁿ-sài	kiann2 sai3	2000
 kiáⁿ-sun	kiann2 sun	2000
 kiâⁿ	kiann5	10000
-kiâⁿ-buâ	kiann5 bua5	2000
 kiâⁿ-hàu	kiann5 hau3	5000
 kiâⁿ-huâ	kiann5 hua5	2000
 kiâⁿ-lói	kiann5 loi2	2000
 kiâⁿ-mé-tsãi	kiann5 me2 tsai6	2000
+kiâⁿ-muâ	kiann5 mua5	2000
 kiâⁿ-ta̍h	kiann5 tah8	5000
 kiâⁿ-tāⁿ-lōu	kiann5 tann7 lou7	2000
 kiâⁿ-tsáu	kiann5 tsau2	2000
 kiâⁿ-tsûn-nâng	kiann5 tsun5 nang5	5000
 kiâⁿ-ûi	kiann5 ui5	2000
 kiāⁿ	kiann7	5000
-kiau-tsãu	kiau tsau6	2000
+kiau-tsáu	kiau tsau2	2000
 kiè	kie3	5000
 kiê	kie5	5000
 kien-liẽn	kien lien6	600
-kièn-siàu	kien3 siau3	5000
+kièn-siàu	kien3 siau3	600
 kieⁿ-tsṳ̂	kienn tsur5	600
-kih-kau	kih kau	5000
+kih-kau	kih kau	600
 kim-chiau	kim chiau	2000
 kim-kaⁿ-ná	kim kann na2	600
-kim-khùi	kim khui3	2000
+kim-khùi	kim khui3	600
 kim-luân-tōiⁿ	kim luan5 toinn7	600
+kim-mê	kim me5	5000
 kim-sua	kim sua	2000
-kím-káng	kim2 kang2	5000
 kìm-chí	kim3 chi2	2000
 kìm-kam	kim3 kam	2000
+kìm-káng	kim3 kang2	5000
 kìm-kháu	kim3 khau2	2000
 kiong-hí	kiong hi2	2000
 kit	kit	5000
@@ -1312,14 +1308,14 @@ kng	kng	5000
 kng-thàng	kng thang3	2000
 ko	ko	600
 ko-ie̍h	ko ieh8	2000
-ko-lẽ-tshài	ko le6 tshai3	5000
+ko-lê-tshài	ko le5 tshai3	600
 ko-pî	ko pi5	2000
 ko-pî-bō	ko pi5 bo7	2000
-ko-pî-kuàn	ko pi5 kuan3	2000
+ko-pî-kuàn	ko pi5 kuan3	600
 kò-iâⁿ	ko3 iann5	2000
 kò-sī	ko3 si7	2000
 kò-su	ko3 su	2000
-koh-iēⁿ	koh ienn7	2000
+koh-iēⁿ	koh ienn7	600
 koh-lâng-ẽ	koh lang5 e6	600
 koi-ah	koi ah	2000
 koi-ang	koi ang	5000
@@ -1337,7 +1333,7 @@ kòi-kāng	koi3 kang7	5000
 kòi-mông	koi3 mong5	2000
 kòi-u̍eh	koi3 ueh8	2000
 kōi	koi7	5000
-ko̍ih-lo̍ih	koih8 loih8	2000
+ko̍ih-lo̍ih	koih8 loih8	600
 koiⁿ-páng	koinn pang2	2000
 koiⁿ-thâu	koinn thau5	5000
 kóiⁿ	koinn2	600
@@ -1362,7 +1358,7 @@ kou-chiú	kou chiu2	2000
 kou-iû	kou iu5	2000
 kou-tiẽⁿ	kou tienn6	2000
 kóu-kè	kou2 ke3	2000
-kóu-náng	kou2 nang2	2000
+kóu-nâng	kou2 nang5	2000
 kóu-sṳ̄	kou2 sur7	2000
 kóu-ta̍t	kou2 tat8	2000
 kóu-tn̄g	kou2 tng7	600
@@ -1374,15 +1370,15 @@ kú-kú	ku2 ku2	2000
 kú-kuài	ku2 kuai3	2000
 kù-tshṳ́	ku3 tshur2	2000
 kū-ieh	ku7 ieh	2000
-kua-kâi	kua kai5	2000
 kuá-hũ	kua2 hu6	2000
+kuá-kâi	kua2 kai5	2000
 kuà	kua3	5000
 kuà-bé-uaⁿ	kua3 be2 uann	2000
 kuah	kuah	5000
 kuah kang-chîⁿ	kuah kang chinn5	2000
 kuah-gû-bah	kuah gu5 bah	2000
 kuah-hue	kuah hue	2000
-kuah-tṳ-bah	kuah tur bah	2000
+kuah-tṳ-bah	kuah tur bah	600
 kuái-kha	kuai2 kha	5000
 kuái-phièn	kuai2 phien3	600
 kuan-hĩ	kuan hi6	5000
@@ -1398,7 +1394,7 @@ kuaⁿ	kuann	5000
 kuaⁿ-ba̍k	kuann bak8	2000
 kuaⁿ-chhe	kuann chhe	600
 kuaⁿ-chiàⁿ	kuann chiann3	2000
-kuaⁿ-ham	kuann ham	2000
+kuaⁿ-hâm	kuann ham5	2000
 kuaⁿ-ho̍k	kuann hok8	2000
 kuaⁿ-hú	kuann hu2	2000
 kuaⁿ-i	kuann i	2000
@@ -1421,8 +1417,7 @@ kùe-ì	kue3 i3	2000
 kùe-phâng	kue3 phang5	2000
 kùe-sì	kue3 si3	2000
 kùe-tsuá	kue3 tsua2	5000
-kûe--tie̍h	kue5 tieh8	2000
-kûe-sîⁿ	kue5 sinn5	2000
+kûe-sìⁿ	kue5 sinn3	2000
 kui-huãm	kui huam6	2000
 kui-kṳ́	kui kur2	5000
 kui-nguân	kui nguan5	100
@@ -1433,14 +1428,13 @@ kùi-khì	kui3 khi3	2000
 kùi-phûe	kui3 phue5	5000
 kùi-tsãi	kui3 tsai6	2000
 kũi--lo̍h-khṳ̀	kui6 loh8 khur3	2000
-kùiⁿ-sìⁿ	kuinn3 sinn3	2000
+kùiⁿ-sìⁿ	kuinn3 sinn3	600
 kûiⁿ	kuinn5	5000
 kūiⁿ-kuaⁿ	kuinn7 kuann	2000
-kuk-si̍k	kuk sik8	5000
 kun-piaⁿ	kun piann	2000
 kun-tsṳ́	kun tsur2	2000
 kún-tiâu	kun2 tiau5	600
-kún-tsui	kun2 tsui	5000
+kún-tsúi	kun2 tsui2	5000
 kṳ bé phâu	kur be2 phau5	600
 kṳ́-chìn	kur2 chin3	600
 kṳ̀-sut	kur3 sut	600
@@ -1448,15 +1442,15 @@ kṳ̃--lo̍h-khṳ̀	kur6 loh8 khur3	2000
 kṳn	kurn	5000
 kṳn-kṳ̃	kurn kur6	5000
 kṳn-pńg	kurn png2	2000
-kṳn-sim	kurn sim	2000
 kṳn-sûi	kurn sui5	2000
+kṳ́n-sim	kurn2 sim	2000
 kṳ̂n-tàng	kurn5 tang3	2000
 kṳ̃n-sī	kurn6 si7	2000
 kṳ̃n-tshṳ̀	kurn6 tshur3	600
 kut-pâi	kut pai5	2000
+kut-si̍t	kut sit8	5000
 kut-thâu	kut thau5	2000
 ku̍t	kut8	5000
-la-kè	la ke3	2000
 lâ	la5	5000
 lã	la6	5000
 lā-chhìn	la7 chhin3	2000
@@ -1487,16 +1481,14 @@ lãn-pha	lan6 pha	5000
 làng-tiàu	lang3 tiau3	2000
 lâng-chiã	lang5 chia6	2000
 lap-thap	lap thap	600
-la̍p-hiàng	lap8 hiang3	2000
-la̍p-niêⁿ	lap8 nienn5	2000
+la̍p-niêⁿ	lap8 nienn5	600
 la̍t	lat8	5000
 láu-chí	lau2 chi2	600
 láu-chiàng	lau2 chiang3	2000
 láu-hie̍h	lau2 hieh8	600
-láu-kiáⁿ	lau2 kiann2	5000
+láu-kiáⁿ	lau2 kiann2	600
 láu-nâng	lau2 nang5	2000
 láu-si̍t	lau2 sit8	2000
-làu-sái	lau3 sai2	5000
 lâu khó	lau5 kho2	600
 lâu piⁿ	lau5 pinn	600
 lâu tĩⁿ	lau5 tinn6	100
@@ -1517,7 +1509,7 @@ lãu-hàu	lau6 hau3	600
 lãu-hóuⁿ	lau6 hounn2	2000
 lãu-iâ	lau6 ia5	2000
 lãu-iâ-keng	lau6 ia5 keng	2000
-lãu-jie̍t	lau6 jiet8	2000
+lãu-jie̍t	lau6 jiet8	600
 lãu-kong	lau6 kong	2000
 lãu-kou	lau6 kou	2000
 lãu-má	lau6 ma2	2000
@@ -1526,13 +1518,13 @@ lãu-pán	lau6 pan2	5000
 lãu-peh	lau6 peh	2000
 lãu-phuâ	lau6 phua5	2000
 lãu-tuā	lau6 tua7	2000
-lāu-bó-tsô	lau7 bo2 tso5	2000
+lāu-sái	lau7 sai2	5000
 le̍k-lōu	lek8 lou7	2000
 le̍k-sok	lek8 sok	2000
 lêng-cheng	leng5 cheng	5000
 lêng-hê	leng5 he5	2000
 lêng-hûn	leng5 hun5	2000
-lêng-lāi	leng5 lai7	2000
+lêng-lāi	leng5 lai7	600
 lêng-ûi	leng5 ui5	5000
 lêng-ūi	leng5 ui7	5000
 lí-sṳ̄	li2 sur7	2000
@@ -1541,13 +1533,13 @@ lî-chhìn	li5 chhin3	2000
 lî-keng	li5 keng	2000
 lî-khui	li5 khui	2000
 lî-pie̍t	li5 piet8	2000
-lĩ-chit	li6 chit	5000
+lĩ-chi̍t	li6 chit8	5000
 lĩ-hāi	li6 hai7	2000
 lia̍h	liah8	5000
 lia̍h-tuã	liah8 tua6	5000
 liâm-liâm	liam5 liam5	600
+liãm-lōu	liam6 lou7	5000
 liām-keng	liam7 keng	2000
-liām-lōu	liam7 lou7	5000
 liáu-kòi	liau2 koi3	2000
 liáu-tuãn	liau2 tuan6	2000
 liâu-mō	liau5 mo7	600
@@ -1556,10 +1548,10 @@ liên-hĩ	lien5 hi6	2000
 lim	lim	600
 lím-lím	lim2 lim2	2000
 lîm-khîm	lim5 khim5	5000
-lìn-chîⁿ	lin3 chinn5	2000
+lîm-sî	lim5 si5	2000
+lìn-chîⁿ	lin3 chinn5	600
 lîn-kṳ̃n	lin5 kurn6	2000
 lîn-lí	lin5 li2	2000
-lîn-sî	lin5 si5	2000
 li̍p-ieh	lip8 ieh	2000
 liú	liu2	5000
 liú-phāng	liu2 phang7	5000
@@ -1568,17 +1560,15 @@ liù-pua̍h	liu3 puah8	2000
 liû	liu5	5000
 liû-liên	liu5 lien5	2000
 liû-n̂g	liu5 ng5	2000
-liû-sí	liu5 si2	2000
 liû-thû	liu5 thu5	2000
 liū-kî	liu7 ki5	600
 liū-kim	liu7 kim	2000
 liū-kim-khì	liu7 kim khi3	5000
 liū-ngṳ̂n-khì	liu7 ngurn5 khi3	2000
-ló-tōng--kâi-nâng	lo2 tong7 kai5 nang5	100
-ló-tōng-nâng	lo2 tong7 nang5	100
+ló-tōng--kâi-nâng	lo2 tong7 kai5 nang5	600
 lô	lo5	600
 lô-keⁿ	lo5 kenn	5000
-lô-māng	lo5 mang7	2000
+lô-mãng	lo5 mang6	2000
 lô-po̍k	lo5 pok8	600
 lô-si-teng	lo5 si teng	2000
 lô-si-zuán	lo5 si zuan2	2000
@@ -1607,7 +1597,7 @@ lóu	lou2	5000
 lóu-iâm	lou2 iam5	600
 lóu-kóu	lou2 kou2	600
 lóu-nñg	lou2 nng6	2000
-lõu-kiâm	lou6 kiam5	2000
+lõu-kiâm	lou6 kiam5	600
 lōu-kèⁿ	lou7 kenn3	600
 lōu-kiáⁿ	lou7 kiann2	2000
 lōu-phiè	lou7 phie3	2000
@@ -1615,14 +1605,14 @@ lōu-tsúi	lou7 tsui2	2000
 luah	luah	2000
 lúi-cheh	lui2 cheh	600
 lûi-kong	lui5 kong	2000
-lūi--lṳ́	lui7 lur2	2000
+lūi--lṳ́	lui7 lur2	600
 lûn-lûn	lun5 lun5	600
-lûn-tie̍h-tî-tiâng	lun5 tieh8 ti5 tiang5	2000
+lûn-tie̍h-tî-tiâng	lun5 tieh8 ti5 tiang5	600
 lūn-ta̍h	lun7 tah8	600
 lṳ́	lur2	10000
 lṳ́--kâi	lur2 kai5	5000
-lṳ̃-sóng-pie	lur6 song2 pie	2000
 lṳ̃-sòng-hun	lur6 song3 hun	2000
+lṳ̃-sòng-pie	lur6 song3 pie	600
 lut--khṳ̀	lut khur3	2000
 lut-tiāu	lut tiau7	2000
 lu̍t hóng siang thî hṳ̂-ong tit lĩ	lut8 hong2 siang thi5 hur5 ong tit li6	2000
@@ -1634,7 +1624,7 @@ m̃-ha̍h-huap	m6 hah8 huap	2000
 m̃-hàuⁿ	m6 haunn3	2000
 m̃-hiáu	m6 hiau2	2000
 m̃-huâ	m6 hua5	2000
-m̃-it-tit	m6 it tit	2000
+m̃-it-tit	m6 it tit	600
 m̃-jīn	m6 jin7	2000
 m̃-kai	m6 kai	2000
 m̃-káⁿ-kìⁿ-nâng	m6 kann2 kinn3 nang5	2000
@@ -1670,7 +1660,7 @@ mài-khàu	mai3 khau3	2000
 mài-sǹg	mai3 sng3	2000
 mài-thèng-chia̍h	mai3 theng3 chiah8	2000
 mak--tie̍h	mak tieh8	2000
-mak-tie̍h-nah-sap	mak tieh8 nah sap	2000
+mak-tie̍h-nah-sap	mak tieh8 nah sap	600
 ma̍k--siap	mak8 siap	2000
 ma̍k--thiàⁿ	mak8 thiann3	2000
 ma̍k-bâi	mak8 bai5	5000
@@ -1687,16 +1677,17 @@ ma̍k-tsap	mak8 tsap	5000
 mán-kiù	man2 kiu3	2000
 mán-liên	man2 lien5	1200
 mán-mīn	man2 min7	2000
-máng-tiàⁿ	mang2 tiann3	2000
 máng-tiàⁿ-kau	mang2 tiann3 kau	600
-māng-hek	mang7 hek	2000
+máng-tièⁿ	mang2 tienn3	2000
+máng-tièⁿ-kau	mang2 tienn3 kau	2000
+māng-hek	mang7 hek	600
 māng-ka	mang7 ka	2000
 māng-kìⁿ	mang7 kinn3	2000
 mé	me2	5000
 mê-hng	me5 hng	5000
 mê-hng-kiáⁿ	me5 hng kiann2	5000
 mê-kuà	me5 kua3	2000
-mê-nî	me5 ni5	5000
+mê-nî	me5 ni5	600
 mê-tsha̍t	me5 tshat8	2000
 meh-meh-kiè	meh meh kie3	600
 méhⁿ	mehnn2	5000
@@ -1735,7 +1726,7 @@ mīn-tháng	min7 thang2	2000
 mīn-tháng-kè	min7 thang2 ke3	2000
 mīn-tsṳ́	min7 tsur2	5000
 mńg-tshan	mng2 tshan	2000
-mn̂g-chhēng	mng5 chheng7	2000
+mn̂g-chhēng	mng5 chheng7	600
 mn̂g-sìⁿ-ãu	mng5 sinn3 au6	5000
 mn̂g-tshuàⁿ	mng5 tshuann3	2000
 mn̄g-hāu	mng7 hau7	2000
@@ -1744,7 +1735,7 @@ mo-tsháu	mo tshau2	2000
 mó	mo2	10000
 mô-huáng	mo5 huang2	2000
 mô-kúi	mo5 kui2	2000
-mô-sîⁿ	mo5 sinn5	2000
+mô-sìⁿ	mo5 sinn3	2000
 mõ-chì-mêng	mo6 chi3 meng5	2000
 mo̍k-sṳ	mok8 sur	2000
 mông-in	mong5 in	600
@@ -1752,7 +1743,7 @@ mông-kóu	mong5 kou2	2000
 mông-lān	mong5 lan7	2000
 mông-lông	mong5 long5	600
 mông-phièn	mong5 phien3	600
-muâ-chiah-chiáu	mua5 chiah chiau2	2000
+muâ-chiah-chiáu	mua5 chiah chiau2	600
 muâ-huân	mua5 huan5	5000
 muâ-huang	mua5 huang	600
 muâ-phûe	mua5 phue5	2000
@@ -1760,7 +1751,7 @@ muâ-pòu	mua5 pou3	2000
 muâ-tsùi	mua5 tsui3	5000
 mûe	mue5	5000
 mu̍eh	mueh8	5000
-mu̍eh-chheng-khih	mueh8 chheng khih	2000
+mu̍eh-chheng-khih	mueh8 chheng khih	600
 mu̍eh-chia̍h	mueh8 chiah8	5000
 mu̍eh-hiâⁿ	mueh8 hiann5	2000
 mu̍eh-hó	mueh8 ho2	2000
@@ -1768,7 +1759,7 @@ mu̍eh-kiãⁿ	mueh8 kiann6	5000
 mu̍eh-nâng-kiaⁿ	mueh8 nang5 kiann	2000
 mu̍eh-ngia̍p	mueh8 ngiap8	2000
 mu̍eh-phuà	mueh8 phua3	2000
-mu̍eh-tiàu	mueh8 tiau3	2000
+mu̍eh-tiāu	mueh8 tiau7	2000
 mu̍eh-uan	mueh8 uan	2000
 nã-húe	na6 hue2	600
 nā-sĩ	na7 si6	5000
@@ -1776,7 +1767,7 @@ nah-sap	nah sap	5000
 nah-sap-sièⁿ	nah sap sienn3	5000
 nãi	nai6	5000
 nãi-m̃-khṳ̀	nai6 m6 khur3	2000
-nám-tsāi-jī	nam2 tsai7 ji7	5000
+nám-tsāi-jī	nam2 tsai7 ji7	600
 nàm-thôu	nam3 thou5	600
 nâm-pôiⁿ	nam5 poinn5	2000
 nán	nan2	10000
@@ -1788,11 +1779,12 @@ nâng-kiáⁿ	nang5 kiann2	5000
 nâng-kong-kiáⁿ	nang5 kong kiann2	5000
 nâng-sṳ̄	nang5 sur7	5000
 nâng-ûn-e̍k-ûn	nang5 un5 ek8 un5	600
+na̍p-hiàng	nap8 hiang3	2000
 ne̍k-kùi	nek8 kui3	2000
 ne̍k-óiⁿ	nek8 oinn2	5000
-ne̍k-óiⁿ-kuaⁿ	nek8 oinn2 kuann	2000
+ne̍k-óiⁿ-kuaⁿ	nek8 oinn2 kuann	600
 ne̍k-tshō	nek8 tsho7	5000
-ng-ng-kiè	ng ng kie3	2000
+ng-ng-kiè	ng ng kie3	600
 ńg	ng2	5000
 n̂g-la̍h	ng5 lah8	600
 n̂g-sng	ng5 sng	2000
@@ -1819,7 +1811,7 @@ ngĩ-thóng	ngi6 thong2	600
 ngiá	ngia2	5000
 ngiá-tsãi	ngia2 tsai6	5000
 ngiau-thâu-chiáu	ngiau thau5 chiau2	2000
-ngiáu-tshṳ́	ngiau2 tshur2	2000
+ngiáu-tshṳ́	ngiau2 tshur2	600
 ngiáu-tshṳ́-tak	ngiau2 tshur2 tak	2000
 ngièn chia̍h	ngien3 chiah8	600
 ngîm-si	ngim5 si	2000
@@ -1849,24 +1841,23 @@ ngṳ̂n-tsúi	ngurn5 tsui2	2000
 ngṳ̂n-tuaⁿ	ngurn5 tuann	2000
 ngṳt-kiaⁿ	ngurt kiann	600
 ni-bó	ni bo2	2000
-ni-tang	ni tang	2000
 ní--kâi-pòu	ni2 kai5 pou3	2000
 ní-buãn	ni2 buan6	600
 ní-póu	ni2 pou2	600
 nî	ni5	5000
 nî-kou-phuâ	ni5 kou phua5	2000
-nî-ni	ni5 ni	2000
+nî-nî	ni5 ni5	2000
+nî-tang	ni5 tang	2000
 ni5lâm	ni5lam5	600
+niá-sṳ̄-hú	nia2 sur7 hu2	2000
+niá-sṳ̄-kuaⁿ	nia2 sur7 kuann	2000
 niam-nî	niam ni5	600
-niáⁿ-sṳ̄-hú	niann2 sur7 hu2	2000
-niáⁿ-sṳ̄-kuaⁿ	niann2 sur7 kuann	2000
 niêⁿ-chhe	nienn5 chhe	2000
 niêⁿ-tī	nienn5 ti7	2000
 nih-kiáⁿ	nih kiann2	2000
 nih-ma̍k	nih mak8	600
 nín	nin2	10000
 niú-khàu	niu2 khau3	600
-nńg-nî	nng2 ni5	2000
 nñg	nng6	5000
 nñg-chheng	nng6 chheng	5000
 nñg-jîn	nng6 jin5	5000
@@ -1877,30 +1868,30 @@ nôiⁿ-chí	noinn5 chi2	2000
 nôiⁿ-hue	noinn5 hue	2000
 nôiⁿ-kak	noinn5 kak	5000
 nôiⁿ-kãu	noinn5 kau6	600
-nôiⁿ-kúe	noinn5 kue2	5000
+nôiⁿ-kúe	noinn5 kue2	600
+nôu-kiáⁿ	nou5 kiann2	5000
+nôu-kiáⁿ-khuán	nou5 kiann2 khuan2	2000
 nôu-po̍k	nou5 pok8	600
-nôuⁿ-kiáⁿ	nounn5 kiann2	5000
-nôuⁿ-kiáⁿ-khuán	nounn5 kiann2 khuan2	2000
-nôuⁿ-tshâi	nounn5 tshai5	2000
-nuã	nua6	5000
+nôu-tshâi	nou5 tshai5	2000
+nuã	nua6	600
 o-ló	o lo2	600
-o-tso	o tso	5000
+o-tso	o tso	600
 ô-khak-kiàⁿ	o5 khak kiann3	5000
 ô-tsu	o5 tsu	600
 oh	oh	5000
 oh tha̍k	oh thak8	4000
 oh-thàn	oh than3	2000
-oh-ui	oh ui	2000
+oh-ui	oh ui	600
 o̍h-kóu	oh8 kou2	2000
 oi--tie̍h	oi tieh8	2000
 ôi-sueh	oi5 sueh	2000
 ôi-thua	oi5 thua	5000
 ôi-tói	oi5 toi2	2000
 ôi-tuà	oi5 tua3	2000
+õi--lêng-tsò-tit	oi6 leng5 tso3 tit	2000
 õi-chia̍h	oi6 chiah8	2000
 õi-tit	oi6 tit	2000
 õi-to̍h-húe	oi6 toh8 hue2	2000
-ōi--lêng-tsò-tit	oi7 leng5 tso3 tit	2000
 o̍ih	oih8	5000
 o̍ih-soih	oih8 soih	5000
 ôiⁿ-iû	oinn5 iu5	5000
@@ -1918,9 +1909,6 @@ ou-pòu	ou pou3	2000
 ou-pòu-ôi	ou pou3 oi5	2000
 ou-thn̂g	ou thng5	5000
 ôu sek	ou5 sek	600
-pa-lak	pa lak	2000
-pa-lói	pa loi2	2000
-pa-lói-hó	pa loi2 ho2	2000
 pá-siú	pa2 siu2	5000
 pã-cheh	pa6 cheh	2000
 pái-thuaⁿ	pai2 thuann	600
@@ -1937,7 +1925,7 @@ pài-thoh	pai3 thoh	2000
 pâi-chhiâng	pai5 chhiang5	600
 pâi-hûe	pai5 hue5	2000
 pâi-ji̍t	pai5 jit8	2000
-pâi-ni	pai5 ni	2000
+pâi-nî	pai5 ni5	2000
 pâi-pí	pai5 pi2	5000
 pâi-sî	pai5 si5	2000
 pâi-tńg	pai5 tng2	2000
@@ -1947,7 +1935,7 @@ pak-pôiⁿ	pak poinn5	2000
 pa̍k	pak8	5000
 pa̍k-nâng	pak8 nang5	4000
 pa̍k-tsûn	pak8 tsun5	2000
-pân-gî	pan5 gi5	2000
+pân-gî	pan5 gi5	600
 pān-thâu	pan7 thau5	2000
 pang	pang	5000
 pang-to	pang to	2000
@@ -1960,12 +1948,12 @@ pàng-húe	pang3 hue2	2000
 pàng-ké	pang3 ke2	4000
 pàng-seⁿ-chè	pang3 senn che3	2000
 pàng-seⁿ-siàu	pang3 senn siau3	2000
-pàng-tiàu	pang3 tiau3	2000
+pàng-tiāu	pang3 tiau7	2000
 pâng-sià	pang5 sia3	2000
 pat	pat	5000
 pa̍t-kiáⁿ	pat8 kiann2	600
 pau-kó	pau ko2	2000
-pau-niáⁿ	pau niann2	2000
+pau-niá	pau nia2	2000
 pau-tsak	pau tsak	600
 pàu	pau3	100
 pẽ-bó	pe6 bo2	2000
@@ -1976,7 +1964,7 @@ pe̍h-huat-kâi	peh8 huat kai5	2000
 pe̍h-în	peh8 in5	2000
 pe̍h-iû	peh8 iu5	2000
 pe̍h-la̍h	peh8 lah8	2000
-pe̍h-liāu-si	peh8 liau7 si	2000
+pe̍h-liāu-si	peh8 liau7 si	600
 pe̍h-ne̍k	peh8 nek8	5000
 pe̍h-nî	peh8 ni5	2000
 pe̍h-pòu	peh8 pou3	2000
@@ -2008,7 +1996,7 @@ phah-kuaⁿ-si	phah kuann si	2000
 phah-la̍h	phah lah8	2000
 phah-nâng	phah nang5	2000
 phah-oh	phah oh	600
-phah-pho̍k	phah phok8	5000
+phah-pho̍k	phah phok8	600
 phah-phòu	phah phou3	2000
 phah-piàⁿ	phah piann3	5000
 phah-sǹg	phah sng3	2000
@@ -2053,7 +2041,7 @@ phien-chiu	phien chiu	600
 phien-kou	phien kou	5000
 phièn-nâng	phien3 nang5	2000
 phièn-nâng-kiaⁿ	phien3 nang5 kiann	2000
-phîn-tiàu	phin5 tiau3	2000
+phîn-tiāu	phin5 tiau7	600
 phiⁿ	phinn	5000
 phīⁿ	phinn7	600
 phīⁿ-hun	phinn7 hun	2000
@@ -2097,7 +2085,7 @@ phuà-kiàⁿ	phua3 kiann3	2000
 phuà-pēⁿ	phua3 penn7	5000
 phuà-pòu	phua3 pou3	2000
 phuà-sièⁿ	phua3 sienn3	2000
-phuà-tiàu	phua3 tiau3	2000
+phuà-tiāu	phua3 tiau7	2000
 phuà-tshùi-tshùi	phua3 tshui3 tshui3	2000
 phuân-piⁿ	phuan5 pinn	2000
 phûe-sieⁿ	phue5 sienn	2000
@@ -2108,7 +2096,7 @@ phu̍eh-ūe	phueh8 ue7	5000
 phùi-nuã	phui3 nua6	600
 phun	phun	5000
 pi	pi	5000
-pi-muâ-iû	pi mua5 iu5	2000
+pi-muâ-iû	pi mua5 iu5	600
 pí-chiàⁿ	pi2 chiann3	2000
 pí-hó	pi2 ho2	2000
 pí-zũ	pi2 zu6	2000
@@ -2118,7 +2106,6 @@ pì-iũ	pi3 iu6	2000
 pì-pau	pi3 pau	1200
 pî-pê	pi5 pe5	2000
 pĩ-kò	pi6 ko3	5000
-piàng-tiàu	piang3 tiau3	2000
 piaⁿ-sng	piann sng	2000
 piaⁿ-thn̂g	piann thng5	2000
 piáⁿ-ie̍h	piann2 ieh8	2000
@@ -2140,7 +2127,7 @@ piẽn-lĩ	pien6 li6	5000
 piẽn-lũn	pien6 lun6	2000
 piẽn-poh	pien6 poh	2000
 pik-li̍h	pik lih8	600
-pin-tǹg	pin tng3	2000
+pin-tǹg	pin tng3	600
 pín-siêⁿ	pin2 sienn5	2000
 pín-tǹg	pin2 tng3	600
 pìⁿ mīn	pinn3 min7	3000
@@ -2155,18 +2142,18 @@ pńg-tī-nâng	png2 ti7 nang5	2000
 pn̄g-khiū	png7 khiu7	600
 pn̄g-lia̍p	png7 liap8	2000
 pn̄g-thuân	png7 thuan5	600
-pn̄g-tshn̂g	png7 tshng5	5000
+pn̄g-tshn̂g	png7 tshng5	600
 po-lî	po li5	2000
 po-lî-khì	po li5 khi3	2000
 po-lî-pue	po li5 pue	2000
 po-lî-tsun	po li5 tsun	600
-pó-hō	po2 ho7	5000
+pó-hō	po2 ho7	600
 pó-hũ	po2 hu6	5000
 pó-iũ	po2 iu6	2000
 pó-ke	po2 ke	100
 pó-ke-jī	po2 ke ji7	100
 pó-ke-kuán	po2 ke kuan2	100
-pó-niáⁿ	po2 niann2	2000
+pó-niá	po2 nia2	2000
 pó-pùe	po2 pue3	2000
 pó-tsãng	po2 tsang6	600
 pò-chhiû	po3 chhiu5	2000
@@ -2207,7 +2194,7 @@ pua̍h-chîⁿ	puah8 chinn5	600
 pua̍h-kiáu	puah8 kiau2	600
 pua̍h-pue	puah8 pue	2000
 pua̍h-táu	puah8 tau2	2000
-pua̍h-tháng	puah8 thang2	2000
+pua̍h-tháng	puah8 thang2	600
 pua̍h-tsuá-pâi	puah8 tsua2 pai5	2000
 puãn-huán	puan6 huan2	2000
 puãn-nge̍k	puan6 ngek8	2000
@@ -2224,7 +2211,7 @@ pūe	pue7	5000
 pun	pun	10000
 pun-khui	pun khui	2000
 pun-uá-thóiⁿ	pun ua2 thoinn2	2000
-pún-niáⁿ	pun2 niann2	2000
+pún-niá	pun2 nia2	2000
 pún-sṳ̃	pun2 sur6	2000
 pún-téng	pun2 teng2	5000
 pùn-ki	pun3 ki	5000
@@ -2248,7 +2235,7 @@ sai-khia	sai khia	2000
 sai-khia-chîⁿ	sai khia chinn5	5000
 sai-kok-tsuá	sai kok tsua2	2000
 sai-kong	sai kong	2000
-sai-pẽ	sai pe6	5000
+sai-pẽ	sai pe6	600
 sai-pôiⁿ	sai poinn5	2000
 sai-sim	sai sim	2000
 sai-sṳ̄	sai sur7	2000
@@ -2266,7 +2253,7 @@ sam-pâi	sam pai5	2000
 sam-pán	sam pan2	600
 san-hû	san hu5	5000
 sán	san2	5000
-sán-kut-la̍k-ne̍k	san2 kut lak8 nek8	5000
+sán-kut-lak-ne̍k	san2 kut lak nek8	5000
 sang-seⁿ	sang senn	2000
 sàng-phiàⁿ	sang3 phiann3	2000
 sàng-sng	sang3 sng	2000
@@ -2278,7 +2265,7 @@ saⁿ-keⁿ puàⁿ-mê	sann kenn puann3 me5	5000
 saⁿ-khòu	sann khou3	5000
 saⁿ-kṳ	sann kur	600
 saⁿ-lí	sann li2	2000
-saⁿ-ńg	sann ng2	5000
+saⁿ-ńg	sann ng2	600
 saⁿ-seⁿ	sann senn	2000
 saⁿ-tiàu	sann tiau3	2000
 saⁿ-tō	sann to7	5000
@@ -2289,10 +2276,10 @@ sàu-siú	sau3 siu2	600
 sàu-soi-chheⁿ	sau3 soi chhenn	600
 sàu-tãng	sau3 tang6	2000
 se-su-kiáⁿ	se su kiann2	2000
-sek-î	sek i5	5000
+sek-ì	sek i3	5000
 sek-liāu	sek liau7	5000
 sek-tàng	sek tang3	5000
-sek-tiàu	sek tiau3	2000
+sek-tiāu	sek tiau7	2000
 sek-tsúi	sek tsui2	2000
 seng-khip	seng khip	5000
 seng-kî	seng ki5	2000
@@ -2309,8 +2296,8 @@ sêng-si̍t	seng5 sit8	2000
 sẽng-ki	seng6 ki	600
 seⁿ-huang	senn huang	2000
 seⁿ-ji̍t	senn jit8	2000
-seⁿ-kiaⁿ-bó	senn kiann bo2	2000
 seⁿ-kiáⁿ	senn kiann2	2000
+seⁿ-kiáⁿ-bó	senn kiann2 bo2	2000
 seⁿ-mu̍eh	senn mueh8	2000
 seⁿ-san	senn san	5000
 seⁿ-sêng	senn seng5	2000
@@ -2338,11 +2325,11 @@ sì-thâu	si3 thau5	5000
 sì-tshù	si3 tshu3	2000
 sî-cheh	si5 cheh	5000
 sî-cheng	si5 cheng	2000
-sî-cheng-thūi	si5 cheng thui7	2000
+sî-cheng-thūi	si5 cheng thui7	600
 sî-lẽng	si5 leng6	2000
 sî-pie	si5 pie	600
 sî-sîn	si5 sin5	2000
-sî-tiàu	si5 tiau3	2000
+sî-tiāu	si5 tiau7	2000
 sĩ-mih	si6 mih	2000
 sī-iû	si7 iu5	5000
 sī-iû-kè	si7 iu5 ke3	600
@@ -2355,7 +2342,7 @@ siâ-gō-hún	sia5 go7 hun2	600
 siâ-gō-îⁿ	sia5 go7 inn5	2000
 siâ-ma̍k-chiáu	sia5 mak8 chiau2	2000
 siâ-su̍t	sia5 sut8	2000
-siã-chîⁿ	sia6 chinn5	2000
+siā-chìⁿ	sia7 chinn3	2000
 siah-po̍h	siah poh8	5000
 sia̍h-kuãn	siah8 kuan6	2000
 siang-huán	siang huan2	2000
@@ -2384,7 +2371,7 @@ siáu-iáⁿ	siau2 iann2	2000
 siáu-káu	siau2 kau2	600
 siáu-lí	siau2 li2	5000
 siáu-thiú	siau2 thiu2	600
-siàu-ba̍k	siau3 bak8	2000
+siàu-ma̍k	siau3 mak8	2000
 siàu-nî	siau3 ni5	2000
 siàu-phõu	siau3 phou6	2000
 sie-à	sie a3	600
@@ -2398,8 +2385,9 @@ sie-kò	sie ko3	2000
 sie-lûn	sie lun5	2000
 sie-mē	sie me7	5000
 sie-phah	sie phah	5000
+sie-sit	sie sit	600
 sie-su	sie su	5000
-sie-suà	sie sua3	2000
+sie-suà	sie sua3	600
 sie-tâng	sie tang5	5000
 sie-tàu	sie tau3	2000
 sie-thâi	sie thai5	5000
@@ -2410,9 +2398,8 @@ sie-tùi	sie tui3	2000
 sie-uāⁿ	sie uann7	2000
 sié-bō	sie2 bo7	2000
 sié-khuá	sie2 khua2	2000
-sié-khuá-sṳ̄	sie2 khua2 sur7	2000
+sié-khuá-sṳ̄	sie2 khua2 sur7	600
 sié-nn̂g	sie2 nng5	100
-sié-sit	sie2 sit	2000
 sieh	sieh	5000
 sie̍h-liû	sieh8 liu5	5000
 sien-hû	sien hu5	5000
@@ -2421,6 +2408,7 @@ sién	sien2	5000
 sièn mīn-phâng	sien3 min7 phang5	600
 sièn-huang-tiám-húe	sien3 huang tiam2 hue2	600
 siên-u	sien5 u	70
+siẽn-chí	sien6 chi2	5000
 siẽn-tso̍k	sien6 tsok8	600
 sieⁿ--tie̍h	sienn tieh8	2000
 sieⁿ-huang	sienn huang	5000
@@ -2429,7 +2417,6 @@ sieⁿ-kháu	sienn khau2	2000
 sieⁿ-nâng	sienn nang5	2000
 siéⁿ-keh	sienn2 keh	2000
 siêⁿ-siêⁿ	sienn5 sienn5	2000
-siẽⁿ-chí	sienn6 chi2	5000
 siet-li̍p	siet lip8	2000
 siet-to̍k	siet tok8	600
 siet-tshut	siet tshut	2000
@@ -2445,7 +2432,7 @@ sím-iâng	sim2 iang5	600
 sím-mn̄g	sim2 mng7	2000
 sin-bũn	sin bun6	2000
 sin-bũn-tsuá	sin bun6 tsua2	100
-sin-chhèng	sin chheng3	2000
+sin-chhēng	sin chheng7	2000
 sin-hūn	sin hun7	2000
 sin-ieh	sin ieh	2000
 sin-nâng	sin nang5	100
@@ -2459,7 +2446,7 @@ sìn-kuan	sin3 kuan	100
 sìn-liãm	sin3 liam6	5000
 sìn-phûe	sin3 phue5	2000
 sîn tsúi	sin5 tsui2	600
-sîn-hũ	sin5 hu6	2000
+sîn-hũ	sin5 hu6	600
 sîn-kham	sin5 kham	2000
 sîn-mêng	sin5 meng5	2000
 sîn-si	sin5 si	2000
@@ -2482,16 +2469,16 @@ siu-ua̍k	siu uak8	2000
 siú-kuá	siu2 kua2	2000
 siù-hue	siu3 hue	2000
 siù-tsâi	siu3 tsai5	600
-siû-tsui	siu5 tsui	5000
+siû-tsúi	siu5 tsui2	5000
 siũ-iũ	siu6 iu6	5000
 siũ-khóu	siu6 khou2	2000
 sng-kaⁿ	sng kann	2000
 sng-tshài	sng tshai3	2000
 sńg	sng2	5000
-sńg-siàu	sng2 siau3	5000
-sǹg-buâ	sng3 bua5	2000
 sǹg-hiah	sng3 hiah	2000
+sǹg-muâ	sng3 mua5	2000
 sǹg-puâⁿ	sng3 puann5	2000
+sǹg-siàu	sng3 siau3	5000
 sǹg-thâu	sng3 thau5	2000
 so-kiáⁿ	so kiann2	2000
 só	so2	5000
@@ -2527,7 +2514,7 @@ sok-lu̍t	sok lut8	5000
 so̍k-gṳ́	sok8 gur2	2000
 so̍k-tsũe	sok8 tsue6	2000
 so̍k-ṳ	sok8 ur	5000
-sóng-khuài	song2 khuai3	5000
+sóng-khuài	song2 khuai3	600
 sông-chhiū	song5 chhiu7	600
 sõng-sṳ	song6 sur	2000
 sou	sou	5000
@@ -2537,7 +2524,7 @@ su-iâⁿ	su iann5	5000
 sù--lâi	su3 lai5	2000
 sua-hṳ̂	sua hur5	2000
 sua-me	sua me	600
-sua-pà	sua pa3	5000
+sua-pà	sua pa3	600
 suah	suah	5000
 suāiⁿ	suainn7	600
 suan-hua	suan hua	600
@@ -2570,7 +2557,7 @@ suh	suh	600
 sui-jiên	sui jien5	2000
 sûi-sî	sui5 si5	2000
 sun-pũ	sun pu6	2000
-sùn-pēⁿ	sun3 penn7	2000
+sún-pēⁿ	sun2 penn7	2000
 sûn	sun5	5000
 sûn-hûe	sun5 hue5	600
 sũn-huang	sun6 huang	2000
@@ -2591,24 +2578,24 @@ ta-kuaⁿ	ta kuann	600
 ta-pou	ta pou	5000
 ta-pou-kiáⁿ	ta pou kiann2	5000
 tá-pàn	ta2 pan3	2000
-tá-tia̍p	ta2 tiap8	2000
+tá-tia̍p	ta2 tiap8	600
 tah-kheh	tah kheh	2000
 tah-kim	tah kim	2000
 tah-pòu-phâng	tah pou3 phang5	2000
-tah-pùe	tah pue3	5000
+tah-pùe	tah pue3	600
 ta̍h-pòu	tah8 pou3	2000
 ta̍h-ti̍h	tah8 tih8	600
 tãi-chhîn	tai6 chhin5	2000
 tãi-ieh	tai6 ieh	5000
 tãi-jîn	tai6 jin5	5000
 tãi-ke	tai6 ke	2000
-tãi-kong	tai6 kong	2000
+tãi-kong	tai6 kong	600
 tāi-chì	tai7 chi3	2000
 tāi-pūe	tai7 pue7	600
 tak-nn̄g	tak nng7	5000
 tak-thâu	tak thau5	2000
 ta̍k-ie̍h	tak8 ieh8	2000
-tam-jīn	tam jin7	2000
+tam-jīn	tam jin7	600
 tam-sêng	tam seng5	5000
 tâm	tam5	600
 tãm-po̍h	tam6 poh8	600
@@ -2630,7 +2617,7 @@ tâng-suàⁿ	tang5 suann3	2000
 tâng-tsóiⁿ	tang5 tsoinn2	2000
 tâng-ue	tang5 ue	2000
 tãng-kè	tang6 ke3	2000
-tãng-lāi	tang6 lai7	5000
+tãng-lāi	tang6 lai7	600
 tãng-pēⁿ	tang6 penn7	2000
 tãng-sieⁿ	tang6 sienn	2000
 tãng-tãng-kng	tang6 tang6 kng	2000
@@ -2645,7 +2632,7 @@ tàⁿ-tsai	tann3 tsai	2000
 tàⁿ-tuā-ūe	tann3 tua7 ue7	2000
 tàⁿ-ūe	tann3 ue7	2000
 tãⁿ-tsúi	tann6 tsui2	2000
-ta̍p-ta̍p-tih	tap8 tap8 tih	2000
+ta̍p-ta̍p-tih	tap8 tap8 tih	600
 ta̍t-chîⁿ	tat8 chinn5	2000
 tau-kiáⁿ	tau kiann2	2000
 tau-sun	tau sun	2000
@@ -2655,16 +2642,16 @@ táu-toh-kūiⁿ	tau2 toh kuinn7	2000
 táu-uāⁿ	tau2 uann7	5000
 tàu-put-zû	tau3 put zu5	600
 tàu-tīn	tau3 tin7	2000
-tâu	tau5	5000
+tâu	tau5	600
 tãu-thâi	tau6 thai5	2000
 tāu-iû	tau7 iu5	2000
 tê-bí	te5 bi2	5000
+tê-cheng	te5 cheng	5000
 tê-chí-khou	te5 chi2 khou	2000
 tê-hue	te5 hue	2000
 tê-kí	te5 ki2	2000
 tê-kuàn	te5 kuan3	5000
 tê-sî	te5 si5	2000
-tẽ-cheng	te6 cheng	5000
 teh--tie̍h	teh tieh8	2000
 teh-kî	teh ki5	2000
 teh-tãng	teh tang6	2000
@@ -2679,24 +2666,24 @@ tek-sún	tek sun2	600
 te̍k-kóu	tek8 kou2	600
 te̍k-zông	tek8 zong5	2000
 teng-hieⁿ	teng hienn	2000
-teng-kã	teng ka6	5000
+teng-kã	teng ka6	600
 teng-kat	teng kat	1200
 teng-khiû	teng khiu5	2000
 teng-ki	teng ki	2000
-teng-nâng	teng nang5	2000
+teng-lâng	teng lang5	2000
 teng-sim	teng sim	2000
 teng-tang	teng tang	600
 teng-tiãu	teng tiau6	2000
 teng-tsuáⁿ	teng tsuann2	2000
 teng-tùe	teng tue3	5000
-teng-tùe--kâi-nâng	teng tue3 kai5 nang5	2000
+teng-tùe--kâi-nâng	teng tue3 kai5 nang5	600
 teng-ūi	teng ui7	2000
 téng-siám	teng2 siam2	2000
 tèng	teng3	5000
-tèng-kṳ-jîn	teng3 kur jin5	2000
+tèng-kṳ́-jîn	teng3 kur2 jin5	2000
 tèng-soh	teng3 soh	2000
 têng-hok	teng5 hok	5000
-tèⁿ-m̃-tsai	tenn3 m6 tsai	2000
+tèⁿ-m̃-tsai	tenn3 m6 tsai	600
 tẽⁿ-âu	tenn6 au5	2000
 thái-ko	thai2 ko	600
 thái-ko-liâu	thai2 ko liau5	2000
@@ -2725,7 +2712,7 @@ thán-tãng	than2 tang6	2000
 thàn	than3	5000
 thàn chîⁿ	than3 chinn5	3000
 tháng-puâⁿ	thang2 puann5	2000
-thàng--kùe	thang3 kue3	2000
+thàng--kùe	thang3 kue3	600
 thàng-ji̍t	thang3 jit8	5000
 thàng-mê	thang3 me5	5000
 thâng-chí-mūe	thang5 chi2 mue7	2000
@@ -2780,7 +2767,7 @@ thien-seⁿ	thien senn	2000
 thien-tsú	thien tsu2	2000
 thien-tsú-kà	thien tsu2 ka3	5000
 thih-chhiâm	thih chhiam5	600
-thih-kap-buān	thih kap buan7	2000
+thih-kap-buān	thih kap buan7	600
 thih-khîⁿ	thih khinn5	2000
 thih-kùn	thih kun3	5000
 thih-liēn	thih lien7	2000
@@ -2798,8 +2785,8 @@ thiⁿ-ẽ	thinn e6	2000
 thiⁿ-kan-tī-chiⁿ	thinn kan ti7 chinn	2000
 thiⁿ-kng	thinn kng	2000
 thiⁿ-sài	thinn sai3	2000
-thiⁿ-sí-uãⁿ	thinn si2 uann6	2000
 thiⁿ-sî	thinn si5	5000
+thiⁿ-sî-uãⁿ	thinn si5 uann6	2000
 thiⁿ-tn̂g	thinn tng5	2000
 thiⁿ-tuâⁿ	thinn tuann5	600
 thīⁿ	thinn7	5000
@@ -2811,12 +2798,12 @@ thiu-thiàⁿ	thiu thiann3	5000
 thng-sî	thng si5	5000
 thǹg	thng3	5000
 thǹg-chhiah-kha	thng3 chhiah kha	2000
-thǹg-theh-theh	thng3 theh theh	2000
+thǹg-theh-theh	thng3 theh theh	600
 thn̂g-khà	thng5 kha3	2000
 thn̂g-kuàn	thng5 kuan3	2000
 thn̂g-liāu	thng5 liau7	2000
 thn̂g-tsúi	thng5 tsui2	2000
-thn̄g-chí	thng7 chi2	100
+thn̄g-chí	thng7 chi2	600
 thó-tàng	tho2 tang3	5000
 thó-thàn	tho2 than3	2000
 thò-khui	tho3 khui	2000
@@ -2834,7 +2821,7 @@ thóiⁿ-siàⁿ-phuâ	thoinn2 siann3 phua5	2000
 thóiⁿ-tõng	thoinn2 tong6	2000
 thóiⁿ-tsṳ	thoinn2 tsur	2000
 thóiⁿ-tsṳ-pâng	thoinn2 tsur pang5	2000
-thok-chiáⁿ	thok chiann2	5000
+thok-chiéⁿ	thok chienn2	5000
 thong-huang	thong huang	2000
 thong-sin	thong sin	5000
 thong-sṳ̄	thong sur7	2000
@@ -2842,20 +2829,19 @@ thong-tsai	thong tsai	2000
 thóng-hẽng	thong2 heng6	5000
 thông-huan	thong5 huan	600
 thông-seng	thong5 seng	2000
-thóu-hún	thou2 hun2	2000
 thóu-miâⁿ	thou2 miann5	2000
 thóu-thâm	thou2 tham5	2000
-thóu-thuàⁿ-sái	thou2 thuann3 sai2	2000
 thóu-tshut	thou2 tshut	600
 thóu-ūe	thou2 ue7	2000
 thòu-sià	thou3 sia3	2000
 thôu	thou5	5000
+thôu-hún	thou5 hun2	2000
 thôu-iû	thou5 iu5	2000
 thôu-kha	thou5 kha	2000
 thôu-mûe	thou5 mue5	2000
-thôu-phóu-si	thou5 phou2 si	2000
 thôu-thâu	thou5 thau5	2000
 thôu-thuàⁿ	thou5 thuann3	2000
+thôu-thuàⁿ-sái	thou5 thuann3 sai2	2000
 thû-kói	thu5 koi2	2000
 thua	thua	2000
 thua-lũi	thua lui6	5000
@@ -2869,7 +2855,7 @@ thûe	thue5	5000
 thun-ièn	thun ien3	600
 thut-cheh	thut cheh	2000
 thut-hà	thut ha3	5000
-ti-hú	ti hu2	2000
+ti-hú	ti hu2	600
 ti-tâ	ti ta5	600
 ti-tu	ti tu	2000
 ti-tu-si	ti tu si	2000
@@ -2905,7 +2891,7 @@ tiám-cheng	tiam2 cheng	2000
 tiám-kiáⁿ	tiam2 kiann2	2000
 tiám-sim	tiam2 sim	2000
 tiám-tsàn	tiam2 tsan3	2000
-tiàm-buâ	tiam3 bua5	2000
+tiàm-muâ	tiam3 mua5	2000
 tiàm-phòu	tiam3 phou3	2000
 tiâm-ko	tiam5 ko	2000
 tiâm-liāu	tiam5 liau7	2000
@@ -2918,7 +2904,7 @@ tiāⁿ-ngṳ̂n	tiann7 ngurn5	2000
 tiāⁿ-tie̍h	tiann7 tieh8	5000
 tiāⁿ-tsũe	tiann7 tsue6	2000
 tiau-khiak	tiau khiak	600
-tiau-tùn	tiau tun3	2000
+tiau-tùn	tiau tun3	600
 tiàu-ãm	tiau3 am6	2000
 tiàu-kue	tiau3 kue	5000
 tiàu-teng	tiau3 teng	2000
@@ -2938,7 +2924,7 @@ tiẽn-ãu	tien6 au6	600
 tiẽn-pò	tien6 po3	2000
 tiẽn-pò-suàⁿ	tien6 po3 suann3	2000
 tiẽn-thôu	tien6 thou5	2000
-tieⁿ-khuán-thàu	tienn khuan2 thau3	2000
+tieⁿ-khuan-thàu	tienn khuan thau3	2000
 tièⁿ-tóu	tienn3 tou2	5000
 tiêⁿ-mīn	tienn5 min7	5000
 tiẽⁿ-ḿ	tienn6 m2	600
@@ -2947,15 +2933,14 @@ tiẽⁿ-nâng	tienn6 nang5	5000
 tie̍t-nńg	tiet8 nng2	600
 tih-kiáⁿ	tih kiann2	5000
 ti̍h-kiáⁿ	tih8 kiann2	2000
-ti̍h-la̍t	tih8 lat8	2000
 tîm-mu̍t	tim5 mut8	2000
 tîm-sìn	tim5 sin3	2000
 tîm-tiẽn	tim5 tien6	600
 tin-pâi	tin pai5	600
-tin-tãng	tin tang6	2000
 tin-tò	tin to3	600
 tin-tò-táu	tin to3 tau2	2000
 tin-tò-thâu	tin to3 thau5	2000
+tín-tãng	tin2 tang6	2000
 tìn-lōu	tin3 lou7	2000
 tìn-tang	tin3 tang	2000
 tîn-ai	tin5 ai	2000
@@ -2986,10 +2971,10 @@ tn̂g-saⁿ	tng5 sann	2000
 tn̂g-suaⁿ	tng5 suann	2000
 tn̂g-tó	tng5 to2	2000
 tñg-khùi	tng6 khui3	5000
-tñg-tshùi	tng6 tshui3	2000
+tñg-tshùi	tng6 tshui3	600
 tn̄g-ôi	tng7 oi5	2000
 to-kè	to ke3	2000
-to-khah	to khah	5000
+to-khak	to khak	5000
 to-kiáⁿ	to kiann2	2000
 to-ne̍k	to nek8	2000
 tó-tièⁿ	to2 tienn3	5000
@@ -2999,18 +2984,17 @@ tò-chiú	to3 chiu2	2000
 tò-iû	to3 iu5	2000
 tò-póiⁿ	to3 poinn2	2000
 tò-ta̍h	to3 tah8	600
-tò-tiàu	to3 tiau3	2000
-tô-lān	to5 lan7	4000
+tò-tiāu	to3 tiau7	2000
+tô-nān	to5 nan7	4000
 tõ	to6	10000
-tõ-lí	to6 li2	2000
+tõ-lí	to6 li2	600
 tõ-tsûn	to6 tsun5	2000
 toh	toh	5000
 to̍h-húe	toh8 hue2	2000
-tói-ie	toi2 ie	2000
 tói-tsṳ́	toi2 tsur2	2000
 tôi-chîⁿ	toi5 chinn5	2000
 tóiⁿ	toinn2	2000
-tóiⁿ-khòi	toinn2 khoi3	100
+tóiⁿ-khòi	toinn2 khoi3	600
 tóiⁿ-tsú	toinn2 tsu2	100
 tõiⁿ-búe	toinn6 bue2	2000
 tõiⁿ-it	toinn6 it	2000
@@ -3031,22 +3015,23 @@ tong-pó	tong po2	2000
 tong-sim	tong sim	2000
 tong-ti̍t	tong tit8	2000
 tòng-êⁿ	tong3 enn5	600
-tòng-m̃-tiâu	tong3 m6 tiau5	2000
+tòng-m̃-tiâu	tong3 m6 tiau5	600
 tõng-kak	tong6 kak	2000
 tōng-mn̂g	tong7 mng5	600
 tóu khùn	tou2 khun3	5000
-tóu làu	tou2 lau3	2000
-tóu-siap	tou2 siap	5000
+tóu lāu	tou2 lau7	2000
+tóu-ie	tou2 ie	2000
+tóu-siap	tou2 siap	600
 tóu-thiàⁿ	tou2 thiann3	5000
 tóu-tsâi	tou2 tsai5	2000
 tòu-chhiû	tou3 chhiu5	2000
-tòu-hṳ̃u	tou3 huru6	2000
-tôu-pùn	tou5 pun3	2000
+tòu-hṳ̃n	tou3 hurn6	600
+tôu-pùn	tou5 pun3	600
 tōu-tsûn	tou7 tsun5	5000
 tsa-bóu	tsa bou2	600
-tsa-bóu-kuán	tsa bou2 kuan2	2000
+tsa-bóu-kuán	tsa bou2 kuan2	600
 tsa-ji̍t	tsa jit8	5000
-tsa-mê	tsa me5	5000
+tsa-mê	tsa me5	600
 tsa-pî	tsa pi5	600
 tsá khùn	tsa2 khun3	2000
 tsá-sîn	tsa2 sin5	2000
@@ -3061,7 +3046,7 @@ tsài-hùe	tsai3 hue3	2000
 tsãi	tsai6	2000
 tsak--tie̍h	tsak tieh8	2000
 tsám-thâu	tsam2 thau5	2000
-tsàn-páng	tsan3 pang2	2000
+tsàn-pâng	tsan3 pang5	2000
 tsàn-tâng	tsan3 tang5	1200
 tsàn-thàm	tsan3 tham3	2000
 tsang	tsang	5000
@@ -3070,7 +3055,7 @@ tsang-sui	tsang sui	2000
 tsàng	tsang3	5000
 tsâng	tsang5	5000
 tsãng-khì	tsang6 khi3	2000
-tsa̍p-chi̍p	tsap8 chip8	5000
+tsa̍p-chi̍t	tsap8 chit8	5000
 tsa̍p-hùe	tsap8 hue3	2000
 tsa̍p-it	tsap8 it	2000
 tsa̍p-jĩ	tsap8 ji6	2000
@@ -3132,7 +3117,7 @@ tshang-pe̍h	tshang peh8	2000
 tshang-thâu	tshang thau5	2000
 tshàng-iâⁿ	tshang3 iann5	2000
 tshàng-kùe	tshang3 kue3	2000
-tshap-hông-kà	tshap hong5 ka3	2000
+tshap-hõng-kà	tshap hong6 ka3	2000
 tshap-hũe	tshap hue6	2000
 tshap-nâng-kâi-sṳ̄	tshap nang5 kai5 sur7	2000
 tshat-khì	tshat khi3	2000
@@ -3140,8 +3125,8 @@ tshau-liēn	tshau lien7	5000
 tsháu-ba̍k	tshau2 bak8	3000
 tsháu-bō	tshau2 bo7	2000
 tsháu-chhie̍h	tshau2 chhieh8	600
-tsháu-liáu	tshau2 liau2	2000
-tsháu-mé	tshau2 me2	2000
+tsháu-liâu	tshau2 liau5	2000
+tsháu-mé	tshau2 me2	600
 tsháu-ngán	tshau2 ngan2	2000
 tsháu-ôi	tshau2 oi5	2000
 tsháu-pou	tshau2 pou	5000
@@ -3179,7 +3164,6 @@ tshông	tshong5	5000
 tshou	tshou	5000
 tshou-khng	tshou khng	2000
 tshou-pũn	tshou pun6	2000
-tshu-sùe	tshu sue3	5000
 tshú-lí	tshu2 li2	5000
 tshú-sià	tshu2 sia3	5000
 tshù	tshu3	5000
@@ -3188,6 +3172,7 @@ tshù-hiã	tshu3 hia6	2000
 tshù-ke̍k	tshu3 kek8	2000
 tshù-kiáⁿ	tshu3 kiann2	2000
 tshù-piⁿ	tshu3 pinn	1200
+tshù-sùe	tshu3 sue3	5000
 tshù-téng	tshu3 teng2	5000
 tshù-tôu	tshu3 tou5	2000
 tshù-tsú	tshu3 tsu2	5000
@@ -3232,9 +3217,9 @@ tsng-iê	tsng ie5	2000
 tsng-ke	tsng ke	600
 tsng-liâm	tsng liam5	600
 tsńg-kah	tsng2 kah	2000
+tsńg-thâu-kong	tsng2 thau5 kong	5000
 tsǹg-khang	tsng3 khang	2000
 tsǹg-kiáⁿ	tsng3 kiann2	2000
-tsnńg-thâu-kong	tsnng2 thau5 kong	5000
 tsò chiâⁿ	tso3 chiann5	600
 tsò--pun-nâng	tso3 pun nang5	2000
 tsò-chhin	tso3 chhin	2000
@@ -3274,7 +3259,6 @@ tsôiⁿ-phok-ãu-kì	tsoinn5 phok au6 ki3	600
 tsong-kú	tsong ku2	5000
 tsóng-phõu	tsong2 phou6	2000
 tsóng-tok	tsong2 tok	2000
-tsòng-sĩ	tsong3 si6	2000
 tsou-tsûn	tsou tsun5	2000
 tsóu-bó	tsou2 bo2	2000
 tsóu-ke-sìn	tsou2 ke sin3	2000
@@ -3295,7 +3279,7 @@ tsuá-hue	tsua2 hue	5000
 tsuá-jī	tsua2 ji7	5000
 tsuá-pâi	tsua2 pai5	2000
 tsuá-sìⁿ	tsua2 sinn3	2000
-tsuā-tsuā	tsua7 tsua7	5000
+tsuā-tsuā	tsua7 tsua7	600
 tsuan-sim	tsuan sim	2000
 tsũe-ak	tsue6 ak	5000
 tsũe-ak-lúi-lúi	tsue6 ak lui2 lui2	1200
@@ -3311,14 +3295,14 @@ tsúi-kuàn	tsui2 kuan3	2000
 tsúi-ngṳ̂n	tsui2 ngurn5	2000
 tsúi-nî	tsui2 ni5	2000
 tsúi-pha	tsui2 pha	2000
-tsúi-siú	tsui2 siu2	5000
+tsúi-siú	tsui2 siu2	600
 tsúi-tháng	tsui2 thang2	2000
 tsúi-thiu	tsui2 thiu	2000
 tsúi-thóu	tsui2 thou2	2000
 tsúi-tsuâⁿ	tsui2 tsuann5	2000
 tsũi	tsui6	5000
 tsũi-hu̍t	tsui6 hut8	600
-tsun-kui	tsun kui	2000
+tsun-kùi	tsun kui3	2000
 tsún-hṳ́	tsun2 hur2	1200
 tsún-pĩ	tsun2 pi6	2000
 tsûn-búe	tsun5 bue2	2000
@@ -3329,14 +3313,14 @@ tsûn-thâu	tsun5 thau5	2000
 tsûn-tìn-tang	tsun5 tin3 tang	2000
 tsûn-tsou	tsun5 tsou	2000
 tsûn-tsú	tsun5 tsu2	5000
-tsũn-chia̍h	tsun6 chiah8	2000
-tsũn-tiàu	tsun6 tiau3	2000
+tsũn-chia̍h	tsun6 chiah8	600
+tsũn-tiāu	tsun6 tiau7	2000
 tsṳ-che	tsur che	2000
 tsṳ-chheh	tsur chheh	2000
 tsṳ-īⁿ	tsur inn7	2000
 tsṳ-kim	tsur kim	2000
 tsṳ-niêⁿ	tsur nienn5	5000
-tsṳ-niêⁿ-kiáⁿ	tsur nienn5 kiann2	2000
+tsṳ-niêⁿ-kiáⁿ	tsur nienn5 kiann2	600
 tsṳ-tû	tsur tu5	2000
 tsṳ́	tsur2	5000
 tsṳ́-chia̍h	tsur2 chiah8	2000
@@ -3346,12 +3330,13 @@ tsṳ̃-chĩn	tsur6 chin6	5000
 tsṳ̃-jiên	tsur6 jien5	2000
 tsṳ̃-lâi-húe	tsur6 lai5 hue2	2000
 tsṳ̃-uàn-tsṳ̃-ngãi	tsur6 uan3 tsur6 ngai6	600
-tsut-niáⁿ	tsut niann2	4000
+tsut-niá	tsut nia2	4000
 tù-tsṳ	tu3 tsur	2000
-tuà-hà	tua3 ha3	5000
+tuà-hà	tua3 ha3	600
 tuã	tua6	5000
 tuā--ãu-ji̍t	tua7 au6 jit8	5000
 tuā--nâng	tua7 nang5	5000
+tuā-ãm-kui	tua7 am6 kui	5000
 tuā-âng	tua7 ang5	2000
 tuā-chhèng	tua7 chheng3	2000
 tuā-chie̍h	tua7 chieh8	2000
@@ -3372,8 +3357,8 @@ tuā-sṳ̄	tua7 sur7	2000
 tuā-tháng	tua7 thang2	2000
 tuā-thâu-ló	tua7 thau5 lo2	5000
 tuā-tshâ	tua7 tsha5	5000
-tuā-tshái-hù	tua7 tshai2 hu3	100
 tuā-tshài	tua7 tshai3	2000
+tuā-tshâi-hù	tua7 tshai5 hu3	100
 tuā-tshù	tua7 tshu3	2000
 tuā-tsúi	tua7 tsui2	2000
 tuā-tsṳ̂	tua7 tsur5	2000
@@ -3386,7 +3371,6 @@ tuaⁿ-to̍k	tuann tok8	5000
 tuãⁿ	tuann6	5000
 tuāⁿ khîm	tuann7 khim5	600
 túi	tui2	2000
-túi-ân	tui2 an5	2000
 túi-huang	tui2 huang	2000
 tùi-liên	tui3 lien5	2000
 tùi-mīn	tui3 min7	2000
@@ -3396,10 +3380,9 @@ tùi-tuaⁿ	tui3 tuann	2000
 tûi-ie	tui5 ie	2000
 tûi-liēn	tui5 lien7	600
 tun-hùe-pâng	tun hue3 pang5	100
-tùn-chhiú	tun3 chhiu2	2000
+tùn-chhiú	tun3 chhiu2	600
 tũn-koi	tun6 koi	600
 tũn-puah	tun6 puah	2000
-tūn-ãm-kui	tun7 am6 kui	5000
 tṳ-bó	tur bo2	2000
 tṳ-ko	tur ko	5000
 tṳ-kuaⁿ-sek	tur kuann sek	2000
@@ -3407,7 +3390,7 @@ tṳ-lô	tur lo5	2000
 tṳ̂	tur5	5000
 tṳ̂-huap	tur5 huap	2000
 tṳ̂-thâu	tur5 thau5	600
-tṳ̂-tiàu	tur5 tiau3	2000
+tṳ̂-tiāu	tur5 tiau7	2000
 tṳ̂-tñg	tur5 tng6	2000
 tṳ̄	tur7	5000
 u-mi̍t	u mit8	600
@@ -3438,20 +3421,19 @@ uak-uak-kiè	uak uak kie3	600
 ua̍k-tit	uak8 tit	5000
 uan-chhiû	uan chhiu5	2000
 uan-ke	uan ke	5000
-uan-khuk	uan khuk	5000
+uan-khut	uan khut	5000
 uân-kù	uan5 ku3	5000
 uân-niêⁿ	uan5 nienn5	2000
 uân-sui	uan5 sui	600
 uáng-khut	uang2 khut	2000
-uáng-siãng	uang2 siang6	2000
 uâng-bō	uang5 bo7	2000
 uâng-hõu	uang5 hou6	2000
 uâng-keng	uang5 keng	2000
 uâng-lâi	uang5 lai5	5000
 uâng-pó	uang5 po2	2000
+uâng-siãng	uang5 siang6	2000
 uaⁿ-sim	uann sim	1200
 uaⁿ-ùe	uann ue3	2000
-uáⁿ	uann2	5000
 uáⁿ-kong	uann2 kong	5000
 uàⁿ	uann3	5000
 uàⁿ-kiãⁿ	uann3 kiann6	2000
@@ -3471,8 +3453,8 @@ ui-seng	ui seng	2000
 úi-thoh	ui2 thoh	2000
 ùi	ui3	5000
 ùi-chhìn	ui3 chhin3	5000
-ùi-sí	ui3 si2	2000
-ùi-siáu-lí	ui3 siau2 li2	2000
+ùi-sí	ui3 si2	600
+ùi-siáu-lí	ui3 siau2 li2	600
 ûi	ui5	5000
 ûi-téng	ui5 teng2	2000
 un-chiàng	un chiang3	5000
@@ -3500,8 +3482,9 @@ zû-ua̍t	zu5 uat8	600
 zua̍h-pauh	zuah8 pauh	600
 zua̍h-pòu	zuah8 pou3	2000
 zua̍h-saⁿ	zuah8 sann	2000
-zuán-lôu	zuan2 lou5	5000
+zuán-lôu	zuan2 lou5	600
 zūn-gu̍eh	zun7 gueh8	2000
-zṳ́-tiàu	zur2 tiau3	2000
+zṳ́-tiàu	zur2 tiau3	600
+zṳ́-tiāu	zur2 tiau7	2000
 zṳ̂	zur5	5000
 zṳ̂-zṳ̂	zur5 zur5	600
