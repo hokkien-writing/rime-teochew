@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2025.05.11"
+version:	"2025.05.19"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -3811,6 +3811,7 @@ import_tables:
 翩	phien	600
 片	phien3	5000
 騙	phien3	2000
+品	phin2	5000
 貶	phin2	600
 蘋	phin5	5000
 頻	phin5	5000
@@ -5777,12 +5778,12 @@ import_tables:
 座	tso7	2000
 作	tsoh	4000
 絕	tsoh8	5000
+齊	tsoi5	5000
 㩼	tsoi7	5000
 節	tsoih	4000
 截	tsoih8	600
 指	tsoinn2	4000
 前	tsoinn5	5000
-齊	tsoinn5	5000
 足	tsok	5000
 囑	tsok	600
 屬	tsok	600
