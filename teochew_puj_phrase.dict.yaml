@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_puj_phrase
-version:	"2025.05.19"
+version:	"2025.06.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -64,6 +64,7 @@ ak-tie̍h-hõu	ak tieh8 hou6	2000
 ak-tsúi	ak tsui2	2000
 ak-ut	ak ut	2000
 ám	am2	5000
+àm--sî	am3 si5	5000
 àm-chẽⁿ	am3 chenn6	2000
 àm-chẽⁿ-tàⁿ	am3 chenn6 tann3	2000
 àm-hō	am3 ho7	2000
@@ -410,11 +411,11 @@ chiàm-kùe	chiam3 kue3	2000
 chiàm-niá	chiam3 nia2	2000
 chiãm-chiãm	chiam6 chiam6	2000
 chiãm-sî	chiam6 si5	2000
+chiang-kun	chiang kun	2000
 chiang-lâi	chiang lai5	2000
 chiáng-kuán	chiang2 kuan2	600
 chiáng-kūiⁿ	chiang2 kuinn7	100
 chiáng-tãi	chiang2 tai6	2000
-chiàng-kun	chiang3 kun	2000
 chiãng-tī	chiang6 ti7	2000
 chiaⁿ--gu̍eh	chiann gueh8	2000
 chiaⁿ-ne̍k	chiann nek8	600
@@ -948,6 +949,7 @@ ji̍p-siù-tsâi	jip8 siu3 tsai5	2000
 ji̍p-tiâⁿ	jip8 tiann5	2000
 ji̍t si̍h	jit8 sih8	5000
 ji̍t--kuà	jit8 kua3	2000
+ji̍t--sî	jit8 si5	5000
 ji̍t-chheng	jit8 chheng	100
 ji̍t-chí	jit8 chi2	5000
 ji̍t-ji̍t	jit8 jit8	5000
@@ -1326,6 +1328,7 @@ koi-mô-tshóiⁿ	koi mo5 tshoinn2	5000
 koi-nñg-kúe	koi nng6 kue2	2000
 kói-hun-îⁿ	koi2 hun inn5	2000
 kói-ie̍h	koi2 ieh8	2000
+kói-pièn	koi2 pien3	5000
 kói-pìⁿ	koi2 pinn3	2000
 kói-sueh	koi2 sueh	5000
 kòi	koi3	5000
@@ -2728,6 +2731,7 @@ thau-thóiⁿ	thau thoinn2	2000
 thau-tsáu	thau tsau2	2000
 tháu	thau2	5000
 tháu-khùi	thau2 khui3	600
+thàu-tsá	thau3 tsa2	5000
 thàu-tuā-huang	thau3 tua7 huang	2000
 thâu-hîn	thau5 hin5	5000
 thâu-ke	thau5 ke	5000

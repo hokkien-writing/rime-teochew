@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_mandarin
-version:	"2025.05.19"
+version:	"2025.06.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -93,6 +93,8 @@ pài-siãng-tì-nâng(拜上帝的人)	bai shang di de ren	2000
 pài-lãu-iâ(拜神)	bai shen	5000
 白糖(白糖)	bai tang	2000
 pe̍h-thn̂g(白糖)	bai tang	2000
+日時(白天)	bai tian	5000
+ji̍t--sî(白天)	bai tian	5000
 日旰(白天)	bai tian	2000
 ji̍t-kuà(白天)	bai tian	2000
 拜託(拜託)	bai tuo	2000
@@ -1640,6 +1642,9 @@ ka-lî(咖喱)	ga li	5000
 ka-lî-bua̍h(咖喱末)	ga li mo	2000
 換(改變)	gai bian	5000
 uāⁿ(改變)	gai bian	5000
+改變(改變)	gai bian	5000
+kói-pièn(改變)	gai bian	5000
+攺變(改變)	gai bian	2500
 改變(改變)	gai bian	2000
 kói-pìⁿ(改變)	gai bian	2000
 攺變(改變)	gai bian	1000
@@ -2402,7 +2407,7 @@ lo̍h-kè(降價)	jiang jia	5000
 講究(講究)	jiang jiu	2000
 káng-kiù(講究)	jiang jiu	2000
 將軍(將軍)	jiang jun	2000
-chiàng-kun(將軍)	jiang jun	2000
+chiang-kun(將軍)	jiang jun	2000
 將來(將來)	jiang lai	2000
 chiang-lâi(將來)	jiang lai	2000
 馬索(韁繩)	jiang sheng	2000
@@ -5681,6 +5686,8 @@ pe̍h-huat(野生)	ye sheng	2000
 iâ-sou(耶穌)	ye su	2000
 耶穌教(耶穌教)	ye su jiao	2000
 iâ-sou-kà(耶穌教)	ye su jiao	2000
+暗時(夜晚)	ye wan	5000
+àm--sî(夜晚)	ye wan	5000
 胳胴下(腋窩)	ye wo	100
 koh-lâng-ẽ(腋窩)	ye wo	100
 阿公(爺爺)	ye ye	5000
@@ -6072,6 +6079,8 @@ tsõ-tsûn(造船)	zao chuan	2000
 tsãu-hùe(造化)	zao hua	2000
 眠起(早上)	zao shang	5000
 mêng-khí(早上)	zao shang	5000
+透早(早上)	zao shang	5000
+thàu-tsá(早上)	zao shang	5000
 眠起早旰(早上)	zao shang	2000
 mêng-khí-tsá--kuà(早上)	zao shang	2000
 灶頭(灶台)	zao tai	5000

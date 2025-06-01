@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew_phrase
-version:	"2025.05.19"
+version:	"2025.06.01"
 sort:	by_weight
 use_preset_vocabulary:	false
 ...
@@ -103,6 +103,7 @@ use_preset_vocabulary:	false
 沃水	ak tsui2	2000
 抑鬱	ak ut	2000
 飲	am2	5000
+暗時	am3 si5	5000
 暗靜	am3 chenn6	2000
 暗靜呾	am3 chenn6 tann3	2000
 暗號	am3 ho7	2000
@@ -536,11 +537,11 @@ use_preset_vocabulary:	false
 佔領	chiam3 nia2	2000
 漸漸	chiam6 chiam6	2000
 暫時	chiam6 si5	2000
+將軍	chiang kun	2000
 將來	chiang lai5	2000
 掌管	chiang2 kuan2	600
 掌櫃	chiang2 kuinn7	100
 長大	chiang2 tai6	2000
-將軍	chiang3 kun	2000
 丈地	chiang6 ti7	2000
 正月	chiann gueh8	2000
 腈肉	chiann nek8	600
@@ -1151,6 +1152,7 @@ jiāu	jiau7	5000
 入呈	jip8 tiann5	2000
 日蝕	jit8 sih8	5000
 日旰	jit8 kua3	2000
+日時	jit8 si5	5000
 日清	jit8 chheng	100
 日淸	jit8 chheng	50
 日子	jit8 chi2	5000
@@ -1631,6 +1633,8 @@ khoih布	khoih pou3	2000
 雞卵餜	koi nng6 kue2	1000
 解薰丸	koi2 hun inn5	2000
 解藥	koi2 ieh8	2000
+改變	koi2 pien3	5000
+攺變	koi2 pien3	2500
 改變	koi2 pinn3	2000
 攺變	koi2 pinn3	1000
 解說	koi2 sueh	5000
@@ -3320,6 +3324,7 @@ thām-phiù	tham7 phiu3	2000
 偷走	thau tsau2	2000
 㪗	thau2	5000
 㪗氣	thau2 khui3	600
+透早	thau3 tsa2	5000
 透大風	thau3 tua7 huang	2000
 頭眩	thau5 hin5	5000
 頭家	thau5 ke	5000

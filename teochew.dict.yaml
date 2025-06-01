@@ -6,7 +6,7 @@
 #
 ---
 name:	teochew
-version:	"2025.05.19"
+version:	"2025.06.01"
 sort:	by_weight
 use_preset_vocabulary:	true
 import_tables:
@@ -3317,6 +3317,7 @@ import_tables:
 䘼	ng2	600
 黃	ng5	5000
 磺	ng5	600
+嗯	ng7	600
 㦙	nga3	600
 捱	ngai5	2000
 涯	ngai5	2000
@@ -3864,6 +3865,7 @@ import_tables:
 涪	phou3	600
 抔	phou5	600
 簿	phou6	2000
+肏	phu2	600
 浮	phu5	2000
 莆	phu5	600
 菩	phu5	600
@@ -4381,7 +4383,6 @@ import_tables:
 鞘	siau	600
 小	siau2	5000
 少	siau2	600
-癲	siau2	600
 𤞚	siau2	600
 少	siau3	5000
 數	siau3	5000
@@ -5261,6 +5262,7 @@ import_tables:
 巔	tien	2000
 珍	tien	2000
 滇	tien	600
+癲	tien	600
 顛	tien	600
 顚	tien	300
 展	tien2	5000
