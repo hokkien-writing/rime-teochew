@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260627.181410"
+version: "20260705.235134"
 sort: by_weight
 ...
 
@@ -993,7 +993,7 @@ sort: by_weight
 箌	chau3	100
 腠	chau3	100
 輳	chau3	100
-勻	chau5	112
+勻	chau5	110
 㷹	chau6	100
 䈇	chau6	100
 唣	chau6	55
@@ -1006,6 +1006,7 @@ sort: by_weight
 皂	chau6	107
 罩	chau6	108
 造	chau6	149
+勻	chauu5	101
 嗻	che1	100
 斋	che1	100
 遮	che1	100
@@ -1044,7 +1045,7 @@ sort: by_weight
 簣	cheh4	55
 績	cheh4	108
 織	cheh4	50
-職	cheh4	148
+職	cheh4	149
 舴	cheh4	100
 責	cheh4	155
 賾	cheh4	106
@@ -1102,7 +1103,7 @@ sort: by_weight
 𠋻	chek4	100
 𣤈	chek4	100
 𧓸	chek4	100
-一	chek8	888
+一	chek8	889
 壹	chek8	108
 嫉	chek8	50
 弌	chek8	106
@@ -2033,7 +2034,7 @@ sort: by_weight
 匠	chhiang6	100
 蹌	chhiang6	102
 且	chhiann2	126
-請	chhiann2	183
+請	chhiann2	184
 倩	chhiann3	100
 正	chhiann3	100
 情	chhiann5	101
@@ -2367,7 +2368,7 @@ sort: by_weight
 𨍊	chhiu1	100
 取	chhiu2	104
 啾	chhiu2	100
-手	chhiu2	478
+手	chhiu2	479
 掱	chhiu2	55
 杻	chhiu2	101
 瞅	chhiu2	100
@@ -2376,7 +2377,6 @@ sort: by_weight
 醜	chhiu2	115
 魗	chhiu2	100
 刷	chhiu3	103
-手	chhiu3	100
 擦	chhiu3	100
 漱	chhiu3	124
 甃	chhiu3	100
@@ -2611,7 +2611,7 @@ sort: by_weight
 簉	chhou3	106
 腠	chhou3	55
 輳	chhou3	106
-醋	chhou3	111
+醋	chhou3	112
 愁	chhou5	122
 初	chhu1	108
 取	chhu1	101
@@ -2690,7 +2690,7 @@ sort: by_weight
 鶵	chhu5	100
 冣	chhu6	100
 雛	chhu6	100
-歪	chhua2	129
+歪	chhua2	130
 蔡	chhua3	107
 娶	chhua7	119
 𤆬	chhua7	131
@@ -2968,7 +2968,7 @@ sort: by_weight
 𧐅	chhur1	100
 佌	chhur2	100
 呲	chhur2	54
-此	chhur2	138
+此	chhur2	139
 泚	chhur2	105
 跐	chhur2	105
 鼠	chhur2	137
@@ -2982,7 +2982,7 @@ sort: by_weight
 次	chhur3	135
 茨	chhur3	54
 莿	chhur3	100
-處	chhur3	108
+處	chhur3	109
 蚝	chhur3	100
 蛓	chhur3	100
 覷	chhur3	102
@@ -3018,7 +3018,7 @@ sort: by_weight
 邨	chhurng1	52
 刺	chhurng3	52
 牀	chhurng5	52
-出	chhut4	462
+出	chhut4	463
 齣	chhut4	102
 猝	chhut8	100
 此	chi1	101
@@ -3435,6 +3435,7 @@ sort: by_weight
 鐎	chiau1	100
 顦	chiau1	100
 鷦	chiau1	104
+鹪	chiau1	100
 鼂	chiau1	100
 𤿘	chiau1	100
 𦅃	chiau1	100
@@ -3727,7 +3728,7 @@ sort: by_weight
 枕	chim2	117
 䆮	chim3	100
 寖	chim3	105
-浸	chim3	123
+浸	chim3	124
 餞	chim3	100
 尋	chim5	100
 鋟	chim6	100
@@ -3976,7 +3977,7 @@ sort: by_weight
 𧛸	chiu3	100
 就	chiu5	100
 僦	chiu6	106
-就	chiu6	240
+就	chiu6	242
 鷲	chiu6	106
 闃	chiuh4	55
 塼	chng1	52
@@ -4022,7 +4023,7 @@ sort: by_weight
 阻	cho2	145
 𡯛	cho2	100
 作	cho3	108
-做	cho3	636
+做	cho3	637
 怎	cho3	138
 槽	cho5	124
 艚	cho5	100
@@ -4294,7 +4295,7 @@ sort: by_weight
 齜	chu1	50
 齟	chu1	106
 丶	chu2	100
-主	chu2	238
+主	chu2	240
 仔	chu2	50
 俎	chu2	100
 咀	chu2	100
@@ -5276,8 +5277,6 @@ sort: by_weight
 臽	ham7	100
 陷	ham7	121
 餡	ham7	100
-漢	han1	100
-間	han1	100
 鼾	han1	100
 僩	han2	100
 悍	han2	101
@@ -5295,7 +5294,7 @@ sort: by_weight
 扞	han3	100
 捍	han3	100
 汗	han3	100
-漢	han3	104
+漢	han3	105
 瀚	han3	100
 熯	han3	100
 翰	han3	100
@@ -5386,7 +5385,7 @@ sort: by_weight
 翰	hang5	56
 航	hang5	107
 菡	hang5	50
-行	hang5	151
+行	hang5	152
 迒	hang5	106
 邗	hang5	55
 銜	hang5	50
@@ -5654,7 +5653,7 @@ sort: by_weight
 胘	heng6	103
 荇	heng6	100
 莕	heng6	105
-行	heng6	127
+行	heng6	128
 㕧	hi1	100
 䖒	hi1	100
 俙	hi1	100
@@ -5725,7 +5724,7 @@ sort: by_weight
 屭	hi3	106
 愾	hi3	100
 戯	hi3	100
-戲	hi3	158
+戲	hi3	169
 摡	hi3	100
 霼	hi3	100
 餼	hi3	100
@@ -6312,7 +6311,7 @@ sort: by_weight
 訶	ho1	108
 伙	ho2	100
 夥	ho2	100
-好	ho2	656
+好	ho2	657
 火	ho2	100
 輠	ho2	100
 囮	ho3	55
@@ -6809,7 +6808,7 @@ sort: by_weight
 䔢	hua5	100
 划	hua5	101
 咊	hua5	100
-和	hua5	226
+和	hua5	227
 樺	hua5	55
 盉	hua5	100
 禾	hua5	108
@@ -7182,7 +7181,7 @@ sort: by_weight
 鈥	hue2	55
 𠧩	hue2	100
 亗	hue3	100
-化	hue3	161
+化	hue3	162
 岁	hue3	100
 悔	hue3	142
 晦	hue3	107
@@ -7711,7 +7710,7 @@ sort: by_weight
 𣝗	hut8	100
 㙠	i1	100
 于	i1	100
-伊	i1	479
+伊	i1	481
 依	i1	118
 吚	i1	100
 咿	i1	106
@@ -7764,7 +7763,7 @@ sort: by_weight
 噎	i3	55
 噫	i3	55
 嫕	i3	100
-意	i3	384
+意	i3	388
 憶	i3	106
 敡	i3	100
 曀	i3	106
@@ -8577,7 +8576,7 @@ sort: by_weight
 阴	im1	100
 陰	im1	125
 隂	im1	100
-音	im1	146
+音	im1	147
 𣱙	im1	100
 飲	im2	116
 㷈	im3	100
@@ -8602,7 +8601,7 @@ sort: by_weight
 飲	im6	100
 咽	in1	101
 嚥	in1	100
-因	in1	138
+因	in1	139
 垔	in1	100
 堙	in1	100
 奫	in1	100
@@ -9266,7 +9265,7 @@ sort: by_weight
 袵	jim6	100
 賃	jim6	106
 飪	jim6	100
-任	jim7	119
+任	jim7	120
 人	jin5	183
 仁	jin5	162
 儿	jin5	100
@@ -9416,7 +9415,7 @@ sort: by_weight
 兪	ju5	100
 嚅	ju5	106
 堬	ju5	100
-如	ju5	198
+如	ju5	199
 媮	ju5	100
 孺	ju5	106
 崳	ju5	55
@@ -9510,7 +9509,7 @@ sort: by_weight
 纂	juang2	54
 纘	juang2	54
 轉	juang2	50
-悅	juat8	110
+悅	juat8	111
 悦	juat8	101
 說	juat8	101
 説	juat8	100
@@ -9763,7 +9762,7 @@ sort: by_weight
 骱	kai3	55
 魪	kai3	100
 𧞔	kai3	100
-个	kai5	701
+个	kai5	703
 個	kai5	358
 各	kai5	100
 箇	kai5	100
@@ -9855,7 +9854,7 @@ sort: by_weight
 肝	kan1	100
 艱	kan1	130
 菅	kan1	100
-間	kan1	124
+間	kan1	125
 鳱	kan1	100
 𣔼	kan1	100
 揀	kan2	101
@@ -9991,7 +9990,7 @@ sort: by_weight
 結	kat4	168
 葛	kat4	100
 㽛	kau1	100
-交	kau1	247
+交	kau1	249
 勾	kau1	116
 句	kau1	106
 咎	kau1	100
@@ -10423,7 +10422,7 @@ sort: by_weight
 榷	khak4	107
 榼	khak4	50
 欬	khak4	100
-殼	khak4	181
+殼	khak4	182
 溘	khak4	50
 滯	khak4	100
 燩	khak4	100
@@ -10501,7 +10500,6 @@ sort: by_weight
 撁	khan1	100
 栞	khan1	100
 牽	khan1	151
-空	khan1	100
 縴	khan1	100
 纖	khan1	100
 侃	khan2	100
@@ -10540,7 +10538,7 @@ sort: by_weight
 眶	khang1	100
 砊	khang1	100
 穅	khang1	100
-空	khang1	231
+空	khang1	232
 筐	khang1	100
 糠	khang1	101
 縴	khang1	55
@@ -10657,8 +10655,7 @@ sort: by_weight
 揢	khek4	100
 撽	khek4	100
 擊	khek4	115
-曲	khek4	156
-殼	khek4	100
+曲	khek4	157
 毄	khek4	100
 蛐	khek4	100
 衉	khek4	100
@@ -10792,7 +10789,7 @@ sort: by_weight
 槩	khi3	100
 槪	khi3	100
 气	khi3	100
-氣	khi3	332
+氣	khi3	334
 汽	khi3	106
 炁	khi3	100
 犔	khi3	100
@@ -11067,7 +11064,7 @@ sort: by_weight
 抾	khieh4	123
 挈	khieh4	103
 𢭪	khieh4	100
-挈	khieh8	218
+挈	khieh8	219
 㵐	khiek4	50
 厥	khiek4	50
 噘	khiek4	50
@@ -11310,7 +11307,7 @@ sort: by_weight
 捉	khinn2	100
 拑	khinn5	100
 掑	khinn5	101
-鉗	khinn5	110
+鉗	khinn5	109
 䒼	khiok4	100
 克	khiok4	108
 刻	khiok4	100
@@ -11996,7 +11993,7 @@ sort: by_weight
 去	khur1	106
 去	khur2	108
 來	khur3	101
-去	khur3	600
+去	khur3	616
 瞿	khur3	100
 佢	khur5	105
 劬	khur5	100
@@ -12184,7 +12181,6 @@ sort: by_weight
 旣	ki3	100
 暨	ki3	106
 檵	ki3	100
-氣	ki3	100
 洎	ki3	55
 痣	ki3	109
 瘈	ki3	100
@@ -12424,10 +12420,10 @@ sort: by_weight
 驚	kiann1	211
 麖	kiann1	55
 今	kiann2	100
-仔	kiann2	451
+仔	kiann2	452
 假	kiann2	51
 兒	kiann2	100
-囝	kiann2	502
+囝	kiann2	503
 子	kiann2	100
 行	kiann2	101
 𡆹	kiann2	100
@@ -12435,7 +12431,7 @@ sort: by_weight
 行	kiann3	101
 鏡	kiann3	152
 件	kiann5	100
-行	kiann5	376
+行	kiann5	377
 驚	kiann5	100
 件	kiann6	176
 件	kiann7	100
@@ -12537,7 +12533,7 @@ sort: by_weight
 藠	kie6	51
 轎	kie7	145
 脚	kieh4	100
-腳	kieh4	112
+腳	kieh4	113
 角	kieh4	102
 潔	kiek4	50
 羯	kiek4	50
@@ -12839,9 +12835,9 @@ sort: by_weight
 繳	kiou2	52
 餃	kiou2	51
 撬	kiou6	51
-急	kip4	148
+急	kip4	149
 給	kip4	115
-及	kip8	122
+及	kip8	121
 芨	kip8	105
 佶	kit4	100
 吉	kit4	119
@@ -13449,12 +13445,12 @@ sort: by_weight
 覌	kuan1	100
 觀	kuan1	123
 闗	kuan1	100
-關	kuan1	164
+關	kuan1	163
 鰥	kuan1	100
 鸛	kuan1	100
 𠴨	kuan1	100
 𢇇	kuan1	100
-𨵿	kuan1	114
+𨵿	kuan1	113
 丱	kuan2	100
 卷	kuan2	100
 埢	kuan2	100
@@ -13474,8 +13470,10 @@ sort: by_weight
 輨	kuan2	100
 逭	kuan2	100
 錈	kuan2	100
+關	kuan2	100
 館	kuan2	130
 𦜐	kuan2	100
+𨵿	kuan2	50
 𩜇	kuan2	100
 丱	kuan3	100
 倌	kuan3	100
@@ -13648,7 +13646,7 @@ sort: by_weight
 掛	kue3	102
 熄	kue3	100
 过	kue3	100
-過	kue3	488
+過	kue3	489
 髻	kue3	109
 䈑	kue5	102
 絆	kue5	100
@@ -14057,7 +14055,7 @@ sort: by_weight
 賚	lai3	106
 䅘	lai5	100
 䐯	lai5	100
-來	lai5	606
+來	lai5	612
 倈	lai5	100
 勑	lai5	100
 去	lai5	100
@@ -14355,7 +14353,7 @@ sort: by_weight
 漊	lau5	55
 潦	lau5	100
 牢	lau5	106
-留	lau5	135
+留	lau5	136
 畱	lau5	100
 瘤	lau5	100
 癆	lau5	55
@@ -14372,7 +14370,7 @@ sort: by_weight
 𦺜	lau5	100
 勞	lau6	102
 栳	lau6	102
-老	lau6	192
+老	lau6	193
 鬧	lau6	104
 㔷	lau7	100
 漏	lau7	136
@@ -15312,7 +15310,7 @@ sort: by_weight
 摞	loh8	55
 犖	loh8	55
 絡	loh8	100
-落	loh8	348
+落	loh8	349
 袼	loh8	100
 駱	loh8	110
 鴼	loh8	100
@@ -15811,8 +15809,8 @@ sort: by_weight
 拕	lur2	100
 旅	lur2	51
 梠	lur2	100
-汝	lur2	449
-爾	lur2	395
+汝	lur2	451
+爾	lur2	397
 而	lur2	100
 膂	lur2	51
 攄	lur3	101
@@ -15867,7 +15865,7 @@ sort: by_weight
 𡚸	m2	100
 唔	m5	100
 不	m6	101
-唔	m6	161
+唔	m6	163
 嘸	m6	55
 毋	m6	126
 不	m7	100
@@ -16407,9 +16405,9 @@ sort: by_weight
 緡	min5	100
 苠	min5	100
 笢	min6	100
-面	min6	103
+面	min6	102
 眠	min7	101
-面	min7	356
+面	min7	357
 靣	min7	100
 岷	ming5	54
 抿	ming5	54
@@ -16863,7 +16861,7 @@ sort: by_weight
 哪	na7	100
 爁	na7	100
 若	na7	100
-垃	nah4	135
+垃	nah4	136
 垃	nahnn1	101
 腉	nai1	100
 㾍	nai2	100
@@ -17000,7 +16998,6 @@ sort: by_weight
 纜	nann7	101
 若	nann7	119
 逽	nann7	103
-垃	nap4	100
 肭	nap4	111
 儠	nap8	100
 內	nap8	100
@@ -17221,7 +17218,7 @@ sort: by_weight
 凝	ngan5	103
 寒	ngan5	106
 犴	ngan5	100
-言	ngan5	163
+言	ngan5	164
 顏	ngan5	101
 偐	ngan6	100
 喭	ngan6	100
@@ -17747,7 +17744,7 @@ sort: by_weight
 珢	ngurn5	100
 誾	ngurn5	100
 鄞	ngurn5	100
-銀	ngurn5	232
+銀	ngurn5	234
 靳	ngurn5	100
 齗	ngurn5	100
 齦	ngurn5	104
@@ -18213,7 +18210,7 @@ sort: by_weight
 怒	nonn7	101
 奴	nou1	106
 伮	nou5	100
-奴	nou5	108
+奴	nou5	107
 孥	nou5	105
 搙	nou6	100
 擩	nou6	100
@@ -18225,7 +18222,7 @@ sort: by_weight
 奴	nounn1	101
 小	nounn1	100
 孥	nounn2	100
-奴	nounn5	115
+奴	nounn5	116
 孥	nounn5	141
 努	nu2	100
 弩	nu2	100
@@ -18584,7 +18581,7 @@ sort: by_weight
 闆	pang2	55
 阪	pang2	55
 扮	pang3	107
-放	pang3	266
+放	pang3	267
 枋	pang3	100
 房	pang5	185
 瓶	pang5	55
@@ -18804,7 +18801,7 @@ sort: by_weight
 棅	penn3	100
 平	penn5	166
 扁	penn5	103
-棚	penn5	119
+棚	penn5	120
 柄	penn7	100
 病	penn7	199
 抛	pha1	100
@@ -19779,7 +19776,6 @@ sort: by_weight
 睥	pi1	55
 砒	pi1	106
 碑	pi1	122
-秘	pi1	100
 箄	pi1	100
 萆	pi1	100
 萞	pi1	100
@@ -19801,7 +19797,7 @@ sort: by_weight
 彼	pi2	110
 柀	pi2	100
 梐	pi2	100
-比	pi2	165
+比	pi2	167
 毗	pi2	106
 狴	pi2	106
 畀	pi2	100
@@ -19829,7 +19825,7 @@ sort: by_weight
 淠	pi3	100
 痹	pi3	117
 祕	pi3	107
-秘	pi3	116
+秘	pi3	117
 箅	pi3	101
 篦	pi3	100
 背	pi3	102
@@ -20169,14 +20165,13 @@ sort: by_weight
 扁	pinn2	104
 辡	pinn2	100
 変	pinn3	100
-變	pinn3	123
+變	pinn3	125
 遍	pinn3	51
 變	pinn5	100
 編	pinn6	102
 辨	pinn6	55
 辮	pinn6	109
 鄙	pinn6	100
-變	pinn7	101
 辮	pinn7	100
 標	pio1	53
 膘	pio1	53
@@ -20752,7 +20747,7 @@ sort: by_weight
 滻	sang2	55
 糂	sang2	50
 糝	sang2	50
-喪	sang3	121
+喪	sang3	120
 宋	sang3	100
 擤	sang3	100
 氙	sang3	55
@@ -21317,7 +21312,7 @@ sort: by_weight
 瀼	siang1	106
 瓖	siang1	100
 瓤	siang1	55
-相	siang1	281
+相	siang1	283
 祆	siang1	54
 禓	siang1	100
 秈	siang1	54
@@ -21731,7 +21726,7 @@ sort: by_weight
 裳	sienn5	100
 鱨	sienn5	51
 尙	sienn6	100
-想	sienn6	250
+想	sienn6	252
 尙	sienn7	63
 尚	sienn7	114
 邵	sienn7	51
@@ -22029,7 +22024,7 @@ sort: by_weight
 十	sip8	100
 嶍	sip8	54
 慴	sip8	100
-拾	sip8	141
+拾	sip8	142
 槢	sip8	100
 熠	sip8	100
 習	sip8	126
@@ -22116,9 +22111,9 @@ sort: by_weight
 耍	sng2	138
 搡	sng3	102
 筭	sng3	103
-算	sng3	218
+算	sng3	220
 蒜	sng3	112
-𮅕	sng3	165
+𮅕	sng3	167
 㛖	so1	100
 傞	so1	100
 唆	so1	126
@@ -22312,7 +22307,6 @@ sort: by_weight
 瘶	sou3	100
 素	sou3	109
 素	sou7	101
-拾	ss̍p4	100
 㢝	su1	100
 嘶	su1	50
 囌	su1	55
@@ -23010,7 +23004,7 @@ s	sur7	101
 耷	tah4	55
 褡	tah4	107
 託	tah4	100
-貼	tah4	134
+貼	tah4	133
 遢	tah4	108
 錔	tah4	100
 𡌩	tah4	100
@@ -23159,7 +23153,7 @@ s	sur7	101
 匰	tan1	100
 单	tan1	100
 単	tan1	100
-單	tan1	102
+單	tan1	101
 坍	tan1	100
 担	tan1	100
 擔	tan1	100
@@ -23632,7 +23626,7 @@ s	sur7	101
 枱	thai5	100
 檯	thai5	107
 炱	thai5	100
-臺	thai5	138
+臺	thai5	139
 薹	thai5	106
 詒	thai5	100
 邰	thai5	55
@@ -23641,7 +23635,7 @@ s	sur7	101
 駘	thai5	106
 鮐	thai5	106
 㘆	thai6	100
-待	thai6	153
+待	thai6	155
 怠	thai6	100
 紿	thai6	100
 待	thai7	101
@@ -24157,7 +24151,7 @@ s	sur7	101
 替	thi3	107
 楴	thi3	100
 涕	thi3	107
-滯	thi3	118
+滯	thi3	119
 目	thi3	100
 看	thi3	100
 睇	thi3	106
@@ -24308,7 +24302,6 @@ s	sur7	101
 銚	thiau1	100
 髫	thiau1	100
 鰷	thiau1	100
-鹪	thiau1	100
 𠛪	thiau1	100
 𠧪	thiau1	100
 𣂥	thiau1	100
@@ -24472,7 +24465,7 @@ s	sur7	101
 𨸬	thin5	100
 幐	thin7	100
 陳	thing5	54
-天	thinn1	311
+天	thinn1	312
 添	thinn1	110
 靝	thinn1	100
 天	thinn5	101
@@ -24547,7 +24540,7 @@ s	sur7	101
 溏	thng7	100
 他	tho1	100
 推	tho1	121
-胎	tho1	127
+胎	tho1	126
 唾	tho2	55
 垛	tho2	100
 墮	tho2	100
@@ -24567,7 +24560,7 @@ s	sur7	101
 蛻	tho3	107
 蜕	tho3	100
 褪	tho3	111
-退	tho3	159
+退	tho3	160
 㾃	tho5	100
 䍫	tho5	100
 䛢	tho5	100
@@ -24632,8 +24625,8 @@ s	sur7	101
 代	thoih4	102
 垈	thoih4	100
 㸔	thoinn2	100
-看	thoinn2	312
-睇	thoinn2	357
+看	thoinn2	313
+睇	thoinn2	358
 體	thoinn2	52
 𥉏	thoinn2	100
 䛢	thok4	100
@@ -25099,7 +25092,6 @@ s	sur7	101
 籜	tiah8	100
 糴	tiah8	111
 荻	tiah8	101
-著	tiah8	100
 厔	tiak4	54
 哲	tiak4	54
 喆	tiak4	54
@@ -25332,8 +25324,8 @@ s	sur7	101
 跳	tie7	104
 着	tieh4	106
 著	tieh4	102
-着	tieh8	636
-著	tieh8	104
+着	tieh8	638
+著	tieh8	105
 厔	tiek4	50
 哲	tiek4	50
 喆	tiek4	50
@@ -25579,7 +25571,7 @@ s	sur7	101
 朕	ting6	50
 陣	ting7	54
 厘	tinn5	100
-纏	tinn5	167
+纏	tinn5	169
 纒	tinn5	100
 遞	tinn5	53
 釐	tinn5	100
@@ -25719,7 +25711,7 @@ s	sur7	101
 跺	to2	100
 躱	to2	100
 陊	to2	100
-倒	to3	182
+倒	to3	184
 剁	to3	100
 在	to3	100
 地	to3	156
@@ -25888,9 +25880,9 @@ s	sur7	101
 疼	tong3	106
 蝀	tong3	55
 𩭩	tong3	100
-憧	tong5	103
+憧	tong5	102
 仲	tong6	108
-動	tong6	166
+動	tong6	167
 慟	tong6	100
 重	tong6	147
 捅	tong7	55
@@ -26107,7 +26099,7 @@ s	sur7	101
 縋	tui2	100
 𠡒	tui2	100
 对	tui3	100
-對	tui3	238
+對	tui3	239
 由	tui3	100
 碓	tui3	107
 薱	tui3	100
@@ -26378,7 +26370,7 @@ s	sur7	101
 𩦢	u5	100
 寓	u6	100
 晤	u6	100
-有	u6	712
+有	u6	711
 澦	u6	50
 礜	u6	50
 與	u6	50
@@ -26422,6 +26414,7 @@ s	sur7	101
 我	ua2	611
 搲	ua2	100
 瓦	ua2	100
+我	ua3	101
 𠹁	ua3	100
 𡧗	ua3	100
 何	ua5	107
@@ -26483,7 +26476,7 @@ s	sur7	101
 宛	uan1	100
 寃	uan1	89
 帵	uan1	100
-彎	uan1	144
+彎	uan1	145
 怨	uan1	100
 惌	uan1	100
 椽	uan1	100
@@ -26865,7 +26858,7 @@ s	sur7	101
 謂	ui6	106
 躗	ui6	100
 㦣	ui7	100
-位	ui7	186
+位	ui7	187
 媦	ui7	100
 彙	ui7	100
 彚	ui7	100
@@ -26916,7 +26909,7 @@ s	sur7	101
 抎	un2	100
 殞	un2	101
 磒	un2	100
-穩	un2	129
+穩	un2	130
 縕	un2	100
 蘊	un2	103
 蚓	un2	104
@@ -26943,7 +26936,6 @@ s	sur7	101
 焚	un5	102
 畇	un5	100
 秐	un5	100
-穩	un5	100
 筠	un5	100
 篔	un5	100
 紜	un5	103
@@ -26970,7 +26962,7 @@ s	sur7	101
 鄆	un7	100
 韗	un7	100
 韵	un7	100
-韻	un7	116
+韻	un7	117
 餛	un7	100
 餫	un7	100
 氳	ung1	55

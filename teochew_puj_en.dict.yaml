@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_puj_en
-version: "20260627.181410"
+version: "20260705.235134"
 sort: by_weight
 ...
 
@@ -697,7 +697,7 @@ kùiⁿ-sìⁿ	accustom	50
 晾凉 (lā-liâng)	air-to-take	100
 興意 (hèng-ì)	alacrity	100
 猛猛 (méⁿ-méⁿ)	alacrity	100
-驚憧 (kiaⁿ-tông)	alarm	100
+驚動 (kiaⁿ-tõng)	alarm	100
 騙人驚 (phièn-nâng-kiaⁿ)	alarm-false	100
 哀啊 (āi--ā!)	alas	100
 害呀 (hā-iā)	alas-in-danger	100
@@ -2415,7 +2415,7 @@ khâng-khiâ	attend-on-sick-person	50
 同先 (thâng-soiⁿ)	before-just-before-time	100
 抹着垃圾 (bua̍h--tie̍h nah-sap)	befoul	100
 附着垃圾 (hú--tie̍h nah-sap)	befoul	100
-捬着垃圾 (hú--tie̍h nap-sap)	befoul	100
+捬着垃圾 (hú--tie̍h nah-sap)	befoul	100
 衊着垃圾 (mak--tie̍h nah-sap)	befoul	100
 求 (khiû)	beg	100
 懇求 (khṳ́n-khiû)	beg	100
@@ -2543,7 +2543,7 @@ khâng-khiâ	attend-on-sick-person	50
 兜落來 (tau--lo̍h-lâi)	bend-a-branch	100
 趴腰 (phak-ie)	bend-the-back	100
 趴佝 (phak-ku)	bend-the-back	100
-頭殼趴下 (thâu-khek phak-kẽ)	bend-the-body-forward	100
+頭殼趴下 (thâu-khak phak-kẽ)	bend-the-body-forward	100
 拗彎此弓 (á-uan chí keng)	bend-this-bow	100
 下 (ẽ)	beneath	100
 下面 (ẽ-mīn)	beneath	100
@@ -5534,7 +5534,7 @@ koh-lô	coax	50
 要緊 (iàu-kín)	cogent	100
 緊 (kín)	cogent	100
 緊切 (kín-chhiet)	cogent	100
-及 (ki̍p)	cogent	100
+急 (kip)	cogent	100
 迫切 (pek-chhiet)	cogent	100
 深想 (chhim-siẽⁿ)	cogitation	100
 念頭 (liãm-thâu)	cogitation	100
@@ -6327,6 +6327,7 @@ tshuang-tsua̍k	compromise	50
 牽夰 (khan-thùa)	consequences-bad	100
 連累 (liên-lūi)	consequences-bad	100
 波累 (po-lūi)	consequences-bad	100
+因此 (in-tshṳ́)	consequences-consequently	100
 故此 (kù-tshṳ́)	consequences-consequently	100
 算來 (sǹg-lâi)	consequences-consequently	100
 所以 (só-íⁿ)	consequences-consequently	100
@@ -6354,6 +6355,7 @@ tshuang-tsua̍k	compromise	50
 寄託 (kià-thoh)	consign-to-ones-care	100
 言行符合 (ngân-hẽng hû-ha̍h)	consistent-in-character	100
 言行如一 (ngân-hẽng zû-it)	consistent-in-character	100
+言行相對 (ngân-hẽng siang-tùi)	consistent-in-character	100
 撫慰 (bú-uè)	console	100
 勸慰 (khǹg-uè)	console	100
 安慰 (uaⁿ-uè)	console	100
@@ -7476,7 +7478,9 @@ bùn	creep-through-a-gap	50
 蠓帳 (máng-tièⁿ)	curtain-mosquito	100
 蚊帳 (máng tièⁿ)	curtains	100
 彎曲 (uan-khek)	curve	100
+歪過去 (tshúa-kùe-khṳ̀)	curve-to-curve	100
 彎過來 (uan-kùe-lâi)	curve-to-curve	100
+彎來曲去 (uan-lâi khek-khṳ̀)	curve-to-curve	100
 椅墊 (íⁿ-tiẽn)	cushion	100
 褥 (zo̍k)	cushion	100
 皮坐 (phûe tsõ)	cushion	100
@@ -8116,6 +8120,7 @@ in-n̄g	dazzle	50
 降級 (kàng-khip)	degrade-officially	100
 降三級 (kàng-saⁿ-khip)	degrade-three-degrees	100
 降級 (kàng-khip)	degrade-to	100
+去職留任 (khṳ̀-cheh lâu-jīm)	degrade-without-dismissal	100
 品級 (pín-khip)	degree	100
 頂 (téng)	degree	100
 頂級 (téng-khip)	degree	100
@@ -8175,8 +8180,11 @@ in-n̄g	dazzle	50
 教論 (kà-lũn)	deliberate-to	100
 告量 (kàu-niêⁿ)	deliberate-to	100
 議論 (ngí-lũn)	deliberate-to	100
+比來比去 (pí-lâi pí-khṳ̀)	deliberate-to	100
 商量 (siang-liâng)	deliberate-to	100
 商議 (siang-ngí)	deliberate-to	100
+想來想去 (siẽⁿ-lâi siẽⁿ-khṳ̀)	deliberate-to	100
+算來算去 (sǹg-lâi sǹg-khṳ̀)	deliberate-to	100
 出在有意 (tshut-tõ ũ-ì)	deliberately	100
 立意 (li̍p-ì)	deliberately	100
 先思，後行 (soiⁿ sṳ, aũ kiâⁿ)	deliberately	100
@@ -8520,8 +8528,8 @@ in-n̄g	dazzle	50
 發書 (huat-tsṳ)	despatch-despatch-a-letter	100
 寄書 (kià-tsṳ)	despatch-despatch-a-letter	100
 寄信 (kià-sìn)	despatch-despatch-a-letter	100
-行文本書 (kiâⁿ-bún-tsṳ)	despatch-to-send-a-despatch	100
 行文 (kiâⁿ-bûn)	despatch-to-send-a-despatch	100
+行文本書 (kiâⁿ-bûn-tsṳ)	despatch-to-send-a-despatch	100
 切切 (chhiet-chhiet)	despatch-with-all-despatch	100
 猛猛 (méⁿ-méⁿ)	despatch-with-all-despatch	100
 毋顧生死 (m̄-kù seⁿ-sí)	desperado	100
@@ -8714,6 +8722,7 @@ in-n̄g	dazzle	50
 作古 (tsak-kóu)	die-to	100
 氣斷 (khùi tñg)	die-to	100
 過世 (kùe-sì)	die-to	100
+老去 (lãu--khṳ̀)	die-to	100
 死 (sí)	die-to	100
 逝世 (sī-sì)	die-to	100
 戒口 (kài-kháu)	diet-to-as-sick-person	100
@@ -8778,6 +8787,7 @@ in-n̄g	dazzle	50
 播揚 (pùa-iâng)	dilate	100
 脹開 (tièⁿ-khui)	dilate	100
 延纏 (în-tîⁿ)	dilatory	100
+交纏來交纏去 (kau-tîⁿ-lâi kau-tîⁿ-khṳ̀)	dilatory	100
 慢 (mān)	dilatory	100
 躇慢 (thû-mān)	dilatory	100
 惰 (tũaⁿ)	dilatory	100
@@ -8805,6 +8815,7 @@ in-n̄g	dazzle	50
 目花 (ma̍k hue)	dim-dim-sighted	100
 目珠花 (ma̍k-chiu hue)	dim-dim-sighted	100
 隱隱約約 (ṳ́n-ṳ́n iak-iak)	dim-dimly-seen	100
+化去 (hùe--khṳ̀)	dim-grow-dim-as-picture	100
 扣減 (khà-kiám)	diminish	100
 減 (kiám)	diminish	100
 減少 (kiám-chié)	diminish	100
@@ -8947,7 +8958,7 @@ chhi-gî	dirty	50
 洩漏機關 (sia̍p-lāu ki-kuan)	disclose	100
 落色 (lo̍h-sek)	discoloured	100
 色脫 (sek lut)	discoloured	100
-色毋勻 (sek m̄-tsâu)	discoloured	100
+色毋勻 (sek m̄-tsâuu)	discoloured	100
 瀉色 (sià-sek)	discoloured	100
 失色 (sit-sek)	discoloured	100
 退色 (thò-sek)	discoloured	100
@@ -9759,6 +9770,7 @@ hng-la̍h-bó-heh	disorder	50
 抾䰗 (khieh-khau)	draw-lots	100
 拔籤 (poi̍h-chhiam)	draw-lots	100
 抽籤囝 (thiu-chhiam-kiáⁿ)	draw-lots	100
+去銀行挈銀 (khṳ̀-ngṳ̂n-hâng khie̍h-ngṳ̂n)	draw-money-from-bank	100
 對銀 (tùi-ngṳ̂n)	draw-money-from-bank	100
 撬釘 (kiãu-teng)	draw-nails	100
 拔燈 (poi̍h-teng)	draw-nails	100
@@ -11493,7 +11505,7 @@ sià-tsũe	excuse-faults	50
 可惡 (khó-ù)	execrable	100
 做 (tsò)	execute	100
 做成 (tsò-chiâⁿ)	execute	100
-鉗出來 (khîⁿ--tshut-lâi)	execute	100
+行出來 (kiâⁿ--tshut-lâi)	execute	100
 死刑 (sí-hêng)	execute-execution	100
 甲場 (kah-tiêⁿ)	execute-execution-ground	100
 刽子手 (khuài-tsṳ́-chhiú)	execute-executioner	100
@@ -14213,7 +14225,6 @@ koi	fowl-domestic	50
 家伙 (ke-húe)	gear-of-boat-c	100
 十三隻鵝 (tsa̍p saⁿ chiah gô)	Geese	100
 有膠黏 (ũ-ka-liâm)	gelatinous	100
-有單貼 (ũ-tan-tah)	gelatinous	100
 玉 (ge̍k)	gem	100
 寶石 (pó-chie̍h)	gem	100
 寶玉 (pó-ge̍k)	gem	100
@@ -14419,7 +14430,7 @@ koi	fowl-domestic	50
 供 (keng)	give-evidence	100
 口供 (kháu-keng)	give-evidence	100
 好 (hàuⁿ)	give-given-to	100
-胎 (tho)	give-in	100
+退 (thò)	give-in	100
 嫁 (kè)	give-in-marriage	100
 嫁分人 (kè--pun-nâng)	give-in-marriage	100
 付托 (hù-thoh)	give-into-ones-care	100
@@ -15214,7 +15225,7 @@ khong	gong-with-a-boss	50
 削 (siah)	hack-to	100
 斫 (tok)	hack-to	100
 暗頭 (àm--thâu)	hades	100
-陰間 (im--han)	hades	100
+陰間 (im--kan)	hades	100
 陰府 (im-hú)	hades	100
 血流 (hueh lâu)	haemorrhage	100
 流血 (lâu--hueh)	haemorrhage	100
@@ -15497,6 +15508,7 @@ che̍k-uê	half	50
 和睦 (hûa-mo̍k)	harmony	100
 相和 (siang-hûa)	harmony	100
 夫妻和諧 (hu-chhi hûa-hâi)	harmony-connubial	100
+音韻相和 (im-ūn siang-hûa)	harmony-harmonious-sounds	100
 人聲齊齊 (nâng-siaⁿ tsôi-tsôi)	harmony-harmonious-sounds	100
 聲音調和 (siaⁿ-im thiâu-hûa)	harmony-harmonious-sounds	100
 頭盔戰甲 (thâu-khue chièn-kah)	harness-armour	100
@@ -16225,7 +16237,7 @@ che̍k-uê	half	50
 鑽空 (tsǹg-khang)	hole-bore-with-gimlet-c	100
 㧕空 (liú-khang)	hole-dig-a-hole	100
 滄滄 (tshang-tshang)	hole-full-of-holes	100
-穿空 (tshuan-khan)	hole-knock-out	100
+穿空 (tshuan-khang)	hole-knock-out	100
 拍空 (phah-khang)	hole-knock-out	100
 鑿空 (tsha̍k-khang)	hole-to-chisel-a-hole	100
 開空 (khui-khang)	hole-to-make-a-hole	100
@@ -17592,7 +17604,7 @@ tsa̍p-jī sî-sîn	horary-characters-twelve	50
 行刑罰 (kiâⁿ-hêng-hua̍t)	inflict-punishment	100
 氣力 (khì-la̍t)	influence	100
 權 (khuân)	influence	100
-權氣 (khuân-kì)	influence	100
+權氣 (khuân-khì)	influence	100
 權貴 (khuân-kùi)	influence	100
 權勢 (khuân-sì)	influence	100
 勢 (sì)	influence	100
@@ -19523,7 +19535,7 @@ hue-niouⁿ	lie-to-tell-an-untruth	50
 疲困 (phî-khùn)	listless	100
 疲倦 (phî-kuãn)	listless	100
 疲惰 (phî-toãⁿ)	listless	100
-照字面 (chiè-jī-mĩn)	literal	100
+照字面 (chiè-jī-mīn)	literal	100
 有學問 (ũ-ha̍k-mn̄g)	literary	100
 文風 (bûn-hong)	literary-character-of-a-place	100
 文章 (bûn-chieⁿ)	literary-composition	100
@@ -19725,7 +19737,7 @@ hue-niouⁿ	lie-to-tell-an-untruth	50
 晚餐 (mńg-tshan)	lord-Supper	100
 遺失 (zũi-sit)	lose	100
 毋見 (m̄-kìⁿ)	lose	100
-喪掉 (sàng-tiāu)	lose	100
+放掉 (pàng-tiāu)	lose	100
 失 (sit)	lose	100
 失落 (sit-lo̍h)	lose	100
 戰敗 (chièn-pāi)	lose-a-battle	100
@@ -20333,7 +20345,7 @@ ue̍h	mark-make	50
 坔澤 (làm-che̍k)	marsh	100
 坔濕 (làm-sip)	marsh	100
 武貌 (bú-mãuⁿ)	martial-appearance	100
-好漢 (hó-han)	martial-appearance	100
+好漢 (hó-hàn)	martial-appearance	100
 武藝 (bú-gōi)	martial-exercises	100
 為道捨身 (ũi-tãu siá-sin)	martyr	100
 為道致命 (ũi-tãu tì-miāⁿ)	martyr	100
@@ -21015,7 +21027,7 @@ thiâu-hûa	melodious	50
 有毋着處 (ũ-m̄-tie̍h--tshù)	misdemeamour	100
 小過微失 (siáu-kùe mûiⁿ-sit)	misdemeamour-slight	100
 淒慘 (chhi-tshám)	miseable	100
-掌錢奴 (chiéⁿ-chîⁿ-nôu)	miser	100
+掌錢奴 (chiéⁿ-chîⁿ-nôuⁿ)	miser	100
 鹹澀 (kiâm-siap)	miser	100
 慳吝 (kien-liẽn)	miser	100
 吝惜錢銀 (liẽn-sieh chîⁿ-ngṳ̂n)	miser	100
@@ -21624,7 +21636,7 @@ thiâu-hûa	melodious	50
 生浥潗 (seⁿ-ip-chi̍p)	musty	100
 生濕氣 (seⁿ-sip-khì)	musty	100
 會改變 (õi-kói-pièn)	mutable	100
-會改變 (õi-kói-pīⁿ)	mutable	100
+會改變 (õi-kói-pìⁿ)	mutable	100
 袂呾話 (bõi-tàⁿ-uē)	mute-dumb	100
 啞 (é)	mute-dumb	100
 無開喙 (bô-khui-tshùi)	mute-silent	100
@@ -21666,7 +21678,7 @@ thiâu-hûa	melodious	50
 奧妙 (aù-biāu)	mysterious-abstruse	100
 深妙 (chhim-biāu)	mysterious-abstruse	100
 微妙 (mûiⁿ-biāu)	mysterious-abstruse	100
-秘密 (pi-ba̍t)	mysterious-secret	100
+秘密 (pì-ba̍t)	mysterious-secret	100
 駭異難測 (hãi-ĩ lân-chhek)	mysterious-strange-and-inexplicable	100
 隱語 (ṳ́n-gṳ́)	mystical-having-a-hidden-meaning	100
 指甲 (tsńg-kah)	nail	100
@@ -22889,7 +22901,7 @@ thiâu-hûa	melodious	50
 裝 (tsuang)	pack	100
 包 (pau)	pack	100
 拍包 (phah-pau)	pack	100
-收拾摩 (siu-ss̍p4-bûa)	pack	100
+收拾摩 (siu-si̍p-bûa)	pack	100
 裝 (tsng)	pack-in-a-box	100
 裝 (tsuang)	pack-in-a-box	100
 裝落箱 (tsuang-lo̍h-sieⁿ)	pack-in-a-box	100
@@ -23704,6 +23716,7 @@ hò-sióu-iáⁿ	photograph-to-take	50
 挈起 (khie̍h--khí)	pick-up	100
 挈起來 (khie̍h--khí-lâi)	pick-up	100
 擇 (to̍h)	pick-up	100
+浸醋 (chìm-tshòu)	pickle-to	100
 滷鹹 (lõu-kiâm)	pickle-to	100
 沉醋 (thīm-tshòu)	pickle-to	100
 鹹菜 (kiâm-tshài)	pickles	100
@@ -23986,15 +23999,24 @@ thia̍p	pile-to	50
 曬棚 (sài-pêⁿ)	platform	100
 臺 (thâi)	platform	100
 臺閣 (thâi-koh)	platform	100
+戲 (hì)	play	100
 相耍 (sie-sńg)	play	100
 耍 (sńg)	play	100
 佚佗 (thit-thô)	play	100
+做戲 (tsò-hì)	play-act	100
+戲囝 (hì-kiáⁿ)	play-actor	100
+戲腳 (hì-kieh)	play-actor	100
+一出戲 (che̍k-tshut-hì)	play-an-act-of	100
 拍球 (phah-kiû)	play-ball	100
 踢球 (that-kiû)	play-ball	100
 拍紙牌 (phah-tsúa-pâi)	play-cards	100
 矺棋 (teh-kî)	play-chess	100
+請戲 (chhiáⁿ-hì)	play-engage	100
+睇戲 (thóiⁿ-hì)	play-look-at	100
 佚佗日 (thit-thô-ji̍t)	play-play-day	100
 佚佗物 (thit-thô-mue̍h)	play-plaything	100
+戲臺 (hì-thâi)	play-stage-for-permanent	100
+戲棚 (hì-pêⁿ)	play-stage-for-temporary	100
 鋸弦 (kṳ̀-hîⁿ)	play-the-fiddle	100
 吹笛 (tshue-te̍k)	play-the-flute	100
 彈琴 (thân-khîm)	play-the-organ	100
@@ -24010,6 +24032,7 @@ thia̍p	pile-to	50
 爽快 (sóng-khuài)	pleasant	100
 順風 (sũn-huang)	pleasant-passage	100
 順耳 (sũn-hĩⁿ)	pleasant-to-hear	100
+天氣好 (thiⁿ-khì hó)	pleasant-weather	100
 天時好 (thiⁿ-sî hó)	pleasant-weather	100
 請 (chhiáⁿ)	please	100
 請汝收 (chhiáⁿ lṳ́ siu)	please-accept-it	100
@@ -24017,6 +24040,10 @@ thia̍p	pile-to	50
 任汝 (jĩm-lṳ́)	please-as-you-please	100
 隨在汝 (sûi-tsãi-lṳ́)	please-as-you-please	100
 隨便 (sûi-piẽn)	please-as-you-please	100
+待汝主意 (thãi-lṳ́ tsú-ì)	please-as-you-please	100
+倒滯 (tò-thì)	please-difficult-to	100
+如伊个意 (zû i-kâi ì)	please-please-anyone	100
+悅伊个意 (zua̍t i-kâi-ì)	please-please-anyone	100
 請汝佮我呾 (chhiáⁿ lṳ́ kah uá tàⁿ)	please-tell-me	100
 合食 (ha̍h-chia̍h)	please-the-palate	100
 悅口 (zua̍t-kháu)	please-the-palate	100
@@ -24281,6 +24308,7 @@ thia̍p	pile-to	50
 畫像 (uē-sièⁿ)	portrait-to-paint	100
 葡萄牙 (phû-thô-giâ)	portugal	100
 地位 (tī-ūi)	position	100
+位處 (ūi-tshṳ̀)	position	100
 定 (tiāⁿ)	positive	100
 斷 (tuàn)	positive	100
 斷定 (tuàn-tiāⁿ)	positive	100
@@ -24315,7 +24343,7 @@ thia̍p	pile-to	50
 遞文書 (tî-bûn-tsṳ)	post-post-runner	100
 驛站 (ia̍h-tsãm)	post-post-station	100
 驛館 (ia̍h-kuán)	post-post-station	100
-關驛 (kuan-ia̍h)	post-post-station	100
+關驛 (kuán-ia̍h)	post-post-station	100
 酒錢 (chiú-chîⁿ)	postage	100
 後 (aũ)	posterity	100
 後裔 (aũ-ĩ)	posterity	100
@@ -24378,6 +24406,7 @@ thia̍p	pile-to	50
 捶 (tûi)	pound-to	100
 倒 (tò)	pour	100
 灌 (kuàn)	pour-as-down-the-throat	100
+倒落去 (tò--lo̍h-khṳ̀)	pour-in	100
 倒 (tò)	pour-out	100
 倒掉 (tò-tiāu)	pour-out-as-useless	100
 篩茶 (sai-tê)	pour-tea	100
@@ -30525,7 +30554,7 @@ bu̍t	strike-with-a-stick	50
 套跋 (lap-pua̍h)	stumble	100
 摎跋 (lau-pua̍h)	stumble	100
 跋着 (pua̍h--tie̍h)	stumble	100
-踢著 (that--tia̍h)	stumble	100
+踢著 (that--tie̍h)	stumble	100
 踢跋 (that-pua̍h)	stumble	100
 絆着 (kûe--tie̍h)	stumble-as-over-a-rope	100
 pu--tie̍h	stumble-as-over-a-stone	50
@@ -34651,7 +34680,7 @@ tak-nn̄g	waste-to	50
 阮是耶穌教 (ún sĩ iâ-sou-kà)	we-are-Protestant	100
 還了未知 (huân-lióu būe-tsai)	we-dont-know-yet	100
 阮勿 (ún màiⁿ)	we-dont-want	100
-穩 (ûn)	we-excludingthe-person-addressed	100
+穩 (ún)	we-excludingthe-person-addressed	100
 阮知了 (ún tsai--lō)	we-have-known	100
 咱 (nán)	we-including-person-addressed	100
 咱 (nán)	we-including-the-person-addressed	100
@@ -35491,7 +35520,7 @@ phu̍h	weak-in-power-influence	50
 跋掉船 (pua̍h-tiāu-tsûn)	wreck	100
 砧破船 (tiam-phùa-tsûn)	wreck	100
 青啼 (chheⁿ-thî)	wren	100
-鹪鹩 (thiau-liâu)	wren	100
+鹪鹩 (tsiau-liâu)	wren	100
 捘 (tsũn)	wrench	100
 捘歪 (tsũn-tshúa)	wrench	100
 捘掉 (tsũn-tiòu)	wrench	100

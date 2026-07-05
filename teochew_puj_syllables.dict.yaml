@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260627.181410"
+version: "20260705.235134"
 sort: by_weight
 ...
 
@@ -278,6 +278,12 @@ tsàu	chau3	1
 tsâu	chau5	1
 tsãu	chau6	1
 tsāu	chau7	1
+tsauu	chauu1	1
+tsáuu	chauu2	1
+tsàuu	chauu3	1
+tsâuu	chauu5	1
+tsãuu	chauu6	1
+tsāuu	chauu7	1
 che	che1	1
 ché	che2	1
 chè	che3	1
